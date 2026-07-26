@@ -1,728 +1,1081 @@
 [
  {
-  "id": "1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3",
-  "title": "From Vibes to Viability: Fixing Inequality…",
+  "id": "1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb",
+  "title": "Envisioning a Network Society Coalition — CPR Lab Week",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3/view",
-  "preview": "https://drive.google.com/file/d/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3/preview",
-  "media": [
-   {
-    "id": "1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb/view",
+  "preview": "https://drive.google.com/file/d/1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "note": "Title truncated in the source folder listing; the filename also carries a stream-operator artifact — “have to stop and start the stream to rebrand.” We keep the artifact. Pits are honest.",
-  "thumb": "thumbs/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3.jpg"
+  "thumb": "thumbs/1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb.jpg"
  },
  {
-  "id": "1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G",
-  "title": "Zuitzerland Architectural Stack for Startup Cities & Robotic Construction",
+  "id": "11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa",
+  "title": "Workshop: Getting to Know Local Organizations & Building Bridges",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G/view",
-  "preview": "https://drive.google.com/file/d/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G/preview",
-  "media": [
-   {
-    "id": "1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa/view",
+  "preview": "https://drive.google.com/file/d/11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G.jpg"
+  "thumb": "thumbs/11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa.jpg"
  },
  {
-  "id": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
-  "title": "Cypherpunk Sessions",
-  "speakers": [
-   "@Narodism",
-   "@lunar_mining",
-   "@DarkFiSquad",
-   "@anticapture",
-   "@theZeugh"
-  ],
-  "featured": true,
-  "drive": "https://drive.google.com/file/d/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN/view",
-  "preview": "https://drive.google.com/file/d/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN/preview",
-  "media": [
-   {
-    "id": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN.jpg"
- },
- {
-  "id": "1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l",
-  "title": "d/acc Afternoon",
-  "speakers": [
-   "@calarsenc",
-   "@CatalinMitelut",
-   "@BH1991",
-   "@YeshodharaB",
-   "@yxucantseeme",
-   "@ron"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l/view",
-  "preview": "https://drive.google.com/file/d/1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l/preview",
-  "media": [
-   {
-    "id": "1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l.jpg"
- },
- {
-  "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
-  "title": "d/acc Morning",
-  "speakers": [
-   "Vitalik Buterin",
-   "Glen Weyl",
-   "@tkstanczak",
-   "@pujaohlhaver",
-   "@AlesFlidr"
-  ],
-  "featured": true,
-  "drive": "https://drive.google.com/file/d/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y/view",
-  "preview": "https://drive.google.com/file/d/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y/preview",
-  "media": [
-   {
-    "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.jpg"
- },
- {
-  "id": "1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT",
-  "title": "Fireside Chat on Post-Sovereign Resistance…",
-  "speakers": [
-   "Jarrad Hope",
-   "Sterlin Lujan"
-  ],
-  "featured": true,
-  "drive": "https://drive.google.com/file/d/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT/view",
-  "preview": "https://drive.google.com/file/d/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT/preview",
-  "media": [
-   {
-    "id": "1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "note": "Title truncated in the source listing — “on post-sovereign resistance, program…”",
-  "thumb": "thumbs/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT.jpg"
- },
- {
-  "id": "1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo",
-  "title": "Intentional Codes: Digital Art, Law, and the Architecture of Slower Futures",
-  "speakers": [
-   "@anikojay"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo/view",
-  "preview": "https://drive.google.com/file/d/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo/preview",
-  "media": [
-   {
-    "id": "1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo.jpg"
- },
- {
-  "id": "1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2",
-  "title": "Panels: (1) Risks from Neurotech & the Intersection with Cryptography · (2) Investing in d/acc…",
+  "id": "1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n",
+  "title": "DRIVING RANGE TRIP: Hyperdimensional Vector Space Golf — Introduction to a Metaphorically…",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2/view",
-  "preview": "https://drive.google.com/file/d/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2/preview",
-  "media": [
-   {
-    "id": "1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n/view",
+  "preview": "https://drive.google.com/file/d/1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
   "note": "Title truncated in the source folder listing.",
-  "thumb": "thumbs/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2.jpg"
+  "thumb": "thumbs/1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n.jpg"
  },
  {
-  "id": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
-  "title": "How to Run a Country On-Chain",
+  "id": "1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN",
+  "title": "Q&A with the Author: Neomedievalism and Transnational Nobility",
   "speakers": [],
-  "featured": true,
-  "drive": "https://drive.google.com/file/d/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs/view",
-  "preview": "https://drive.google.com/file/d/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs/preview",
-  "media": [
-   {
-    "id": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.jpg"
- },
- {
-  "id": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
-  "title": "An Intro to BCIs, Open Hardware, and the think2earn Model",
-  "speakers": [
-   "@DebateHeroes"
-  ],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ/view",
-  "preview": "https://drive.google.com/file/d/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ/preview",
-  "media": [
-   {
-    "id": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN/view",
+  "preview": "https://drive.google.com/file/d/1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ.jpg"
+  "thumb": "thumbs/1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN.jpg"
  },
  {
-  "id": "1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG",
-  "title": "Balaji Srinivasan Presentation",
-  "speakers": [
-   "Balaji Srinivasan"
-  ],
-  "featured": true,
-  "drive": "https://drive.google.com/file/d/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG/view",
-  "preview": "https://drive.google.com/file/d/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG/preview",
-  "media": [
-   {
-    "id": "1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG.jpg"
- },
- {
-  "id": "1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1",
-  "title": "Building Future Living Infrastructure with DePIN",
-  "speakers": [
-   "@BallandiesMC",
-   "@0xkrisv"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1/view",
-  "preview": "https://drive.google.com/file/d/1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1/preview",
-  "media": [
-   {
-    "id": "1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1.jpg"
- },
- {
-  "id": "1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v",
-  "title": "Cognitive and Digital Sovereignty",
-  "speakers": [
-   "Burns"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v/view",
-  "preview": "https://drive.google.com/file/d/1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v/preview",
-  "media": [
-   {
-    "id": "1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v.jpg"
- },
- {
-  "id": "1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk",
-  "title": "Decentralizing Election Campaign Financing",
-  "speakers": [
-   "Uwe Serdült (@serduelt)"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk/view",
-  "preview": "https://drive.google.com/file/d/1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk/preview",
-  "media": [
-   {
-    "id": "1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk.jpg"
- },
- {
-  "id": "1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt",
-  "title": "DeepGov",
-  "speakers": [
-   "@sejal_rekhan",
-   "@dwddao",
-   "@evalscience"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt/view",
-  "preview": "https://drive.google.com/file/d/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt/preview",
-  "media": [
-   {
-    "id": "1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt.jpg"
- },
- {
-  "id": "1i6gV6Xbm469seOek1vcixEYJt6XKDR08",
-  "title": "Exploring Community Currencies",
+  "id": "15KbpwFQc2suQDveCdIuvArOOhSnFzUfN",
+  "title": "VibeResidency Buildathon Kickoff!",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1i6gV6Xbm469seOek1vcixEYJt6XKDR08/view",
-  "preview": "https://drive.google.com/file/d/1i6gV6Xbm469seOek1vcixEYJt6XKDR08/preview",
-  "media": [
-   {
-    "id": "1i6gV6Xbm469seOek1vcixEYJt6XKDR08",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/15KbpwFQc2suQDveCdIuvArOOhSnFzUfN/view",
+  "preview": "https://drive.google.com/file/d/15KbpwFQc2suQDveCdIuvArOOhSnFzUfN/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1i6gV6Xbm469seOek1vcixEYJt6XKDR08.jpg"
+  "thumb": "thumbs/15KbpwFQc2suQDveCdIuvArOOhSnFzUfN.jpg"
  },
  {
-  "id": "1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE",
-  "title": "Funding Ethereum Forever",
-  "speakers": [
-   "@julianzawist",
-   "@sejal_rekhan",
-   "@dwddao"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE/view",
-  "preview": "https://drive.google.com/file/d/1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE/preview",
-  "media": [
-   {
-    "id": "1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE.jpg"
- },
- {
-  "id": "1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw",
-  "title": "Governance, Money, and New Web3 Experiments",
-  "speakers": [
-   "Juan Sky (@0x7u4n)"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw/view",
-  "preview": "https://drive.google.com/file/d/1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw/preview",
-  "media": [
-   {
-    "id": "1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw.jpg"
- },
- {
-  "id": "18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW",
-  "title": "How to Make the World Great Again",
+  "id": "1DJviTH8BYmFZUayha9CtDEmRM9Yorrcn",
+  "title": "Advanced LLM use for Coding",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW/view",
-  "preview": "https://drive.google.com/file/d/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW/preview",
-  "media": [
-   {
-    "id": "18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW.jpg"
- },
- {
-  "id": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
-  "title": "Intro to Base Scale Math",
-  "speakers": [
-   "@bestape"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ/view",
-  "preview": "https://drive.google.com/file/d/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ/preview",
-  "media": [
-   {
-    "id": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ.jpg"
- },
- {
-  "id": "1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5",
-  "title": "Intro to Swiss Democracy",
-  "speakers": [],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5/view",
-  "preview": "https://drive.google.com/file/d/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5/preview",
-  "media": [
-   {
-    "id": "1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.jpg"
- },
- {
-  "id": "1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6",
-  "title": "Kick Off Permanent Hubs Tracks",
-  "speakers": [],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6/view",
-  "preview": "https://drive.google.com/file/d/1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6/preview",
-  "media": [
-   {
-    "id": "1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1DJviTH8BYmFZUayha9CtDEmRM9Yorrcn/view",
+  "preview": "https://drive.google.com/file/d/1DJviTH8BYmFZUayha9CtDEmRM9Yorrcn/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared"
  },
  {
-  "id": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
-  "title": "Meerkat Workshop with Vlad",
-  "speakers": [
-   "Vlad"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ/view",
-  "preview": "https://drive.google.com/file/d/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ/preview",
-  "media": [
-   {
-    "id": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ.jpg"
- },
- {
-  "id": "13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b",
-  "title": "Opening Day Cognitive Sovereignty",
+  "id": "1431wcuGianhIV-YgBdYZPLh3SHbFKsOp",
+  "title": "All of the Lights: Open Mic & Talent Showcase",
   "speakers": [],
+  "kind": "audio",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b/view",
-  "preview": "https://drive.google.com/file/d/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b/preview",
-  "media": [
-   {
-    "id": "13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1431wcuGianhIV-YgBdYZPLh3SHbFKsOp/view",
+  "preview": "https://drive.google.com/file/d/1431wcuGianhIV-YgBdYZPLh3SHbFKsOp/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b.jpg"
+  "note": "Audio capture; the video version is also in the pit."
  },
  {
-  "id": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
-  "title": "Pectra Jam — Zuitzerland",
+  "id": "1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB",
+  "title": "All of the Lights: Open Mic & Talent Showcase",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd/view",
-  "preview": "https://drive.google.com/file/d/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd/preview",
-  "media": [
-   {
-    "id": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB/view",
+  "preview": "https://drive.google.com/file/d/1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.jpg"
+  "thumb": "thumbs/1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB.jpg"
  },
  {
-  "id": "1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP",
-  "title": "Permanent Hubs Week Synthesis & Discussion",
+  "id": "12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K",
+  "title": "Architectural & Construction Stack for Network Societies — Online vs on land",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP/view",
-  "preview": "https://drive.google.com/file/d/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP/preview",
-  "media": [
-   {
-    "id": "1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K/view",
+  "preview": "https://drive.google.com/file/d/12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP.jpg"
+  "thumb": "thumbs/12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K.jpg"
  },
  {
-  "id": "1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6",
-  "title": "Prove Your Humanity While Staying Anonymous",
-  "speakers": [
-   "@rems000"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6/view",
-  "preview": "https://drive.google.com/file/d/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6/preview",
-  "media": [
-   {
-    "id": "1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6.jpg"
- },
- {
-  "id": "1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ",
-  "title": "Q/acc with How To DAO",
-  "speakers": [
-   "@HowToDAObook"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ/view",
-  "preview": "https://drive.google.com/file/d/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ/preview",
-  "media": [
-   {
-    "id": "1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ.jpg"
- },
- {
-  "id": "1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL",
-  "title": "Security of Synthetic Biology and Cyber-Bio Risks",
-  "speakers": [
-   "Anish Mohammed (@anishmohammed)"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL/view",
-  "preview": "https://drive.google.com/file/d/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL/preview",
-  "media": [
-   {
-    "id": "1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL.jpg"
- },
- {
-  "id": "1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q",
-  "title": "Swiss Voting Systems & Subsidiarity",
+  "id": "1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts",
+  "title": "Argentina Onchain Workshop",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q/view",
-  "preview": "https://drive.google.com/file/d/1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q/preview",
-  "media": [
-   {
-    "id": "1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts/view",
+  "preview": "https://drive.google.com/file/d/1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q.jpg"
+  "thumb": "thumbs/1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts.jpg"
  },
  {
-  "id": "17xgNGz57NaCpSXsT9LIec2KyhwW91yxs",
-  "title": "Syntegration 101",
+  "id": "1qXaqcyGCdODnumAg4jenXmyIq84MmOEG",
+  "title": "Biomarkers of Aging: Leveraging AI for Longevity",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs/view",
-  "preview": "https://drive.google.com/file/d/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs/preview",
-  "media": [
-   {
-    "id": "17xgNGz57NaCpSXsT9LIec2KyhwW91yxs",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1qXaqcyGCdODnumAg4jenXmyIq84MmOEG/view",
+  "preview": "https://drive.google.com/file/d/1qXaqcyGCdODnumAg4jenXmyIq84MmOEG/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs.jpg"
+  "thumb": "thumbs/1qXaqcyGCdODnumAg4jenXmyIq84MmOEG.jpg"
  },
  {
-  "id": "1lR8KCsftoflDykh_SwUwEoP5WF39VfQL",
-  "title": "The Full Potential of Cooperatives: A Model for a New Economy",
+  "id": "1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy",
+  "title": "Biomarkers of Aging: Leveraging AI for Longevity, Part 2",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL/view",
-  "preview": "https://drive.google.com/file/d/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL/preview",
-  "media": [
-   {
-    "id": "1lR8KCsftoflDykh_SwUwEoP5WF39VfQL",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy/view",
+  "preview": "https://drive.google.com/file/d/1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL.jpg"
+  "thumb": "thumbs/1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy.jpg"
  },
  {
-  "id": "18SNr9xALLEDFZEJLlywOP8CNYtfelKdx",
-  "title": "The Hanseatic League: The Rise and Fall of a Medieval Network State",
-  "speakers": [
-   "Wlodek Gogloza (@WGogloza)"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/18SNr9xALLEDFZEJLlywOP8CNYtfelKdx/view",
-  "preview": "https://drive.google.com/file/d/18SNr9xALLEDFZEJLlywOP8CNYtfelKdx/preview",
-  "media": [
-   {
-    "id": "18SNr9xALLEDFZEJLlywOP8CNYtfelKdx",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/18SNr9xALLEDFZEJLlywOP8CNYtfelKdx.jpg"
- },
- {
-  "id": "1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd",
-  "title": "The Importance of Real Digital Cash",
-  "speakers": [
-   "@rohangrey",
-   "@vavesalon"
-  ],
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd/view",
-  "preview": "https://drive.google.com/file/d/1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd/preview",
-  "media": [
-   {
-    "id": "1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd.jpg"
- },
- {
-  "id": "14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU",
-  "title": "Zuitzerland Buildathon Submissions",
+  "id": "130jay63sNB14RSdxHR8yB-uSwBgBFUOD",
+  "title": "Biomechanics x Art — Talk — Brainstorm! — B ROLL",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU/view",
-  "preview": "https://drive.google.com/file/d/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU/preview",
-  "media": [
-   {
-    "id": "14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/130jay63sNB14RSdxHR8yB-uSwBgBFUOD/view",
+  "preview": "https://drive.google.com/file/d/130jay63sNB14RSdxHR8yB-uSwBgBFUOD/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.jpg"
+  "broll": true
  },
  {
-  "id": "15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn",
-  "title": "Zuitzerland Opening Ceremony",
+  "id": "1wxrL51hVFYrB0HMV1Yw-04og_9zf3ajV",
+  "title": "Biomechanics x Art — Talk — Brainstorm!",
   "speakers": [],
-  "featured": true,
-  "drive": "https://drive.google.com/file/d/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn/view",
-  "preview": "https://drive.google.com/file/d/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn/preview",
-  "media": [
-   {
-    "id": "15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn",
-    "kind": "video"
-   }
-  ],
-  "transcript": null,
-  "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn.jpg"
- },
- {
-  "id": "1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4",
-  "title": "Zuitzerland Permanent Hub Visioning",
-  "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4/view",
-  "preview": "https://drive.google.com/file/d/1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4/preview",
-  "media": [
-   {
-    "id": "1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1wxrL51hVFYrB0HMV1Yw-04og_9zf3ajV/view",
+  "preview": "https://drive.google.com/file/d/1wxrL51hVFYrB0HMV1Yw-04og_9zf3ajV/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared"
  },
  {
-  "id": "1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH",
-  "title": "Zuitzerland Systems Mapping Workshop",
+  "id": "1qTvqqyptan2txBMCdJJq-JZ4BguYODBg",
+  "title": "Citizenship Protocol kickoff",
   "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH/view",
-  "preview": "https://drive.google.com/file/d/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH/preview",
-  "media": [
-   {
-    "id": "1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1qTvqqyptan2txBMCdJJq-JZ4BguYODBg/view",
+  "preview": "https://drive.google.com/file/d/1qTvqqyptan2txBMCdJJq-JZ4BguYODBg/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH.jpg"
+  "thumb": "thumbs/1qTvqqyptan2txBMCdJJq-JZ4BguYODBg.jpg"
  },
  {
-  "id": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
-  "title": "Zuitzers Attest to the Solarpunk Mensarius Oath v0",
-  "speakers": [
-   "@bestape"
-  ],
+  "id": "1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2",
+  "title": "Consciousness Residency Demo Day",
+  "speakers": [],
+  "kind": "video",
   "featured": false,
-  "drive": "https://drive.google.com/file/d/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH/view",
-  "preview": "https://drive.google.com/file/d/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH/preview",
-  "media": [
-   {
-    "id": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
-    "kind": "video"
-   }
-  ],
+  "drive": "https://drive.google.com/file/d/1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2/view",
+  "preview": "https://drive.google.com/file/d/1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2/preview",
   "transcript": null,
   "stage": "CRAWL ✓ · HARVEST declared",
-  "thumb": "thumbs/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH.jpg"
+  "thumb": "thumbs/1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2.jpg"
+ },
+ {
+  "id": "1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir",
+  "title": "Cosmolocalism",
+  "speakers": [
+   "Michel Bauwens"
+  ],
+  "kind": "video",
+  "featured": true,
+  "drive": "https://drive.google.com/file/d/1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir/view",
+  "preview": "https://drive.google.com/file/d/1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir.jpg"
+ },
+ {
+  "id": "1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi",
+  "title": "Creativity Incubator — Intro to Agartha — ️",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi/view",
+  "preview": "https://drive.google.com/file/d/1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi.jpg"
+ },
+ {
+  "id": "11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI",
+  "title": "Cryptography for Safe Biometrics with Human Keys",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI/view",
+  "preview": "https://drive.google.com/file/d/11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn",
+  "title": "Cyberia kickoff — cyber valley story",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn/view",
+  "preview": "https://drive.google.com/file/d/1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn.jpg"
+ },
+ {
+  "id": "1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc",
+  "title": "Cyberia — Biome Engineering - one system that feeds itself — and you",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc/view",
+  "preview": "https://drive.google.com/file/d/1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc.jpg"
+ },
+ {
+  "id": "1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2",
+  "title": "Cyberia — Soil — Heat and Carbon",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2/view",
+  "preview": "https://drive.google.com/file/d/1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2.jpg"
+ },
+ {
+  "id": "1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f",
+  "title": "Cyberia — Sustainable Energy and Water System",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f/view",
+  "preview": "https://drive.google.com/file/d/1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f.jpg"
+ },
+ {
+  "id": "1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p",
+  "title": "Cyberia — Token Engineering and Governance",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p/view",
+  "preview": "https://drive.google.com/file/d/1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT",
+  "title": "Cypherpunk Utopia — Demo Day & Epic Project Unveils!",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT/view",
+  "preview": "https://drive.google.com/file/d/1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq",
+  "title": "d/acc Residency Week 4 Demo Day",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq/view",
+  "preview": "https://drive.google.com/file/d/1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq.jpg"
+ },
+ {
+  "id": "1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu",
+  "title": "d/acc Weekly Lightning Talks Week 3",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu/view",
+  "preview": "https://drive.google.com/file/d/1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu.jpg"
+ },
+ {
+  "id": "1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc",
+  "title": "d/acc Weekly Lightning Talks week 1",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc/view",
+  "preview": "https://drive.google.com/file/d/1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc.jpg"
+ },
+ {
+  "id": "1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3",
+  "title": "d/acc Weekly Lightning Talks week 2",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3/view",
+  "preview": "https://drive.google.com/file/d/1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3.jpg"
+ },
+ {
+  "id": "18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi",
+  "title": "Daniel Ingram on Meditation and Everything Else",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi/view",
+  "preview": "https://drive.google.com/file/d/18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi.jpg"
+ },
+ {
+  "id": "1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg",
+  "title": "Demo Day Week 3 in Patagonia",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg/view",
+  "preview": "https://drive.google.com/file/d/1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg.jpg"
+ },
+ {
+  "id": "1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM",
+  "title": "Digital School — K-12 Education with AI as a tutor",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM/view",
+  "preview": "https://drive.google.com/file/d/1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i",
+  "title": "EDGE CITY Patagonia week 2 orientation and town hall",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i/view",
+  "preview": "https://drive.google.com/file/d/1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i.jpg"
+ },
+ {
+  "id": "12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a",
+  "title": "Edge Song",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a/view",
+  "preview": "https://drive.google.com/file/d/12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a.jpg"
+ },
+ {
+  "id": "15FJmBPgOStRbkPupL08c907Ou6_fiHM3",
+  "title": "eDMT — Funding a Scientific Research Commons in web3",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/15FJmBPgOStRbkPupL08c907Ou6_fiHM3/view",
+  "preview": "https://drive.google.com/file/d/15FJmBPgOStRbkPupL08c907Ou6_fiHM3/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/15FJmBPgOStRbkPupL08c907Ou6_fiHM3.jpg"
+ },
+ {
+  "id": "1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT",
+  "title": "Final Demo Day in Patagonia 2025",
+  "speakers": [],
+  "kind": "video",
+  "featured": true,
+  "drive": "https://drive.google.com/file/d/1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT/view",
+  "preview": "https://drive.google.com/file/d/1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT.jpg"
+ },
+ {
+  "id": "1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6",
+  "title": "Frontier Tower - building the inter-city network society",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6/view",
+  "preview": "https://drive.google.com/file/d/1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6.jpg"
+ },
+ {
+  "id": "13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H",
+  "title": "Funding Woo Woo Ventrures",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H/view",
+  "preview": "https://drive.google.com/file/d/13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H.jpg"
+ },
+ {
+  "id": "1Ba0WS3696OnW-itsspfe7G3hMZCJfRII",
+  "title": "Get on base app — create, earn and trade all in one place",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Ba0WS3696OnW-itsspfe7G3hMZCJfRII/view",
+  "preview": "https://drive.google.com/file/d/1Ba0WS3696OnW-itsspfe7G3hMZCJfRII/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1Ba0WS3696OnW-itsspfe7G3hMZCJfRII.jpg"
+ },
+ {
+  "id": "1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_",
+  "title": "How I Became a Blockchain Monk",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_/view",
+  "preview": "https://drive.google.com/file/d/1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_.jpg"
+ },
+ {
+  "id": "10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2",
+  "title": "How to build an AI CRM — sales agent",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2/view",
+  "preview": "https://drive.google.com/file/d/10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2.jpg"
+ },
+ {
+  "id": "1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4",
+  "title": "How to join as a Guest on Stream Yard",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4/view",
+  "preview": "https://drive.google.com/file/d/1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4.jpg"
+ },
+ {
+  "id": "1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f",
+  "title": "How to Talk to Alien Brains — Uncensored LLM Base Models",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f/view",
+  "preview": "https://drive.google.com/file/d/1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f.jpg"
+ },
+ {
+  "id": "16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K",
+  "title": "Human Potential Meets Cypherpunk",
+  "speakers": [
+   "Logos Network"
+  ],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K/view",
+  "preview": "https://drive.google.com/file/d/16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K.jpg"
+ },
+ {
+  "id": "1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB",
+  "title": "Hyperdimensional Vector Space Golf",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB/view",
+  "preview": "https://drive.google.com/file/d/1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB.jpg"
+ },
+ {
+  "id": "1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt",
+  "title": "Intro to Edge City Patagonia & Opening Day Lightning Talks",
+  "speakers": [],
+  "kind": "video",
+  "featured": true,
+  "drive": "https://drive.google.com/file/d/1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt/view",
+  "preview": "https://drive.google.com/file/d/1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt.jpg"
+ },
+ {
+  "id": "1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn",
+  "title": "Intro to Mental Fitness - 01 - Presence",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn/view",
+  "preview": "https://drive.google.com/file/d/1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn.jpg"
+ },
+ {
+  "id": "168i8oXox_0BZ9Am2LLP6KK_0UDjvENen",
+  "title": "Intro to Mental Fitness - 02 - the Survival brain",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/168i8oXox_0BZ9Am2LLP6KK_0UDjvENen/view",
+  "preview": "https://drive.google.com/file/d/168i8oXox_0BZ9Am2LLP6KK_0UDjvENen/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1Ng954q77klIBXWlMW14M93rhPEDxl8e9",
+  "title": "Intro to Mental Fitness - 03 - the Creative mind",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Ng954q77klIBXWlMW14M93rhPEDxl8e9/view",
+  "preview": "https://drive.google.com/file/d/1Ng954q77klIBXWlMW14M93rhPEDxl8e9/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1Ng954q77klIBXWlMW14M93rhPEDxl8e9.jpg"
+ },
+ {
+  "id": "1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf",
+  "title": "Intro to Vibe Coding",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf/view",
+  "preview": "https://drive.google.com/file/d/1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf.jpg"
+ },
+ {
+  "id": "1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io",
+  "title": "Juan Reflections",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io/view",
+  "preview": "https://drive.google.com/file/d/1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io.jpg"
+ },
+ {
+  "id": "1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N",
+  "title": "Kene auction",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N/view",
+  "preview": "https://drive.google.com/file/d/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N.jpg"
+ },
+ {
+  "id": "1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE",
+  "title": "Keynote Fireside Chat",
+  "speakers": [
+   "Norman Ohler (@normanohler)",
+   "@timourxyz"
+  ],
+  "kind": "video",
+  "featured": true,
+  "drive": "https://drive.google.com/file/d/1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE/view",
+  "preview": "https://drive.google.com/file/d/1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE.jpg"
+ },
+ {
+  "id": "1kn4I3lTk17ojzGArTbX-_mz9HwnY7Bk3",
+  "title": "Keynote: Politics of Argentina's Onchain Transition",
+  "speakers": [],
+  "kind": "video",
+  "featured": true,
+  "drive": "https://drive.google.com/file/d/1kn4I3lTk17ojzGArTbX-_mz9HwnY7Bk3/view",
+  "preview": "https://drive.google.com/file/d/1kn4I3lTk17ojzGArTbX-_mz9HwnY7Bk3/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1mOl6hCO5whyUaYeW9vsBteeFxSBPwmLG",
+  "title": "Last Town Hall & Demo Day",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1mOl6hCO5whyUaYeW9vsBteeFxSBPwmLG/view",
+  "preview": "https://drive.google.com/file/d/1mOl6hCO5whyUaYeW9vsBteeFxSBPwmLG/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "broll": true
+ },
+ {
+  "id": "1NWpegTye1-XqlBv3IVqVBwlbioTgelUt",
+  "title": "Learn Spiral Dynamics in 90 Minutes",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1NWpegTye1-XqlBv3IVqVBwlbioTgelUt/view",
+  "preview": "https://drive.google.com/file/d/1NWpegTye1-XqlBv3IVqVBwlbioTgelUt/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy",
+  "title": "Lisk SEMIFINAL Pitch Day - Emerging markets — building on Ethereum",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy/view",
+  "preview": "https://drive.google.com/file/d/1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy.jpg"
+ },
+ {
+  "id": "1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm",
+  "title": "Lisk SEMIFINAL Pitch Day Winners - Emerging markets — building on Ethereum",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm/view",
+  "preview": "https://drive.google.com/file/d/1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm.jpg"
+ },
+ {
+  "id": "1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81",
+  "title": "Make Art, Touch Grass, & Earn Bitcoin — Part 1",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81/view",
+  "preview": "https://drive.google.com/file/d/1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81.jpg"
+ },
+ {
+  "id": "159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ",
+  "title": "Making Edge City Art",
+  "speakers": [
+   "@syntonikka"
+  ],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ/view",
+  "preview": "https://drive.google.com/file/d/159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ.jpg"
+ },
+ {
+  "id": "1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS",
+  "title": "Meditation Artifacts Demo Day",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS/view",
+  "preview": "https://drive.google.com/file/d/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS.jpg"
+ },
+ {
+  "id": "1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg",
+  "title": "Mermaids & Sculptors — an Advanced Vibe Engineering Session",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg/view",
+  "preview": "https://drive.google.com/file/d/1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg.jpg"
+ },
+ {
+  "id": "134apJNbAl2u7liggMtppF3DtNSLh0tH8",
+  "title": "Metamodernism at the Edge",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/134apJNbAl2u7liggMtppF3DtNSLh0tH8/view",
+  "preview": "https://drive.google.com/file/d/134apJNbAl2u7liggMtppF3DtNSLh0tH8/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/134apJNbAl2u7liggMtppF3DtNSLh0tH8.jpg"
+ },
+ {
+  "id": "1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6",
+  "title": "Open-Source Orchestra Jam week 3",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6/view",
+  "preview": "https://drive.google.com/file/d/1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6.jpg"
+ },
+ {
+  "id": "16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-",
+  "title": "OSO Jam 1 at Edge City Patagonia",
+  "speakers": [
+   "Open Source Orchestra"
+  ],
+  "kind": "video",
+  "featured": true,
+  "drive": "https://drive.google.com/file/d/16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-/view",
+  "preview": "https://drive.google.com/file/d/16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "note": "The ancestor tradition, live in the Andes — the OSO vibe that named the first P.I.T. 🎻",
+  "thumb": "thumbs/16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-.jpg"
+ },
+ {
+  "id": "1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo",
+  "title": "Planetary Intelligence — The Missing Layer Between AI — Blockchain — and Nature",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo/view",
+  "preview": "https://drive.google.com/file/d/1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo.jpg"
+ },
+ {
+  "id": "195IkTXcZ25Md2pQs4BprGtYT5itYDGsO",
+  "title": "Psychedelic Kundalini",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO/view",
+  "preview": "https://drive.google.com/file/d/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO.jpg"
+ },
+ {
+  "id": "1537NNXMNnXkIo-lyRCyFx8_H0x62cGl6",
+  "title": "Psychedelic Week Kickoff — The Kené Experience",
+  "speakers": [],
+  "kind": "audio",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1537NNXMNnXkIo-lyRCyFx8_H0x62cGl6/view",
+  "preview": "https://drive.google.com/file/d/1537NNXMNnXkIo-lyRCyFx8_H0x62cGl6/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "note": "Audio-only capture; the video version is also in the pit."
+ },
+ {
+  "id": "1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5",
+  "title": "Psychedelic Week Kickoff - The Kené Experience",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5/view",
+  "preview": "https://drive.google.com/file/d/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5.jpg"
+ },
+ {
+  "id": "1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk",
+  "title": "Psychedelics in Architectural Design",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk/view",
+  "preview": "https://drive.google.com/file/d/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk.jpg"
+ },
+ {
+  "id": "14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4",
+  "title": "Quantum Tech Beyond the Hype",
+  "speakers": [
+   "@MatiasBilkis"
+  ],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4/view",
+  "preview": "https://drive.google.com/file/d/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4.jpg"
+ },
+ {
+  "id": "1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg",
+  "title": "Reach FLOW state through Hypnosis",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg/view",
+  "preview": "https://drive.google.com/file/d/1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "broll": true,
+  "thumb": "thumbs/1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg.jpg"
+ },
+ {
+  "id": "16FiTuuSt6xF_JD64l-vvxpKDfZ8Cbt_v",
+  "title": "Reach FLOW state through Hypnosis",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/16FiTuuSt6xF_JD64l-vvxpKDfZ8Cbt_v/view",
+  "preview": "https://drive.google.com/file/d/16FiTuuSt6xF_JD64l-vvxpKDfZ8Cbt_v/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1mm3efPz61yp39yuugVCNtgJe_jQGyg0x",
+  "title": "Reversible Transactions — Smart Transactions",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1mm3efPz61yp39yuugVCNtgJe_jQGyg0x/view",
+  "preview": "https://drive.google.com/file/d/1mm3efPz61yp39yuugVCNtgJe_jQGyg0x/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1mm3efPz61yp39yuugVCNtgJe_jQGyg0x.jpg"
+ },
+ {
+  "id": "1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P",
+  "title": "Saturday Decompression Improvisations and Written Songs",
+  "speakers": [
+   "Ethereum Inspiration"
+  ],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P/view",
+  "preview": "https://drive.google.com/file/d/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P.jpg"
+ },
+ {
+  "id": "1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef",
+  "title": "Sound as a Vehicle for Altered States",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef/view",
+  "preview": "https://drive.google.com/file/d/1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef.jpg"
+ },
+ {
+  "id": "1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah",
+  "title": "Sunday Community Demo Day week 2",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah/view",
+  "preview": "https://drive.google.com/file/d/1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah.jpg"
+ },
+ {
+  "id": "1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc",
+  "title": "Sunday Improvisations",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc/view",
+  "preview": "https://drive.google.com/file/d/1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc.jpg"
+ },
+ {
+  "id": "1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG",
+  "title": "Telepathy",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG/view",
+  "preview": "https://drive.google.com/file/d/1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG.jpg"
+ },
+ {
+  "id": "10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK",
+  "title": "The Future of Marketing Is Offline — Finding Meaning in the Age of AI",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK/view",
+  "preview": "https://drive.google.com/file/d/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK.jpg"
+ },
+ {
+  "id": "1tDfDVPLp8Qz98Tu2LXw38pLghtjHWjZO",
+  "title": "The latent revolution: hype, risk and the quest for organicity",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1tDfDVPLp8Qz98Tu2LXw38pLghtjHWjZO/view",
+  "preview": "https://drive.google.com/file/d/1tDfDVPLp8Qz98Tu2LXw38pLghtjHWjZO/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared"
+ },
+ {
+  "id": "1SM20FUJv_61A0mGLyoECllGvlq_eCc9A",
+  "title": "The Road to Devconnect: Fireside Chat",
+  "speakers": [
+   "@nethan_eth (Devconnect Lead)"
+  ],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A/view",
+  "preview": "https://drive.google.com/file/d/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A.jpg"
+ },
+ {
+  "id": "1mmg0aLHBBEzRdblOzLEuipihV3XASzku",
+  "title": "The Security of The Brain & The Brain as Security",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1mmg0aLHBBEzRdblOzLEuipihV3XASzku/view",
+  "preview": "https://drive.google.com/file/d/1mmg0aLHBBEzRdblOzLEuipihV3XASzku/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1mmg0aLHBBEzRdblOzLEuipihV3XASzku.jpg"
+ },
+ {
+  "id": "1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe",
+  "title": "The Story of Bostrom",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe/view",
+  "preview": "https://drive.google.com/file/d/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe.jpg"
+ },
+ {
+  "id": "1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF",
+  "title": "The Technology of Self",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF/view",
+  "preview": "https://drive.google.com/file/d/1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF.jpg"
+ },
+ {
+  "id": "1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o",
+  "title": "Week 3 Edge City Patagonia (orientation, town hall, and demos)",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o/view",
+  "preview": "https://drive.google.com/file/d/1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o.jpg"
+ },
+ {
+  "id": "11mk7GUvuUfZEBYcVOTpba1vKmenYPnio",
+  "title": "Week 4 Demo Day",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11mk7GUvuUfZEBYcVOTpba1vKmenYPnio/view",
+  "preview": "https://drive.google.com/file/d/11mk7GUvuUfZEBYcVOTpba1vKmenYPnio/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/11mk7GUvuUfZEBYcVOTpba1vKmenYPnio.jpg"
+ },
+ {
+  "id": "1YD3iiPtLmNCfKjTxefijWp62xzGbkpay",
+  "title": "Week 4 Orientation, Town Hall, and demo day",
+  "speakers": [],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1YD3iiPtLmNCfKjTxefijWp62xzGbkpay/view",
+  "preview": "https://drive.google.com/file/d/1YD3iiPtLmNCfKjTxefijWp62xzGbkpay/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "broll": true
+ },
+ {
+  "id": "1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4",
+  "title": "Workshop: How to Use AI to Write Production Code",
+  "speakers": [
+   "@BKelleher123"
+  ],
+  "kind": "video",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4/view",
+  "preview": "https://drive.google.com/file/d/1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4/preview",
+  "transcript": null,
+  "stage": "CRAWL ✓ · HARVEST declared",
+  "thumb": "thumbs/1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4.jpg"
  }
 ]
