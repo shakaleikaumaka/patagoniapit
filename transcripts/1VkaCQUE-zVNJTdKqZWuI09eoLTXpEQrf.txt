@@ -1,0 +1,317 @@
+# Intro to Vibe Coding
+
+Date: 
+Source video: Intro to Vibe Coding
+Drive: https://drive.google.com/file/d/1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf/view
+Duration: 01:07:09
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Thanks everyone for coming. We're gonna be getting this vibe coding session started. And okay. So anyway, I'm so my name is Jack. And I'm Mariela. And, yeah, we're we're running the vibe code residency. And, basically, the idea is, like, throughout the month, we're gonna be gathering a bunch of people. And I think we live, like, in a very special time where we can kind of create ideas, like, make our ideas real.
+
+[00:23] Like, whether that's, a game or an app, I think it's like this AI thing is exploding. And I guess, like, throughout the past, like, year, I've been vibe coding with all these different tools and stuff, and I think we have a lot of, really exciting stuff in store for the month. And, yeah, today, like, I'd encourage everyone to kind of pull out your laptop and, like, you can build as as we kinda build together. And, yeah, I'll just be sharing some of the things we're doing throughout the month. And, yeah, I'm just excited everyone's here together. So,
+
+[00:53] if you wanna share anything else, feel free. Yeah. I just wanted to share a little bit about what we'd we'll we'll be doing in the VibeCode residency. Really, our focus this month is around, building at the speed of intuition. So we're gonna be prototyping some builds via somatic intelligence. So we're collaborating with a lot of different modalities.
+
+[01:18] The first one will be public this week on Thursday at noon with the meditation artifacts. So we will be be led through an outdoor meditation, and then we'll be moving into almost like a live journaling, but instead you'll be live building. And the goal will be to get out of your mind and stay in your body. So we'll be using Whisper Flow, and Lovable to live build, And it'll be, I think, a really unique experience that I'm super excited about. We have a really lovely backyard,
+
+[01:46] and so we're excited to welcome people. And we'll be doing similar things throughout the month. We're connected with the local kids at, Bikkotessa. So we've already talked to someone about doing some primal movement with kids and then move into vibe coding. So really, like, experimentation, and I think that the wonderful and beautiful thing about vibe coding is that, like, everyone's a builder, and we're really, like, leaning into that ethos. I'm a nontechnical person. Jack is technical.
+
+[02:14] And so together, we're gonna be collaborating and creating a really cool experience for y'all. Yeah. I'm super excited. And yeah. I think yeah. The today is very, like it's gonna be free flowing. I've got I shared in the in the Telegram chat and the vibe code channel. I shared this Notion page, which will be
+
+[02:37] we're eventually gonna transition some of this data and, like, some of this onto the website. But for now, it's kinda gonna be just a place where I can share, like, all the projects that we're working on and we would, like, wanna create a community portfolio of, like, everyone's projects throughout the month. I'm gonna move this up a little bit. But, yeah, I I think, like, Mariela mentioned, like, everyone's a builder, I think that's
+
+[03:03] yeah. One of the really exciting things about vibe coding is, like, it's inherently a tool that, like, kids can use. Like, we were building a lot of different games, and we're excited to build, like, an open source arcade throughout the month where, like, all these, like, kids and adults can all just kinda build these really inspiring and interesting, different games. And, yeah. Like, one of the I figured I'd just, like, start with a little demo before we, like, get into building. So, like, I just shared this in the
+
+[03:33] in the in the group chat. But yeah. Like, I was just hanging out with Thomas and Brennan the other night, and I was basically, we decided we could build a vibe check. So, like, if you're at if you're at the vibe house or just in general, you can, you can basically talk to this AI bot. And let me get the right thing here. So this is just like a fun example of, like, a silly little app that you can build that, I think leaning into
+
+[04:00] like, we'll be building a bunch of things that are, like, genuinely useful throughout the month and, like like, organizing all these different like, all the different information and, like, building Telegram bots and stuff. But this one right here, we can get a quick vibe check. There's lot of good stuff here. So you can open the camera. I'll just do a quick like we'll see if the vibe is good. Let me see this little dog will analyze our vibe.
+
+[04:29] So I'll take it. So Timur was joking that it's, like, rigged for me because, like, I got, a 100 score earlier. Yeah, this is, just an example of, like, a fun thing, and I'd encourage everyone throughout the month to just, like, build things that just call to you and, like, that you find inspiring. And let's just say, vibes are good. So yeah. And there's like a leaderboard of like a bunch there's like Colton was was definitely one of the top fibers from today. And
+
+[05:01] there's a there's a bunch of these different ones. But like this, I think there's a lot of good stuff here. But, yeah, I think yeah. Like, for today, I think I figured it'd be good to start with, like, Lovable because it's, a really accessible tool that everyone can use. And so everyone that does have a laptop, I'd, like, encourage
+
+[05:25] we could, like, build together. And and, yeah, I think, like, one of the exciting things that we built in the past was a community portfolio for Edge Esmeralda. And so, like, with this, we kinda had, like, all these different projects, and I find it like, there's there's so many amazing projects across Edge City and, like, getting them all in one place and making sure
+
+[05:47] that, like, if people are thinking about similar things that we can have, like, one place to kind of get all the make sure, like, no one's trying to build the exact same thing at the exact same time and they can work together and stuff. So I figured we like, this is one option for something we could do today is, like, build a community portfolio. And within this, like, this was like an earlier version of, the Edge City Arcade, which is
+
+[06:13] like, there's a bunch of, like, kids were building these games, which were, like you can kind of see here. This was, at the last edge city, and so, like, there's all these different games. I won't go into any of these right now. But, yeah, the cool thing is, like, we can we also have, like, Oculus headsets. Like, we can build VR games, and we're launching not to spoil too much, but we're launching a Vibecoin,
+
+[06:38] which will be something that will, like it's basically, like, an open source arcade. So, like, if you think of Mario, it's like Mario is amazing because we all love it, but you can't really like build a new version of Mario with the same characters. But like if we have NFTs for these characters and if we have like a currency that's kind of like a decentralized open source arcade, I think it's like that plus vibe coding is like a really exciting thing.
+
+[07:04] So, yeah, this is I wanna show that. So, like, if we go to the vive arcade, this is something that we'll just be iterating on throughout the month. And so, yeah, the idea with vive coding is you can literally build whatever you want. So, like, a lot of people will be building, like, personal websites. We're gonna be I guess Mario mentioned, we'll do, like, the
+
+[07:28] like, building from the body, like, after a meditation. And yeah. I guess, yeah, there's like there's a bunch of different stuff we can do. But, yeah, I figured for today, I kind of mapped out some ideas for what we can go into. And so I guess like to start, if anyone's like not familiar with vibe coding, like I want to make this friendly for people that are definitely familiar with vibe coding but also not familiar with vibe coding. So like the way I think about it is
+
+[08:01] five coding is essentially just like before you had to program to a computer and you had to learn the language of the computer. And now what's exciting is they are starting to speak English and we can gradually build more and more stuff and like kind of bring our ideas to life with iPodding. So it's basically just chatting to an AI bot and then having it build apps and websites and games in many cases.
+
+[08:26] So, yeah, I think, like, I'm just kind going through all these different things. And in terms of, like, the vision for the month, we kind of shared a bit about it. We wanna do, a VR lab. I think that'd be really cool. Like, Brennan's got a Oculus, and we got the kids over at BikkoTesma also have Oculuses. So we'll, like, be building VR games and stuff throughout the month. And,
+
+[08:50] yeah, I think yeah. There's a lot of different things for today, and I figured I'd just kind of, like, do a broad overview before we do, like our daily coworking sessions at the Vibe House. And I'm also a big fan of like building outside and like getting in the sunlight. So like outdoor vibe coding will definitely be a thing throughout the month. And
+
+[09:14] yeah, I think I guess that kinda covers it for for for this. I don't know if, Mariela, you wanna add anything extra, but before we dive into building. Yes. So sometimes in these rooms, it's like a lot of just, like, looking at a screen. And I would love if everyone just, like, turn to their neighbor and maybe talk about maybe one or two things that they've always thought about maybe building. But, like, in this moment and in this time, you can now maybe do it. Because I think that there will be, like, a lot of synergies. And so we'll just take, like, five minutes to do that. Yeah. That sounds perfect. Yep.
+
+[09:52] And I'm not used to, like, giving like, I like collaborative workshops, so I'll come back in a few minutes and yeah. Speak your dreams. Speak your dreams. I heard a lot of really guys, real quick. Yeah. So I heard a lot of really interesting ideas, and I'd love to hear if anyone wants to share because, like, I don't wanna be up here with my own ideas just purely building. I wanna kinda incorporate everyone. So
+
+[10:17] if anyone wants to share, like, raise your hand, you had a really good idea. But yeah. If you wanna share. I feel like yeah. Sure. I I feel like yeah. You could just I think that's the best way. So yeah. Hello. Yeah. Hi, everyone. I'm a piano player, and for years, I've had an idea
+
+[10:42] of building an RPG that teaches you how to play piano. So you would connect your keyboard into a computer, and it'd be like a two d who played Pokemon when you were younger? Yes. Yeah. So, yeah, imagine, like you know how, like, in Pokemon, you you you your character walks across the line of sight of an NPC, and then it's like, let's battle. They'd be like that, but instead of that, it's it's a jam. So, like, you run across a saxophone player, and it's like, let's jam. And you collect, like, a
+
+[11:11] a bag of licks and stuff like that. Anyway, so this is yeah. So it's a it's a full it's a full length RPG. Yes. And by the end, you learn maybe 12 songs or something like that. I love it. Yeah. That's so fun. Does anyone else have an idea that we could explore more that they wanna share? I'm working on a I'm working
+
+[11:36] on a fancy crypto trading platform. Nice. So think fantasy football except for perps trading where you you can go head to head versus another trader or you have a league that runs for maybe a hundred and twenty days or something like that. And you accumulate points. Everyone, like, will put up 1 ETH for a winner. Yeah. And all the fees that are collected on the platform will go to support decentralized science. That's awesome.
+
+[12:02] Yeah. I'm excited to see how we could build that throughout the month. I think I was joking, like, with my friends that maybe next year, like, we'd build our own fantasy app, like, cause it's just getting so much easier. So I think yeah. This would be awesome. Like, love it. Does anyone have, like, a simple idea that maybe we can live build right now? Yeah. I'm not sure how simple is it. So I'm using
+
+[12:26] n a 10. Who know n a 10? Who use it? Love it. Yeah. And self hosted n a 10 is free of charge effectively, and it's very easy to make. So I use self hosted n a 10 for my business. Yeah. But to make agents, AI agents inside run reliably, I need to use evals, like evaluations.
+
+[12:48] Yeah. And free plan of n a 10 allow only one eval, like, for only for one workflow, which is not enough. Paid plan for self hosted n a 10 cost $800 a month, which is for small business doesn't make sense. I don't wanna switch from n a 10. So I just had idea yesterday that should be very easy to wipe code
+
+[13:15] that, okay, I have production server with n a 10, which run my workflows, and I should just click something or type command, which will copy exactly workflow which I need to evaluate to my Docker instance in my laptop and create eval just for it, like use eval,
+
+[13:38] and use free n a 10 to run this eval, and so I can debug the workflow. And, yeah, give me feedback. So using this one free eval, yeah, maybe not super, like, life changing idea, but saving $800 a month for me versus yeah. I think that's amazing. Like, it reminds me Somebody had solution. Right? So
+
+[14:05] Same problem. Yeah. I love if we build that. That'd be great. It reminds me I was with I was vibe coding with a, six year old, and we were basically creating all these different games at Edge Esmeralda, like, with other kids too. And we had QR codes for them, and I was paying $10 a month because I wanted at least two r q like, two QR codes. That probably my bad. Like, I probably could have found a better way to do it. But he went out of his way and created this QR code generator
+
+[14:35] app. And, like, once again, he's six years old. And he just said he emailed me and said, like, Jack, it wasn't that hard to just do this. There's a wide range of different vibe coding tools, and I don't have everything listed here by any stretch. But I these are a lot of the tools that I've used. There's also, like, Codecs, and Claude Code is very popular here and for good reason. And there's also Cursor and like Lovable
+
+[15:00] and all these different tools. Like, we'll have throughout the month, we'll have like different sessions for each of them, I think, because it's like different tools for different jobs. And, like, we'll probably do, like, a VR session, like, within the next couple weeks. Like, we're we'll just go all in on VR. But I figured to just share, like, today, I'm gonna be using Lovable, and we're also, like, talking to them about getting some free credits for everyone here. So, like, I'll update you guys if we do get that because I think that'd be really awesome.
+
+[15:29] And, yeah, I think, like, a lot of these things, like, we could use Notion for, like a project tracker. But I think it's fun to vibe code it because we can make it look how we want it to look and we can make it really pretty. So, like, for example, yeah, like, this Vibe arcade did not need like, I went way too hard on the design and stuff. But
+
+[15:53] I think, like, whenever I have an idea like this, I like to start like, there's different philosophies philosophies here, but, like, I love to start with the design. And, I actually use chat to be t a lot and, like, just generating images. So, like, I start with an idea. Like, I want to create a vibe arcade, and I explain it to ChatuchuBT. And maybe it, like I'll kind of, like, brainstorm with it. Like like, what
+
+[16:17] what tools can we use to build this? Like, what's the like, what am I not thinking of that might be smart? And, like, kinda just brainstorming with Chatuchite and, like, getting the idea more clarified and more clear. And then, like, building yeah. Kind of just like designing a a fully functioning app from there. And you like start with the design and then you can iterate. And I love using Lovable for this, but there's many different tools.
+
+[16:44] So I think, like, I'm curious, like, maybe we could go with this. Like, if we were to go with any of these aesthetics, like, for, a project portfolio, I think do you guys have a preference? Like, this versus this? What? All good. All good? Okay. Let's so this is how I build. So I'm gonna go like this. I'm gonna screenshot.
+
+[17:12] And then I'm going to send this to Lovable. We're going to go here and I'm basically going to use Whisperflow, which is this tool here, which I can also share more. We're going to get free credits. We talked to the founder of WhisperFlow, and I've it's basically a tool to to basically just dream out loud, and you can build by instead of talking to your keyboard, you can just think out loud, and I use it all the time. I'm
+
+[17:40] one of the biggest power users in the world for it. But, yeah, I think for this, like, we're kinda thinking like a like a project tracker that we could all use. Like, I think if anyone wants like is is there any, like, features that we could add to this, like, project tracker that anyone wants to, like, add to? Or if there's because I think
+
+[18:04] yeah. Totally. Yeah. Cool. Yeah. Love this. So, like Yeah. Like because
+
+[18:27] yeah. Because I've built, like like, I think the idea of, a portfolio is really exciting for, a community because it's easy to build, like, personal websites, and we'll probably actually have, like, a personal website building workshop at some point. So, like because it's way easier to do it now and you can design it however you'd like. But yeah. I think that's I think that makes sense where it's like globally accessible. So Yes. Inviting collaboration.
+
+[19:09] So I'm literally just taking notes here, and I'm gonna I'm gonna give a good prompt in a bit. But the idea is is, like, for features that can show progress, it can be accessible. How do you spell? Accessible to everyone without login. This is kinda me just, like, thinking through, like, what it could look like and feel like. But yep.
+
+[19:37] UWare. UWare. I just sent you a link. Okay. Sure. Okay. Let's do it. Apps like Level, but inside of you were they have, like, a community feature. Mhmm. And it's actually self it's, self hosted on the website. So,
+
+[20:00] if you go to that link there Yep. This is like a AI prompt optimizer, but like you can see at the bottom they have like views and comments that people can talk about it. Yeah. And then on the right side, there's like this discover feature for all the other community apps that people have built using the tool. Cool. So like in I Yeah. Like Lovable has this as well, I think, for community and so does JWT, but the UX could look something like this. And you can actually interact with this
+
+[20:25] Yeah. Like, container here. Yeah. But it's it's all on the platform. So something like this probably, like, inside of, like, Edge. Yeah. Totally. And what does this look like on mobile? I'm gonna because, like, I like to design things also thinking about what it looks like on a phone. So, like, this is kinda me just looking at you used this from your phone or just from your Not from my phone. I've used I actually use, like, Lyra in general for prompting other LLMs, but it's Cool. Yeah. It's a really cool community. I've seen some really cool apps people have built on this. Yeah.
+
+[20:57] I love the UI. Like, what are talking about? Something that we could probably use Yeah. At least on, like, the UX front. Totally. Like, Discover and then this would be yeah. Like, they'd have a Discover and then this would be you're thinking, like, you could talk to a chatbot maybe or just in general, like Possibly. If you go back to, like, the if you click on, like, the logo, like, of UWARE, it'll take you to the home page. Mhmm. And they have, like, this community spotlight feature Oh, cool. Okay. And, like, trending projects. But if you actually click into any of projects, it'll bring up that view that I that Lira had. Yep. So, like, Lira was, like, a vibe coding tool that went viral on Reddit a few months ago. Yeah.
+
+[21:37] So, yeah, something like this. Cool. Yeah. I love the feel of it. Yeah. So I'm I'm I'm thinking we can maybe start with, like like, maybe we sometimes I like to just, like, let AI build what it thinks solves the problem best first, and then we can compare it to this and then see how
+
+[22:02] it feels. Because this is like I I like the idea of this a lot. Cool. Awesome. What's the problem again? The problem is there's a bunch of different projects here, and I think having one place where they're all, like, listed is a very nice thing to have. And, like, people people could also put, like, bounties on, like, on different projects. Like,
+
+[22:26] it could be also a place where people, like, invite collaborators and stuff like that. So yeah. We're talking about, like, a bounty board or something like this as, like, a different idea, but similar thing. So So you wanna have a sort of an interface of your project? Yep. Yep. Yeah. And I saw Josh?
+
+[22:51] This is great. How about we if we had a place where we could all vote on suggested projects or even Yeah. Events, sessions, like if someone wants to run, like, a stand up comedy workshop. Yeah. And then whoever views the whole list and choose, like, whether to give it a a thumbs up or a thumbs down, like a Reddit thingy. Yeah. And then the ones that make it to the top, you know, the organizer can then feel like they have enough support to run them or something like that. Yeah. So we gotta look different, like, events.
+
+[23:23] Yeah. Yeah. Like, thumbs up. Yeah. Like a Like a pipeline of projects and then people can give support or like negative Yep. Yeah. I think just like an idea board is like a nice thing and just like making it look nice. So I like that a lot. And cool. So
+
+[23:48] does anyone else have an idea before we give our first prompt? I think I think we can just go for it. The the last thing I wanted to share is like so I was playing around with a lot of different fonts, and I think fonts do mean a lot. And I've recently been loving this one. So, like, instrument serif. I'm gonna tell it I like this font.
+
+[24:12] I think it'd be a cool font. There's like just like a bunch of these you can explore in Figma and stuff, but it feels like old Mac vibes, which I like I like the vibe. So, yeah, I think I think we're good to go. So I'm just gonna tell Lovable. I'm gonna treat it like basically just it's another it's just like an AI brain in the room that we just have to tell it what we want. So
+
+[24:38] we want to create a community project dashboard, and we want it to follow the design of the of the image that we're showing. And we wanna use instrument serif as the main font. And, yeah, in terms of features, I've listed a few below. But,
+
+[25:02] I think we can basically make it accessible to everyone without a login, and we can add like and comment features later. But just we wanna start with the design, and then we'll add the database later. So we want it to feel like a nice and collaborative warm space. So we'll see we'll see how this goes.
+
+[25:25] But, yeah, I I think, like, it's really fun to just be able to think out loud. You can see WhisperFlow just takes everything and just I can use WhisperFlow wherever I'm at, like, on my Mac. I also use it on my phone. It's Lovable is now gonna be just thinking for a bit. And, yeah, I guess in the meantime, there
+
+[25:50] anything else? Like, any other ideas, like, that you guys have for the month that you're excited about? Or yeah. Jeremy? So, like, I like to sign up for new tools, and I listen to a shit ton of podcasts. Yeah. And
+
+[26:13] I was thinking about, like, a Groupon esque type platform that's, like, indexed podcast with active, like, offers Yeah. And discounts because, like, most podcasts are sponsored. There's actually some really good discounts for tools that you're looking for already. And so it's like a platform that you can just look for Yeah. Discounts.
+
+[26:37] True. But, like because on Groupon, you know, it's like businesses and everything. But you like, traditional Internet isn't indexed for podcasts. There's a few like, I I know that we've chatted about, like, like, listen notes and, like, some of these, like, word to, text. But Yeah. Yeah. I guess it's, we would need to index well, we would need to, like, transcribe a lot and then index it for for, like, advertising
+
+[27:01] Yeah. Off like, active offers. Yeah. Totally. And it could actually be, a marketplace as well to other companies. Yeah. I love the idea. Yeah. I think like a like a toolbox where we can also have this guy it's it's an interesting idea. I think we could we could go somewhere with that for sure. Yeah. And yeah. I love it. Cool. Cool.
+
+[27:25] Sweet. Yeah. I think there's the cool thing with this is like yeah. I think it's easier than ever to go from idea to creating the thing, and it's gonna by the end of the month, it's gonna be even easier than it is now. So it's crazy. Let's explore our universe. This is not necessarily the vibe I was going for, but you can see,
+
+[27:50] like, I feel like for this, I think, like, traditionally, like, how I'd go about about this is, like, I would take inspiration from other UIs. And, yeah, I think, like, we'll probably we'll on this, like, throughout the month and stuff. But
+
+[28:12] I think I wanna tell it a few things. I wanna tell it that I'll just I'll just tell it right now. So this is interesting. It's a little we love stars. We don't love them this much maybe, for the for the idea board. And we basically just wanna have a simple place where anyone can add a new portfolio site, and we we can make it more minimalist. And
+
+[28:37] and yeah. We're also doing this for Edge City Patagonia, so we can include that in the branding as well for the site. But in general, it looks interesting, and you don't need to change the design too much. I think like behind where it says explore our universe, think we could remove the flickering light thing.
+
+[29:01] Yeah. I think that's good. And does anyone else have any thoughts before I submit this? Or yeah. Sorry. We have a question. Yeah. Is prompt optimization really worth the effort and hassle, or can you really just, you know, free flow ideas like that without worrying about the cost? So
+
+[29:24] it's a good like, I think there's there's different philosophies here. Like, my friend, like, does a technical he he like, he believes, like, strongly in just having, like, a full blueprint of, the entire product before you even start and, like, spending a full week on that. And I'm, like, on the opposite side of the spectrum where, like, I basically just vibe with it and
+
+[29:49] iterate as fast as possible. And, yeah, I think there's like there's all these little, like, tools, like, especially with Lovable, like, I could change like, I can change the words here. I could say, like, universe explore our world or whatever. And yeah, I think there's I'm curious if other people have thoughts on this, but in general, like, I like to
+
+[30:14] just treat it like a basically like a cofounder of whatever I'm building. And kind of just like there's also a chat feature so you can like think through things before you build it all out. But, yeah, there's there's different I think we're all kind of exploring the frontier here together. So, yeah, it's I guess it's a that's my perspective on it at least. So yeah.
+
+[30:40] So basically, I'm gonna not change this right now. So I'm saying this is interesting. It's a little like we love stars. Maybe for the idea of Word, just a simple place where we can have a new portfolio site
+
+[31:02] or idea about anything like like an event they'd like to host, and people should be able to like and comment.
+
+[31:28] We can make it more a bit more minimalist. And Explanation point for vibes. The site looks interesting. Yeah. So cool. Anyway, so
+
+[31:51] basically, the idea is, like, it's very iterative. And I also wanted to share this. So, like, in the Vibe dashboard, like, the prompt I started with here was, like, really simple. I just started with this image with Thomas, and and I just said, want to create a really fun, simple, and stupid app. It's gonna be a progressive web app. So it, like, shows up on your phone, like, as a regular app.
+
+[32:14] And it should be one where it's called a vibe check, and you get met with this character that's that says I'm sure that I'm sharing an image of. This is a bot. Yeah. This was totally like this whole app we built in, like I don't know. Like, the camera didn't work at first, so, like, there's a problem there. But, like, in general, it was, like, fifteen, thirty minutes of, like, building this whole thing. And it's like it's just, a silly, like, meme. But
+
+[32:39] but, yeah, I think there's a lot of these things that, like, if you have a good idea in the moment, you can just kind of just drop it and see where it goes. So yeah. Are there any thoughts? I'm gonna press allow for this. So it's gonna this is actually a really important point. So, like, we built the front end, which is, like, the thing you see, but there's no database attached to it and, like,
+
+[33:03] there's no back end. So, like, we're basically gonna like, Level will just made it a lot easier to to basically allow us to add users and to add, like, information and actually make our app smart, essentially, so it's not just like a page. And so, like, by clicking, like, enable cloud, it's gonna yeah. It's gonna open up this database storage authentication
+
+[33:25] back end logic, and then we can add AI to it. So I'm just gonna press allow. But, yeah, this is a pretty powerful thing. So yeah. I actually just had an idea. I was thinking because you made this and you had so much fun with Tomas yesterday. And I was thinking if you guys, like, end up getting together with your friends, if you wanna, like, open up, like, Lovable and maybe, like, try to create something at some point, maybe over dinner or maybe, like, at a cafe or something in the morning,
+
+[33:55] and you want to then, like, post and share in the vibe code, chat, I would, like, love to see. I think, we're always looking for new and unique ways, especially here. Like, the conversations that happen at Edge are, like, wild and crazy. And so it'd be really cool to, like, out of conversation, see what you all build. I think that one of the things that we're also prototyping is just, like, new ways of connecting and building. Right? I already talked to you guys about,
+
+[34:20] the one where you're building from body somatics, and we'll be running them again with the meditation and sound and all the other things. But even just, like, friend collective energy, it'd be really fun to see what you all build. So there's just, like, an idea. Yeah. I wanna see a lot more links, and there's been some fun ones already. But, yeah, it's gonna be good. Sorry. One more question.
+
+[34:45] Do you have any tools that will build smart contracts or back end stuff? A lot of the tools that I've played with seem to only wanna do front end demos. Yeah. So I've been tinkering on this for, like, over or, like, about a year now because, like, Edge City Lana, which was, like, in Thailand, like, a year ago, like, we're trying to build smart contracts and trying to vibe code smart contracts. But there's actually a company called Heard dot Eco, and Anna, I think, is gonna do Anna's right here, and she she just she just arrived, so we can welcome her. But
+
+[35:19] but, yeah, we're gonna actually be exploring, a smart contract building session. So, like like, with the Vibe Arcade, I'm trying to think of interesting ways where, yeah, where we can have, like, a decentralized form of, like, agreement in the app or, like, a programmed some sort of, like, smart contract that would be interesting. So, like, I'd love to brainstorm with you guys about ways we can do that. So
+
+[35:45] herd dot eco, though, is gonna be one of our collaborators there. So herd, it's h e r d dot eco. And, yeah, it's it's basically like a no code platform to build smart contracts a bit easier. And, like, I don't think it's ready yet for, like, all of us to use, but we'll we'll get there throughout the month. So yeah. Yep.
+
+[36:09] Just to clear out on the chart, are you making, like, a portfolio board for vibe coding projects Yes. That are gonna be launched during this month Yes. By anyone in the community? Yeah. Okay. So maybe we should have like categories. Yeah. We could have a I don't know if you already talked about it, but like maybe before you get to the projects because like sometimes I get a little confused if there's a huge
+
+[36:32] gallery of projects. Yeah. I like to start with, it could even be a wizard, you know, like what kind of what are you into at the moment? Like are you more interested in business, games? Yeah. You know, and then and then you you take the users through the wizard and then maybe you only display projects that are kind of interesting or or relevant to them. You know? Totally. Yeah. Something like that. Yeah.
+
+[36:56] I think that's a great idea. And one of the cool things about, like, one of the recent, like, updates to Lovable is, like, we can build a basically, like, we can just tell that we want an AI that will guide us to the projects we want the most. So it's it's, maybe we could just click on the different categories and yeah. I like that. Like, making it personalized is cool idea. So
+
+[37:20] sweet. And it's it's currently working, so we're gonna see it improve in the background. So question. We are developing a little bit rein inventions of you. Right? So it's a why don't we just use, for example, Notion? Yeah. And because if we wipe code it Yeah. Totally. We will be having wipe bugs also. Yeah.
+
+[37:44] We're talking about Notion. We were talking about Notion versus yeah. We were talking about Notion versus, like, Lovable earlier. And I think this is just, a fun example, like, that we can use that, like, might be I would love to use this throughout the month, and I also love Notion. Like, I have a lot of friends that work there. And I think, like, I'm gonna we'll probably be, like, prototyping both at the same time because, like, what's cool about this is we can make it look fun and make it look exactly as we want it.
+
+[38:13] But yeah. It's a good it's a good it's a good question. So it looks like now we can seems like anyone can now go here and, like, you can share your idea. And I definitely wanna, like, continue to design this and, like, get some more graphics for it and stuff throughout the month. But yeah. I think yeah. I'll I'll probably just just, like I'll I'll submit this one as, like, the first
+
+[38:43] dummy test. We'll see if this works. So I'm basically just getting the link for the the so I'm gonna share the idea. And so, like, one of the cool things is, like, if we do already have the link, I think it should it should populate
+
+[39:07] the so I'm actually just going to tell AI right now. So I'm going to select this. When we type in when we paste a link here, we want to grab the metadata. So we want to grab the title and the cover image that's associated with each link, like, whenever and it should auto populate, like, whenever we paste in a link here. So oh, shoot. I also always like that Jack's voice changes when he uses Whisper Flow. So we've been on FaceTime. We've been, like, organizing this, like, months ahead of time. Yeah. And so I'd be on FaceTime with him, and he'd be like, hold on one second. Okay. So I think that we should do it like this.
+
+[39:45] And it's the most amazing. And he didn't, like, fully say before, but the founder of Whisper Flow, we got on a call with him, and he just casually was like, yeah. I think I'm at, like, a million words. And he was like, wait. And he was, like, very monotone and, like, you know, just, like, having the call. And then he paused and he was like, then I know you by your stats. And so Jack pulled it up and he's at like just shy of 900,000.
+
+[40:08] And even the founder is only at 400,000. So you are in the presence of a all time leader whisper flow. Even the founder was shocked. So yeah. So Dude, he has all my data. It's everything. So just wanted to throw that back to you there. It's crazy. But, yeah, like, I'm on Telegram all the time and, like, if I'm lazy, I'll just, like, voice message everyone and it's very easy. So I like it.
+
+[40:38] Yeah. That's good. And, again, we're working on the link, but I think pretty much because you've impressed him so much, we got all of Edge City free credits for Whisper Flow. So we'll be sending that out soon. Yeah. I know you're working on getting Yeah. Yeah. Well, I I was hoping we'd get the credits today,
+
+[41:02] but, yeah, I'll I'll let you know when when we Any, like, insight on how much So for for Edge Esmeralda, we had replic credits, and I we basically all had, like, one free month. So it's, the $25 is, like, what I think is reasonable for us to get for where everyone can try it for free for one month, and it should be good. I guess, like, realistically, if how how many hours of live coding
+
+[41:31] would that be equivalent to? Because, like, you can see Okay. In terms of, like, actual hour, like it's a great question. Like, will will we hit the limits is, I guess, question. Like, 200 it gives you 200 credit or it gives you 100 credits, which is like about a 100 prompts more or less. Okay. So
+
+[41:54] it's like really, that's a good like four or five projects each. So Okay. That's pretty good, actually. Yeah. I feel like Cool. It works. Yeah. So, basically, I just I I just use this for ease of use. So I'm gonna see if it works. So I basically just submitted this. And cool. So I basically just grabbed all the
+
+[42:20] the metadata for it. So I basically didn't have to type in everything twice because it's like I basically just paste it in the link, and then it knows what what we're doing. And we could make plenty of improvements, like the devil's in the details, as many say. So for category, I could say community,
+
+[42:45] portfolio, vibes. I'll just say yep. Mhmm. Okay. This is actually a different thing. Yep. Maybe we shouldn't just have completed projects on the portfolio page. Maybe some of them could be like there could be a progress bar, Yeah. And you could see some some projects
+
+[43:10] that are just an I an idea phase. Yeah. And then you could you could filter for, like, projects at idea phase, and maybe you could even provide some comments to those where it'd be like, people can submit just an idea. Because I feel like a lot of people it takes a while for someone to get started, let alone finish something. Right? Yeah. So it'd be cool if we had, like, some concepts, and then people can provide some help to, like, flesh them out. Yeah. Totally. Then you could have, like, a in progress, you know, like, in development currently, and you can see some, like, early signs of what the project looks like. Yeah. And then you could have, like, completed projects.
+
+[43:46] Yeah. I don't know. What do you think about that? Yeah. So, basically, I basically just took your idea and said, let's add a progress bar so people can see which projects are in the idea phase versus building phase versus polishing stages. They're really cool because then you could get a lot more projects on there and, like, most of them would be, like, half baked ideas. Definitely. I like the idea where it's just, like, ideas and projects. It's like many of these will have links and I think that's awesome. But
+
+[44:16] And I always work really well with urgency. So if someone's like, wait. Your idea is so cool. When is it gonna be done? I'll be like, tomorrow. Yeah. Exactly. Jokes. Okay. Yeah. Oh, yeah. You can start voting. Alright.
+
+[44:39] Cool. So we just submitted our first project. And, yeah, I I kinda wanna spend more time, like, this in new ways. And we could also get, like, a nice like, I might put this on just, like, portfolio or, like, ideas.vibecoderesidency.com or something like this so we can kinda have, like, a nice place for it to to be. And I'll I'll probably send that later today once I do it.
+
+[45:06] But yeah. The other thing that's gonna be happening this week is, like I said, all of our programming is gonna be open, to outside residents, for this first week. And so we're gonna be running some Vibe Pomodoro sessions, in our backyard. So we'll make that live on social layer, but, like, would love to have have everyone there. And, like, you can help one another. Maybe you don't even have to work alone. Maybe, again, like I was saying, you could do it with friends.
+
+[45:32] I personally like, you know, Jack's vibe arcade. That's a good really way to, like, get started and, like, not be attached to the outcome as if it's a game and it's, like, totally nonserious. You could make it spicy. It's spooky season. It could be about Halloween. Like, whatever it is that you want and just would love to see some, like, creative energy in the backyard of the Vibe house. Yeah. I'm excited. Glad we got one game.
+
+[45:59] It's basically just let it cook in the background. But I think in terms of design, like, think design is one of the most important parts of vibe coding because, like, anyone can create a thing that kinda looks like this. And I, like, try to give it, like, a custom font that we like. And in general, like, I think you can tell if I like, something's vibe coded if it has, like, an icon that looks like this and it's just kind of like
+
+[46:26] there's like there's a lot of value in like uniqueness and stuff. And so like one last thing that I'll share is like I've been within the last like month or two because of like how important this all is, I've been diving into Pinterest of all places. Like, I did not think Pinterest would be like a gold mine for ideas. But there's
+
+[46:48] there's a bunch of different designs here. Like, I'll just, like, find, like, a bunch of these things, like, on Lovable and stuff. So I can basically screenshot something like this. And I'll I'll basically just, like, scroll through Pinterest all day and and, like, find things that look really good and look like, feel really nice. And then you can just screenshot and send you can send all this stuff to
+
+[47:12] Lovable, and then, like, you'll have a more original and unique design. And so I think, like, Pinterest is, yeah, just one of the best tools I've found for, like, actually designing stuff that looks and feels good. So I'll do more of this. I don't know if there's for what we're doing here, I don't know if any of these aesthetics calls to you. Let me know. But
+
+[47:39] let me check-in on the site real quick. So okay. So we can see we got the progress bar. So, like, it's an idea phase. The vibe the vibe check is still an idea phase. But we do have this feature now. So it's and, like, if we submit a new idea, we can see we can say if it's an idea phase or building phase or polishing phase, we could add, a
+
+[48:03] selling phase or growth phase or whatever you wanna do there. But yeah. I think there's like, in terms of stuff, I don't know if there's anything else. We got, like, a bit of time. I don't if anyone else wants to share another thought that we could add to this or any ideas for the month that you're excited about or anything like that. I don't know. We don't need to go too long if we don't feel like it. But
+
+[48:33] yeah. I don't know if anyone has another idea for this or we're Or yeah. Yeah. Yeah. So we can add users and yeah. So this actually, like, I've been I've been building out
+
+[48:59] a system. So, like, another one of my main projects has been building, like, a Telegram bot, and I'm trying to get everyone's, like, intros from the intros channel into a database. And I think, like, I kinda wanna pair that with this. So, like, we can we can have because, like, the Telegram bot that I've built is named Infinity, and we can ask Infinity
+
+[49:25] whatever we want. So I basically just asked it like, can you search your memory for like the best vibe coding projects? And it got like Roman's projects here. I wish he was here right now. Yeah, think there's long story short, I think I think profiles are really important, and I think we can build those throughout the month. And I don't necessarily wanna start from scratch right now because I think there's, like, some interesting stuff in the works.
+
+[49:53] But, yeah, I think it's it's a great idea. So, yeah, today's very, like, free flowing. It's kinda just, like, exploring what we can build together, and it's really cool to hear you guys' ideas and stuff. And I could just look one more time at the Notion to see if there's anything else that we could dive into.
+
+[50:18] Yeah. We'll be doing like vibe filmmaking with like a tool called Hollywood. So I think there's also yeah. There's a lot of like just bringing ideas to life through film is also something I'm very passionate about. And I think a lot of people here are passionate about it. So yeah. Yeah. Rahila will be here the last week, and we're actually, like, cooking up some ideas with her about some events.
+
+[50:42] And her whole ethos of what she's building out is that you'll be able to build your own, like, filmmaking style. And so and then you'll be able to utilize other people's filmmaking styles. And eventually down the line, you potentially would even be able to, like, monetize your filmmaker. And so there's there's lots of things in the work there, and it'll be really great to have her here on the ground in Patagonia.
+
+[51:06] Yeah. I'm excited for that. And, yeah, there's there's so much stuff here. Like, I think, like, the idea of, like, everyone creating, like, different characters throughout the month too. Like, you just mentioned, like, a wizard. We could have, a wizard character. And, like, I've built I've actually built a an app where I think it's the easiest way on the Internet to create
+
+[51:30] like Telegram bots. So it's like it's basically two minutes. You you go to the app and then you can you basically go to Telegram and then you can just create the bot. And then you can give it a personality and then give it a profile photo and then anyone can talk to it. And so I think like just in general, this idea of like bringing ideas to life and like characters to life and putting them in stories and putting them in films is like like maybe
+
+[51:58] making NFTs because we're in Argentina at a crypto thing. So I think there's a lot of good stuff. Yeah. One of the ideas we had is that everyone in the residency will, like, create their own persona and have, like, their own little avatar. So, Josh, get ready. Start thinking. Brennan, we want you to. And then, Jack, will you pull up actually, like, the three d modeling site? I will. Because that's also really, really cool, and we're thinking about leveraging that. Can I ask a question about the project?
+
+[52:23] The the bot? Yeah. Totally. Yeah. Does it have back end? Yeah. So it just set up Supabase. So it's it's connected to Supabase, but it's technically, like, they're they're calling it the lovable cloud. And so it's they just rolled out this feature, and it's yeah. Basically, there's there's three different tables. We can click on them. We can see the post table.
+
+[52:47] And, yeah, there's a database. We can add users with, like, user auth. We can connect if we wanna have, like, a login with Google option, like, we can also add that because, like, Supabase is a very overpowered, awesome tool just for, like that covers, like, the back end. So it's I love it. I haven't ran into many problems with it, like, with the stack.
+
+[53:12] What about also doing back end? They are partnering with Supabase and building it gradually. You're nodding your head. I don't know if you have any thoughts about it. Yeah. That's Yeah. Like legendary. Yeah. That's oh, it's crazy. Yeah. It's it's really good. So Telegram both?
+
+[53:36] Yeah. Platform? Yeah. Mhmm. Did you inside Lovable only? Yes. I built this all in Lovable. Like, I haven't touched anything else. And so I I've used n eight n, which is like a automation tool that someone was talking about earlier. And I use n eight n to build, like, the last Edge City bot for Edge Esmeralda.
+
+[54:00] And I spent easily a hundred hours in NAN, and I taught at least, like, 20 people how to build their own bots. And I was like, it's actually not, like, technically that many steps, but to learn NAN is a lot of steps. And so I was like, yeah, let's just make it easier. And, yeah, that's we can also call
+
+[54:23] people. So we can call so I made one so Patrick Star is right here. We can talk to him. And I basically just told I basically built this. And I so Patrick Star has like Patrick doesn't like air. He needs water. So my instructions for this was literally just you are Patrick Star. That's your role. And
+
+[54:47] the idea is, like, I wanna be able to kinda encapsulate Patrick Star and put him in, like, games too. So we can we can give him a ring. Let's see if it works. I don't know if the audio works here. Hello? Hello. I'm Patrick Star. How can I help you today? What's good, dude? Well, jellyfish hunting is always a good time. What's good with you? Are you planning any fun activities today? Oh, yeah. So okay. So I I used 11 labs for that. And, like,
+
+[55:14] I think there's a lot of potential here just in terms of bringing like this literally took me five minutes to build that once I already had the Patrick Star set up. Because it's like I'm basically just talking to Lovable and having it guide me through what makes sense. And like we have like a vibe police here because like
+
+[55:38] we all know the word vibe has been used quite a bit. And so it sounds like you're the anti vibe corgi, the strict and perpetually unimpressive force of the no vibe zone. So we have like different characters in the works, but I'd encourage you guys to also share this link in the chat so anyone can build their own bot. I think it's a very fun thing. Yeah. I don't know if you were gonna add anything like in terms oh, yeah. You're saying Meshi. I'll I'll show Meshi. Oh, Yeah. Show that and Yeah. Totally.
+
+[56:09] I'll show real quick. It's total ADHD as usual. So what's the the Vibe Police? So you can also message the Vibe Police here. And it's actually like an AI agent that can I think you can even, like, search the Internet? Can you search Internet? But, basically, anyone can talk to this.
+
+[56:35] Yeah. So it's like an agent. You can turn on all the different things. And I'll I'll do, like, a full session on, like, this tool because I think it's like I just built it for fun, but I think it's like it can be useful here and it can be interesting. But this is also the Vibe Police. So so there's a tool called Meshie. And this is like a really it's really like half of my days are just like exploring new tools and stuff.
+
+[57:01] So the idea is we can put Meshie, like these different avatars. We basically just like, you take like an image and I basically just took the cover image here and just said, let's I told Chajjbt, let's make like a full Vibe Police and like it needs to like look like it's standing straight up. So I got that image and I sent it to Meshie, like, yesterday.
+
+[57:25] And then it was it generated this character so we can have the Vibe Police in one of our games and, like, hopefully, we'll get to see the Vibe Police, like, in the VR soon. We'll see. Also created the Death Star. I created an Edge City Patagonia thing, which was actually blowing me away. Like, maybe we talk to Mashi about getting free credits because this would be awesome.
+
+[57:51] I was creating, like, the Kanye college dropout bear. Hilarious. Let's see. So no. So this is I basically just took the Edge City I basically just took the Edge City graphic, and I was like, make this into a three d world. And so it's
+
+[58:16] like, I wanna create a game where we could, like, walk around this little thing because, like, imagine. So, like, you can totally see I think this is, one of, like, probably the primary tools we can use throughout the month because it's, like, insane. So,
+
+[58:39] yeah, in the past, I've, like I tried doing, like, myself. It freaks me out. Let's see if it loads. This is the stupidest thing. So it's like it's not great with people yet, as you can tell. And I could have done like a better photo. Like, maybe we all like do a proper standing photo because you need to stand like this to like actually
+
+[59:05] get it to get your joints right. Because like here, it's like freaking out. But yeah, there's a like for the Vibe coin, we I actually got this three d printed because I got this I basically at the Frontier Tower, I got this this is the Vibe coin that we're gonna be releasing in a week or two. And it's
+
+[59:29] yeah. It's basically we created, a three d asset that we can put into any of our worlds and stuff like that. There's a duck. There's a little version of me. It's freaky also. So I'm not gonna actually I don't think we need all these. But this is so I'm gonna make a horror game, think, with, like, a little little version of me because this is horrible. I think it's like I I think we should make a horror game too. Maybe for Halloween, we'll do something like that. But
+
+[01:00:01] yep. Yeah. Yeah. Yeah. That would go viral on TikTok.
+
+[01:00:29] Rehella is working on some back end things with her developers at the moment. So they're gonna let us know when the updates are all live, but we'll definitely be doing that in our backyard. Tools like Sora. I don't know how many of you guys have used the new Sora. It's insane. Yeah. Yeah. I think that's Ruhilla.
+
+[01:00:53] That's Ruhilla. That's Ruhilla. Well, she did the in Esmeralda, she was Nico. Right? Yes. So Nico is actually gonna do some stuff like this. Like, she shared a bit. So I think we should jam with her on it too because that'd be awesome. Yeah. I think like multiple films would be great too because I think, yeah, there's going be good stuff. Horror movie. Let's do it. Horror game.
+
+[01:01:19] I just put in like just haunting Edge City. It'd be hilarious. The Death Star. I want to put the like, the Death Star is so sick. It's like yeah. Now, like, when I walk around and see stuff, I'm like, I could take a photo of this and literally send it to Meshie and put it into a game or, like, put it into anything. So it's just creative
+
+[01:01:44] random stuff. Yeah. Yeah. Yeah. Totally. Like, you you're saying, like, if we make a telegram bot and then we or you make, like Yeah.
+
+[01:02:11] So as Jack's computer is very much dying, does there I'm sorry. There any last questions? Because if not, we would be really excited to welcome you at the Vybe House. That's okay. And we'll keep you posted on all the events that will be happening this week. Yeah. But definitely come by Thursday for the meditation into WhisperFlow and to build. Yeah. Yeah. At some point, we'll do that. I feel like week two ish might be good. So
+
+[01:02:40] I think personal personal websites are one of my favorite places to start. Like, I've built I've built, like, a personal website for my mom and then my stepdad and, like, it's like and we just build it together. So it's, like, really it's cool. I like it a lot. And, yeah, I think that's a good one for us to do. And feel free to, like, post any ideas or, like, events that you wanna see in our channel because, again, Infinity,
+
+[01:03:04] the bot is keeping tabs on it as well. So anything you post in there, we'll be able to, like start where? In Telegram, in the vibe, like, code channel. Yeah. Yeah. Cool. Amazing. Oh, question. I just have a general question about vibe coding and using lovable. I haven't used that before, but I've used Replit and Cursor.
+
+[01:03:26] Yeah. And what I find is that I can get to, like, being a non coder Yeah. I can get to about 90, maybe 85, 90% of the way. And then Because I can't you know, I'll I'll have it fix the errors. And, of course, I'm not understanding the code, so I can't, like, stop it or change it. And I get deeper and deeper and deeper, you know, further away from my my end result at that last bit. Is does like, I'm seeing you build on Lovable. It looks Yeah. Super easy, but is that much different than the other two? Yeah. It's
+
+[01:03:59] I like almost have like a new philosophy on bugs. Like, if something takes like like, lot of the time, like, there's a there's a chat feature on Lovable. Like so I used to have that problem like a lot and like the models have actually gotten better and like the tools have gotten better. So it's like I have it less. Like, I feel like it's now like 95%, but it like, it's a there's it still can get frustrating when, there's a little thing that you can't fix and you just, keep on getting in that loop. So, like
+
+[01:04:26] yeah. There's, a chat feature. Like, I like to just, like if I, like, notice I'm, like, frustrated, like, I'll a lot of time now, I'll just, like, literally just, like, forget about it, I'll just, close the computer and come back to it. And then, like, I'll just open the chat, and I'll say, like, can you explain to me what like, I'll zoom out. What is happening here. Do we actually even need this feature? Sometimes we don't even need this feature.
+
+[01:04:50] So sometimes, I like to zoom out, but yeah, I think chatting with it and then sometimes when it thinks longer, then it finds a better solve. So like, I don't know. I think it's getting better and I think with time we'll have less of those problems. But, it's it's a it's still a problem. So yeah. Yeah.
+
+[01:05:32] Totally. Totally. Yeah. Yeah. It's a whole different talk. Yeah. Totally. Yeah. So we wanna make this, like, as accessible as possible, and it obviously, everyone has already invested a lot of time and money to be at Edge. So, obviously, we'll be hosting a lot of things that will be publicly available to join. If you were accepted to Edge City,
+
+[01:05:59] we trust their process. So you would be accepted into the vibe code residency. We've just shifted our pricing. So to join for the month, it'll be a $111. And for a week, it'll be $33. Yeah. And that'll just be, like, daily coworking just like at the house. Like, you're welcome if you're you get one of these and you'll join the vibe crew and it'll be good. So
+
+[01:06:22] yeah. Cool. Thank you. Yeah. And you can go on our website, vibecoderesidency.com, and and sign up. Yeah. Yeah. I think it's a I can link the like, I'll link in the chat, like, once it's ready. The I think it's ready, but I'll send it, like, basically, the link for you to get that ticket in the in the group chat. So
+
+[01:06:46] yeah. You'll get these really cool yellow bracelets if you become part of the vibe con residency. So I'm just saying. Yeah. Yeah. Thank you guys for coming. I really I didn't know this one. I like how it's just, like, casual and we can just free flow with it. So I appreciate you all, and it's just the beginning. So I appreciate it.

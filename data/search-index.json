@@ -87245,6 +87245,2471 @@
   "Thank you. Yes. Yes. Yes. Of course. Take a picture."
  ],
  [
+  49,
+  0,
+  "Thanks everyone for coming. We're gonna be getting this vibe coding session started. And okay. So anyway, I'm so my name is Jack. And I'm Ma"
+ ],
+ [
+  49,
+  8,
+  "riela. And, yeah, we're we're running the vibe code residency. And, basically, the idea is, like, throughout the month, we're gonna be gathe"
+ ],
+ [
+  49,
+  16,
+  "ring a bunch of people. And I think we live, like, in a very special time where we can kind of create ideas, like, make our ideas real."
+ ],
+ [
+  49,
+  23,
+  "Like, whether that's, a game or an app, I think it's like this AI thing is exploding. And I guess, like, throughout the past, like, year, I'"
+ ],
+ [
+  49,
+  31,
+  "ve been vibe coding with all these different tools and stuff, and I think we have a lot of, really exciting stuff in store for the month. An"
+ ],
+ [
+  49,
+  38,
+  "d, yeah, today, like, I'd encourage everyone to kind of pull out your laptop and, like, you can build as as we kinda build together. And, ye"
+ ],
+ [
+  49,
+  46,
+  "ah, I'll just be sharing some of the things we're doing throughout the month. And, yeah, I'm just excited everyone's here together. So,"
+ ],
+ [
+  49,
+  53,
+  "if you wanna share anything else, feel free. Yeah. I just wanted to share a little bit about what we'd we'll we'll be doing in the VibeCode "
+ ],
+ [
+  49,
+  63,
+  "residency. Really, our focus this month is around, building at the speed of intuition. So we're gonna be prototyping some builds via somatic"
+ ],
+ [
+  49,
+  73,
+  " intelligence. So we're collaborating with a lot of different modalities."
+ ],
+ [
+  49,
+  78,
+  "The first one will be public this week on Thursday at noon with the meditation artifacts. So we will be be led through an outdoor meditation"
+ ],
+ [
+  49,
+  86,
+  ", and then we'll be moving into almost like a live journaling, but instead you'll be live building. And the goal will be to get out of your "
+ ],
+ [
+  49,
+  94,
+  "mind and stay in your body. So we'll be using Whisper Flow, and Lovable to live build, And it'll be, I think, a really unique experience tha"
+ ],
+ [
+  49,
+  102,
+  "t I'm super excited about. We have a really lovely backyard,"
+ ],
+ [
+  49,
+  106,
+  "and so we're excited to welcome people. And we'll be doing similar things throughout the month. We're connected with the local kids at, Bikk"
+ ],
+ [
+  49,
+  114,
+  "otessa. So we've already talked to someone about doing some primal movement with kids and then move into vibe coding. So really, like, exper"
+ ],
+ [
+  49,
+  122,
+  "imentation, and I think that the wonderful and beautiful thing about vibe coding is that, like, everyone's a builder, and we're really, like"
+ ],
+ [
+  49,
+  130,
+  ", leaning into that ethos. I'm a nontechnical person. Jack is technical."
+ ],
+ [
+  49,
+  134,
+  "And so together, we're gonna be collaborating and creating a really cool experience for y'all. Yeah. I'm super excited. And yeah. I think ye"
+ ],
+ [
+  49,
+  144,
+  "ah. The today is very, like it's gonna be free flowing. I've got I shared in the in the Telegram chat and the vibe code channel. I shared th"
+ ],
+ [
+  49,
+  155,
+  "is Notion page, which will be"
+ ],
+ [
+  49,
+  157,
+  "we're eventually gonna transition some of this data and, like, some of this onto the website. But for now, it's kinda gonna be just a place "
+ ],
+ [
+  49,
+  165,
+  "where I can share, like, all the projects that we're working on and we would, like, wanna create a community portfolio of, like, everyone's "
+ ],
+ [
+  49,
+  174,
+  "projects throughout the month. I'm gonna move this up a little bit. But, yeah, I I think, like, Mariela mentioned, like, everyone's a builde"
+ ],
+ [
+  49,
+  182,
+  "r, I think that's"
+ ],
+ [
+  49,
+  183,
+  "yeah. One of the really exciting things about vibe coding is, like, it's inherently a tool that, like, kids can use. Like, we were building "
+ ],
+ [
+  49,
+  191,
+  "a lot of different games, and we're excited to build, like, an open source arcade throughout the month where, like, all these, like, kids an"
+ ],
+ [
+  49,
+  199,
+  "d adults can all just kinda build these really inspiring and interesting, different games. And, yeah. Like, one of the I figured I'd just, l"
+ ],
+ [
+  49,
+  207,
+  "ike, start with a little demo before we, like, get into building. So, like, I just shared this in the"
+ ],
+ [
+  49,
+  213,
+  "in the in the group chat. But yeah. Like, I was just hanging out with Thomas and Brennan the other night, and I was basically, we decided we"
+ ],
+ [
+  49,
+  222,
+  " could build a vibe check. So, like, if you're at if you're at the vibe house or just in general, you can, you can basically talk to this AI"
+ ],
+ [
+  49,
+  230,
+  " bot. And let me get the right thing here. So this is just like a fun example of, like, a silly little app that you can build that, I think "
+ ],
+ [
+  49,
+  239,
+  "leaning into"
+ ],
+ [
+  49,
+  240,
+  "like, we'll be building a bunch of things that are, like, genuinely useful throughout the month and, like like, organizing all these differe"
+ ],
+ [
+  49,
+  249,
+  "nt like, all the different information and, like, building Telegram bots and stuff. But this one right here, we can get a quick vibe check. "
+ ],
+ [
+  49,
+  258,
+  "There's lot of good stuff here. So you can open the camera. I'll just do a quick like we'll see if the vibe is good. Let me see this little "
+ ],
+ [
+  49,
+  267,
+  "dog will analyze our vibe."
+ ],
+ [
+  49,
+  269,
+  "So I'll take it. So Timur was joking that it's, like, rigged for me because, like, I got, a 100 score earlier. Yeah, this is, just an exampl"
+ ],
+ [
+  49,
+  279,
+  "e of, like, a fun thing, and I'd encourage everyone throughout the month to just, like, build things that just call to you and, like, that y"
+ ],
+ [
+  49,
+  288,
+  "ou find inspiring. And let's just say, vibes are good. So yeah. And there's like a leaderboard of like a bunch there's like Colton was was d"
+ ],
+ [
+  49,
+  298,
+  "efinitely one of the top fibers from today. And"
+ ],
+ [
+  49,
+  301,
+  "there's a there's a bunch of these different ones. But like this, I think there's a lot of good stuff here. But, yeah, I think yeah. Like, f"
+ ],
+ [
+  49,
+  311,
+  "or today, I think I figured it'd be good to start with, like, Lovable because it's, a really accessible tool that everyone can use. And so e"
+ ],
+ [
+  49,
+  321,
+  "veryone that does have a laptop, I'd, like, encourage"
+ ],
+ [
+  49,
+  325,
+  "we could, like, build together. And and, yeah, I think, like, one of the exciting things that we built in the past was a community portfolio"
+ ],
+ [
+  49,
+  333,
+  " for Edge Esmeralda. And so, like, with this, we kinda had, like, all these different projects, and I find it like, there's there's so many "
+ ],
+ [
+  49,
+  342,
+  "amazing projects across Edge City and, like, getting them all in one place and making sure"
+ ],
+ [
+  49,
+  347,
+  "that, like, if people are thinking about similar things that we can have, like, one place to kind of get all the make sure, like, no one's t"
+ ],
+ [
+  49,
+  355,
+  "rying to build the exact same thing at the exact same time and they can work together and stuff. So I figured we like, this is one option fo"
+ ],
+ [
+  49,
+  364,
+  "r something we could do today is, like, build a community portfolio. And within this, like, this was like an earlier version of, the Edge Ci"
+ ],
+ [
+  49,
+  372,
+  "ty Arcade, which is"
+ ],
+ [
+  49,
+  373,
+  "like, there's a bunch of, like, kids were building these games, which were, like you can kind of see here. This was, at the last edge city, "
+ ],
+ [
+  49,
+  381,
+  "and so, like, there's all these different games. I won't go into any of these right now. But, yeah, the cool thing is, like, we can we also "
+ ],
+ [
+  49,
+  390,
+  "have, like, Oculus headsets. Like, we can build VR games, and we're launching not to spoil too much, but we're launching a Vibecoin,"
+ ],
+ [
+  49,
+  398,
+  "which will be something that will, like it's basically, like, an open source arcade. So, like, if you think of Mario, it's like Mario is ama"
+ ],
+ [
+  49,
+  406,
+  "zing because we all love it, but you can't really like build a new version of Mario with the same characters. But like if we have NFTs for t"
+ ],
+ [
+  49,
+  414,
+  "hese characters and if we have like a currency that's kind of like a decentralized open source arcade, I think it's like that plus vibe codi"
+ ],
+ [
+  49,
+  422,
+  "ng is like a really exciting thing."
+ ],
+ [
+  49,
+  424,
+  "So, yeah, this is I wanna show that. So, like, if we go to the vive arcade, this is something that we'll just be iterating on throughout the"
+ ],
+ [
+  49,
+  433,
+  " month. And so, yeah, the idea with vive coding is you can literally build whatever you want. So, like, a lot of people will be building, li"
+ ],
+ [
+  49,
+  443,
+  "ke, personal websites. We're gonna be I guess Mario mentioned, we'll do, like, the"
+ ],
+ [
+  49,
+  448,
+  "like, building from the body, like, after a meditation. And yeah. I guess, yeah, there's like there's a bunch of different stuff we can do. "
+ ],
+ [
+  49,
+  458,
+  "But, yeah, I figured for today, I kind of mapped out some ideas for what we can go into. And so I guess like to start, if anyone's like not "
+ ],
+ [
+  49,
+  468,
+  "familiar with vibe coding, like I want to make this friendly for people that are definitely familiar with vibe coding but also not familiar "
+ ],
+ [
+  49,
+  477,
+  "with vibe coding. So like the way I think about it is"
+ ],
+ [
+  49,
+  481,
+  "five coding is essentially just like before you had to program to a computer and you had to learn the language of the computer. And now what"
+ ],
+ [
+  49,
+  490,
+  "'s exciting is they are starting to speak English and we can gradually build more and more stuff and like kind of bring our ideas to life wi"
+ ],
+ [
+  49,
+  498,
+  "th iPodding. So it's basically just chatting to an AI bot and then having it build apps and websites and games in many cases."
+ ],
+ [
+  49,
+  506,
+  "So, yeah, I think, like, I'm just kind going through all these different things. And in terms of, like, the vision for the month, we kind of"
+ ],
+ [
+  49,
+  515,
+  " shared a bit about it. We wanna do, a VR lab. I think that'd be really cool. Like, Brennan's got a Oculus, and we got the kids over at Bikk"
+ ],
+ [
+  49,
+  524,
+  "oTesma also have Oculuses. So we'll, like, be building VR games and stuff throughout the month. And,"
+ ],
+ [
+  49,
+  530,
+  "yeah, I think yeah. There's a lot of different things for today, and I figured I'd just kind of, like, do a broad overview before we do, lik"
+ ],
+ [
+  49,
+  540,
+  "e our daily coworking sessions at the Vibe House. And I'm also a big fan of like building outside and like getting in the sunlight. So like "
+ ],
+ [
+  49,
+  549,
+  "outdoor vibe coding will definitely be a thing throughout the month. And"
+ ],
+ [
+  49,
+  554,
+  "yeah, I think I guess that kinda covers it for for for this. I don't know if, Mariela, you wanna add anything extra, but before we dive into"
+ ],
+ [
+  49,
+  563,
+  " building. Yes. So sometimes in these rooms, it's like a lot of just, like, looking at a screen. And I would love if everyone just, like, tu"
+ ],
+ [
+  49,
+  571,
+  "rn to their neighbor and maybe talk about maybe one or two things that they've always thought about maybe building. But, like, in this momen"
+ ],
+ [
+  49,
+  580,
+  "t and in this time, you can now maybe do it. Because I think that there will be, like, a lot of synergies. And so we'll just take, like, fiv"
+ ],
+ [
+  49,
+  589,
+  "e minutes to do that. Yeah. That sounds perfect. Yep."
+ ],
+ [
+  49,
+  592,
+  "And I'm not used to, like, giving like, I like collaborative workshops, so I'll come back in a few minutes and yeah. Speak your dreams. Spea"
+ ],
+ [
+  49,
+  600,
+  "k your dreams. I heard a lot of really guys, real quick. Yeah. So I heard a lot of really interesting ideas, and I'd love to hear if anyone "
+ ],
+ [
+  49,
+  609,
+  "wants to share because, like, I don't wanna be up here with my own ideas just purely building. I wanna kinda incorporate everyone. So"
+ ],
+ [
+  49,
+  617,
+  "if anyone wants to share, like, raise your hand, you had a really good idea. But yeah. If you wanna share. I feel like yeah. Sure. I I feel "
+ ],
+ [
+  49,
+  629,
+  "like yeah. You could just I think that's the best way. So yeah. Hello. Yeah. Hi, everyone. I'm a piano player, and for years, I've had an id"
+ ],
+ [
+  49,
+  642,
+  "ea"
+ ],
+ [
+  49,
+  642,
+  "of building an RPG that teaches you how to play piano. So you would connect your keyboard into a computer, and it'd be like a two d who play"
+ ],
+ [
+  49,
+  650,
+  "ed Pokemon when you were younger? Yes. Yeah. So, yeah, imagine, like you know how, like, in Pokemon, you you you your character walks across"
+ ],
+ [
+  49,
+  658,
+  " the line of sight of an NPC, and then it's like, let's battle. They'd be like that, but instead of that, it's it's a jam. So, like, you run"
+ ],
+ [
+  49,
+  666,
+  " across a saxophone player, and it's like, let's jam. And you collect, like, a"
+ ],
+ [
+  49,
+  671,
+  "a bag of licks and stuff like that. Anyway, so this is yeah. So it's a it's a full it's a full length RPG. Yes. And by the end, you learn ma"
+ ],
+ [
+  49,
+  682,
+  "ybe 12 songs or something like that. I love it. Yeah. That's so fun. Does anyone else have an idea that we could explore more that they wann"
+ ],
+ [
+  49,
+  693,
+  "a share? I'm working on a I'm working"
+ ],
+ [
+  49,
+  696,
+  "on a fancy crypto trading platform. Nice. So think fantasy football except for perps trading where you you can go head to head versus anothe"
+ ],
+ [
+  49,
+  704,
+  "r trader or you have a league that runs for maybe a hundred and twenty days or something like that. And you accumulate points. Everyone, lik"
+ ],
+ [
+  49,
+  713,
+  "e, will put up 1 ETH for a winner. Yeah. And all the fees that are collected on the platform will go to support decentralized science. That'"
+ ],
+ [
+  49,
+  721,
+  "s awesome."
+ ],
+ [
+  49,
+  722,
+  "Yeah. I'm excited to see how we could build that throughout the month. I think I was joking, like, with my friends that maybe next year, lik"
+ ],
+ [
+  49,
+  730,
+  "e, we'd build our own fantasy app, like, cause it's just getting so much easier. So I think yeah. This would be awesome. Like, love it. Does"
+ ],
+ [
+  49,
+  739,
+  " anyone have, like, a simple idea that maybe we can live build right now? Yeah. I'm not sure how simple is it. So I'm using"
+ ],
+ [
+  49,
+  746,
+  "n a 10. Who know n a 10? Who use it? Love it. Yeah. And self hosted n a 10 is free of charge effectively, and it's very easy to make. So I u"
+ ],
+ [
+  49,
+  757,
+  "se self hosted n a 10 for my business. Yeah. But to make agents, AI agents inside run reliably, I need to use evals, like evaluations."
+ ],
+ [
+  49,
+  768,
+  "Yeah. And free plan of n a 10 allow only one eval, like, for only for one workflow, which is not enough. Paid plan for self hosted n a 10 co"
+ ],
+ [
+  49,
+  780,
+  "st $800 a month, which is for small business doesn't make sense. I don't wanna switch from n a 10. So I just had idea yesterday that should "
+ ],
+ [
+  49,
+  793,
+  "be very easy to wipe code"
+ ],
+ [
+  49,
+  795,
+  "that, okay, I have production server with n a 10, which run my workflows, and I should just click something or type command, which will copy"
+ ],
+ [
+  49,
+  807,
+  " exactly workflow which I need to evaluate to my Docker instance in my laptop and create eval just for it, like use eval,"
+ ],
+ [
+  49,
+  818,
+  "and use free n a 10 to run this eval, and so I can debug the workflow. And, yeah, give me feedback. So using this one free eval, yeah, maybe"
+ ],
+ [
+  49,
+  831,
+  " not super, like, life changing idea, but saving $800 a month for me versus yeah. I think that's amazing. Like, it reminds me Somebody had s"
+ ],
+ [
+  49,
+  843,
+  "olution. Right? So"
+ ],
+ [
+  49,
+  845,
+  "Same problem. Yeah. I love if we build that. That'd be great. It reminds me I was with I was vibe coding with a, six year old, and we were b"
+ ],
+ [
+  49,
+  854,
+  "asically creating all these different games at Edge Esmeralda, like, with other kids too. And we had QR codes for them, and I was paying $10"
+ ],
+ [
+  49,
+  862,
+  " a month because I wanted at least two r q like, two QR codes. That probably my bad. Like, I probably could have found a better way to do it"
+ ],
+ [
+  49,
+  871,
+  ". But he went out of his way and created this QR code generator"
+ ],
+ [
+  49,
+  875,
+  "app. And, like, once again, he's six years old. And he just said he emailed me and said, like, Jack, it wasn't that hard to just do this. Th"
+ ],
+ [
+  49,
+  883,
+  "ere's a wide range of different vibe coding tools, and I don't have everything listed here by any stretch. But I these are a lot of the tool"
+ ],
+ [
+  49,
+  892,
+  "s that I've used. There's also, like, Codecs, and Claude Code is very popular here and for good reason. And there's also Cursor and like Lov"
+ ],
+ [
+  49,
+  900,
+  "able"
+ ],
+ [
+  49,
+  900,
+  "and all these different tools. Like, we'll have throughout the month, we'll have like different sessions for each of them, I think, because "
+ ],
+ [
+  49,
+  907,
+  "it's like different tools for different jobs. And, like, we'll probably do, like, a VR session, like, within the next couple weeks. Like, we"
+ ],
+ [
+  49,
+  914,
+  "'re we'll just go all in on VR. But I figured to just share, like, today, I'm gonna be using Lovable, and we're also, like, talking to them "
+ ],
+ [
+  49,
+  922,
+  "about getting some free credits for everyone here. So, like, I'll update you guys if we do get that because I think that'd be really awesome"
+ ],
+ [
+  49,
+  929,
+  "."
+ ],
+ [
+  49,
+  929,
+  "And, yeah, I think, like, a lot of these things, like, we could use Notion for, like a project tracker. But I think it's fun to vibe code it"
+ ],
+ [
+  49,
+  939,
+  " because we can make it look how we want it to look and we can make it really pretty. So, like, for example, yeah, like, this Vibe arcade di"
+ ],
+ [
+  49,
+  948,
+  "d not need like, I went way too hard on the design and stuff. But"
+ ],
+ [
+  49,
+  953,
+  "I think, like, whenever I have an idea like this, I like to start like, there's different philosophies philosophies here, but, like, I love "
+ ],
+ [
+  49,
+  961,
+  "to start with the design. And, I actually use chat to be t a lot and, like, just generating images. So, like, I start with an idea. Like, I "
+ ],
+ [
+  49,
+  969,
+  "want to create a vibe arcade, and I explain it to ChatuchuBT. And maybe it, like I'll kind of, like, brainstorm with it. Like like, what"
+ ],
+ [
+  49,
+  977,
+  "what tools can we use to build this? Like, what's the like, what am I not thinking of that might be smart? And, like, kinda just brainstormi"
+ ],
+ [
+  49,
+  986,
+  "ng with Chatuchite and, like, getting the idea more clarified and more clear. And then, like, building yeah. Kind of just like designing a a"
+ ],
+ [
+  49,
+  994,
+  " fully functioning app from there. And you like start with the design and then you can iterate. And I love using Lovable for this, but there"
+ ],
+ [
+  49,
+  1003,
+  "'s many different tools."
+ ],
+ [
+  49,
+  1004,
+  "So I think, like, I'm curious, like, maybe we could go with this. Like, if we were to go with any of these aesthetics, like, for, a project "
+ ],
+ [
+  49,
+  1016,
+  "portfolio, I think do you guys have a preference? Like, this versus this? What? All good. All good? Okay. Let's so this is how I build. So I"
+ ],
+ [
+  49,
+  1028,
+  "'m gonna go like this. I'm gonna screenshot."
+ ],
+ [
+  49,
+  1032,
+  "And then I'm going to send this to Lovable. We're going to go here and I'm basically going to use Whisperflow, which is this tool here, whic"
+ ],
+ [
+  49,
+  1041,
+  "h I can also share more. We're going to get free credits. We talked to the founder of WhisperFlow, and I've it's basically a tool to to basi"
+ ],
+ [
+  49,
+  1050,
+  "cally just dream out loud, and you can build by instead of talking to your keyboard, you can just think out loud, and I use it all the time."
+ ],
+ [
+  49,
+  1060,
+  " I'm"
+ ],
+ [
+  49,
+  1060,
+  "one of the biggest power users in the world for it. But, yeah, I think for this, like, we're kinda thinking like a like a project tracker th"
+ ],
+ [
+  49,
+  1070,
+  "at we could all use. Like, I think if anyone wants like is is there any, like, features that we could add to this, like, project tracker tha"
+ ],
+ [
+  49,
+  1080,
+  "t anyone wants to, like, add to? Or if there's because I think"
+ ],
+ [
+  49,
+  1084,
+  "yeah. Totally. Yeah. Cool. Yeah. Love this. So, like Yeah. Like because"
+ ],
+ [
+  49,
+  1107,
+  "yeah. Because I've built, like like, I think the idea of, a portfolio is really exciting for, a community because it's easy to build, like, "
+ ],
+ [
+  49,
+  1120,
+  "personal websites, and we'll probably actually have, like, a personal website building workshop at some point. So, like because it's way eas"
+ ],
+ [
+  49,
+  1133,
+  "ier to do it now and you can design it however you'd like. But yeah. I think that's I think that makes sense where it's like globally access"
+ ],
+ [
+  49,
+  1146,
+  "ible. So Yes. Inviting collaboration."
+ ],
+ [
+  49,
+  1149,
+  "So I'm literally just taking notes here, and I'm gonna I'm gonna give a good prompt in a bit. But the idea is is, like, for features that ca"
+ ],
+ [
+  49,
+  1161,
+  "n show progress, it can be accessible. How do you spell? Accessible to everyone without login. This is kinda me just, like, thinking through"
+ ],
+ [
+  49,
+  1172,
+  ", like, what it could look like and feel like. But yep."
+ ],
+ [
+  49,
+  1177,
+  "UWare. UWare. I just sent you a link. Okay. Sure. Okay. Let's do it. Apps like Level, but inside of you were they have, like, a community fe"
+ ],
+ [
+  49,
+  1192,
+  "ature. Mhmm. And it's actually self it's, self hosted on the website. So,"
+ ],
+ [
+  49,
+  1200,
+  "if you go to that link there Yep. This is like a AI prompt optimizer, but like you can see at the bottom they have like views and comments t"
+ ],
+ [
+  49,
+  1207,
+  "hat people can talk about it. Yeah. And then on the right side, there's like this discover feature for all the other community apps that peo"
+ ],
+ [
+  49,
+  1214,
+  "ple have built using the tool. Cool. So like in I Yeah. Like Lovable has this as well, I think, for community and so does JWT, but the UX co"
+ ],
+ [
+  49,
+  1221,
+  "uld look something like this. And you can actually interact with this"
+ ],
+ [
+  49,
+  1225,
+  "Yeah. Like, container here. Yeah. But it's it's all on the platform. So something like this probably, like, inside of, like, Edge. Yeah. Tot"
+ ],
+ [
+  49,
+  1233,
+  "ally. And what does this look like on mobile? I'm gonna because, like, I like to design things also thinking about what it looks like on a p"
+ ],
+ [
+  49,
+  1240,
+  "hone. So, like, this is kinda me just looking at you used this from your phone or just from your Not from my phone. I've used I actually use"
+ ],
+ [
+  49,
+  1248,
+  ", like, Lyra in general for prompting other LLMs, but it's Cool. Yeah. It's a really cool community. I've seen some really cool apps people "
+ ],
+ [
+  49,
+  1256,
+  "have built on this. Yeah."
+ ],
+ [
+  49,
+  1257,
+  "I love the UI. Like, what are talking about? Something that we could probably use Yeah. At least on, like, the UX front. Totally. Like, Disc"
+ ],
+ [
+  49,
+  1265,
+  "over and then this would be yeah. Like, they'd have a Discover and then this would be you're thinking, like, you could talk to a chatbot may"
+ ],
+ [
+  49,
+  1272,
+  "be or just in general, like Possibly. If you go back to, like, the if you click on, like, the logo, like, of UWARE, it'll take you to the ho"
+ ],
+ [
+  49,
+  1280,
+  "me page. Mhmm. And they have, like, this community spotlight feature Oh, cool. Okay. And, like, trending projects. But if you actually click"
+ ],
+ [
+  49,
+  1288,
+  " into any of projects, it'll bring up that view that I that Lira had. Yep. So, like, Lira was, like, a vibe coding tool that went viral on R"
+ ],
+ [
+  49,
+  1295,
+  "eddit a few months ago. Yeah."
+ ],
+ [
+  49,
+  1297,
+  "So, yeah, something like this. Cool. Yeah. I love the feel of it. Yeah. So I'm I'm I'm thinking we can maybe start with, like like, maybe we"
+ ],
+ [
+  49,
+  1309,
+  " sometimes I like to just, like, let AI build what it thinks solves the problem best first, and then we can compare it to this and then see "
+ ],
+ [
+  49,
+  1322,
+  "how"
+ ],
+ [
+  49,
+  1322,
+  "it feels. Because this is like I I like the idea of this a lot. Cool. Awesome. What's the problem again? The problem is there's a bunch of d"
+ ],
+ [
+  49,
+  1332,
+  "ifferent projects here, and I think having one place where they're all, like, listed is a very nice thing to have. And, like, people people "
+ ],
+ [
+  49,
+  1341,
+  "could also put, like, bounties on, like, on different projects. Like,"
+ ],
+ [
+  49,
+  1346,
+  "it could be also a place where people, like, invite collaborators and stuff like that. So yeah. We're talking about, like, a bounty board or"
+ ],
+ [
+  49,
+  1358,
+  " something like this as, like, a different idea, but similar thing. So So you wanna have a sort of an interface of your project? Yep. Yep. Y"
+ ],
+ [
+  49,
+  1369,
+  "eah. And I saw Josh?"
+ ],
+ [
+  49,
+  1371,
+  "This is great. How about we if we had a place where we could all vote on suggested projects or even Yeah. Events, sessions, like if someone "
+ ],
+ [
+  49,
+  1380,
+  "wants to run, like, a stand up comedy workshop. Yeah. And then whoever views the whole list and choose, like, whether to give it a a thumbs "
+ ],
+ [
+  49,
+  1388,
+  "up or a thumbs down, like a Reddit thingy. Yeah. And then the ones that make it to the top, you know, the organizer can then feel like they "
+ ],
+ [
+  49,
+  1397,
+  "have enough support to run them or something like that. Yeah. So we gotta look different, like, events."
+ ],
+ [
+  49,
+  1403,
+  "Yeah. Yeah. Like, thumbs up. Yeah. Like a Like a pipeline of projects and then people can give support or like negative Yep. Yeah. I think j"
+ ],
+ [
+  49,
+  1417,
+  "ust like an idea board is like a nice thing and just like making it look nice. So I like that a lot. And cool. So"
+ ],
+ [
+  49,
+  1428,
+  "does anyone else have an idea before we give our first prompt? I think I think we can just go for it. The the last thing I wanted to share i"
+ ],
+ [
+  49,
+  1438,
+  "s like so I was playing around with a lot of different fonts, and I think fonts do mean a lot. And I've recently been loving this one. So, l"
+ ],
+ [
+  49,
+  1448,
+  "ike, instrument serif. I'm gonna tell it I like this font."
+ ],
+ [
+  49,
+  1452,
+  "I think it'd be a cool font. There's like just like a bunch of these you can explore in Figma and stuff, but it feels like old Mac vibes, wh"
+ ],
+ [
+  49,
+  1462,
+  "ich I like I like the vibe. So, yeah, I think I think we're good to go. So I'm just gonna tell Lovable. I'm gonna treat it like basically ju"
+ ],
+ [
+  49,
+  1471,
+  "st it's another it's just like an AI brain in the room that we just have to tell it what we want. So"
+ ],
+ [
+  49,
+  1478,
+  "we want to create a community project dashboard, and we want it to follow the design of the of the image that we're showing. And we wanna us"
+ ],
+ [
+  49,
+  1492,
+  "e instrument serif as the main font. And, yeah, in terms of features, I've listed a few below. But,"
+ ],
+ [
+  49,
+  1502,
+  "I think we can basically make it accessible to everyone without a login, and we can add like and comment features later. But just we wanna s"
+ ],
+ [
+  49,
+  1513,
+  "tart with the design, and then we'll add the database later. So we want it to feel like a nice and collaborative warm space. So we'll see we"
+ ],
+ [
+  49,
+  1523,
+  "'ll see how this goes."
+ ],
+ [
+  49,
+  1525,
+  "But, yeah, I I think, like, it's really fun to just be able to think out loud. You can see WhisperFlow just takes everything and just I can "
+ ],
+ [
+  49,
+  1536,
+  "use WhisperFlow wherever I'm at, like, on my Mac. I also use it on my phone. It's Lovable is now gonna be just thinking for a bit. And, yeah"
+ ],
+ [
+  49,
+  1547,
+  ", I guess in the meantime, there"
+ ],
+ [
+  49,
+  1550,
+  "anything else? Like, any other ideas, like, that you guys have for the month that you're excited about? Or yeah. Jeremy? So, like, I like to"
+ ],
+ [
+  49,
+  1565,
+  " sign up for new tools, and I listen to a shit ton of podcasts. Yeah. And"
+ ],
+ [
+  49,
+  1573,
+  "I was thinking about, like, a Groupon esque type platform that's, like, indexed podcast with active, like, offers Yeah. And discounts becaus"
+ ],
+ [
+  49,
+  1583,
+  "e, like, most podcasts are sponsored. There's actually some really good discounts for tools that you're looking for already. And so it's lik"
+ ],
+ [
+  49,
+  1593,
+  "e a platform that you can just look for Yeah. Discounts."
+ ],
+ [
+  49,
+  1597,
+  "True. But, like because on Groupon, you know, it's like businesses and everything. But you like, traditional Internet isn't indexed for podc"
+ ],
+ [
+  49,
+  1605,
+  "asts. There's a few like, I I know that we've chatted about, like, like, listen notes and, like, some of these, like, word to, text. But Yea"
+ ],
+ [
+  49,
+  1613,
+  "h. Yeah. I guess it's, we would need to index well, we would need to, like, transcribe a lot and then index it for for, like, advertising"
+ ],
+ [
+  49,
+  1621,
+  "Yeah. Off like, active offers. Yeah. Totally. And it could actually be, a marketplace as well to other companies. Yeah. I love the idea. Yea"
+ ],
+ [
+  49,
+  1631,
+  "h. I think like a like a toolbox where we can also have this guy it's it's an interesting idea. I think we could we could go somewhere with "
+ ],
+ [
+  49,
+  1641,
+  "that for sure. Yeah. And yeah. I love it. Cool. Cool."
+ ],
+ [
+  49,
+  1645,
+  "Sweet. Yeah. I think there's the cool thing with this is like yeah. I think it's easier than ever to go from idea to creating the thing, and"
+ ],
+ [
+  49,
+  1656,
+  " it's gonna by the end of the month, it's gonna be even easier than it is now. So it's crazy. Let's explore our universe. This is not necess"
+ ],
+ [
+  49,
+  1666,
+  "arily the vibe I was going for, but you can see,"
+ ],
+ [
+  49,
+  1670,
+  "like, I feel like for this, I think, like, traditionally, like, how I'd go about about this is, like, I would take inspiration from other UI"
+ ],
+ [
+  49,
+  1683,
+  "s. And, yeah, I think, like, we'll probably we'll on this, like, throughout the month and stuff. But"
+ ],
+ [
+  49,
+  1692,
+  "I think I wanna tell it a few things. I wanna tell it that I'll just I'll just tell it right now. So this is interesting. It's a little we l"
+ ],
+ [
+  49,
+  1702,
+  "ove stars. We don't love them this much maybe, for the for the idea board. And we basically just wanna have a simple place where anyone can "
+ ],
+ [
+  49,
+  1712,
+  "add a new portfolio site, and we we can make it more minimalist. And"
+ ],
+ [
+  49,
+  1717,
+  "and yeah. We're also doing this for Edge City Patagonia, so we can include that in the branding as well for the site. But in general, it loo"
+ ],
+ [
+  49,
+  1728,
+  "ks interesting, and you don't need to change the design too much. I think like behind where it says explore our universe, think we could rem"
+ ],
+ [
+  49,
+  1739,
+  "ove the flickering light thing."
+ ],
+ [
+  49,
+  1741,
+  "Yeah. I think that's good. And does anyone else have any thoughts before I submit this? Or yeah. Sorry. We have a question. Yeah. Is prompt "
+ ],
+ [
+  49,
+  1752,
+  "optimization really worth the effort and hassle, or can you really just, you know, free flow ideas like that without worrying about the cost"
+ ],
+ [
+  49,
+  1764,
+  "? So"
+ ],
+ [
+  49,
+  1764,
+  "it's a good like, I think there's there's different philosophies here. Like, my friend, like, does a technical he he like, he believes, like"
+ ],
+ [
+  49,
+  1773,
+  ", strongly in just having, like, a full blueprint of, the entire product before you even start and, like, spending a full week on that. And "
+ ],
+ [
+  49,
+  1783,
+  "I'm, like, on the opposite side of the spectrum where, like, I basically just vibe with it and"
+ ],
+ [
+  49,
+  1789,
+  "iterate as fast as possible. And, yeah, I think there's like there's all these little, like, tools, like, especially with Lovable, like, I c"
+ ],
+ [
+  49,
+  1799,
+  "ould change like, I can change the words here. I could say, like, universe explore our world or whatever. And yeah, I think there's I'm curi"
+ ],
+ [
+  49,
+  1809,
+  "ous if other people have thoughts on this, but in general, like, I like to"
+ ],
+ [
+  49,
+  1814,
+  "just treat it like a basically like a cofounder of whatever I'm building. And kind of just like there's also a chat feature so you can like "
+ ],
+ [
+  49,
+  1824,
+  "think through things before you build it all out. But, yeah, there's there's different I think we're all kind of exploring the frontier here"
+ ],
+ [
+  49,
+  1834,
+  " together. So, yeah, it's I guess it's a that's my perspective on it at least. So yeah."
+ ],
+ [
+  49,
+  1840,
+  "So basically, I'm gonna not change this right now. So I'm saying this is interesting. It's a little like we love stars. Maybe for the idea o"
+ ],
+ [
+  49,
+  1855,
+  "f Word, just a simple place where we can have a new portfolio site"
+ ],
+ [
+  49,
+  1862,
+  "or idea about anything like like an event they'd like to host, and people should be able to like and comment."
+ ],
+ [
+  49,
+  1888,
+  "We can make it more a bit more minimalist. And Explanation point for vibes. The site looks interesting. Yeah. So cool. Anyway, so"
+ ],
+ [
+  49,
+  1911,
+  "basically, the idea is, like, it's very iterative. And I also wanted to share this. So, like, in the Vibe dashboard, like, the prompt I star"
+ ],
+ [
+  49,
+  1919,
+  "ted with here was, like, really simple. I just started with this image with Thomas, and and I just said, want to create a really fun, simple"
+ ],
+ [
+  49,
+  1927,
+  ", and stupid app. It's gonna be a progressive web app. So it, like, shows up on your phone, like, as a regular app."
+ ],
+ [
+  49,
+  1934,
+  "And it should be one where it's called a vibe check, and you get met with this character that's that says I'm sure that I'm sharing an image"
+ ],
+ [
+  49,
+  1942,
+  " of. This is a bot. Yeah. This was totally like this whole app we built in, like I don't know. Like, the camera didn't work at first, so, li"
+ ],
+ [
+  49,
+  1949,
+  "ke, there's a problem there. But, like, in general, it was, like, fifteen, thirty minutes of, like, building this whole thing. And it's like"
+ ],
+ [
+  49,
+  1957,
+  " it's just, a silly, like, meme. But"
+ ],
+ [
+  49,
+  1959,
+  "but, yeah, I think there's a lot of these things that, like, if you have a good idea in the moment, you can just kind of just drop it and se"
+ ],
+ [
+  49,
+  1967,
+  "e where it goes. So yeah. Are there any thoughts? I'm gonna press allow for this. So it's gonna this is actually a really important point. S"
+ ],
+ [
+  49,
+  1976,
+  "o, like, we built the front end, which is, like, the thing you see, but there's no database attached to it and, like,"
+ ],
+ [
+  49,
+  1983,
+  "there's no back end. So, like, we're basically gonna like, Level will just made it a lot easier to to basically allow us to add users and to"
+ ],
+ [
+  49,
+  1992,
+  " add, like, information and actually make our app smart, essentially, so it's not just like a page. And so, like, by clicking, like, enable "
+ ],
+ [
+  49,
+  2000,
+  "cloud, it's gonna yeah. It's gonna open up this database storage authentication"
+ ],
+ [
+  49,
+  2005,
+  "back end logic, and then we can add AI to it. So I'm just gonna press allow. But, yeah, this is a pretty powerful thing. So yeah. I actually"
+ ],
+ [
+  49,
+  2014,
+  " just had an idea. I was thinking because you made this and you had so much fun with Tomas yesterday. And I was thinking if you guys, like, "
+ ],
+ [
+  49,
+  2022,
+  "end up getting together with your friends, if you wanna, like, open up, like, Lovable and maybe, like, try to create something at some point"
+ ],
+ [
+  49,
+  2031,
+  ", maybe over dinner or maybe, like, at a cafe or something in the morning,"
+ ],
+ [
+  49,
+  2035,
+  "and you want to then, like, post and share in the vibe code, chat, I would, like, love to see. I think, we're always looking for new and uni"
+ ],
+ [
+  49,
+  2042,
+  "que ways, especially here. Like, the conversations that happen at Edge are, like, wild and crazy. And so it'd be really cool to, like, out o"
+ ],
+ [
+  49,
+  2050,
+  "f conversation, see what you all build. I think that one of the things that we're also prototyping is just, like, new ways of connecting and"
+ ],
+ [
+  49,
+  2057,
+  " building. Right? I already talked to you guys about,"
+ ],
+ [
+  49,
+  2060,
+  "the one where you're building from body somatics, and we'll be running them again with the meditation and sound and all the other things. Bu"
+ ],
+ [
+  49,
+  2069,
+  "t even just, like, friend collective energy, it'd be really fun to see what you all build. So there's just, like, an idea. Yeah. I wanna see"
+ ],
+ [
+  49,
+  2078,
+  " a lot more links, and there's been some fun ones already. But, yeah, it's gonna be good. Sorry. One more question."
+ ],
+ [
+  49,
+  2085,
+  "Do you have any tools that will build smart contracts or back end stuff? A lot of the tools that I've played with seem to only wanna do fron"
+ ],
+ [
+  49,
+  2093,
+  "t end demos. Yeah. So I've been tinkering on this for, like, over or, like, about a year now because, like, Edge City Lana, which was, like,"
+ ],
+ [
+  49,
+  2102,
+  " in Thailand, like, a year ago, like, we're trying to build smart contracts and trying to vibe code smart contracts. But there's actually a "
+ ],
+ [
+  49,
+  2110,
+  "company called Heard dot Eco, and Anna, I think, is gonna do Anna's right here, and she she just she just arrived, so we can welcome her. Bu"
+ ],
+ [
+  49,
+  2119,
+  "t"
+ ],
+ [
+  49,
+  2119,
+  "but, yeah, we're gonna actually be exploring, a smart contract building session. So, like like, with the Vibe Arcade, I'm trying to think of"
+ ],
+ [
+  49,
+  2128,
+  " interesting ways where, yeah, where we can have, like, a decentralized form of, like, agreement in the app or, like, a programmed some sort"
+ ],
+ [
+  49,
+  2137,
+  " of, like, smart contract that would be interesting. So, like, I'd love to brainstorm with you guys about ways we can do that. So"
+ ],
+ [
+  49,
+  2145,
+  "herd dot eco, though, is gonna be one of our collaborators there. So herd, it's h e r d dot eco. And, yeah, it's it's basically like a no co"
+ ],
+ [
+  49,
+  2155,
+  "de platform to build smart contracts a bit easier. And, like, I don't think it's ready yet for, like, all of us to use, but we'll we'll get "
+ ],
+ [
+  49,
+  2166,
+  "there throughout the month. So yeah. Yep."
+ ],
+ [
+  49,
+  2169,
+  "Just to clear out on the chart, are you making, like, a portfolio board for vibe coding projects Yes. That are gonna be launched during this"
+ ],
+ [
+  49,
+  2177,
+  " month Yes. By anyone in the community? Yeah. Okay. So maybe we should have like categories. Yeah. We could have a I don't know if you alrea"
+ ],
+ [
+  49,
+  2185,
+  "dy talked about it, but like maybe before you get to the projects because like sometimes I get a little confused if there's a huge"
+ ],
+ [
+  49,
+  2192,
+  "gallery of projects. Yeah. I like to start with, it could even be a wizard, you know, like what kind of what are you into at the moment? Lik"
+ ],
+ [
+  49,
+  2200,
+  "e are you more interested in business, games? Yeah. You know, and then and then you you take the users through the wizard and then maybe you"
+ ],
+ [
+  49,
+  2209,
+  " only display projects that are kind of interesting or or relevant to them. You know? Totally. Yeah. Something like that. Yeah."
+ ],
+ [
+  49,
+  2216,
+  "I think that's a great idea. And one of the cool things about, like, one of the recent, like, updates to Lovable is, like, we can build a ba"
+ ],
+ [
+  49,
+  2225,
+  "sically, like, we can just tell that we want an AI that will guide us to the projects we want the most. So it's it's, maybe we could just cl"
+ ],
+ [
+  49,
+  2234,
+  "ick on the different categories and yeah. I like that. Like, making it personalized is cool idea. So"
+ ],
+ [
+  49,
+  2240,
+  "sweet. And it's it's currently working, so we're gonna see it improve in the background. So question. We are developing a little bit rein in"
+ ],
+ [
+  49,
+  2251,
+  "ventions of you. Right? So it's a why don't we just use, for example, Notion? Yeah. And because if we wipe code it Yeah. Totally. We will be"
+ ],
+ [
+  49,
+  2262,
+  " having wipe bugs also. Yeah."
+ ],
+ [
+  49,
+  2264,
+  "We're talking about Notion. We were talking about Notion versus yeah. We were talking about Notion versus, like, Lovable earlier. And I thin"
+ ],
+ [
+  49,
+  2272,
+  "k this is just, a fun example, like, that we can use that, like, might be I would love to use this throughout the month, and I also love Not"
+ ],
+ [
+  49,
+  2279,
+  "ion. Like, I have a lot of friends that work there. And I think, like, I'm gonna we'll probably be, like, prototyping both at the same time "
+ ],
+ [
+  49,
+  2287,
+  "because, like, what's cool about this is we can make it look fun and make it look exactly as we want it."
+ ],
+ [
+  49,
+  2293,
+  "But yeah. It's a good it's a good it's a good question. So it looks like now we can seems like anyone can now go here and, like, you can sha"
+ ],
+ [
+  49,
+  2304,
+  "re your idea. And I definitely wanna, like, continue to design this and, like, get some more graphics for it and stuff throughout the month."
+ ],
+ [
+  49,
+  2315,
+  " But yeah. I think yeah. I'll I'll probably just just, like I'll I'll submit this one as, like, the first"
+ ],
+ [
+  49,
+  2323,
+  "dummy test. We'll see if this works. So I'm basically just getting the link for the the so I'm gonna share the idea. And so, like, one of th"
+ ],
+ [
+  49,
+  2337,
+  "e cool things is, like, if we do already have the link, I think it should it should populate"
+ ],
+ [
+  49,
+  2347,
+  "the so I'm actually just going to tell AI right now. So I'm going to select this. When we type in when we paste a link here, we want to grab"
+ ],
+ [
+  49,
+  2355,
+  " the metadata. So we want to grab the title and the cover image that's associated with each link, like, whenever and it should auto populate"
+ ],
+ [
+  49,
+  2364,
+  ", like, whenever we paste in a link here. So oh, shoot. I also always like that Jack's voice changes when he uses Whisper Flow. So we've bee"
+ ],
+ [
+  49,
+  2372,
+  "n on FaceTime. We've been, like, organizing this, like, months ahead of time. Yeah. And so I'd be on FaceTime with him, and he'd be like, ho"
+ ],
+ [
+  49,
+  2381,
+  "ld on one second. Okay. So I think that we should do it like this."
+ ],
+ [
+  49,
+  2385,
+  "And it's the most amazing. And he didn't, like, fully say before, but the founder of Whisper Flow, we got on a call with him, and he just ca"
+ ],
+ [
+  49,
+  2392,
+  "sually was like, yeah. I think I'm at, like, a million words. And he was like, wait. And he was, like, very monotone and, like, you know, ju"
+ ],
+ [
+  49,
+  2400,
+  "st, like, having the call. And then he paused and he was like, then I know you by your stats. And so Jack pulled it up and he's at like just"
+ ],
+ [
+  49,
+  2407,
+  " shy of 900,000."
+ ],
+ [
+  49,
+  2408,
+  "And even the founder is only at 400,000. So you are in the presence of a all time leader whisper flow. Even the founder was shocked. So yeah"
+ ],
+ [
+  49,
+  2419,
+  ". So Dude, he has all my data. It's everything. So just wanted to throw that back to you there. It's crazy. But, yeah, like, I'm on Telegram"
+ ],
+ [
+  49,
+  2429,
+  " all the time and, like, if I'm lazy, I'll just, like, voice message everyone and it's very easy. So I like it."
+ ],
+ [
+  49,
+  2438,
+  "Yeah. That's good. And, again, we're working on the link, but I think pretty much because you've impressed him so much, we got all of Edge C"
+ ],
+ [
+  49,
+  2449,
+  "ity free credits for Whisper Flow. So we'll be sending that out soon. Yeah. I know you're working on getting Yeah. Yeah. Well, I I was hopin"
+ ],
+ [
+  49,
+  2460,
+  "g we'd get the credits today,"
+ ],
+ [
+  49,
+  2462,
+  "but, yeah, I'll I'll let you know when when we Any, like, insight on how much So for for Edge Esmeralda, we had replic credits, and I we bas"
+ ],
+ [
+  49,
+  2472,
+  "ically all had, like, one free month. So it's, the $25 is, like, what I think is reasonable for us to get for where everyone can try it for "
+ ],
+ [
+  49,
+  2483,
+  "free for one month, and it should be good. I guess, like, realistically, if how how many hours of live coding"
+ ],
+ [
+  49,
+  2491,
+  "would that be equivalent to? Because, like, you can see Okay. In terms of, like, actual hour, like it's a great question. Like, will will we"
+ ],
+ [
+  49,
+  2502,
+  " hit the limits is, I guess, question. Like, 200 it gives you 200 credit or it gives you 100 credits, which is like about a 100 prompts more"
+ ],
+ [
+  49,
+  2513,
+  " or less. Okay. So"
+ ],
+ [
+  49,
+  2514,
+  "it's like really, that's a good like four or five projects each. So Okay. That's pretty good, actually. Yeah. I feel like Cool. It works. Ye"
+ ],
+ [
+  49,
+  2526,
+  "ah. So, basically, I just I I just use this for ease of use. So I'm gonna see if it works. So I basically just submitted this. And cool. So "
+ ],
+ [
+  49,
+  2537,
+  "I basically just grabbed all the"
+ ],
+ [
+  49,
+  2540,
+  "the metadata for it. So I basically didn't have to type in everything twice because it's like I basically just paste it in the link, and the"
+ ],
+ [
+  49,
+  2552,
+  "n it knows what what we're doing. And we could make plenty of improvements, like the devil's in the details, as many say. So for category, I"
+ ],
+ [
+  49,
+  2563,
+  " could say community,"
+ ],
+ [
+  49,
+  2565,
+  "portfolio, vibes. I'll just say yep. Mhmm. Okay. This is actually a different thing. Yep. Maybe we shouldn't just have completed projects on"
+ ],
+ [
+  49,
+  2578,
+  " the portfolio page. Maybe some of them could be like there could be a progress bar, Yeah. And you could see some some projects"
+ ],
+ [
+  49,
+  2590,
+  "that are just an I an idea phase. Yeah. And then you could you could filter for, like, projects at idea phase, and maybe you could even prov"
+ ],
+ [
+  49,
+  2597,
+  "ide some comments to those where it'd be like, people can submit just an idea. Because I feel like a lot of people it takes a while for some"
+ ],
+ [
+  49,
+  2605,
+  "one to get started, let alone finish something. Right? Yeah. So it'd be cool if we had, like, some concepts, and then people can provide som"
+ ],
+ [
+  49,
+  2612,
+  "e help to, like, flesh them out. Yeah. Totally. Then you could have, like, a in progress, you know, like, in development currently, and you "
+ ],
+ [
+  49,
+  2620,
+  "can see some, like, early signs of what the project looks like. Yeah. And then you could have, like, completed projects."
+ ],
+ [
+  49,
+  2626,
+  "Yeah. I don't know. What do you think about that? Yeah. So, basically, I basically just took your idea and said, let's add a progress bar so"
+ ],
+ [
+  49,
+  2634,
+  " people can see which projects are in the idea phase versus building phase versus polishing stages. They're really cool because then you cou"
+ ],
+ [
+  49,
+  2642,
+  "ld get a lot more projects on there and, like, most of them would be, like, half baked ideas. Definitely. I like the idea where it's just, l"
+ ],
+ [
+  49,
+  2650,
+  "ike, ideas and projects. It's like many of these will have links and I think that's awesome. But"
+ ],
+ [
+  49,
+  2656,
+  "And I always work really well with urgency. So if someone's like, wait. Your idea is so cool. When is it gonna be done? I'll be like, tomorr"
+ ],
+ [
+  49,
+  2671,
+  "ow. Yeah. Exactly. Jokes. Okay. Yeah. Oh, yeah. You can start voting. Alright."
+ ],
+ [
+  49,
+  2679,
+  "Cool. So we just submitted our first project. And, yeah, I I kinda wanna spend more time, like, this in new ways. And we could also get, lik"
+ ],
+ [
+  49,
+  2689,
+  "e, a nice like, I might put this on just, like, portfolio or, like, ideas.vibecoderesidency.com or something like this so we can kinda have,"
+ ],
+ [
+  49,
+  2699,
+  " like, a nice place for it to to be. And I'll I'll probably send that later today once I do it."
+ ],
+ [
+  49,
+  2706,
+  "But yeah. The other thing that's gonna be happening this week is, like I said, all of our programming is gonna be open, to outside residents"
+ ],
+ [
+  49,
+  2714,
+  ", for this first week. And so we're gonna be running some Vibe Pomodoro sessions, in our backyard. So we'll make that live on social layer, "
+ ],
+ [
+  49,
+  2721,
+  "but, like, would love to have have everyone there. And, like, you can help one another. Maybe you don't even have to work alone. Maybe, agai"
+ ],
+ [
+  49,
+  2729,
+  "n, like I was saying, you could do it with friends."
+ ],
+ [
+  49,
+  2732,
+  "I personally like, you know, Jack's vibe arcade. That's a good really way to, like, get started and, like, not be attached to the outcome as"
+ ],
+ [
+  49,
+  2741,
+  " if it's a game and it's, like, totally nonserious. You could make it spicy. It's spooky season. It could be about Halloween. Like, whatever"
+ ],
+ [
+  49,
+  2750,
+  " it is that you want and just would love to see some, like, creative energy in the backyard of the Vibe house. Yeah. I'm excited. Glad we go"
+ ],
+ [
+  49,
+  2758,
+  "t one game."
+ ],
+ [
+  49,
+  2759,
+  "It's basically just let it cook in the background. But I think in terms of design, like, think design is one of the most important parts of "
+ ],
+ [
+  49,
+  2768,
+  "vibe coding because, like, anyone can create a thing that kinda looks like this. And I, like, try to give it, like, a custom font that we li"
+ ],
+ [
+  49,
+  2776,
+  "ke. And in general, like, I think you can tell if I like, something's vibe coded if it has, like, an icon that looks like this and it's just"
+ ],
+ [
+  49,
+  2785,
+  " kind of like"
+ ],
+ [
+  49,
+  2786,
+  "there's like there's a lot of value in like uniqueness and stuff. And so like one last thing that I'll share is like I've been within the la"
+ ],
+ [
+  49,
+  2795,
+  "st like month or two because of like how important this all is, I've been diving into Pinterest of all places. Like, I did not think Pintere"
+ ],
+ [
+  49,
+  2805,
+  "st would be like a gold mine for ideas. But there's"
+ ],
+ [
+  49,
+  2808,
+  "there's a bunch of different designs here. Like, I'll just, like, find, like, a bunch of these things, like, on Lovable and stuff. So I can "
+ ],
+ [
+  49,
+  2816,
+  "basically screenshot something like this. And I'll I'll basically just, like, scroll through Pinterest all day and and, like, find things th"
+ ],
+ [
+  49,
+  2825,
+  "at look really good and look like, feel really nice. And then you can just screenshot and send you can send all this stuff to"
+ ],
+ [
+  49,
+  2832,
+  "Lovable, and then, like, you'll have a more original and unique design. And so I think, like, Pinterest is, yeah, just one of the best tools"
+ ],
+ [
+  49,
+  2842,
+  " I've found for, like, actually designing stuff that looks and feels good. So I'll do more of this. I don't know if there's for what we're d"
+ ],
+ [
+  49,
+  2853,
+  "oing here, I don't know if any of these aesthetics calls to you. Let me know. But"
+ ],
+ [
+  49,
+  2859,
+  "let me check-in on the site real quick. So okay. So we can see we got the progress bar. So, like, it's an idea phase. The vibe the vibe chec"
+ ],
+ [
+  49,
+  2869,
+  "k is still an idea phase. But we do have this feature now. So it's and, like, if we submit a new idea, we can see we can say if it's an idea"
+ ],
+ [
+  49,
+  2879,
+  " phase or building phase or polishing phase, we could add, a"
+ ],
+ [
+  49,
+  2883,
+  "selling phase or growth phase or whatever you wanna do there. But yeah. I think there's like, in terms of stuff, I don't know if there's any"
+ ],
+ [
+  49,
+  2893,
+  "thing else. We got, like, a bit of time. I don't if anyone else wants to share another thought that we could add to this or any ideas for th"
+ ],
+ [
+  49,
+  2904,
+  "e month that you're excited about or anything like that. I don't know. We don't need to go too long if we don't feel like it. But"
+ ],
+ [
+  49,
+  2913,
+  "yeah. I don't know if anyone has another idea for this or we're Or yeah. Yeah. Yeah. So we can add users and yeah. So this actually, like, I"
+ ],
+ [
+  49,
+  2934,
+  "'ve been I've been building out"
+ ],
+ [
+  49,
+  2939,
+  "a system. So, like, another one of my main projects has been building, like, a Telegram bot, and I'm trying to get everyone's, like, intros "
+ ],
+ [
+  49,
+  2949,
+  "from the intros channel into a database. And I think, like, I kinda wanna pair that with this. So, like, we can we can have because, like, t"
+ ],
+ [
+  49,
+  2960,
+  "he Telegram bot that I've built is named Infinity, and we can ask Infinity"
+ ],
+ [
+  49,
+  2965,
+  "whatever we want. So I basically just asked it like, can you search your memory for like the best vibe coding projects? And it got like Roma"
+ ],
+ [
+  49,
+  2974,
+  "n's projects here. I wish he was here right now. Yeah, think there's long story short, I think I think profiles are really important, and I "
+ ],
+ [
+  49,
+  2982,
+  "think we can build those throughout the month. And I don't necessarily wanna start from scratch right now because I think there's, like, som"
+ ],
+ [
+  49,
+  2991,
+  "e interesting stuff in the works."
+ ],
+ [
+  49,
+  2993,
+  "But, yeah, I think it's it's a great idea. So, yeah, today's very, like, free flowing. It's kinda just, like, exploring what we can build to"
+ ],
+ [
+  49,
+  3004,
+  "gether, and it's really cool to hear you guys' ideas and stuff. And I could just look one more time at the Notion to see if there's anything"
+ ],
+ [
+  49,
+  3016,
+  " else that we could dive into."
+ ],
+ [
+  49,
+  3018,
+  "Yeah. We'll be doing like vibe filmmaking with like a tool called Hollywood. So I think there's also yeah. There's a lot of like just bringi"
+ ],
+ [
+  49,
+  3026,
+  "ng ideas to life through film is also something I'm very passionate about. And I think a lot of people here are passionate about it. So yeah"
+ ],
+ [
+  49,
+  3035,
+  ". Yeah. Rahila will be here the last week, and we're actually, like, cooking up some ideas with her about some events."
+ ],
+ [
+  49,
+  3042,
+  "And her whole ethos of what she's building out is that you'll be able to build your own, like, filmmaking style. And so and then you'll be a"
+ ],
+ [
+  49,
+  3050,
+  "ble to utilize other people's filmmaking styles. And eventually down the line, you potentially would even be able to, like, monetize your fi"
+ ],
+ [
+  49,
+  3058,
+  "lmmaker. And so there's there's lots of things in the work there, and it'll be really great to have her here on the ground in Patagonia."
+ ],
+ [
+  49,
+  3066,
+  "Yeah. I'm excited for that. And, yeah, there's there's so much stuff here. Like, I think, like, the idea of, like, everyone creating, like, "
+ ],
+ [
+  49,
+  3075,
+  "different characters throughout the month too. Like, you just mentioned, like, a wizard. We could have, a wizard character. And, like, I've "
+ ],
+ [
+  49,
+  3084,
+  "built I've actually built a an app where I think it's the easiest way on the Internet to create"
+ ],
+ [
+  49,
+  3090,
+  "like Telegram bots. So it's like it's basically two minutes. You you go to the app and then you can you basically go to Telegram and then yo"
+ ],
+ [
+  49,
+  3099,
+  "u can just create the bot. And then you can give it a personality and then give it a profile photo and then anyone can talk to it. And so I "
+ ],
+ [
+  49,
+  3107,
+  "think like just in general, this idea of like bringing ideas to life and like characters to life and putting them in stories and putting the"
+ ],
+ [
+  49,
+  3116,
+  "m in films is like like maybe"
+ ],
+ [
+  49,
+  3118,
+  "making NFTs because we're in Argentina at a crypto thing. So I think there's a lot of good stuff. Yeah. One of the ideas we had is that ever"
+ ],
+ [
+  49,
+  3125,
+  "yone in the residency will, like, create their own persona and have, like, their own little avatar. So, Josh, get ready. Start thinking. Bre"
+ ],
+ [
+  49,
+  3132,
+  "nnan, we want you to. And then, Jack, will you pull up actually, like, the three d modeling site? I will. Because that's also really, really"
+ ],
+ [
+  49,
+  3139,
+  " cool, and we're thinking about leveraging that. Can I ask a question about the project?"
+ ],
+ [
+  49,
+  3143,
+  "The the bot? Yeah. Totally. Yeah. Does it have back end? Yeah. So it just set up Supabase. So it's it's connected to Supabase, but it's tech"
+ ],
+ [
+  49,
+  3152,
+  "nically, like, they're they're calling it the lovable cloud. And so it's they just rolled out this feature, and it's yeah. Basically, there'"
+ ],
+ [
+  49,
+  3162,
+  "s there's three different tables. We can click on them. We can see the post table."
+ ],
+ [
+  49,
+  3167,
+  "And, yeah, there's a database. We can add users with, like, user auth. We can connect if we wanna have, like, a login with Google option, li"
+ ],
+ [
+  49,
+  3177,
+  "ke, we can also add that because, like, Supabase is a very overpowered, awesome tool just for, like that covers, like, the back end. So it's"
+ ],
+ [
+  49,
+  3187,
+  " I love it. I haven't ran into many problems with it, like, with the stack."
+ ],
+ [
+  49,
+  3192,
+  "What about also doing back end? They are partnering with Supabase and building it gradually. You're nodding your head. I don't know if you h"
+ ],
+ [
+  49,
+  3204,
+  "ave any thoughts about it. Yeah. That's Yeah. Like legendary. Yeah. That's oh, it's crazy. Yeah. It's it's really good. So Telegram both?"
+ ],
+ [
+  49,
+  3216,
+  "Yeah. Platform? Yeah. Mhmm. Did you inside Lovable only? Yes. I built this all in Lovable. Like, I haven't touched anything else. And so I I"
+ ],
+ [
+  49,
+  3227,
+  "'ve used n eight n, which is like a automation tool that someone was talking about earlier. And I use n eight n to build, like, the last Edg"
+ ],
+ [
+  49,
+  3238,
+  "e City bot for Edge Esmeralda."
+ ],
+ [
+  49,
+  3240,
+  "And I spent easily a hundred hours in NAN, and I taught at least, like, 20 people how to build their own bots. And I was like, it's actually"
+ ],
+ [
+  49,
+  3251,
+  " not, like, technically that many steps, but to learn NAN is a lot of steps. And so I was like, yeah, let's just make it easier. And, yeah, "
+ ],
+ [
+  49,
+  3261,
+  "that's we can also call"
+ ],
+ [
+  49,
+  3263,
+  "people. So we can call so I made one so Patrick Star is right here. We can talk to him. And I basically just told I basically built this. An"
+ ],
+ [
+  49,
+  3274,
+  "d I so Patrick Star has like Patrick doesn't like air. He needs water. So my instructions for this was literally just you are Patrick Star. "
+ ],
+ [
+  49,
+  3285,
+  "That's your role. And"
+ ],
+ [
+  49,
+  3287,
+  "the idea is, like, I wanna be able to kinda encapsulate Patrick Star and put him in, like, games too. So we can we can give him a ring. Let'"
+ ],
+ [
+  49,
+  3295,
+  "s see if it works. I don't know if the audio works here. Hello? Hello. I'm Patrick Star. How can I help you today? What's good, dude? Well, "
+ ],
+ [
+  49,
+  3304,
+  "jellyfish hunting is always a good time. What's good with you? Are you planning any fun activities today? Oh, yeah. So okay. So I I used 11 "
+ ],
+ [
+  49,
+  3312,
+  "labs for that. And, like,"
+ ],
+ [
+  49,
+  3314,
+  "I think there's a lot of potential here just in terms of bringing like this literally took me five minutes to build that once I already had "
+ ],
+ [
+  49,
+  3324,
+  "the Patrick Star set up. Because it's like I'm basically just talking to Lovable and having it guide me through what makes sense. And like w"
+ ],
+ [
+  49,
+  3335,
+  "e have like a vibe police here because like"
+ ],
+ [
+  49,
+  3338,
+  "we all know the word vibe has been used quite a bit. And so it sounds like you're the anti vibe corgi, the strict and perpetually unimpressi"
+ ],
+ [
+  49,
+  3347,
+  "ve force of the no vibe zone. So we have like different characters in the works, but I'd encourage you guys to also share this link in the c"
+ ],
+ [
+  49,
+  3355,
+  "hat so anyone can build their own bot. I think it's a very fun thing. Yeah. I don't know if you were gonna add anything like in terms oh, ye"
+ ],
+ [
+  49,
+  3364,
+  "ah. You're saying Meshi. I'll I'll show Meshi. Oh, Yeah. Show that and Yeah. Totally."
+ ],
+ [
+  49,
+  3369,
+  "I'll show real quick. It's total ADHD as usual. So what's the the Vibe Police? So you can also message the Vibe Police here. And it's actual"
+ ],
+ [
+  49,
+  3382,
+  "ly like an AI agent that can I think you can even, like, search the Internet? Can you search Internet? But, basically, anyone can talk to th"
+ ],
+ [
+  49,
+  3395,
+  "is."
+ ],
+ [
+  49,
+  3395,
+  "Yeah. So it's like an agent. You can turn on all the different things. And I'll I'll do, like, a full session on, like, this tool because I "
+ ],
+ [
+  49,
+  3404,
+  "think it's like I just built it for fun, but I think it's like it can be useful here and it can be interesting. But this is also the Vibe Po"
+ ],
+ [
+  49,
+  3412,
+  "lice. So so there's a tool called Meshie. And this is like a really it's really like half of my days are just like exploring new tools and s"
+ ],
+ [
+  49,
+  3421,
+  "tuff."
+ ],
+ [
+  49,
+  3421,
+  "So the idea is we can put Meshie, like these different avatars. We basically just like, you take like an image and I basically just took the"
+ ],
+ [
+  49,
+  3430,
+  " cover image here and just said, let's I told Chajjbt, let's make like a full Vibe Police and like it needs to like look like it's standing "
+ ],
+ [
+  49,
+  3440,
+  "straight up. So I got that image and I sent it to Meshie, like, yesterday."
+ ],
+ [
+  49,
+  3445,
+  "And then it was it generated this character so we can have the Vibe Police in one of our games and, like, hopefully, we'll get to see the Vi"
+ ],
+ [
+  49,
+  3455,
+  "be Police, like, in the VR soon. We'll see. Also created the Death Star. I created an Edge City Patagonia thing, which was actually blowing "
+ ],
+ [
+  49,
+  3464,
+  "me away. Like, maybe we talk to Mashi about getting free credits because this would be awesome."
+ ],
+ [
+  49,
+  3471,
+  "I was creating, like, the Kanye college dropout bear. Hilarious. Let's see. So no. So this is I basically just took the Edge City I basicall"
+ ],
+ [
+  49,
+  3486,
+  "y just took the Edge City graphic, and I was like, make this into a three d world. And so it's"
+ ],
+ [
+  49,
+  3496,
+  "like, I wanna create a game where we could, like, walk around this little thing because, like, imagine. So, like, you can totally see I thin"
+ ],
+ [
+  49,
+  3509,
+  "k this is, one of, like, probably the primary tools we can use throughout the month because it's, like, insane. So,"
+ ],
+ [
+  49,
+  3519,
+  "yeah, in the past, I've, like I tried doing, like, myself. It freaks me out. Let's see if it loads. This is the stupidest thing. So it's lik"
+ ],
+ [
+  49,
+  3530,
+  "e it's not great with people yet, as you can tell. And I could have done like a better photo. Like, maybe we all like do a proper standing p"
+ ],
+ [
+  49,
+  3541,
+  "hoto because you need to stand like this to like actually"
+ ],
+ [
+  49,
+  3545,
+  "get it to get your joints right. Because like here, it's like freaking out. But yeah, there's a like for the Vibe coin, we I actually got th"
+ ],
+ [
+  49,
+  3556,
+  "is three d printed because I got this I basically at the Frontier Tower, I got this this is the Vibe coin that we're gonna be releasing in a"
+ ],
+ [
+  49,
+  3567,
+  " week or two. And it's"
+ ],
+ [
+  49,
+  3569,
+  "yeah. It's basically we created, a three d asset that we can put into any of our worlds and stuff like that. There's a duck. There's a littl"
+ ],
+ [
+  49,
+  3579,
+  "e version of me. It's freaky also. So I'm not gonna actually I don't think we need all these. But this is so I'm gonna make a horror game, t"
+ ],
+ [
+  49,
+  3588,
+  "hink, with, like, a little little version of me because this is horrible. I think it's like I I think we should make a horror game too. Mayb"
+ ],
+ [
+  49,
+  3598,
+  "e for Halloween, we'll do something like that. But"
+ ],
+ [
+  49,
+  3601,
+  "yep. Yeah. Yeah. Yeah. That would go viral on TikTok."
+ ],
+ [
+  49,
+  3629,
+  "Rehella is working on some back end things with her developers at the moment. So they're gonna let us know when the updates are all live, bu"
+ ],
+ [
+  49,
+  3640,
+  "t we'll definitely be doing that in our backyard. Tools like Sora. I don't know how many of you guys have used the new Sora. It's insane. Ye"
+ ],
+ [
+  49,
+  3650,
+  "ah. Yeah. I think that's Ruhilla."
+ ],
+ [
+  49,
+  3653,
+  "That's Ruhilla. That's Ruhilla. Well, she did the in Esmeralda, she was Nico. Right? Yes. So Nico is actually gonna do some stuff like this."
+ ],
+ [
+  49,
+  3663,
+  " Like, she shared a bit. So I think we should jam with her on it too because that'd be awesome. Yeah. I think like multiple films would be g"
+ ],
+ [
+  49,
+  3672,
+  "reat too because I think, yeah, there's going be good stuff. Horror movie. Let's do it. Horror game."
+ ],
+ [
+  49,
+  3679,
+  "I just put in like just haunting Edge City. It'd be hilarious. The Death Star. I want to put the like, the Death Star is so sick. It's like "
+ ],
+ [
+  49,
+  3689,
+  "yeah. Now, like, when I walk around and see stuff, I'm like, I could take a photo of this and literally send it to Meshie and put it into a "
+ ],
+ [
+  49,
+  3700,
+  "game or, like, put it into anything. So it's just creative"
+ ],
+ [
+  49,
+  3704,
+  "random stuff. Yeah. Yeah. Yeah. Totally. Like, you you're saying, like, if we make a telegram bot and then we or you make, like Yeah."
+ ],
+ [
+  49,
+  3731,
+  "So as Jack's computer is very much dying, does there I'm sorry. There any last questions? Because if not, we would be really excited to welc"
+ ],
+ [
+  49,
+  3740,
+  "ome you at the Vybe House. That's okay. And we'll keep you posted on all the events that will be happening this week. Yeah. But definitely c"
+ ],
+ [
+  49,
+  3750,
+  "ome by Thursday for the meditation into WhisperFlow and to build. Yeah. Yeah. At some point, we'll do that. I feel like week two ish might b"
+ ],
+ [
+  49,
+  3759,
+  "e good. So"
+ ],
+ [
+  49,
+  3760,
+  "I think personal personal websites are one of my favorite places to start. Like, I've built I've built, like, a personal website for my mom "
+ ],
+ [
+  49,
+  3768,
+  "and then my stepdad and, like, it's like and we just build it together. So it's, like, really it's cool. I like it a lot. And, yeah, I think"
+ ],
+ [
+  49,
+  3776,
+  " that's a good one for us to do. And feel free to, like, post any ideas or, like, events that you wanna see in our channel because, again, I"
+ ],
+ [
+  49,
+  3784,
+  "nfinity,"
+ ],
+ [
+  49,
+  3784,
+  "the bot is keeping tabs on it as well. So anything you post in there, we'll be able to, like start where? In Telegram, in the vibe, like, co"
+ ],
+ [
+  49,
+  3794,
+  "de channel. Yeah. Yeah. Cool. Amazing. Oh, question. I just have a general question about vibe coding and using lovable. I haven't used that"
+ ],
+ [
+  49,
+  3803,
+  " before, but I've used Replit and Cursor."
+ ],
+ [
+  49,
+  3806,
+  "Yeah. And what I find is that I can get to, like, being a non coder Yeah. I can get to about 90, maybe 85, 90% of the way. And then Because "
+ ],
+ [
+  49,
+  3815,
+  "I can't you know, I'll I'll have it fix the errors. And, of course, I'm not understanding the code, so I can't, like, stop it or change it. "
+ ],
+ [
+  49,
+  3824,
+  "And I get deeper and deeper and deeper, you know, further away from my my end result at that last bit. Is does like, I'm seeing you build on"
+ ],
+ [
+  49,
+  3833,
+  " Lovable. It looks Yeah. Super easy, but is that much different than the other two? Yeah. It's"
+ ],
+ [
+  49,
+  3839,
+  "I like almost have like a new philosophy on bugs. Like, if something takes like like, lot of the time, like, there's a there's a chat featur"
+ ],
+ [
+  49,
+  3846,
+  "e on Lovable. Like so I used to have that problem like a lot and like the models have actually gotten better and like the tools have gotten "
+ ],
+ [
+  49,
+  3854,
+  "better. So it's like I have it less. Like, I feel like it's now like 95%, but it like, it's a there's it still can get frustrating when, the"
+ ],
+ [
+  49,
+  3861,
+  "re's a little thing that you can't fix and you just, keep on getting in that loop. So, like"
+ ],
+ [
+  49,
+  3866,
+  "yeah. There's, a chat feature. Like, I like to just, like if I, like, notice I'm, like, frustrated, like, I'll a lot of time now, I'll just,"
+ ],
+ [
+  49,
+  3873,
+  " like, literally just, like, forget about it, I'll just, close the computer and come back to it. And then, like, I'll just open the chat, an"
+ ],
+ [
+  49,
+  3881,
+  "d I'll say, like, can you explain to me what like, I'll zoom out. What is happening here. Do we actually even need this feature? Sometimes w"
+ ],
+ [
+  49,
+  3888,
+  "e don't even need this feature."
+ ],
+ [
+  49,
+  3890,
+  "So sometimes, I like to zoom out, but yeah, I think chatting with it and then sometimes when it thinks longer, then it finds a better solve."
+ ],
+ [
+  49,
+  3909,
+  " So like, I don't know. I think it's getting better and I think with time we'll have less of those problems. But, it's it's a it's still a p"
+ ],
+ [
+  49,
+  3929,
+  "roblem. So yeah. Yeah."
+ ],
+ [
+  49,
+  3932,
+  "Totally. Totally. Yeah. Yeah. It's a whole different talk. Yeah. Totally. Yeah. So we wanna make this, like, as accessible as possible, and "
+ ],
+ [
+  49,
+  3943,
+  "it obviously, everyone has already invested a lot of time and money to be at Edge. So, obviously, we'll be hosting a lot of things that will"
+ ],
+ [
+  49,
+  3954,
+  " be publicly available to join. If you were accepted to Edge City,"
+ ],
+ [
+  49,
+  3959,
+  "we trust their process. So you would be accepted into the vibe code residency. We've just shifted our pricing. So to join for the month, it'"
+ ],
+ [
+  49,
+  3968,
+  "ll be a $111. And for a week, it'll be $33. Yeah. And that'll just be, like, daily coworking just like at the house. Like, you're welcome if"
+ ],
+ [
+  49,
+  3977,
+  " you're you get one of these and you'll join the vibe crew and it'll be good. So"
+ ],
+ [
+  49,
+  3982,
+  "yeah. Cool. Thank you. Yeah. And you can go on our website, vibecoderesidency.com, and and sign up. Yeah. Yeah. I think it's a I can link th"
+ ],
+ [
+  49,
+  3993,
+  "e like, I'll link in the chat, like, once it's ready. The I think it's ready, but I'll send it, like, basically, the link for you to get tha"
+ ],
+ [
+  49,
+  4003,
+  "t ticket in the in the group chat. So"
+ ],
+ [
+  49,
+  4006,
+  "yeah. You'll get these really cool yellow bracelets if you become part of the vibe con residency. So I'm just saying. Yeah. Yeah. Thank you "
+ ],
+ [
+  49,
+  4019,
+  "guys for coming. I really I didn't know this one. I like how it's just, like, casual and we can just free flow with it. So I appreciate you "
+ ],
+ [
+  49,
+  4031,
+  "all, and it's just the beginning. So I appreciate it."
+ ],
+ [
   50,
   0,
   "Kind of the large long term grand vision. Because that way, can build a lot of credibility with a small little, smaller tool, and you can im"
