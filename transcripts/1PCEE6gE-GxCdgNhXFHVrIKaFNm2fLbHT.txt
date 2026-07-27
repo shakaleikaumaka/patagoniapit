@@ -1,0 +1,305 @@
+# Final Demo Day in Patagonia 2025
+
+Date: 
+Source video: Final Demo Day in Patagonia 2025
+Drive: https://drive.google.com/file/d/1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT/view
+Duration: 01:09:40
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Alright, everyone. Welcome to the final demo day of Edge City Patagonia. Give yourselves and the presenters a round of applause. Alright. So presenters, I'm going to be timing you as always, and I'm going to give you the mic. Please hold it to your mouth. There is some noise pollution outside. There's a very angry bird.
+
+[00:26] So hold it, like, this far away as I'm holding it. Thank you. Alright. Welcome, everyone. If you can get settled, bring conversations to a close. Thank you. So these demo days, as always, are a reminder that we are here at Edge to build. That doesn't just mean building startups, people building art projects, communities, new cities, movements, etcetera,
+
+[00:50] but we want people to be in the mindset of shipping while they are here. There are two rules of demo day. As we know, the first is that I'll be timing you, pretty strictly this time around. We have quite a few demos to get through, so it'll be about two and a half minutes. The second rule is that we are all going to support everyone as much as we can. We're going to give them a very loud round of applause every time someone comes up. Let's practice right now.
+
+[01:19] And make them feel like a rock star. Alright. So first up, we have Cooper. Please welcome Cooper. Thank you, Timur. Hello, everybody. So I'm here to show off what I've been working on since Edge Esmeralda. So I'm gonna start off and just pass out some cards so you guys can actually see and hold the cards in person. Just pass them back and I'll come and collect them from you guys at the end towards the back.
+
+[02:00] Run back up. So yours truly is a way to send real handwritten postcards and greeting cards from anywhere in world. Right now, you can only send cards from anywhere to The United States. We're currently working on bridging that gap. So get into it. So I I think real world applications for spending spending crypto are super important,
+
+[02:25] and this is a way to do it. So all all of our notes are handwritten by robots holding a real pen and ink and it gives it a really personable touch and you can actually feel and see the real pen strokes. Every every note or every letter looks a little bit different because it's actually written by a real pen. So here's let's get into the demo.
+
+[02:50] So here's our beautiful landing page on World. You can log in and sign up with world with your world world ID or you can use your email if you wanna do that. So we have or you can upload or take your own photo. So say you're on a hike somewhere really cool, just take snap a photo and upload it. And then so we have a bunch of different artist models here that you can create with.
+
+[03:13] And what the really cool part about this is when you create with these artist models, the artists get paid over the blockchain through attribution model instantly. So it's a really cool way for artists to earn. And if you're an artist, please hit me up. We're always looking to work with more artists. So there is the image. And then you can go into the note editor,
+
+[03:36] write a quick blurb, and then generate your note, edit it. And we have a whole address manager where you can add and easily autofill your contacts. You can set you can add a gift card if you'd like. We're working on adding some more gift card options. And yet,
+
+[04:00] can pay and send cards with crypto, Apple Pay, and credit card. Thank you, guys. I appreciate it. Amazing. Great job. Safe travels, Cooper. We'll see you at the next one. Alright. Next up, we have the Argentina on chain download. Please welcome who's coming up for this? Please welcome Louisa to the stage.
+
+[04:30] Okay. Maybe you go later. Argentina on chain will be back shortly. Alright. Next up, we have Meditation Artifacts. Please welcome Luca to the stage.
+
+[04:57] If you're going to demo, please sit close to the front so you can jump straight up. Thank you. Okay. Good to know. Hey, everyone. I'm Luca Del Deo. In the past eight years, I've been studying cognitive science of religion. Past two years, I've been working on building ecosystems for meditation, research, innovation, and education. So what I'm presenting today is basically what we have been working on, Charlotte McAdams and myself here at Edge City Patagonia,
+
+[05:24] the monastery hacker house. So what is meditation's role in the future? There are some problems with meditation right now. We all know that meditation is showing up in these new settings, Edge city, new places around San Francisco, anywhere in the world. We all wanna meditate. But how do we bring it in more effectively? How do we think more intentionally about it?
+
+[05:47] We know there are new opportunities for tech applications like Maitham, I see you in the front row. We've got one of our residents and their app featured here. And we know there are lots of new methods for meditation that are really poorly understood. Plugging myself here, my my TEDx b u talk where I talk about imaginary friends how you can meditate them into existence. I don't have that, but it's a really cool idea. So we have all these ideas around what meditation can be
+
+[06:15] and now we need to start building the space for these ideas to become a reality. And so that's what we have been piloting for the past month here at Ed City Patagonia. I just love this photo of our residents. And we've been having a great time. Meditation is something really unique and fascinating. I think many people here have by now experienced it in some form through breath work, through hypnosis,
+
+[06:41] through tantric practices, through our Buddhist teachers, our Christian teachers. Meditation comes in many shapes and forms. And for many of you, it's unlocked new capacities, it's helped you be more calm in stressful situations, and I think there are even more ways that meditation can change our lives radically in novel, like truly unimaginable methods. So this is why we need new research and technologies
+
+[07:07] to catalyze meditation's impact even further. That is why we have the Monastery Hacker House. Oh, man. I'm out of time. We have the Monastery Hacker House. The idea is teachers, we have the creatives, hackers, researchers, and all of them supported by the nomads, founders, and investors who live within this beautiful ecosystem of innovation, research, and ideation.
+
+[07:31] And that is essentially it. We're gonna be at new pop up cities soon. Where will we go? I don't know, but we're gonna be traveling the world trying out this model, and we would love for you to be a part of that journey. Thank you everyone. Absolutely crushed it. Thank you so much, Luca. Alright. Next up, we have Youssef and Beck. Please welcome them. Hey, everyone. I'm Beck. I'm Youssef.
+
+[08:01] And we're building the empathy intelligence for every kind of mind. The world's most brilliant minds are often neurodivergent. They're the ones that are often most misunderstood. Our tools were never built for communication diversity, and it shows. We met actually in the airport on the way to Edge City, and we decided to build a prototype of unmasked here during our time.
+
+[08:24] So many calls ago, we stopped really listening. The truth is we don't all communicate the same way. That's not a flaw. It's diversity. Introducing unmask, a new layer for video calls that helps neurodivergent and neurotypical people understand each other in real time. Okay. Yes. Now we will show, like, what we've been building in the last, like, three weeks, which is a good progress for now for this firstly.
+
+[08:54] Let's see it. So for now For an interruption here. See what happens. So so what it does here, like, detects, like, if somebody's interrupting in the call and also gives, like, prompts as you can see here, like, if there is inter interruption for the listener or for the for the neurodivergent person and it can also like flash this yellow circle if there is many interruptions and stuff.
+
+[09:16] So somebody can take a let's take a break or something. Like, you seen here like also like it's like sovereignty on the neurodivergent person can use preferences to do that. Also, we're planning, like, this is just the beginning. We're exploring also to be on wearables. And also, like, yeah. We like in the design and things we've been listening to here, like to have like your user empathy profile that can be shared on other apps or also with a therapist and so on and also exploring like brain,
+
+[09:49] like BCI and this stuff. So yeah, we're aiming like, as I said, like to to have like a large scale data set of real world neurotype communication patterns. So this could be also like the user can kind of sell their anonymized which they own like communication trait profiles. And yeah, this can also transform how people are perceiving like neurodivergence
+
+[10:12] and how it is a strength. And yeah, Do you wanna say something? Maybe one more thing is it's basically an adaptive user interface, which means that the neurodivergent person is in control of who receives the prompts, whether they do to understand themselves better or just the listener so that they build more understanding and awareness of different neuro neurotypes.
+
+[10:35] So, yeah, that's all I had to say there. What to say here? Thank you. Yes. Yes, Blake, if you have one sec. We'd also like yeah. So, yeah, like, join the wait list for, like, unmasked, and also we're seeking investment partners. So if you're interested, reach out, please. Thank you. Wonderful.
+
+[11:01] Thank you so much, guys. Alright. Next up, we have Agatha. Please welcome Jeremy. Ybor. Hello. Alright. Hello. Hello. Hello. Hi, Edge City. Who here is ready for a nap? Who's with me? I need to fucking nap. Okay. So at the Agartha house, we ran a benevolent AI experiment this month where we had 24 residents co living with a collective intelligence agent who we lovingly called Aqua the secret agent. If you'd like to see the full hypothesis, please check out our sub stack where we write about cool solar punk, amazing lifestyles, and weird shit. But we essentially were thinking about how can AI help us reduce organization friction, enhance meeting and connection,
+
+[11:42] model benevolence, honor data privacy and sovereignty, and measure the reward of the value of data and service we contribute in a co living situation. Obviously, we did not have enough time to do any of this shit, so I'm just gonna share what we actually did. We partnered with eden dot art who hosted our custom AI agent, and essentially, we put together individual profiles for all of our residents. We had a bunch of organizational stuff in spreadsheets. We built a guidebook. We built one of our engineers built a API call to social layer, and then we plugged it all into Discord.
+
+[12:11] So the agent was able to build individual profiles for each resident, that evolved over time, and then it created a collective memory for all those two. We also had a bunch of stuff that was not tracked, like coaching and strategies and one on ones and in person events. So we had community admins actually feeding in their perspectives into the personality profile, and all this was fed over to anthropics cloud to get some, useful information. So Aqua was actually pretty cool in Vibe. It was just living in Discord with us. It would synthesize interesting things that we were doing. It created cool images. We got to send images to each other and, like, ask it to talk to each other, and we asked our CTO to join us.
+
+[12:45] Deka, thank you for being a part of this program. Aqua is also helpful, kinda. So what it did was it was able to produce big, summaries of all the things that are going on a social layer as well as all the events that are happening in the house and all the things we need to take care of. We were able talk to it directly and ask for specific information and venue information, etcetera. And each individual got a DM every morning to say, hey. How's it going? Here's your goals. Here's some reflections and thoughts around where you're going. So it's very deeply personalized, that was pretty nice and cool. However, over time, we found that,
+
+[13:17] it was a mixed bag. So first off, the the check ins and the data summaries are great. However, the context windows are very limited. So the amount of data that's going in there and the exposure to all the information that's going on would lead to either missing context or misinformation or just straight up hallucinations. So part of it is depending on the maturity of these models in general. It was really nice to have the deeply personalized
+
+[13:41] guidance and art. However, I think we found it would start to become a little bit repetitive if we weren't inputting into the system. We did not have enough time to really explore benevolence and sentience, but we were able to at least program some basic core functions. And if you're interested in talking about that, I could talk all day about it, so come find me at the closing ceremony. We did also notice that there was a degradation in both quality and, therefore, engagement. So as soon as people are finding that I'm not fully accurate,
+
+[14:09] they just stop caring and stop using it. And then, damn, it was really busy at Edge City, so we couldn't get a lot of stuff done. But anyway, what's next? If you'd like to come check us out, join our Discord server. Right now, Aqua is plugged into our private channel for just our Patagonia residents, but we're going to try to create some specializations to deploy it. And then I'm out of time, so come hang out later on at the closing ceremony. We got a booth. Bye.
+
+[14:33] Thank you, Jeremy. Alright. Next up, please welcome Max with Nostra. Alright. What is Nostra? First, Nostra means ours, but it also open source platform to unite people and communities.
+
+[14:59] So what's the three building blocks, for it? First, it's open stack, which is user apps, open protocol, encrypted storage, and smart contract tools. Second, it is designed to be interoperable for the start. And third, it's designed for sovereign data. So no platform locking is is possible. You can take our stack, you can do whatever you want,
+
+[15:23] but once you become sovereign data, nobody can locks you in, lock in. What's the current problem? There is a lot of communities, a lot of tools. In fact, too many tools. Too many chat apps, too many applications, too many spreadsheets, website. There is a lot of communities. However, they all are fragmented. So reputation history connection stay trapped on whatever tool you use.
+
+[15:47] So in fact, we have a fragmentation problem. That wouldn't be such a big problem if not for the platforms we're using, are optimized for completely different things than community and social connection. They optimize for content engagement and and the scrolling. They harvest engagement, erode coherence,
+
+[16:10] and offer no way to export contribution or social capital. So basically, communities are hostage of these platforms and they remain so. So what is the solution? Well, first, we bring it into shared commons, which can be done with open standards and open protocols. Second,
+
+[16:34] individual users, the community, own their own data and have complete sovereignty in it. And by doing that, instead of every single community and platform tries to compete with limited amount of users and log them in, we instead cooperate. How do we get there? First, we need to provide easy pathway for existing tools to onboard users.
+
+[17:01] Then they go there, create, participate. And once they're there, they have their own data and it's sovereign. And they can take it to other maybe a new platform comes in which is thousand time better. Sovereign data, you plug it in, use all the best tools. So we also want to give immediate value for communities.
+
+[17:24] What our immediate values can provide for them? We can then give tools for coordination management, that means simplify administration organization routine. Also, tools for dispute conflict resolution and to build okay. Okay. For members, you can find the communities which is right for you. You can carry your own value with you and you can bring your own self. Okay. So this is a vision. Okay. Got it fast.
+
+[17:54] So it is great vision and well, here's a QR code. So what I'm looking for is communities who especially established one who have their own flow and want to have something better because it's in beginning stages, you can build the tools for yourself, you know. Also developers and everybody who wants to own their own social data and carry it whenever they want to go. Thank you, guys.
+
+[18:20] Thank you, Max. Alright. Next up, we have Punto. Please welcome Sol. Alright. Thank you. Okay. I was just thinking about I'm really nervous right now, I gotta look at my phone for one second. Okay. You know, I was just having this feeling that, like, how do I even explain this thing? Like, what is that city? How what it feels like to be here with the people who were not here?
+
+[18:54] And that was the biggest question I had. And, like, I was I would like picture share a picture. I say, like, oh, we went on a high with the, like, sauna, but it sounds really generic and I don't even post on online social medias anymore. So very quickly, my head wrapped around two questions as I arrived here. One, how can I actually turn in this, like, very femoral
+
+[19:18] IRL situation that we shared into something lasting and we can build on? And also, can we actually collaborate, all of us, to actually make something tangible? And that's what happened. In the last ten days, we built Punto and then we're making an Edge Zine together. Zine is just a smaller, small self published magazine. So you guys can all post your experiences, your stories from Edge, and then we're gonna actually put it down to one magazine and print them out in Brent Cyrus.
+
+[19:47] So that's what oh. So how it happens is that just to, is think of it as like an experiment to, build meaning making tool together. So we have posted a lot of open calls, which is the topics. And this one was, you add dictionary. If you have developed a local language, I heard like, Fredging. Or
+
+[20:12] here, I'm posting about sauna. In case you don't know, you will find out in the zine. I want you to post that. Yeah. And sauna would be a place of broadcasting a flow of thoughts in a very sweaty environment, things like that. This is just an example of the rest of it. It's really up to your imagination and your stories. And more importantly, I we really opted everything for humanness and togetherness.
+
+[20:38] Two days ago, few of the very lovely volunteer editors come up. We, sat down for hours and we nailed down to few topics that are gonna be included in the zine. So it is slow. So be very gentle and generous with the tool. I opted for togetherness. Okay? So that's what happened. These are the the sessions we that we had with the editors. These are the examples
+
+[21:03] of the topics that we're looking for. If you are an introvert and you wanna share our little reflections from the, experience here, you're very welcome. Of course, there are place for sauna pictures or, cold pond pictures, art sound outro is also a very important and interesting one. So, funny, one last story is that I came here with a dream or, like, thinking of, like, I'm gonna go on chain. I'm gonna go full AI, so tacky,
+
+[21:32] but this happened. So I actually took my whole thing off chain and off AI. It's becoming very manual. But in order to thanks to that, I'm gonna be able to actually print them out and make a little tangible memory with all of you guys. Thank you. Hope you all join. And I'll see you in Buenos Aires with the real gene. Thank you. Thank you so much, Seoul. Alright. Don't worry, folks. We're turning the AC back on. The the chicken is still angry outside, but we'll just have to, you know, talk loudly if you're presenting, and hopefully folks can hear.
+
+[22:05] Alright. Next up, we have the telepathy and remote viewing. Please welcome Axel. Thank you, guys. So I've been running a series of, workshops on telepathy and and remote viewing. This was our setup for telepathy. We were doing group telepathy here based on free drawing, meaning one each round, one person was chosen as the sender. They would draw like a private drawing on the notebook and all the others would receive and draw their perceptions on on paper.
+
+[22:37] We also had connection exercises to increase the synchrony in the group and also partake in pairwise telepathy, one on one. So here are some examples of what we got. On the left, we have ascending of a bird. Someone else also received the bird on the right. The moon was received here in these two drawings from two different people. This is an interesting one. We have symbolic matches.
+
+[23:02] It's a good one because it happened pairwise. We have the circle, the grid, the stripes. There's something going on. And in other rounds, we had three hearts happen during the same round and two spirals appear. So we also experimented with Zenara cards which are typically used for this. This is not based on free drawing. There's always a set of five cards to choose. So in these experiments,
+
+[23:27] something interesting happened is that even though people weren't necessarily guessing correctly what was being sent, there was groups and clusters of, people who were in sync and who gave very correlated answers. In particular, I asked one of the participants to do the connection exercise for everyone and without telling that to Chad GPT, Chad GPT noticed that this participant was some kind of a central node in the group and was connected with everyone else. They even used
+
+[23:57] Kjell Drake's language and calling them a morphic field stabilizer. So that's very fun and nice, but remote viewing is one step up because in remote viewing, we accept that telepathy we know telepathy is real and we take all the measures to avoid it and to be sure when not doing telepathy because in remote viewing, we're viewing a distant, location or event.
+
+[24:22] So during our first group, we had lots of participants partake in the exercise, bring their paper reports. However, not a lot of matches corresponded to the target which was not for them the Paris except one person who got the theme of God and, that there was a crossroads right in front of it. At the second meetup, we were more focused and we got actually lots of correspondences between our own,
+
+[24:48] reports and many of us felt the target which was this tower, this feeling of something tall and circular at the top with this grid like, motion. Finally, our last experiment was called associative remote viewing where we're trying to predict a yes or no question. In this case, will Ethereum be positive over a twenty four hour period ending yesterday at 8PM?
+
+[25:15] And we did predict that correctly. Ethereum did did go down and this is not just that we got lucky. We got this with a reasonable amount of confidence, not extreme confidence, but confident enough the the result could have been undecisive or orders wrong. The target was this wedge of cheese at the cheese store right next from here.
+
+[25:40] And so in conclusion, I like to think that if I were a hedge fund manager coming here looking to find and hire exceptional talent to be included in consciousness based strategies for trading, I have to say that I have failed and I haven't found anyone with these skills. However, I'm left wondering,
+
+[26:03] should I go to consciousness communities and try to hire these train these people in finance and tech to do this work or continue coming to tech communities and train these people in in in consciousness? I guess it's like always a bit of both. Thank you. Alright. I love the diversity of projects that are getting demoed at Edge City.
+
+[26:28] And on that note, next up, we have the license department. Please welcome Daniel and Nico. Alright. Are you tired of not having fun? Are you over
+
+[26:51] normal social conventions? Do you want a license to spread love and light in the world? Welcoming the licensed department. Come and get your freedom today. Come and get she has the freedom to hold the sign upside down. Anything you want here at the license department.
+
+[27:16] These are some of we have an in real life game. These are some of the the really cool cards that people are enjoying. We got the freedom license, the avocado, the Hydration card, the massage chain, the Shut the F Up, Lucky Charm, etcetera. We'll be handing these cards out tonight, so come and get them. We have a lot of cool cards. We got new and improved version, new cards, new designs. Join our Telegram group for the alpha chat, and we only got one minute to present.
+
+[27:42] Thank you. Crushed Crushed it. Thank you, guys. Alright. Next up, we have In Hell with Blake. Please welcome Noemi. Hello. For anyone that I haven't gotten to meet yet, I'm Noemi. And I wanted to do a little silly side project while I was at Ed this time around, and I wasn't sure what to do. And right before coming here, I read The Divine Comedy by Dante Alighieri.
+
+[28:15] For anyone who isn't familiar with it, it's this beautiful epic poem that was written in the thirteen hundreds that describes this journey through hell. And I was really struck by this like basically, I was looking at the beautiful edge floating island logo, I noticed how similar the bottom of it is to a lot of the representations of hell. For example, this is Botticelli's representation of hell which is eerily like that gorgeous logo.
+
+[28:42] And it just made me think a little bit more about like what other artists have represented this. It's been 700 of people responding to this work. And the figure in the red here for anyone who can't recognize it is Dante, an amazing outfit that he is wearing. And the figure the other figure is William Blake who was an English poet and artist who was really known for being like a bit of a loony in his time. He was very underappreciated.
+
+[29:07] He sought angels and visions. And so what I decided was to make an ode to William Blake, who made an ode to Dante by making in hell with blake.com. It is I will say it's I made it entirely with AI. I wanted to just like limit myself to like play around with and see what I could make with it, which was honestly a lot of the time harder than just doing something myself.
+
+[29:32] Essentially, it's just a visual representation. So Blake made 70 prints to go with all of this, and it's just kind of a visual present representation. And there's some, like, text that's pulled directly from the Divine Comedy and then, like, a lot of these gorgeous images. And I really would just encourage anyone who's drawn to this to just, spend some time looking and seeing. This was made in 1820,
+
+[29:55] which is just crazy how ahead of its time it is. And so I just wanted to give, like, people a place to come to this. If all of that's too inefficient for you, no worries. Instead, you can confess your sin. So there are nine different sins associated with the inferno. I know, for example, that there are some virtuous pagans in the house. I've heard of them in the consciousness residency. If you wanna see where your spot in hell is, what your which company you'd keep, you can just click on that. I've also heard of some lustful behavior happening
+
+[30:25] for anyone who's been up to no good. You arrive here, your elevator door opens to hell, and then you can see what will happen to you. So, here you see kind of couples, like, you know, being punished, suppose. I'm really, like, in in love with this particular poem. It talks about these, like, two lovers in particular, but the metaphor that it uses is people being swept up in this wind of love. And so if you're in hell for lust, you're being swept away in in all of this and, yeah, that's the punishment that awaits you.
+
+[30:59] The hardest part of all this was actually just like finding the the paintings and like categorizing them appropriately. So I made a public database for it. So if anyone wants to like, mess around and do silly things with art, I yeah. It's there. That's it. Incredible. Incredible. So beautiful. Thank you so much, Naomi.
+
+[31:23] Alright. Up, I believe this is On Chain City. Please welcome Kim. Hi, everyone. I'm Kim from On Chain City. Show of hands, who here hates interacting with government services? Perfect. So this is why I'm building On Chain City. On Chain City is a one click gateway
+
+[31:49] access to Visa, banking, and business. Basically, you can do everything that you need to do with a government within on Chain City. This is what the average visa application form looks like. It is annoying. I'm sure some of us have had to interact with it. The data required for this form is generally the same information
+
+[32:12] required for other things like when you're, you know, setting up a bank account or open up a business, etcetera. And so the issue that we actually have is that government databases are all all very fragmented. They collect your information, then they put it in the respective registries, and that's why the bureaucracy actually exists. But in the last fifteen plus years, this is all we have been solving for within the crypto industry. We literally built shared databases,
+
+[32:40] and we figured out ways how to make information extremely composable and private. And then this was me a few a long time ago, and I realized we actually had everything to fix this, and it seemed inevitable that governments would eventually come on chain. But I don't wanna wait for them. And so I figured, how can I do this right now and make things seamless for users to interact with this? And that's when we designed on chain city.
+
+[33:09] Without trade in UX away, we are able to maintain user privacy and allow them to one click access all of these services. So you have your identity vault, which stores all of your information. And when you're ready to do anything, you can just one click apply, and the we have an AI agent embedded that tells you if something is expiring or not, and it just takes care of everything for you. All of the AI agents operate within a secure environment, so we maintain data privacy throughout the entire
+
+[33:39] process. Now what is interesting is doing things within on chain city, we start to form this contextual graph. Right? Like, every visa that is issue, every loan you repaid, all of these things become, like, key information about you that is, like, useful when interacting with other things. And so we decided, let's build out this contextual graph and actually use it. And this allowed us to actually embark on one of our most ambitious,
+
+[34:10] effort yet, which is to build an immigration API. This is something that we're working with, the UAE government with. Basically, we ask the question, what happens when your on chain state is a better representation of you than your actual passport? And so you'll have your personal graph, which is inspired by the GitHub contributions graph. And this graph will be open source as well.
+
+[34:35] And sorry. I'm out of time. Scan this QR code to join our telecom chat. Amazing. Thank you, Kim. Alright. Next up, we have the Vibe Code residency. I'm getting assigned to refresh. Let me do that right now. And we're back. Please welcome Jack and Mariela.
+
+[35:01] First, if you could make some noise if you joined us in our backyard during Edge. We we created such a safe space that we even had some parents drop their kids off and then leave. Yeah. I'm really it's been such a special month and, yeah, I just really wanna say thanks to everyone that came by and built something. I think we're living in a really special time when you can
+
+[35:26] be to like, build at the speed of intuition, build apps in, minutes. And, yeah, we're really excited for, like, what's next. And we are we have some plans, like, we're gonna be going to Thailand in January and February, and we're really excited just to continue, like, planting these seeds across the world and across this community. And, yeah, we have a telegram group that you can join. And so, basically, if you scan the QR the QR code right here,
+
+[35:56] yeah, you can join the just the future of vibes. And, yeah, I don't know if there's anything you wanna say about yeah. And then we also hosted a build a thon, a vibe build a thon. And it was a it was a lot of fun. Like, we had kind of like a five day sprint, and the winners we're announcing now. And there's a total of $5,000 US in vibe coin. And so $500 is going to Brennan with his,
+
+[36:20] country quiz, which is like a ton of fun. He also built a, we had an Asado and he Vibe coded like a little project for that, which was like super fun where everyone could fill out what, like, what food they're bringing. And Colton built like a fantasy basketball app, which is like super fun and I definitely wanna do like a fantasy league, like using this app in the future. Tomas built the quick long, which is like the opposite of
+
+[36:46] the Big Short, which is like the movie where you where you guys have seen the Big Short, but the idea is like you just bet on Bitcoin's price and it's super exciting. Miss Purple built a really lovely little, like, app for women to just track their health better and their cycles. Yudhishta dropped an amazing onboarding crypto app.
+
+[37:10] And, yeah, Navo, I guess do you wanna share these ones? Sure. Yeah. So Navo, who you've seen some of his videos, got best video. Anna Carolina got best art project, and Josh got most creative game, and Michael got a music video. And you'll see some of those in a second. And then Alexander also had a really amazing mindful unlock, and we have a site in which you can see some of that stuff later as well.
+
+[37:39] Yeah. So congrats to everyone that kinda participated and won, and I'm very yeah. I feel like it's a really great builder culture here, and I'm excited to see what's next. And, yeah, for this, we're gonna have two of the of the demos. We're gonna have Michael I think Michael first and then Josh share, some of the projects that they worked on. And, yeah, I think we're at time. And yeah. I appreciate it. So cool.
+
+[38:07] Alright. Let's go straight to Michael. Please welcome Michael. Okay. I'm gonna speed run this so we have some time to see the video. So I'm Michael with the Garthaus, and what if AI made a music video about Edge City? So AI wrote the lyrics, AI made the music, AI wrote the software pipeline,
+
+[38:31] the video script, and made the video clips. And I just prompted it, and this cost about $60 for the Sora two credits. And so here's a clip of that, ninety seconds of it. Let's hope this plays properly. As long as it's innovative
+
+[39:31] and vaguely decentralized and someone wrote a manifesto, and it sounds like the future. Express yourself easily. Just So scan the QR code if you wanna see the whole video, hear the whole song,
+
+[40:38] and message me on Telegram if you have any questions. Thanks. High agency vibes only. That was amazing. Thank you so much, Michael. Alright. Next up, I believe this is Josh. Please welcome Josh. Everyone. Hi, everyone. I'm Josh. I when I was 24, I started learning how to play the piano, I became a professional piano player,
+
+[41:02] playing at piano bars. And I had, also was really interested in gamified learning, and I had this idea eight years ago to build an RPG that would teach you how to play piano, but I didn't know how to code. And then thank you, Jack and Marilla, for vibe coding. So I've created a prototype of a game. Actually, real quick. So in the game, the idea is you're walking around a game world like this. You learn musical things like, you know, you visit a village, a mom wants you to help her put her baby to sleep and so you have to play a lullaby, that kind of thing. And then you also run into NPCs
+
+[41:29] that challenge you to jam. And so this is vibe jam. You I'm you can play it right now. The input is just oh, wait. Hold on. I'm not getting sound. How do I get sound? Let it go. Let it go. Okay. We are getting sound. Alright. Cool. So
+
+[42:09] this is a keyboard you play with. You're you're you type I recorded a lick, and I'm saving the lick. A lick is like a musical phrase. That lick is now showing up in my lick library. And so I called it thinking, and we'll see how it recorded. Not very good. So let's edit it. So we edit it down here in the lick editor, and we can move the notes around to where we intended them to be in the beat subdivisions.
+
+[42:37] We'll save it. Much better. And then I I'm rating it 50 points out of a 100 of difficulty. And so there's two other licks that are also pre saved. This is a place where you can upload background music for a jam battle. And then down here, we'll select the track that we would like to jam against. And now just real quick, I wanna show you what it looks like in the game. You're walking in a Pokemon like world and then you run into an NPC, they challenge you to jam,
+
+[43:07] and then you enter battle mode. You get a count off. He plays Lick, and now you have a chance to play Lick. And if you can get right, then the computer 30 points for that one. Not very good. Zero points. And that's 20 points. And looks like I won.
+
+[43:34] And then the the the following screen is a battle performance review where you can actually see how your lick what you played lined up to the beat subdivisions so you can kind of improve. The lick was recognized, the thinking lick, and it gave you 50 points. And that's the game. Thank you very much. You can join the telegram group,
+
+[43:57] and I'm looking to connect with people who know Unreal Engine or three d modelers for, like, hand modeling and beta players. Thanks. Thank you, Josh. Alright. Next up, please welcome Lauren. Hi, y'all. I'm Lauren Routh, and like many of you, I wanna live in a world where we're high agency individuals
+
+[44:26] collaborating to co create the future that we wanna live in. And so that's ultimately what brought me to found Iris, where we're focused on how to discover the alignments and collaboration potential within your loose ties. So what did I do while I was here besides pick a lot of roses? Don't tell them that was me. I started by creating this telegram bot. So a lot of us are going to DevConnect.
+
+[44:53] This is for you. And essentially, all you do is message this telegram bot and it'll automatically create a profile for you where you can share context about what you're working on, who you're trying to collaborate with. And then as you're going through the conference and having conversations and meeting cool people, you can message this bot about who you meet. It will log your connection
+
+[45:16] and then pull this fun little alignment overview which will be progressively getting better throughout the weekend. And if you want to play around with this and remember your ties from Edge City or DevConnect, you can either scan this to log me as a connection or if you don't really know me or you don't like me, you can just message the bot.
+
+[45:40] So thank you so much for this incredible opportunity, and see you at the after party. See you at the after party. Thank you, Lauren. Alright. Next up, please welcome Madison. Hello, everyone. I'm Madison. My friend Caroline and I put on the consciousness residency this month.
+
+[46:05] So we kinda came into this month with a burning question that we're trying to answer. What if the human body could be fine tuned like an instrument? We thought Edge City Patagonia would be a perfect playground and testing ground for this hypothesis, and that's how consciousness at the edge was born. So I heard chatter that people in consciousness
+
+[46:28] kinda live in their own universe at edge and have no idea what's going on and vice versa. So I thought it would be fun to share some photos of what we all got up to. We started off with the Gnosis journey, packed rooms. We had to turn people away at the doors, workshops, discussions, amazing sound paired with nature, tuning fork demos, vaso computation
+
+[46:52] at Forrestera. Unfortunately, the philosopher was not stumped, but they tried. We had 20 plus consciousness athletes wearing wearables and tracking their biometrics biometrics while while doing a bunch of different consciousness stuff. Lots of fun data capture. Altered states and sound experiment by Viviana.
+
+[47:15] We successfully saved the rave. Thank you to everyone who helped out with that. This amazing hike with Sai Dow and the Shipibo lawyer demer was very beautiful. Our awesome love science event put on by Christine, we found out that it actually had some really high success rate. I won't get into details, but it was awesome.
+
+[47:39] Telepathy was confirmed at this edge. So remember this. It's gonna go down in history. And then we had some amazing synchronicity experiment by Tucci, and the Syncora synchronicity bot was born. Turns out so many people had a synchronicity throughout the month with Pink Panther. Who would have known? But this is a developing story. Stay tuned.
+
+[48:03] Yeah. But thank you so much. Until next time. I will probably be spending the rest of my life working on this, so you'll be hearing from me. But thank you so much, and scan this QR code for the telegram chat. That's where everyone is hanging out if you're not already in it. But you probably are because there's so many people in there. But, yeah, it's been such a beautiful, amazing month, and thank you so much if you attended
+
+[48:30] one thing, if you attended everything. Your energy and presence was very felt and added and contributed so much. So thank you so much. Huge, huge shout out to Madison. Thank you so much for creating such an incredible part of this month. Like, truly, such gratitude. Alright. Next up is very special guest. We have our very own Shaka. Please welcome Shaka.
+
+[48:57] Alright. So while also helping all of you get recorded or go live, our team helped bring osopit.com live for the open source orchestra pit. So, oso, the open source orchestra is a simple tradition of gathering the musicians into Ethereum I'm sorry, and and Ethereum to play together.
+
+[49:20] We haven't monetized it, tokenize it, do anything with it. It's not a project. It's just simply the tradition of getting people together to play music. So, like, I've done that with Josh. I've done that with many of you here. We've been doing late nights at hackathons at ETH Global. Every zoo pop up I go and live in, we just bring instruments and we jam. So the open source orchestra is just a tradition and we wanted to bring this to we've been bringing this to DevCon and DevConnect for the last four years and we're doing it again this year. We're gonna have a big music stage right at the front door, and it's open. There's gonna be a bunch of instruments that DevCon team rents for people to just walk up and play.
+
+[49:56] Every morning, it's gonna be an open source jam. And then we have over 30 musicians in Argentina coming to lead us in some music. On Tuesday at 03:30, we all need to have a big edge reunion because Timur is gonna come DJ. We're gonna have Nico DJ. And we wanna have it made it the ability available for people to give gifts to the artists. So you can do that on osopit.com.
+
+[50:20] That's just a little test stream of me looking tired today. We actually did bring it live here at Edge. So you can give gifts. Thanks, you thanks to portal and ENS sub domains. You create a sub domain then, on also pit.eth, then you can give a gift that way, and without having to create your own wall or it creates a wallet for you just by signing into the portal. You can, embed a live stream on theirs, through there
+
+[50:44] and add all kinds of links. And this is a way that we hope people can just be giving gifts to each other at, not only DevConnect, but in general, I feel like we wanna be the change we wanna see in the world and artists. We have endless liquidity that we can give, so we should tie that circle with the blockchain so people can give gifts back to the artists. And PIT stands for public information transmission, so let's build an edge PIT too.
+
+[51:09] Thank you so much, Shaka. Alright. Next up, we have Sanctuary. Please welcome Andre. Hello. I'm Andre. I wanna share with you today a concept I've been working on and receiving a lot of great feedback helpful feedback from you I call Sanctuary, is a curated residential research lab for sociotechnical
+
+[51:36] infrastructure. I'm coming from web three. I've curated and built Deep Work Studio, which is a design studio. Some of these products, you know, Biffy, there was Emmy. I don't know if he's here actually. Oh, yeah. Right. We work together. It's, so, yeah, these projects, some of you might know, but, you know, I'm gonna skip over those. So,
+
+[52:00] I've also curated a great network of individuals, who are very talented at different things and actually made these projects possible and are value aligned. And so, basically, what I want to, share with you today is this, co created restorative residency, where we live prototype and research those technical infrastructures. Think about it as a combination of a product design sprint,
+
+[52:23] a artist residency, and a community house where we can kind of like live and work together. Sociotechnical infrastructure is kind of like the combination of social norms, practices, and technical systems. And we know a lot of them. We know they all need to be improved. I'm I'll have to rush through this, but feel free to ask me for more details later. This is roughly the process. We had the design sprint process from IDEO that some of you might have experienced at the on chain week this week.
+
+[52:53] We'll do that, and we'll have user research and integration. We'll have previous sorry, upfront research and collaboration on the actual container itself. And also if you're kind of a a feature project that we'll work on together, we'll go into some kind of strategy sessions before and after. Josh, you might know as well
+
+[53:17] back there was at the last one. Yeah. So basically, the goals of that would be the value aligned relationships you get, user research pieces, technology, improved health, and all the practices. There's basically two options. Either you're gonna be the featured project that I get to work with or, like, that we get to work with or just bring your own thing and we just hang out. And the cost is obviously, like, we'll just figure out the best and lowest possible thing per
+
+[53:44] for the accommodation. So in Chiang Mai, we can last time we had, $600 for two weeks per person. Yeah. So that's it. Ask questions, leave a note, or just talk to me later. I would love to hear your ideas. Thank you so much, and enjoy the rest of your stay here. Thank you, Andre. Alright. We have three more projects, and then we're gonna get in the vans and head to the closing ceremony, have some amazing food, and celebrate together. Alright. Next up, we have Argentina on chain. Please welcome back Lovisa.
+
+[54:13] Thank you for having me back. I'm gonna present what we did in the last week of Argentina on chain where we had a design sprint. So we spent four days going absolutely crazy in a very small, beautiful San Martin restaurant, together with Ian, that's ex IDO, who hosted an incredible bomb for us.
+
+[54:37] These are the final survivors that were here throughout the whole week and managed to prototype a lot of real world solutions to Argentinian context. So our whole thing was to really anchor into Argentinian local reality and and a secret telegram chat. But, we so we spoke to people all over Argentina to basically get the low hanging fruits condensed of what they need help with right now and, like, which problems do they want us to solve right now.
+
+[55:09] So we one of the co organizers, Sofia Costar, she did, like, 30 interviews with people to to boil it down, and we boiled it down through this journey into prompts. Basically, a question. This is, this is where we were. It was great. We created all of these solutions, and we presented them last night, and it was the most
+
+[55:32] wholesome and techno utopian event I've ever been to in my life. It was really, really beautiful. I wanna give a shout out to, region house for inviting all of the local students. It was amazing. Thank you for for coming through. So what did we actually make? So the first one that I want to highlight, and really, I cannot do this justice because it's a live website. So scan the QR code and, like, explore it because it's a it's a beautiful thing. So, basically, Argentina has a huge, huge problems with not having a consistent up to date national view of its teaching workforce,
+
+[56:06] and teachers can't log their hours. They do it right now by paper and walk around having to get the signature from the principal every day to actually be able to get paid. So these guys fixed it with the power of blockchain. Please go explore. I only have one more minute and six more projects, so let's go. There's two local teachers on San Martin in this team. Thank you so much for coming through and working with us and two tech wizards.
+
+[56:32] The next one we have, we fixed voting. So how can we design this meaningful, trusted, and accessible voting system? And this team, they made, basically, like a puppet master app where the people vote, and the only thing that the political representative needs to do is to act exactly in accordance with how the people vote inside of the app. So it's like an automated politician that is owned by the, like, owned by the people.
+
+[57:00] And it's been around for a long time, this idea, but right now we have the technology to actually be able to execute it, and it's incredible. We have Cordovras, which is the transparency project to really help citizen understand how public money is budgeted to see how it evolves. We have CotePay. So this is a highly local San Martin version as well. We were lucky to have a lot of Cotesma members to help shape, help shape the residency.
+
+[57:26] So we were looking at how they can unlock these meaningful benefits for contributing to their own cooperative, and they create and Ian created this, this solution. Please check it. We also have San Martin on chain, which is an incredible kind of Craigslist experience where you can ask the local community through a map what you want,
+
+[57:51] and the local community will provide, and it creates this back and forth between demand and supply live with some also elegant mapping tools. Please check the slides for the QR codes and the links. We have Matiplus App, which is another Cortezmo solution. So this is cool because it's like a collective currency that effectively creates, like, a layer two barter economy
+
+[58:17] semi barter economy on top of the of peso. And then finally, we have Augme, which Kondrad made, which is a very futuristic and beautiful AI agent that pushes back education to you, and the teachers and students were going wild for it last night. It's it's
+
+[58:41] recommend to check it out. And then on Monday, we're gonna go in-depth on all of these points at DevConnect, 03:00 at the Governance Hub. So please come see us there. Thank you. Amazing. Thank you so much, Lovisa. They're incredible to see the things you guys managed to build in just two weeks
+
+[59:06] in just four days. Alright. Next up, we have the OIF Catalyst Group. Please welcome TTN Barnaby. Hey, everybody. I'm Tidu. I'm leading inter op on privacy initiatives at Wonderland. And with me is Barnaby from the Ethereum Foundation leading the OIF.
+
+[59:30] So what's the OIF? It's a open intel framework, which essentially is a permissionless framework for cross chain intel. Have probably bridged and swapped, and we can probably agree it's not the best user experience. Right? So intents fix this. And how do you do it? An intent is just an intention. So you can say,
+
+[59:53] I want to swap ETH and Mainnet for USDC on our bridge firm. Alright? And this is extremely important now because, like, with more and more l twos launching every week, your balance is completely fragmented and we have lost d five composability. The thing is that this is a hard problem to solve.
+
+[01:00:16] You have, like, for instance, rebalancing liquidity, settlement verification, and the trust assumptions that come from it. So the OIF comes to fix this. And the way it does it is first through modularity, which allows solvers that are the ones that are going to fulfill your intents to plug and play with different protocols instead of being, like, tied up to custom solutions.
+
+[01:00:40] Then also allows new roll ups to to just easily integrate this framework instead of waiting for a protocol to support them. And aside from that, also has this flexibility that allows, like, multiple patterns like escrow, resource logs, and trust minimize articles. So to have some sort of we're not moving the slides.
+
+[01:01:04] Okay. So to have some sort of practical example, Imagine this user experience where you have your funds locked in some sort of debit card that's going to be your spendable funds. Alright? What's gonna happen is, for instance, using resource locks, your funds get locked in the compact, let's say.
+
+[01:01:27] So I have USCC on Optimism and USCC on Arbitrium. And Barnaby is waiting me to send him Dai on mainnet. How can I do that? I can just submit an intent to be, like, 15 Dai on mainnet to Barnaby at Ethereum, And the wallet is going to quote it
+
+[01:01:52] using all my cross chain balance. Alright? And it's going to then open an intent with a solver which a solver is going to pick and fulfill. And that's going to happen in seconds in one click for the user's perspective, which is enormous enhancement for the current user experience of Interop. What you can see over here, well, actually, it's a payment request that's actually using the OIF aggregator to do
+
+[01:02:20] a payment from base to optimism in seconds and using interrupt addresses. There are the new way addresses are going to look like, which is going to be address at the chain. So I will leave the microphone to Barnaby because we had two minutes. Yeah. Thank you so much, Didi. Our residency was a bit nerdy, and there's a lot of words in there that I don't think makes sense to most of you. But the main thing that I wanna convey is that we've been working a lot on the foundations of what Interop could be looking like on Ethereum and for all the apps and all the users that maybe you guys are trying to develop or serve.
+
+[01:02:59] We believe that these tools are going to be extremely important for all of you to, yeah, make Ethereum usable and for your users to have a good time and not think about random informatics shit anymore. Thank you. Thank you so much, guys, and thank you for doing the work of making Ethereum even better. We really, really appreciate
+
+[01:03:24] that. Alright. Next up, we have the Nest. Please welcome Amur. Hey, everyone. I'll start with a little story. Two years ago or so, I quit my job and I was in a phase of exploration and I ended up at Edge City.
+
+[01:03:46] And, you know, I hear the term society incubator now, but I can honestly speak from my own experience. Like, this is actually what's happening here. Honestly, I wouldn't have had the confidence and the inspiration to pursue, this project if it wasn't for Edge. So a huge heartfelt thank you to the entire team for making this happen and seeing the the ripple effect that can that can go through the world with with Edge City.
+
+[01:04:13] One thing I've realized in my time is the way we live is broken. And coming to places like Edge City, having my own co living experiences, living in intentional communities, I've seen that the default way of living does not prioritize our well-being or our growth. But the best way to change it is to actually experience a better way of living. Most people don't even realize it's something to change until they come to a place like Edge City or they experience something different.
+
+[01:04:38] In my own experience, when COVID happened, actually, we started a co living, experience where we'd rented a house on the West Coast Of Canada and 10 of us lived together. What was supposed to be one month became four months and then four months became five years of doing this over and over. And during that time, a dream actually birthed. And that's what brought us to the Nest because it's not so easy to have these experiences. It's really hard to even find a place or a group of people to do this with.
+
+[01:05:08] And so the inspiration for the Nest is to make co living and these types of experiences like Edge City more accessible to everyone. And so we're building The Nest to enable life changing community living experiences. So we've actually just bought a property in British Columbia and it's in this beautiful place, called Nelson. And the goal is to actually curate the physical space, what I would call the hardware of community building to actually support
+
+[01:05:36] the type of living that we'd like to do. And so this means that we'll be optimizing the property for community living, nature emergent and wellness. So currently, there are three houses, 10 bedrooms and 15 acres. There's great internet for coworking. There's skiing and snowboarding, mountain biking, hiking. And next, we'd like to build a coworking space, a yoga space, and of course, a sonical plunge.
+
+[01:06:00] And so I'd ask you all if this is something that's exciting to you to join the movement. We are officially ready to host you. So if you if you're someone who hosts a residency retreats or wants to organize a pop up, please message me on Telegram. And if you're curious about the story, how to get 11 friends together to buy a property together, including the legal side, the accounting side, all the little things that you don't really think about until you try and do it. We're gonna be sharing that all on Substack and, so you can follow along there. Thank you so much.
+
+[01:06:32] Thank you so much, Amur. Alright, folks. That's all we have for today. Thank you so much for joining. If you want to demo next week, you can't. Sorry. But save your ideas for next time. We would absolutely love to have you. And yeah. So now there are about 10 shuttles waiting outside on the road. They will either be right outside the village or just around the corner to the right. So get on those as soon as you can, and we'll see you at the closing. Thank you.
