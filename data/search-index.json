@@ -6625,6 +6625,3591 @@
   "I don't if this is best way to describe it."
  ],
  [
+  5,
+  1,
+  "Going in here. Alright. So as as we get started, folks folks in the back, keep going. Keep going all the way out. You got it. You're almost "
+ ],
+ [
+  5,
+  18,
+  "there. Who here within this room how was at this talk previously"
+ ],
+ [
+  5,
+  26,
+  "at Esmeralda? Okay. Nice. We got a fresh fresh audience. Who here in this room, more than, let's say, 50% of your employment is writing code"
+ ],
+ [
+  5,
+  39,
+  "? So some degree of software developer doesn't need to be all the time. Okay. Who here in this room"
+ ],
+ [
+  5,
+  49,
+  "has used cursor before? K. Lots of folks. Who here in this room has used Claude code, codex, or some other CLI? Okay. Nice. That is such a r"
+ ],
+ [
+  5,
+  59,
+  "adically different answer than whenever we were together in Esmeralda six months ago, and it's really cool to see, like, that architecture s"
+ ],
+ [
+  5,
+  70,
+  "hift. Let's see. So we'll do this little intro. So I'm Atin."
+ ],
+ [
+  5,
+  74,
+  "I'm a senior software developer, turned founder. I have a startup called Authentic. A lot of what we're gonna be talking about today is how "
+ ],
+ [
+  5,
+  83,
+  "we've used large language models to really produce professional grade, production grade code. I think that there's a real opportunity here t"
+ ],
+ [
+  5,
+  92,
+  "hat there's a lot of change in the space, and so many people I appreciate that. Yeah. Go for it."
+ ],
+ [
+  5,
+  98,
+  "And a lot of people just didn't learn about this stuff. Right? A lot of people learn how to do software development through traditional acad"
+ ],
+ [
+  5,
+  106,
+  "emic institutions and never had an opportunity to, skill up and existing in a world where the tools chain is changing so so fast. Right? And"
+ ],
+ [
+  5,
+  115,
+  " one of the core takeaways here is, like, if you think back to the software you were writing three months ago,"
+ ],
+ [
+  5,
+  121,
+  "if you were using the same stack and approach now that you were doing three months ago, you're doing it wrong. Okay? And that's like a huge "
+ ],
+ [
+  5,
+  130,
+  "paradigm shift, but I'm very serious. If you're like, oh, I'm gonna do this project like I did the project before, that was a completely rea"
+ ],
+ [
+  5,
+  138,
+  "sonable thing to do in 2020. It is a completely inappropriate decision architecturally in 2025."
+ ],
+ [
+  5,
+  144,
+  "You should be continually evaluating your tool chain. And so, hopefully, this talk can just, like, embed some ideas for things that you can "
+ ],
+ [
+  5,
+  152,
+  "think about as you move into your next project. As you can tell, we're assuming some base knowledge here. This is not necessarily beginner c"
+ ],
+ [
+  5,
+  160,
+  "lass. I'm assuming you know what an IDE is, what Git is. I'm assuming you're working with code regularly. And if not, ChatGPT could probably"
+ ],
+ [
+  5,
+  168,
+  " explain to you in real time what these things are that I'm referencing."
+ ],
+ [
+  5,
+  172,
+  "But the goal here is not to necessarily, like, one shot an app. The goal here is to build production grade code, and there's a major differe"
+ ],
+ [
+  5,
+  180,
+  "nce there. I also think that the latter is much less discussed. I think it's much less profitable to a certain extent, and so that's what we"
+ ],
+ [
+  5,
+  188,
+  "'re gonna get into. So first, we're gonna just talk very quickly just to get these people that didn't raise their hand for having used curso"
+ ],
+ [
+  5,
+  196,
+  "r and having used a CLE, command line interface."
+ ],
+ [
+  5,
+  199,
+  "These are two things that I've jumped back and forth on. When I gave this talk at Edge City Lana, I was using Cursor exclusively. Whenever I"
+ ],
+ [
+  5,
+  207,
+  " gave this talk at Edge City Esmeralda, I was using Cloud Code almost exclusively. And as of five days ago when Cursor two point o came out,"
+ ],
+ [
+  5,
+  215,
+  " now I'm moving back into IDE driven development, and I would also strongly encourage you to be proficient and fluent in both tools so you c"
+ ],
+ [
+  5,
+  224,
+  "an move in between them depending on what the strengths are. So very briefly,"
+ ],
+ [
+  5,
+  228,
+  "this is what Cloud Code looks like. Let's bump the font size up here. It's a command line interface. Right? It's acting in one directory. Th"
+ ],
+ [
+  5,
+  237,
+  "ere's no you're not looking at source code. You're interacting, directly with this tool in a terminal. Right? If you do do this, I'm just go"
+ ],
+ [
+  5,
+  245,
+  "nna, like, dump a few oh, I should also add. At any point here you have questions or comments, I'm certainly welcome. This doesn't need to b"
+ ],
+ [
+  5,
+  254,
+  "e like a preacher at a pulpit. I very much appreciate where other people are at. I'm sure that other people in this room have other ideas. I"
+ ],
+ [
+  5,
+  262,
+  " know that I'm gonna say some things that Patrick is going to venomously object to. I know that other people in this room,"
+ ],
+ [
+  5,
+  270,
+  "have different approaches I'm always curious to. So, a CLI is super handy in various things. This is a really good approach, for a nice kind"
+ ],
+ [
+  5,
+  281,
+  " of linear way to interact with code. I use this a lot. Who here knows how to look at the tokens their Claude agent has used? K. We got thre"
+ ],
+ [
+  5,
+  292,
+  "e people. This is like so there's a lot of these little things."
+ ],
+ [
+  5,
+  297,
+  "Cloud monitor is super, super cool, and I treat this like a video game. My goal is to get the highest score possible. This shows me how many"
+ ],
+ [
+  5,
+  307,
+  " tokens I've put out in Cloud Code. So in the last month, I've gotten about if I would have paid at API costs, I would have spent about $840"
+ ],
+ [
+  5,
+  317,
+  ". I'm paying for the $200 Cloudmax plan."
+ ],
+ [
+  5,
+  320,
+  "And so this is, like, a really fun way to gamify your own software development of, like, you want this number to be big because this this is"
+ ],
+ [
+  5,
+  328,
+  ", like, such a fun metric for, like, how much work I'm getting done in a given day. Right? And it's pretty crazy. Right? Like, we look at to"
+ ],
+ [
+  5,
+  336,
+  "tal output tokens in the last month. I've got, like, 3,000,000 output tokens. Right? Like, that's a immense amount of code. I'm going to do "
+ ],
+ [
+  5,
+  344,
+  "a lab on ClaudeCode"
+ ],
+ [
+  5,
+  345,
+  "and Cursor, two days from now on Thursday at the same time. So we're not gonna get into, like, necessarily the nitty gritty of exactly how I"
+ ],
+ [
+  5,
+  352,
+  " use this here, but I just wanna make sure that you're familiar with this. You're, like, understanding what this is if you didn't raise your"
+ ],
+ [
+  5,
+  359,
+  " hand. For the people that didn't raise your hand about cursor, this is cursor. This is a more let's pull up some actual source code here to"
+ ],
+ [
+  5,
+  365,
+  " look at. This is an actual what you would call an IDE. This is how the old software used to get made back in the day."
+ ],
+ [
+  5,
+  371,
+  "You've got a directory on this side. You've got a terminal down here. You've got your agent conversations over here, and you've got your act"
+ ],
+ [
+  5,
+  379,
+  "ual code here. Let's see if I have So, like, you can just click here, and you can see, alright. All these green lines were just added by thi"
+ ],
+ [
+  5,
+  386,
+  "s agent. This really lets you be looking at the code regularly, and it's also has a lot of pros over the command line interface. Both of the"
+ ],
+ [
+  5,
+  394,
+  "se tools are evolving really fast. Yeah."
+ ],
+ [
+  5,
+  396,
+  "Yeah. Thank you for saying I mean, it looks particularly ugly now, but, hopefully, it's at least a little more readable. Let's go to full sc"
+ ],
+ [
+  5,
+  405,
+  "reen too. This is super handy because then this means that you're able to review on a line by line basis what code the agent is changing on "
+ ],
+ [
+  5,
+  413,
+  "the fly. I think this forces you to engage with a little more. I admit that whenever I'm in Claude code land,"
+ ],
+ [
+  5,
+  420,
+  "it's easy for your brain to kind of turn off because you're just like, I need you to fix the bug on the invite screen. You know? And and the"
+ ],
+ [
+  5,
+  428,
+  "n, like, away you go. This actually leads into another critical thing. It does not matter if you are a senior software developer or a art hi"
+ ],
+ [
+  5,
+  436,
+  "story teacher. You should be talking to your computer. It is like many of the things I'm gonna talk about today are, like, very specific and"
+ ],
+ [
+  5,
+  445,
+  " professional. However, talking to your computer is not one of them. It doesn't matter. You could be in high school. You could be a postdoc."
+ ],
+ [
+  5,
+  453,
+  "You could be Elon Musk. It doesn't matter. You should be talking to your computer. This is by far the fastest way to input tokens and prompt"
+ ],
+ [
+  5,
+  461,
+  " your machine. Right? This is called Super Whisper. It's $80 a year. There's a bunch of other programs out there. Pick your poison. You are "
+ ],
+ [
+  5,
+  469,
+  "going to prompt like, this would have been very hard to write code with. No one was gonna use, like, voice to text to write code. Right? But"
+ ],
+ [
+  5,
+  477,
+  " the LLM becomes that bridge in between natural language"
+ ],
+ [
+  5,
+  480,
+  "and your source code. And so it doesn't matter if there's some ums or some likes. You don't need to say open curly bracket, you know, quotat"
+ ],
+ [
+  5,
+  488,
+  "ion mark, yada yada. I can just speak exactly the prompt that I want into existence. And because it's so fast to input text here, I'm gonna "
+ ],
+ [
+  5,
+  496,
+  "use more detail. And the more detail you put in the prompt, the better your output's gonna be. Right? So I just did option space."
+ ],
+ [
+  5,
+  504,
+  "Bam. And, like, I bet that was absolutely perfect word for word from what I just said. Right? I think it's what what is different? Oh, yeah."
+ ],
+ [
+  5,
+  512,
+  " Yeah. Yeah. You're right. You're right. Yeah. Yeah. The last word there is different. But I think that, like, ultimately, that's still gonn"
+ ],
+ [
+  5,
+  520,
+  "a be and what's also cool is that you can and even in that case, whenever something gets wrong, if you're writing code, that's an issue. Rig"
+ ],
+ [
+  5,
+  528,
+  "ht? But if you're running through an LLM, the LLM's like, oh,"
+ ],
+ [
+  5,
+  531,
+  "I I get the gist of what you're saying. And oftentimes, I'm not even correcting them. Oftentimes, I'm not fixing typos. My goal is maximum t"
+ ],
+ [
+  5,
+  540,
+  "hroughput from me to the alien brain in Santa you know, in California. I want maximum throughput on that connection, and I would rather, lik"
+ ],
+ [
+  5,
+  549,
+  "e, fire off a bunch of queries than I would to, like, tightly refine the wording on each individual one. So"
+ ],
+ [
+  5,
+  556,
+  "that's some direct oh, yeah. And then I think an important thing to think about, this is also, I think, a really underrated upgrade for a lo"
+ ],
+ [
+  5,
+  563,
+  "t of projects. If you're working on something with the front end and a back end, the default is to open the given repo you're working in. Ho"
+ ],
+ [
+  5,
+  571,
+  "wever, what you can do with these is you can start thinking about the directory structure. So for me, we've got a front end and back end as "
+ ],
+ [
+  5,
+  578,
+  "part of authentic,"
+ ],
+ [
+  5,
+  579,
+  "and I put both of these. I have our front end code here, our back end code here, and then I can open up this main repos folder in Claude and"
+ ],
+ [
+  5,
+  589,
+  " give it access to both of these repos. You think this is, like, basic, but a lot of people don't do this. This is super, super handy. I hav"
+ ],
+ [
+  5,
+  598,
+  "e a separate, who here knows what claud.md or agents.md is? Okay."
+ ],
+ [
+  5,
+  603,
+  "This this should be a 100. This is the single biggest upgrade to your prompt quality, in my in my experience is they're they're synonymous. "
+ ],
+ [
+  5,
+  612,
+  "So these two things are the same thing. For the Linux nerds, I actually have claud dot m d as a SIM link to agents dot m d. One is the indus"
+ ],
+ [
+  5,
+  620,
+  "try standard agents dot m d, and one is claud dot m d that claud code uses. I'm not gonna talk about the distinction there. What's going on "
+ ],
+ [
+  5,
+  629,
+  "is that this is"
+ ],
+ [
+  5,
+  630,
+  "your instructions for the agent. This gets tacked on to every query you send to the agent. This is the file you should be editing most in yo"
+ ],
+ [
+  5,
+  638,
+  "ur entire project. This is where if I make a 2% improvement in the performance of an agent by working here, that is a 2% improvement on ever"
+ ],
+ [
+  5,
+  646,
+  "y single prompt. And if I'm writing 200 prompts a day, that's like the force multiplication effect is huge. And in fact, then this also goes"
+ ],
+ [
+  5,
+  654,
+  " to all of your sub agents. So it actually gets into, like, an exponential situation."
+ ],
+ [
+  5,
+  659,
+  "You should be very carefully editing and refining your agents.md all the time. You know? Let okay. Once a week. Something like this. Right? "
+ ],
+ [
+  5,
+  667,
+  "You get done with a week of work. You think, okay. What what patterns did I notice the agent doing? What problems are there? And this agent "
+ ],
+ [
+  5,
+  675,
+  "this is an agent dot m d file that exists outside of the structure, and it says, hey, agent. You're existing on this top level structure. Yo"
+ ],
+ [
+  5,
+  683,
+  "u have two projects. Here are their names. Here are what they do."
+ ],
+ [
+  5,
+  687,
+  "We can bump this up. We use really strong language because, like, whenever we're running from this directory, this is the most important thi"
+ ],
+ [
+  5,
+  696,
+  "ng for the agent to know. It's critical. All of this is all about how to do this. And then this top 30 lines here that you're looking at is "
+ ],
+ [
+  5,
+  705,
+  "what exists for both in this kind of top level directory. And then we can get into let's open up, like, our client side code."
+ ],
+ [
+  5,
+  713,
+  "We can look at the actual document that we're using in the project itself. So this is giving the agent every time I ask the agent something,"
+ ],
+ [
+  5,
+  723,
+  " these 500 or so lines are handing the agent the context it understands. When you're working with an agent, you know, you wanna think that y"
+ ],
+ [
+  5,
+  733,
+  "ou're, like, kind of dealing with, like, a"
+ ],
+ [
+  5,
+  736,
+  "savant in, like, ninth grade. Right? So it's like he's a ninth grader. He comes in. He's unbelievably intelligent, but he only knows or they"
+ ],
+ [
+  5,
+  744,
+  " only know or it only knows, depending on your philosophical perspective on how to refer to agents, just about what it's been trained on. An"
+ ],
+ [
+  5,
+  752,
+  "d so by handing it this file of agents.md, you're handing it all of this context that is going to deeply multiply whatever it was trained on"
+ ],
+ [
+  5,
+  760,
+  " and be able to give it an understanding. So first, you see we talk a little bit about what the app is. You know, it's social media app, eph"
+ ],
+ [
+  5,
+  768,
+  "emeral short term photos."
+ ],
+ [
+  5,
+  769,
+  "We talk about the technical stack. We talk about the development environment. This is really important. Right? If you say the development en"
+ ],
+ [
+  5,
+  777,
+  "vironment, you're gonna say, hey. I want you to be using Jest for testing. Right? You're gonna remove a lot of issues that people talk about"
+ ],
+ [
+  5,
+  786,
+  " on Twitter whenever they complain about agent based or CLI based prompting approaches by just handing these answers to it."
+ ],
+ [
+  5,
+  793,
+  "And then it's gonna use its tokens and its thinking tokens for questions that really matter, like where is the bug on the login screen and n"
+ ],
+ [
+  5,
+  802,
+  "ot what's the framework that the login screen is using, how to think about it. Talk about core philosophy, some personality naming conventio"
+ ],
+ [
+  5,
+  811,
+  "ns, like for us. And and on a meta level, we're using agents.md"
+ ],
+ [
+  5,
+  815,
+  "to address common failure modes we're watching the agent hit repeatedly. Right? So I noticed that follower count and following count, that c"
+ ],
+ [
+  5,
+  823,
+  "onfuses even engineers like humans. It certainly was confusing our agent regularly. The approach here is, okay. I noticed a failure mode. I "
+ ],
+ [
+  5,
+  831,
+  "saw this happen a couple times. I update our agents.md so all of our agents across our entire distributed team now very clearly understand t"
+ ],
+ [
+  5,
+  840,
+  "he difference in between follower count, following count,"
+ ],
+ [
+  5,
+  843,
+  "and avoiding, like, various ambiguous other phrases. Right? And that actually gets into something that's, like, really critical is just when"
+ ],
+ [
+  5,
+  851,
+  " we're in this world of super fast changing tools, you need to be noting anything you're doing repeatedly and upgrading the agents so that y"
+ ],
+ [
+  5,
+  859,
+  "ou don't need to do that again. Right? Anytime you feel like, oh, I've run this query before. Oh, I always do these seven steps whenever you"
+ ],
+ [
+  5,
+  868,
+  " run the build script."
+ ],
+ [
+  5,
+  869,
+  "It used to be, you know, you'd build, a bash script, and it was, like, very tight and scripted and, like, certain you know? And one little c"
+ ],
+ [
+  5,
+  877,
+  "ommand line would change, and the whole bash script would fail. Now we can just be using slash commands. We can be using agents. We don't ne"
+ ],
+ [
+  5,
+  884,
+  "ed to be doing these repeated tasks. And by making them automated, you also give the agent the ability to do it. Right? So, for example, on "
+ ],
+ [
+  5,
+  892,
+  "a build command,"
+ ],
+ [
+  5,
+  893,
+  "let's say you use four different commands to do your build. Right? You maybe run your unit tests. We'll talk about that. You know, you run y"
+ ],
+ [
+  5,
+  901,
+  "our linter. You run an upload thing. You you run a build script. You should be having that automated, and now Claude is gonna say, oh, I kno"
+ ],
+ [
+  5,
+  909,
+  "w how to I know how to run this build. And so I can say, I want you to fix this bug, review it, and then run the build script all in one pro"
+ ],
+ [
+  5,
+  917,
+  "mpt. And now I'm able to be even more efficient, you know, as kind of the orchestrator or the Maestro."
+ ],
+ [
+  5,
+  923,
+  "I don't think we need to go through this whole thing because we're gonna, oh, this actually leads nicely into the next thing, which is bluep"
+ ],
+ [
+  5,
+  932,
+  "rint driven development. Yeah. Yeah. Totally. Do you think your when you have to make a script, like, push shell script Yep. Or nondetermini"
+ ],
+ [
+  5,
+  942,
+  "stic, like, agent. Yeah. Are you familiar with slash commands? Who"
+ ],
+ [
+  5,
+  946,
+  "here in the room has used a slash command before? Okay. That is also a super handy thing here. Right? So let's let's look at one. So to firs"
+ ],
+ [
+  5,
+  954,
+  "t, to answer your question before I get into slash commands, I, generally speaking, prefer using a slash command. But, obviously, there are "
+ ],
+ [
+  5,
+  962,
+  "exceptions. I do we do have plenty of batch scripts in this project. I think it's like, by default, I'm gonna make it a agentic command of I"
+ ],
+ [
+  5,
+  970,
+  "'m gonna tell the agent to do the following things."
+ ],
+ [
+  5,
+  973,
+  "But if it's, like, really rigid, then I might go ahead and make it a batch command. The script, for example, to, like, increment our build n"
+ ],
+ [
+  5,
+  981,
+  "umber, I have that as a batch command. The script to do our build, which is a little bit more complicated, that involves the agent. Yeah. Ye"
+ ],
+ [
+  5,
+  988,
+  "ah. Yeah. I mean, obvious yeah. So I'll I'll leave it at that. Let's Let's talk about blueprint driven development, and that's gonna inform "
+ ],
+ [
+  5,
+  996,
+  "our slash command stuff, but we definitely wanna get more people here familiar with slash commands because they're now, like, becoming an in"
+ ],
+ [
+  5,
+  1003,
+  "dustry standard. Blueprint driven development is something that actually is still in this talk from a year ago, which is, like, a testament "
+ ],
+ [
+  5,
+  1011,
+  "in and of itself."
+ ],
+ [
+  5,
+  1012,
+  "Blueprint driven development is a phrase that I use to talk about We're gonna go to cursor. We're gonna bring this to the front. Here we go."
+ ],
+ [
+  5,
+  1025,
+  " Hopefully, that's still readable. Is writing out an extremely high level of technical documentation before you write the first line of code"
+ ],
+ [
+  5,
+  1039,
+  "."
+ ],
+ [
+  5,
+  1039,
+  "So what you you know, I'm an I'm a fan of agile, you know, agile strum master, all that stuff. I'm all for iterative development and people "
+ ],
+ [
+  5,
+  1047,
+  "over processes and all this kind of stuff. But when it comes to working with agents, you want to give them very clear understanding of what "
+ ],
+ [
+  5,
+  1054,
+  "they wanna build before you get into building it. Right? A lot of what Lovable and Replit do is they really set up the agent to be doing thi"
+ ],
+ [
+  5,
+  1062,
+  "s in the background,"
+ ],
+ [
+  5,
+  1063,
+  "for for nontechnical users. So what's going on here is you can see these markdown files. Markdown files are my and authentic as a company's "
+ ],
+ [
+  5,
+  1072,
+  "way to interact with large language models. All of our documents are markdown files. Yeah. What are these? Yeah. Yeah. Yeah. Totally. They'r"
+ ],
+ [
+  5,
+  1081,
+  "e just they're just separators for the humans. To to make it very clear,"
+ ],
+ [
+  5,
+  1086,
+  "the next from ten to 20 is architecture overview. From 20 to 30 is data architecture. From 30 to 40 is media. Just so that way, we get the o"
+ ],
+ [
+  5,
+  1095,
+  "ther engineers on the team all kind of, like, arranging their blueprints in, like, a nice clean way. It also just makes these files are, esp"
+ ],
+ [
+  5,
+  1104,
+  "ecially earlier on in the project, where you're gonna interact with the most and I'm gonna spend the most time with. I do not wanna go into"
+ ],
+ [
+  5,
+  1113,
+  "slash upload slash route dot j s and find the file that deals with dot HEIC versus dot JPEG image files. I am gonna go in here, and I'm gonn"
+ ],
+ [
+  5,
+  1121,
+  "a go into our media storage architecture, and I'm going to update the architecture. And then I'm gonna say to the agent, hey. Go update. I j"
+ ],
+ [
+  5,
+  1130,
+  "ust made some changes to our media store storage architecture. Go update the code to match this architecture."
+ ],
+ [
+  5,
+  1136,
+  "The architecture and these markdown files become the human interface to the code base that exists underneath it. Right? Now you still, at th"
+ ],
+ [
+  5,
+  1145,
+  "is you know, probably in a year or two from now, you're not even gonna need to look at code at all. But for the time being, it does still co"
+ ],
+ [
+  5,
+  1154,
+  "me in handy from time to time. But, ultimately, I will spend sometimes like, for example, we just updated our glimpse architecture,"
+ ],
+ [
+  5,
+  1162,
+  "and, doesn't and and, basically, I spent six hours of my time writing a blueprint file. Let's talk about, like, why this is so critical. I a"
+ ],
+ [
+  5,
+  1172,
+  "m not writing a lot of these files. I am saying, okay. Yeah. Yeah. In the back. Yeah. Yeah. I mean, you certainly could. I think what's hand"
+ ],
+ [
+  5,
+  1182,
+  "y about here is that it's all flat, and I can just look at them all. And I can also tell agents, look in the blueprints directory, and it ha"
+ ],
+ [
+  5,
+  1192,
+  "s all the blueprints."
+ ],
+ [
+  5,
+  1194,
+  "The reason why you I have these numbers at the front is because it's super quick to go whenever you're talking with an agent, you can go at "
+ ],
+ [
+  5,
+  1202,
+  "14, and bam. I get to the blueprint super quickly. Because these are the critical interface in between code and humans, I'm referencing thes"
+ ],
+ [
+  5,
+  1211,
+  "e files vastly more often than I'm referencing files elsewhere in the project. And so this, like, number underscore thing is certainly somet"
+ ],
+ [
+  5,
+  1219,
+  "hing that works really well for us as a team."
+ ],
+ [
+  5,
+  1222,
+  "Also, way, if I'm on a Zoom call or in stand up and I'm like, I updated dot you know, blueprint 22, It lets people very quickly know, like, "
+ ],
+ [
+  5,
+  1229,
+  "what's going on there. Yeah. But that's a stylistic decision. The agents don't really care. They should be able to handle whichever approach"
+ ],
+ [
+  5,
+  1236,
+  ". By having these very highly detailed blueprint files, you're able to vastly improve the quality of output. Just like before where I was sa"
+ ],
+ [
+  5,
+  1244,
+  "ying it's like, you know, a savant ninth grader."
+ ],
+ [
+  5,
+  1246,
+  "You're handing so not only we're giving the agents dot m d file, that's at the top of every query. And then within that, in the agents dot m"
+ ],
+ [
+  5,
+  1254,
+  " d file, I'm saying, hey. Go look at the blueprints file. Go look at the blueprints read me, which describes every single blueprint in one s"
+ ],
+ [
+  5,
+  1262,
+  "entence line and find the blueprints that are relevant to the query. This is in my agents dot a m d. Right? So you gotta so agents.md says g"
+ ],
+ [
+  5,
+  1270,
+  "o look at the blueprints. It goes and look at the blueprints dot read me, finds the blueprints that are relevant, goes and reads those relev"
+ ],
+ [
+  5,
+  1278,
+  "ant blueprints,"
+ ],
+ [
+  5,
+  1279,
+  "and then and only then actually starts to get into actually, thinking about the problem at hand. This increases your token usage by 20% prob"
+ ],
+ [
+  5,
+  1294,
+  "ably and is absolutely worth it in my opinion. It improves the quality of your output, like, drastically. Right? Yeah. Yep. Exactly."
+ ],
+ [
+  5,
+  1309,
+  "And the agent especially, we're in a world of GREP based agents, which is probably more detailed than we wanna get into in this class. But, "
+ ],
+ [
+  5,
+  1316,
+  "basically, like, now the agents in Cursor or Claude are using a search within your project directory very, very heavily. This is something i"
+ ],
+ [
+  5,
+  1323,
+  "n the last year that's become, like, the dominant way for agents to navigate a code base. And so by having these files when it says, oh, wha"
+ ],
+ [
+  5,
+  1330,
+  "t's the media architecture? It puts a huge amount of weight on blueprints and is likely to pull that up automatically too. Right? And so tha"
+ ],
+ [
+  5,
+  1337,
+  "t means that even if I even if it doesn't read it or it misses something, it's very likely that it's going to hit that in its GREP, and it's"
+ ],
+ [
+  5,
+  1344,
+  " gonna be like, oh, like, how do I work with Git Worktrees? It's gonna search for Worktree. It finds this document. It gives it all all the "
+ ],
+ [
+  5,
+  1351,
+  "context."
+ ],
+ [
+  5,
+  1351,
+  "Yeah. Yeah. I do. And this is actually another really good meta thing. We're all about, you know, working effectively with this coworker tha"
+ ],
+ [
+  5,
+  1362,
+  "t is AI, but that does mean that you should be changing some aspects of your workflow to match it. It's not always, like, forcing the AI to "
+ ],
+ [
+  5,
+  1372,
+  "match your workflow."
+ ],
+ [
+  5,
+  1374,
+  "For example, I really disliked readme files. I especially old three point five and three point seven would make readme files, like, crazy, A"
+ ],
+ [
+  5,
+  1381,
+  "nd I didn't like it. And I, like, used agents, and I was like, do not write any readme files under any circumstance. You know? And it would "
+ ],
+ [
+  5,
+  1388,
+  "still occasionally do it. And then I was like, wait. What am I doing? I am trying to make my workflow onto the agent. I switched it around. "
+ ],
+ [
+  5,
+  1396,
+  "Now I'm like, yeah. Go for it. Make really detailed, highly descriptive README files as much as you want."
+ ],
+ [
+  5,
+  1401,
+  "And then I'm meeting the agent where it's at, and this is really effective. So to answer in on that question, the README is effectively the "
+ ],
+ [
+  5,
+  1409,
+  "index. Right? And and you'll see throughout the project, there's a bunch of README files. A lot of them, no human has ever looked at, but it"
+ ],
+ [
+  5,
+  1417,
+  " just is giving the agent context on what is this directory? What are the scripts in this directory? How do I interact, and what purpose do "
+ ],
+ [
+  5,
+  1424,
+  "these scripts serve? All this kind of a thing."
+ ],
+ [
+  5,
+  1427,
+  "Yep. Yep. Yep. Yep. Yep. Yep. Yep. Yeah. Do you do something like that? Or you Yeah. Let them, like, flush tokens. So we've got a few so fir"
+ ],
+ [
+  5,
+  1448,
+  "st off, on flushing tokens, like, if you're working as a professional software developer,"
+ ],
+ [
+  5,
+  1461,
+  "it's my opinion that you've got five years left of programming, and you shouldn't give two shits about how many tokens you burn. So you shou"
+ ],
+ [
+  5,
+  1468,
+  "ld be blasting. You know what I mean? So that just throwing that out there as, like, a brief brief note. I think you're hitting on something"
+ ],
+ [
+  5,
+  1475,
+  " really interesting there. A core failure mode I see is whenever people have documentation, they build their documentation. Go look at the u"
+ ],
+ [
+  5,
+  1483,
+  "sers table. User table is the following columns."
+ ],
+ [
+  5,
+  1485,
+  "And then a few days later, they might add a new column to their users table, they don't update their documentation. And then a few days late"
+ ],
+ [
+  5,
+  1491,
+  "r, they say, ah, I wanna change the query that inserts someone into users table. And now the agent has two things, and this is what you're h"
+ ],
+ [
+  5,
+  1498,
+  "itting on here. Right? You've got documentation, which is out of alignment with the code. This is your worst case scenario. This is really b"
+ ],
+ [
+  5,
+  1504,
+  "ad because because what's what's gonna gonna happen happen is it will be immensely frustrating for you, the agent, and your code base, and a"
+ ],
+ [
+  5,
+  1511,
+  "nyone that ever has to read the code that comes out of that session because they will it will thrash in between these two things. So keeping"
+ ],
+ [
+  5,
+  1517,
+  " synchronization"
+ ],
+ [
+  5,
+  1518,
+  "in between your blueprint or your read me and the code base is really important. Hold on one second. So there's one other point, that I wann"
+ ],
+ [
+  5,
+  1527,
+  "a hit on on the creating files is that we have a three tiered structure of files that the agent makes. Blueprints is the gold standard. That"
+ ],
+ [
+  5,
+  1536,
+  "'s where I'm spending my time. That these files, these are really well refined."
+ ],
+ [
+  5,
+  1541,
+  "If another developer on my team checks in a blueprint, I'm gonna look at that line by line. Right? I'm gonna I will give feedback. I will hu"
+ ],
+ [
+  5,
+  1549,
+  "manize over every single character in my Blueprints folder. Then we have the docs folder. As you can see, there's tons of docs in here. Righ"
+ ],
+ [
+  5,
+  1558,
+  "t? Let's say, like, provisioning best practices for our React Native build progress. These are files that are not gold standard and are not "
+ ],
+ [
+  5,
+  1566,
+  "blueprint,"
+ ],
+ [
+  5,
+  1567,
+  "but are things that are useful and should persist across time. And then there's what you're hitting on there, and that is notes. And notes, "
+ ],
+ [
+  5,
+  1576,
+  "this is our notes folder. Right? And it's gigantic. And these are throwaways. These are temporal. Agent says and so it says in agents dot m "
+ ],
+ [
+  5,
+  1586,
+  "d, it really lays out this three tiered system of documentation."
+ ],
+ [
+  5,
+  1590,
+  "It says, you wanna make a note? Put it in notes. Go to town. Build whatever you want. Like, you wanna make a bug fix after action markdown f"
+ ],
+ [
+  5,
+  1598,
+  "ile? Because Claude will hap like, really enjoys doing this. We'll do it totally unprompted as I'm sure you've seen. Just put it in notes. I"
+ ],
+ [
+  5,
+  1605,
+  " actually do I used to have this in gitignore. That's a stylistic decision. You could gitignore your your notes folder entirely, I think. I "
+ ],
+ [
+  5,
+  1613,
+  "ended up finding pretty interesting things, and so we did end up adding them. So as a company, we do. But every once in a while, I just go t"
+ ],
+ [
+  5,
+  1621,
+  "hrough. I grab all the files and notes. I compress them into a ZIP so that way it doesn't show up in any of the greps,"
+ ],
+ [
+  5,
+  1627,
+  "and then, like, throw it into archive. And it it doesn't matter. And so that's a nice way that you're meeting the agent where it wants to wo"
+ ],
+ [
+  5,
+  1635,
+  "rk. Right? If you use plan mode here, you will notice that plan mode by default will oftentimes want to create a markdown file that says, al"
+ ],
+ [
+  5,
+  1643,
+  "right. Like, I wanna fix this bug in the login screen. You enter into plan mode. You send a query. It's gonna make a markdown file. By putti"
+ ],
+ [
+  5,
+  1652,
+  "ng that in notes, you give it to the agent for the purposes of that chat and other chats, other agents in the work tree perhaps,"
+ ],
+ [
+  5,
+  1659,
+  "but you don't, like, clutter up your whole system and you can, like, clear it off later. Yeah. I think you had your hand up first if you In "
+ ],
+ [
+  5,
+  1671,
+  "a perfect idealist world, yes. That is the exact solution. But in reality, what happens I mean, you know, this is a 250,000 lines of code. F"
+ ],
+ [
+  5,
+  1683,
+  "our developers are working on it every single day. There's constantly things changing. So then I should be running this probably once a week"
+ ],
+ [
+  5,
+  1695,
+  ". It actually ends up being more like once a month. I do this query."
+ ],
+ [
+  5,
+  1701,
+  "I want you to go through Blueprint o five and research all of the code related to Blueprint o five. In any situation that the code is doing "
+ ],
+ [
+  5,
+  1709,
+  "something more advanced than the Blueprint, I want you to update the Blueprint. If you think the Blueprint is already is advocating for an a"
+ ],
+ [
+  5,
+  1716,
+  "pproach that is different than the code and is superior, I want you to list that in a numbered list markdown file named blueprint o five cod"
+ ],
+ [
+  5,
+  1724,
+  "e discrepancies."
+ ],
+ [
+  5,
+  1725,
+  "Right there. And then you can actually, you know, have this run through this sequentially. This is super handy. Right? What this is saying i"
+ ],
+ [
+  5,
+  1732,
+  "s it says to the agent, go look at the code, go look at the blueprint blueprint. If the code typically, the code for us is better than the b"
+ ],
+ [
+  5,
+  1740,
+  "lueprint. Right? Blueprint started simple. The code said, oh, we discovered some edge case. We've updated for this edge case. You know, it's"
+ ],
+ [
+  5,
+  1747,
+  " more cohesive. We fix some bug, whatever. Then the blueprint's out of state. What this is gonna do is say, by default, treat code as standa"
+ ],
+ [
+  5,
+  1755,
+  "rd. Go update the blueprint. Make sure the blueprint stays in sync. But also keep an eye out for the situation where the blueprint might des"
+ ],
+ [
+  5,
+  1762,
+  "cribe something more advanced or different from"
+ ],
+ [
+  5,
+  1765,
+  "the actual implementation. Just give me that in numbered list. And then you can go through that numbered list and then you can you can turn "
+ ],
+ [
+  5,
+  1773,
+  "those right into Jira tickets or linear tickets or tasks for yourself or whatever. Yeah. Are you using hooks for that as well? That's an int"
+ ],
+ [
+  5,
+  1781,
+  "eresting thing. I've thought about it for sure. I feel like this does this type of query any query which I update blueprints, I'm very much "
+ ],
+ [
+  5,
+  1789,
+  "in the loop."
+ ],
+ [
+  5,
+  1790,
+  "A lot of these bug fix things, I'm firing forget. Like, if we look at my warp terminal right now, see all these different tabs? These are al"
+ ],
+ [
+  5,
+  1797,
+  "l different agents that are all running on different things. Right? And I'm not, like, really keeping a close eye on them. Blueprints, I am."
+ ],
+ [
+  5,
+  1805,
+  " So I I do think that hooks would be interesting like making the maybe the difference document. But I think I would need to be involved in l"
+ ],
+ [
+  5,
+  1812,
+  "ike any decisions that are being made because I need to make sure that blueprints doesn't get overrun with slop. Like blueprints is super ti"
+ ],
+ [
+  5,
+  1819,
+  "ght, human readable. I'm pretty like in the loop there. Yeah. I do. But Hooks is super interesting and I think that not enough people are us"
+ ],
+ [
+  5,
+  1827,
+  "ing them."
+ ],
+ [
+  5,
+  1827,
+  "And I think myself included like, tokens are so cheap especially for these like Chinese models that like you should be I think there's a lot"
+ ],
+ [
+  5,
+  1848,
+  " of potential to use hooks to do automated every single time I do a good git commit. Go look go kick off a refactor task and give me a repor"
+ ],
+ [
+  5,
+  1870,
+  "t or something like that. It's on the list of things I'd like to explore. Yeah. Yeah. I"
+ ],
+ [
+  5,
+  1883,
+  "would say that, I'm so I've seen some of these like a lot of people use PRD. You can ask an agent to make a PRD and that tends to be very ef"
+ ],
+ [
+  5,
+  1891,
+  "fective because it's been trained on like a ton of corporate documents especially like a concise and focused PRD product requirement documen"
+ ],
+ [
+  5,
+  1899,
+  "t is PRD. That's one and like I sometimes do that especially if I'm doing like a new project. But ultimately, like these agents are fucking "
+ ],
+ [
+  5,
+  1906,
+  "smart and they tend to pick up on what they need to pick up on."
+ ],
+ [
+  5,
+  1910,
+  "So I'm not sure how much structure structure is necessarily needed there, but I would be interested if you like I would love some data on th"
+ ],
+ [
+  5,
+  1919,
+  "at of like different approaches and actually the the impact. Yeah. In the back. Particularly the monorepos that I'd like to have with a coup"
+ ],
+ [
+  5,
+  1928,
+  "le different apps. Do you worry about the ads being overwhelmed by context? Not"
+ ],
+ [
+  5,
+  1933,
+  "really. And in fact, because generally speaking so there's there's some interesting things here. I'm actually gonna really get into this on "
+ ],
+ [
+  5,
+  1940,
+  "this lab on Thursday of some like pretty advanced context hacking stuff. I would say so first off, this actually isn't a mono repo. Right? W"
+ ],
+ [
+  5,
+  1947,
+  "e do actually have two separate repos for front end back end and it is just this project. Right? It's there's no other like code base or, yo"
+ ],
+ [
+  5,
+  1954,
+  "u know, multiple things. I think that can confuse people. That can confuse agents. Right? If you have one git repo that's like aton's person"
+ ],
+ [
+  5,
+  1961,
+  "alprojects.git"
+ ],
+ [
+  5,
+  1962,
+  "or whatever and you have like five different games in an academic project, I think then you can really risk doing it. But for something like"
+ ],
+ [
+  5,
+  1980,
+  " this, especially with strongagents.md, I think it's it maintains pretty tight. Yeah. Yeah. Yeah. So actually that"
+ ],
+ [
+  5,
+  1994,
+  "is there's changes to specificity. Right? So a year ago, you had to be like, you're a senior staff engineer at a major technology company an"
+ ],
+ [
+  5,
+  2002,
+  "d you're an expert at React Native and you really value, you know, the following principles like pick pick whichever one. Right? That has go"
+ ],
+ [
+  5,
+  2011,
+  "t that level of specificity is no longer helpful. Now I have been going through and updating a lot of my prompts to be more"
+ ],
+ [
+  5,
+  2018,
+  "more general. Right? Because now the agents are getting much much smarter and so you don't wanna hem them in. If you say do a code review bu"
+ ],
+ [
+  5,
+  2026,
+  "t only look for security weaknesses and duplicate code, which are reasonable things to look for in a code review, you have just like hyper f"
+ ],
+ [
+  5,
+  2034,
+  "ocused your agent and they're not gonna find all these other bits of feedback. And so in general, over the last year, we've seen this huge t"
+ ],
+ [
+  5,
+  2042,
+  "rend for less specificity"
+ ],
+ [
+  5,
+  2043,
+  "in the actual prompt itself and I also would add to that I really enjoy asking the agent to review a prompt and then give me a numbered list"
+ ],
+ [
+  5,
+  2052,
+  " of questions about that prompt. And so then you're like, you're meeting the ninth grader where they're at. Right? Because they know it know"
+ ],
+ [
+  5,
+  2061,
+  "s way more about React Native development than I do. And so I don't know if my prompt is saying, oh, we actually should be using stale y reu"
+ ],
+ [
+  5,
+  2069,
+  "se caching"
+ ],
+ [
+  5,
+  2070,
+  "and not the way you've laid it out which is a more simplistic database driven caching. And if you can just say, hey, I want this outcome. Le"
+ ],
+ [
+  5,
+  2077,
+  "t's talk about this here in the chat. You're gonna enable the intelligence to bubble up from the agent and be like, here's the following thr"
+ ],
+ [
+  5,
+  2084,
+  "ee options you can think about when you're doing caching. And I can be like, what are the disadvantages of two and this kind of thing and an"
+ ],
+ [
+  5,
+  2091,
+  "d really engage in dialogue. That gets into planning mode which very recently has become very common. This has to do with like some of the c"
+ ],
+ [
+  5,
+  2098,
+  "hanges to how RL is used to make modern frontier models"
+ ],
+ [
+  5,
+  2101,
+  "outside of the scope of this talk. But basically you should be using planning mode. Right? Shift tab is planning mode. You see this change h"
+ ],
+ [
+  5,
+  2110,
+  "ere. Shift tab means you're not going to make any changes to the code base and you bump the agent into this mode. Six months ago, you could "
+ ],
+ [
+  5,
+  2118,
+  "just say, hey, don't write any code. We're just gonna talk about this. I would just say that in a claw discussion."
+ ],
+ [
+  5,
+  2125,
+  "But now I actually wanna use planning mode because Sonnet four five and all of its generation are going through RL processes where that plan"
+ ],
+ [
+  5,
+  2133,
+  "ning mode is on and they spend a hundred thousand subjective years of like just planning. And that actually is gonna improve the output more"
+ ],
+ [
+  5,
+  2141,
+  " and at least in my experience right now, more than saying, hey, we're just in planning mode in the actual query itself."
+ ],
+ [
+  5,
+  2148,
+  "That will probably go away in six months and the agents will be just as good in either. Yep. For multi agent coordination Yep. What's your k"
+ ],
+ [
+  5,
+  2156,
+  "ind of working directory tree especially within the branches and like pushing codes? Yep. If you have multiple agents working on one feature"
+ ],
+ [
+  5,
+  2164,
+  " at one branch, how do you kind of make sure that that's not overriding what another agent's doing in different branch? Totally. Because you"
+ ],
+ [
+  5,
+  2173,
+  " haven't pushed it yet. Right? So everything is Right. Quite siloed. Yes."
+ ],
+ [
+  5,
+  2177,
+  "For sure. So Cursor Cursor two point o is a came out five days ago while I'm here. Unbelievably good at this specific thing where you actual"
+ ],
+ [
+  5,
+  2185,
+  "ly go in here, you click this, you click work tree and now this exists in a work tree. This is like you have to be using this if you're you'"
+ ],
+ [
+  5,
+  2194,
+  "re I mean, this is such an upgrade because it gives you this for free. Before you had to do a lot of, like, little clever tricks in order to"
+ ],
+ [
+  5,
+  2202,
+  " bump different agents into different work trees. Now in cursor, I can just be like, make a work tree do it. Right?"
+ ],
+ [
+  5,
+  2209,
+  "I can also click on use multiple models. Let's say, like, find the most interesting file in the project. And I'm gonna say, alright. Don't u"
+ ],
+ [
+  5,
+  2219,
+  "se max mode. Use multiple models and kick this off to three different agents all in their own work tree. Right? And now I have three differe"
+ ],
+ [
+  5,
+  2230,
+  "nt subchats, all of which that are working independently"
+ ],
+ [
+  5,
+  2234,
+  "that I that I can toggle in between. This is like absolute voodoo magic. It is a substantial step up to my productivity in Cloud Code. And a"
+ ],
+ [
+  5,
+  2242,
+  "s a hardcore Cloud Code max user for a year, it is almost frustrating to me that I, like, built this emotional affinity for a certain toolin"
+ ],
+ [
+  5,
+  2251,
+  "g. And now now I'm like this is better and you need to be switching over to this from my perspective. So that's just isolating"
+ ],
+ [
+  5,
+  2258,
+  "that one chat in three different instances however that's still not managing a different agent? No. All three of these are different agents "
+ ],
+ [
+  5,
+  2265,
+  "that are existing in their own work tree. So each one of these agents just got created its own work tree and they're all working independent"
+ ],
+ [
+  5,
+  2272,
+  "ly of that. And then I can go through and review. You also could give different prompts to different agents, right, depending on what your g"
+ ],
+ [
+  5,
+  2279,
+  "oal I guess I mean more so with my git branches. If you have different if you have like a work tree and different git branches."
+ ],
+ [
+  5,
+  2286,
+  "No. Mean, if your goal is to have multiple agents, this is how each agent wouldn't interfere with its changes. And you can have the agent ma"
+ ],
+ [
+  5,
+  2295,
+  "ke pull requests or you can mainly review. Now one thing that I also do, talking on multi agent orchestration, is, who here writes, who here"
+ ],
+ [
+  5,
+  2303,
+  " knows what unit tests are? Okay. That's that's like awesome. That's like way a substantial number. I think that's super super useful becaus"
+ ],
+ [
+  5,
+  2312,
+  "e we're writing so much code and we're changing so much, unit tests are went from like a nice thing that corporate America did ten years ago"
+ ],
+ [
+  5,
+  2320,
+  " to like something that is like effectively in my opinion mandatory even if it's just your solo fun project."
+ ],
+ [
+  5,
+  2327,
+  "I hated when I worked in corporate America writing unit tests, despise them. They was like, it's so much work. It's like all this extra thin"
+ ],
+ [
+  5,
+  2336,
+  "g. And now I just have the agent write these unit tests. And getting into the multi agent orchestration, sometimes I'll write some code. Oka"
+ ],
+ [
+  5,
+  2345,
+  "y. One sec. And I'll write some code, and then I have a agent in Cloud Code agents called unit test writer."
+ ],
+ [
+  5,
+  2352,
+  "So let's pull it up real quick here. We go into here. I'll get more into actually how to use agents on the Tuesday class because we would be"
+ ],
+ [
+  5,
+  2363,
+  " here forever if we really got into it. But what I can do is this is the agent for writing Jest, which is a very common React Native unit te"
+ ],
+ [
+  5,
+  2375,
+  "st framework."
+ ],
+ [
+  5,
+  2376,
+  "It says you are an ex Jest unit expert. You have mastery. You have testing methodology. And I will say, go create 10 agents. In Cloud Code, "
+ ],
+ [
+  5,
+  2386,
+  "I will say, go create 10 test writer agents and go you know, first, come up with a plan for all the unit tests we need to write, and then fi"
+ ],
+ [
+  5,
+  2396,
+  "re off 10 agents at a time to go write all the unit tests."
+ ],
+ [
+  5,
+  2400,
+  "And in that instance, you don't even need Worktree, right, because all of those are independent tasks that I can trust are moving according "
+ ],
+ [
+  5,
+  2408,
+  "to this, like, larger markdown plan, and it's, like, unbelievably effective. One time, I wrote 90,000 lines of code in a single, like, four "
+ ],
+ [
+  5,
+  2415,
+  "hour session. Right? Like, that's fucking crazy. It it I mean, it is possible that in the year 2000, you might write 90,000 lines of code in"
+ ],
+ [
+  5,
+  2423,
+  ", like, five years of work."
+ ],
+ [
+  5,
+  2424,
+  "Okay? And and it's just, like, unbelievably effective. Same with if you break a lot of unit tests. I have a similar agent called unit test f"
+ ],
+ [
+  5,
+  2431,
+  "ixer where I can just be like, oh, shit. We broke a 110 unit tests. Super you know, we've got, like, 30 like, 3,500 unit tests in the projec"
+ ],
+ [
+  5,
+  2439,
+  "t right now. Let's say I refactor a major screen. I might break a 100 unit tests. I don't wanna fucking go in there and figure out what's wr"
+ ],
+ [
+  5,
+  2446,
+  "ong with all these. I'm gonna say, analyze what unit tests are failing in a markdown document, group them together into categories,"
+ ],
+ [
+  5,
+  2453,
+  "and then I'm gonna look at that. And then I'm gonna say, okay. Now I want you to fire off 10 unit test fixers at a time based on this plan, "
+ ],
+ [
+  5,
+  2461,
+  "and then I can just go and, you know, go do other things. I come back, and they're all fixed. Right? This is like I think unit tests uniquel"
+ ],
+ [
+  5,
+  2469,
+  "y lend themselves to multi agent orchestration because they don't step on each other's toes in the same way. Generally speaking, I'm actuall"
+ ],
+ [
+  5,
+  2477,
+  "y really only working on maybe one or two features at a given time. Gen and so you can use WorkTrees, but I actually have just and, I mean, "
+ ],
+ [
+  5,
+  2485,
+  "if if you want to set up those, that's totally all well and good."
+ ],
+ [
+  5,
+  2489,
+  "I actually just have two copies of the code base on my machine. Right? So I have main repos, and I have secondary repos. And they're they're"
+ ],
+ [
+  5,
+  2497,
+  " identical. And this way, I can just pull up I can have one agent in Claude be in main repos authentic React, and I can have a second agent "
+ ],
+ [
+  5,
+  2505,
+  "work on a totally separate thing in secondary repos authentic React. And then I can they'll just make a pull request against the thing, and "
+ ],
+ [
+  5,
+  2512,
+  "I can review the pull request."
+ ],
+ [
+  5,
+  2514,
+  "And you seem confused. Yeah. Right behind you. Yeah. No. Yeah. Because it's actually it's a very easy way to do this, and this way, you avoi"
+ ],
+ [
+  5,
+  2526,
+  "d the complexity of, like, I can just think to myself. So for example, in here, yellow and blue are my main repos, and then I have, like, re"
+ ],
+ [
+  5,
+  2538,
+  "d and green will be my secondary repos."
+ ],
+ [
+  5,
+  2541,
+  "And yeah. So, the reason why you don't have different branches is because these are all working from the same local directory. So there I'm "
+ ],
+ [
+  5,
+  2549,
+  "certain there's a we have a whole Git workflow. I'm totally using Git branches. But let's say I wanna be adding the login screen, but I also"
+ ],
+ [
+  5,
+  2557,
+  " wanna fix a bug on the splash screen. This way, I can have my main repos might be in login screen. I can have maybe multiple agents working"
+ ],
+ [
+  5,
+  2565,
+  " in login screen,"
+ ],
+ [
+  5,
+  2566,
+  "and then I can also switch over my secondary repos, you know, by, like did I go up too far? I did. Engineering. Secondary repos. And now I c"
+ ],
+ [
+  5,
+  2576,
+  "an have a new instance of Cloud over here, and they can be doing something totally separate. And then I can they can merge with git push or "
+ ],
+ [
+  5,
+  2586,
+  "pull requests or, like, whatever the appropriate flow is for your project."
+ ],
+ [
+  5,
+  2591,
+  "I think for, like, begin like, for even anything less than advanced users, I think that this is actually probably the easier and more straig"
+ ],
+ [
+  5,
+  2606,
+  "htforward way to think about it. But if you wanna level up in your GitFu and do some more advanced things, like, there that's totally a path"
+ ],
+ [
+  5,
+  2621,
+  " as well. Yep. Yep. Yep."
+ ],
+ [
+  5,
+  2624,
+  "I they're they're in your local Git instance. We will dig more into this into the class on Thursday. So I I would yeah. Because then we'll w"
+ ],
+ [
+  5,
+  2631,
+  "e'll talk about this. I will just briefly say, though, that, like, I know lots of people in here are using Cloud Code, and, like, Composer i"
+ ],
+ [
+  5,
+  2639,
+  "s really good and way faster, like, 10 x faster. And there's also, like, this interesting geopolitical thing of, like, me using Composer as "
+ ],
+ [
+  5,
+  2646,
+  "the first try like, this is a fine tune. Rumor has it. This is a fine tune of a Chinese open model. Right? And so that's really interesting "
+ ],
+ [
+  5,
+  2654,
+  "that I'm here. I have I mean, I effectively have an unlimited budget. Like, I'm willing to spend pretty much whatever it takes for the smart"
+ ],
+ [
+  5,
+  2661,
+  "est possible coworker because if it makes me 5% faster, that's, like, absolutely worth it in real dollar terms."
+ ],
+ [
+  5,
+  2667,
+  "And this is the first time in my entire engineering career that I'm using a fine tune of a Chinese bay Chinese model to be the most effectiv"
+ ],
+ [
+  5,
+  2675,
+  "e engineer I possibly can be. And I think there's, like, grand geopolitical discussions there that are vastly outside of the scope of this t"
+ ],
+ [
+  5,
+  2683,
+  "alk. Just wanna so let's see. So we talked about some BlueMaid stuff Blueprint stuff. We should talk about Mermaid."
+ ],
+ [
+  5,
+  2690,
+  "Mermaid is incredible. And this I started doing this because of discussion I had with Patrick at Edge City Esmeralda at a community dinner, "
+ ],
+ [
+  5,
+  2701,
+  "and now all authentic engineers have been forced to effectively use mermaid diagrams because they're great. They are an excellent interface "
+ ],
+ [
+  5,
+  2711,
+  "in between human level language and, machine code."
+ ],
+ [
+  5,
+  2715,
+  "Unlike Patrick, who, like in the matrix, probably looks at this and can actually just see this in his mind's eye as a diagram, I have this t"
+ ],
+ [
+  5,
+  2725,
+  "hing called an markdown preview enhanced. I hit command shift p. I hit enter, and it's showing up over here. And it turns that into this. So"
+ ],
+ [
+  5,
+  2735,
+  " this is so critical because"
+ ],
+ [
+  5,
+  2737,
+  "agents have amplified our collective our ability to get so much more work done. And so I can have those blueprint those blueprints that we w"
+ ],
+ [
+  5,
+  2746,
+  "ere talking about before. Those are long. Those are, like, anywhere from 200 to 1,500 lines of English. And so if I wanna think about what's"
+ ],
+ [
+  5,
+  2754,
+  " this? This is the storage architecture. Let's let's pick a good one here. Yeah. So here's, like, a nice"
+ ],
+ [
+  5,
+  2761,
+  "app launch flow for how our storage architecture works. To read this out in English with all the details is not super intuitive. You can do "
+ ],
+ [
+  5,
+  2769,
+  "it for sure, but it's, like, it's a lot of text. Here, I can just be like, oh, what's the flow on app launch? How do we go load cache? How d"
+ ],
+ [
+  5,
+  2777,
+  "oes hydration work? Oh, okay. There's hydrate and this just gives you such a higher fidelity overview"
+ ],
+ [
+  5,
+  2783,
+  "of what the sequence of events are. These are both a little yeah. And so, like, here's here's a nice one of how do we handle offline mode in"
+ ],
+ [
+  5,
+  2793,
+  " the project. And, okay, network to test fails. We can, like, walk through this state machine. This is both really great for humans, but it'"
+ ],
+ [
+  5,
+  2804,
+  "s also really great for agents because this is code. And so you can say to the agent,"
+ ],
+ [
+  5,
+  2810,
+  "hey. Like, go make it so let's say you're debugging something with the offline mode handling, for example, which is super common. Right? Tha"
+ ],
+ [
+  5,
+  2817,
+  "t's like there's a lot of weird complexity in dealing with offline mode in a professional smooth way. Why what you wanna do is you can say t"
+ ],
+ [
+  5,
+  2825,
+  "o the agent, hey. I want you to go make me a high detailed mermaid diagram of our offline mode handling. It'll go do that. And then you can "
+ ],
+ [
+  5,
+  2832,
+  "go look at that."
+ ],
+ [
+  5,
+  2833,
+  "You could even say you could say to another agent, go review this mermaid diagram and make sure that it matches our code just to, like, real"
+ ],
+ [
+  5,
+  2840,
+  "ly make sure it's accurate. And then you can look through here, and you can be like, oh, like, maybe this square also is connecting to this "
+ ],
+ [
+  5,
+  2847,
+  "square. It'll be very it'll be much more obvious to you from a systems level what your architecture is than trying to read out like, imagine"
+ ],
+ [
+  5,
+  2854,
+  " if all of these is a little paragraph."
+ ],
+ [
+  5,
+  2856,
+  "It's like, this is, like, multiple pages of text, and it you're not gonna it'll say, oh, show offline manner and then show back online. Okay"
+ ],
+ [
+  5,
+  2863,
+  ". That reads simple. Oh, wait. But, actually, these are in separate flows, and the show offline manner shouldn't be connected to back online"
+ ],
+ [
+  5,
+  2870,
+  ". It should be the network monitor that fires the back online thing. In a diagram, that's super obvious. In text, it's very much not, especi"
+ ],
+ [
+  5,
+  2878,
+  "ally text"
+ ],
+ [
+  5,
+  2878,
+  "where if you're, you know, you're writing thousands of line of code a day, you're not gonna have the same level of fidelity of, like, back i"
+ ],
+ [
+  5,
+  2886,
+  "n the day whenever we were able to, like, I might just work on one story for a week. Right? Now I'm working on multiple stories a day. I'm n"
+ ],
+ [
+  5,
+  2894,
+  "ot gonna be able load all that into my mental RAM. Instead, this is just so much quicker of, like, oh, very quickly, what's the flow? These "
+ ],
+ [
+  5,
+  2901,
+  "are all the same. Let's try and find a sequence diagram because I think that's worth"
+ ],
+ [
+  5,
+  2906,
+  "worth seeing as well. I think this is a good one. Invite system. Yeah. Yeah. I mean, so this is like this is like a complicated system, righ"
+ ],
+ [
+  5,
+  2917,
+  "t, of how invites work, how the server checks the status of how invites work, what are the error codes thrown back, and you can just really "
+ ],
+ [
+  5,
+  2927,
+  "be like, ah, okay. What's the flow? Oh, yeah. Here's a sequence die this"
+ ],
+ [
+  5,
+  2933,
+  "is actually a little bit dirty. A true sequence diagram should really just be section one, and section two should be a separate thing. But b"
+ ],
+ [
+  5,
+  2940,
+  "eing and I I talked about this. This is one of these magic words to know is being like, okay. This is what a sequence diagram is, and it sho"
+ ],
+ [
+  5,
+  2947,
+  "ws the interaction between the user, the user's client, and our server infrastructure. Really, really handy. And if I hit a tricky bug that "
+ ],
+ [
+  5,
+  2954,
+  "I can't just one shot, you know, oh, the login page doesn't work, and I can't just one shot fix to the login page. I'm gonna say, alright. D"
+ ],
+ [
+  5,
+  2961,
+  "elete your work. Go back to the most recent commit."
+ ],
+ [
+  5,
+  2964,
+  "I want you to do a root cause analysis with the mermaid diagram of how to go about doing this. I might ask for a sequence diagram, a state d"
+ ],
+ [
+  5,
+  2972,
+  "iagram, or a flow diagram, and then I realize, wait. Why do I need even need to think about this? I'll say create five diagrams about how th"
+ ],
+ [
+  5,
+  2980,
+  "e invite page works. The agent then goes. The agent knows every single possible esoteric type of diagram."
+ ],
+ [
+  5,
+  2986,
+  "It'll pick its favorite five. It'll make its favorite five. I'll look at those, and I'll delete whichever ones I don't want. And this gets i"
+ ],
+ [
+  5,
+  2993,
+  "nto the meta prompting thing of, like, by being let if I ask sequence diagram, I'm gonna get a sequence diagram. If I ask for the best five "
+ ],
+ [
+  5,
+  3000,
+  "diagrams you can think of to visualize how the login screen works, now I'm using the agent to come up with the best solution there, and I'm "
+ ],
+ [
+  5,
+  3007,
+  "learning something of, oh, I didn't used to use state diagrams very much before this project. And now I'm like, oh, these are really useful "
+ ],
+ [
+  5,
+  3015,
+  "for especially for debugging. Right? Because, like, state is a common point of error."
+ ],
+ [
+  5,
+  3019,
+  "That's something you can really use. And so that gets into just, like, letting the agent make these sorts of decisions. Yeah. Totally. Yeah."
+ ],
+ [
+  5,
+  3032,
+  " It looks like you professional development developer a long time. Yeah. And I understand. I see you going from down like, from lower level "
+ ],
+ [
+  5,
+  3046,
+  "of obstruction to upper and upper Yes. When agents start to allow it. Yeah. Like, a few months, like, you can go up or you feel it. Okay. Le"
+ ],
+ [
+  5,
+  3059,
+  "t's more abstract,"
+ ],
+ [
+  5,
+  3061,
+  "like down. Yes. Yeah. Well, I mean, the actually that last little part, I'm sometimes I am like, now I do exist on a pretty high level prett"
+ ],
+ [
+  5,
+  3068,
+  "y often. Right? But you're totally hitting on something like, there's that's the difference to me. Five coding is you're starting at the top"
+ ],
+ [
+  5,
+  3076,
+  " and you're blasting out huge chunks versus me. I'm actually laying out a lot of architecture. Right? And you can switch it between like I m"
+ ],
+ [
+  5,
+  3083,
+  "ade a v zero of authentic which was top not like version zero, not actually v zero the tool where I actually vibe coded a lot of it just to "
+ ],
+ [
+  5,
+  3091,
+  "be like, alright, what are the main screens? How do the main screens connect"
+ ],
+ [
+  5,
+  3095,
+  "between here? Just to like rough shot it. And then I actually had another agent go through the code that was made there and use that to make"
+ ],
+ [
+  5,
+  3102,
+  " the basis for the system architecture for v one. And this is actually v two of the code base. It was like refactoring and allow you to This"
+ ],
+ [
+  5,
+  3109,
+  " this actually it wasn't a refactoring as much as it was actually just like, here's a model. We wanna make a more professional version of th"
+ ],
+ [
+  5,
+  3117,
+  "is model. Don't look at any of this code. Like don't don't take any of this code but just look at how this code is structured and be like, o"
+ ],
+ [
+  5,
+  3124,
+  "kay. There's a main screen. There's a home screen. There's an invite screen. There's a bottom tab bar. This kind of stuff."
+ ],
+ [
+  5,
+  3130,
+  "And real quick I just wanna throw in something here. Especially if you're coming from a background of programming, you're used to doing thin"
+ ],
+ [
+  5,
+  3138,
+  "gs to save your code. And what I mean by that is like if there's a bug, you're gonna try and fix the bug in the code base. It is hard but it"
+ ],
+ [
+  5,
+  3145,
+  " is easier now oftentimes to just throw away whole files and recreate them if you get into tricky bugs or like, oh, I worked for thirty minu"
+ ],
+ [
+  5,
+  3153,
+  "tes on this project. I wrote 2,000 lines of code but the loading indicator isn't showing up right. And I've tried for a few minutes and I ca"
+ ],
+ [
+  5,
+  3160,
+  "n't get it. It is oftentimes better to just be like, fuck it all. Burn all that down. Go back to the last git commit, and I'm gonna make a n"
+ ],
+ [
+  5,
+  3168,
+  "ew prompt which says, be sure like, use copy paste my old prompt, but then add at the end and be sure to think very carefully about exactly "
+ ],
+ [
+  5,
+  3175,
+  "how the loading indicator shows up and run that again."
+ ],
+ [
+  5,
+  3178,
+  "And so this is from VibeCoders, it's called a reroll. Right? And so I think that is something that VibeCoding very much gets right that prof"
+ ],
+ [
+  5,
+  3185,
+  "essional developers are very loath to do where it's encouraging rerolls on features. And by making a good blueprint, when you reroll, you've"
+ ],
+ [
+  5,
+  3193,
+  " got that blueprint document that you spend all this time building. So you've got, like, a really high fidelity document that's gonna inform"
+ ],
+ [
+  5,
+  3200,
+  " that agent."
+ ],
+ [
+  5,
+  3201,
+  "And then I will also say that once I make this blueprint, I will actually spend a little bit refining the prompt for how to actually impleme"
+ ],
+ [
+  5,
+  3209,
+  "nt the blueprint. So I'll write the blueprint, and then I will go to Claude and say, I want you to write an expert prompt on how to go about"
+ ],
+ [
+  5,
+  3217,
+  " implementing the blueprint for the offline detection and save that to a markdown file. And then I will go to Codex and say, I want you to r"
+ ],
+ [
+  5,
+  3224,
+  "eview this blueprint and this prompt for implementing this blueprint and give me a numbered list of things that should be added, changed, cl"
+ ],
+ [
+  5,
+  3232,
+  "arified, or review review removed"
+ ],
+ [
+  5,
+  3234,
+  "from the prompt. Right? You can and that's existing at a level, right, of, like, you're you're then refining even the implementation step is"
+ ],
+ [
+  5,
+  3243,
+  " now this, like, expert thousand line prompt that really lays out, like, all the nitty gritty details. And by saving it to a markdown file a"
+ ],
+ [
+  5,
+  3251,
+  "nd not just saying, I want you to build this, you can then do this iterative development and, like, really polish the corners."
+ ],
+ [
+  5,
+  3259,
+  "And I watch, especially if you jump in between Opus, Sonnet, Codex, Composer now, you'll see how, like, a subsequent review of that prompt i"
+ ],
+ [
+  5,
+  3276,
+  "s gonna be like, oh, you completely didn't think about this one thing. And so that's this, like, meta level analysis, that's going on. Yeah."
+ ],
+ [
+  5,
+  3293,
+  " So I think there's a few things there. First off, I'm I mean, I am definitely getting involved in a specific technical decisions of, like, "
+ ],
+ [
+  5,
+  3310,
+  "what architecture we're using, what the layout is using. And a lot of that happens when we're laying out this blueprint file."
+ ],
+ [
+  5,
+  3325,
+  "And a lot of that is also happening when I say let's say we might make a nontechnical blueprint, which describes how the invite screen shoul"
+ ],
+ [
+  5,
+  3332,
+  "d work. And then I might say, okay. Now you're a user experience designer. I want you to really think about this, think about the user flows"
+ ],
+ [
+  5,
+  3340,
+  ", make this blueprint include the invite structure. And then I might say, okay. Now you're a senior software start a new tab. You know? You'"
+ ],
+ [
+  5,
+  3347,
+  "re a senior software architect, a user experience designer, laid out the following blueprint. I want you to lay out your proposal for the th"
+ ],
+ [
+  5,
+  3354,
+  "ree options on how to implement this in terms of general tech stack."
+ ],
+ [
+  5,
+  3358,
+  "I look at those. I think about pros and cons. I think about which one the models address. I say, alright. I wanna pick this tech stack. Let'"
+ ],
+ [
+  5,
+  3368,
+  "s lay out an a tech stack to do this. And then I'll say, okay. Now you're a senior software engineer, and you should lay out an implementati"
+ ],
+ [
+  5,
+  3377,
+  "on plan for how to implement this text back for this feature. Oh, no. Oh, these are individual prompts. Cloud MD is is exists on a meta leve"
+ ],
+ [
+  5,
+  3387,
+  "l to pass to all of those agents the ability for, like,"
+ ],
+ [
+  5,
+  3391,
+  "where to find certain files or, kind of, like, broad system level things. What this conversation is gonna be happening is gonna be happening"
+ ],
+ [
+  5,
+  3402,
+  " in the terminal or in a agent chat. The only the most general project based things would live in agents.amd or cloud.md. You just have to d"
+ ],
+ [
+  5,
+  3413,
+  "o any work Yes. Conversation."
+ ],
+ [
+  5,
+  3415,
+  "Tons of iteration. You can't skip that by just, like Well, you can't. Having having, like, this meta giving it meta specific prompts where i"
+ ],
+ [
+  5,
+  3425,
+  "t preempts those iterations. I hear you there, and we will get there. And I'm sure in a year or two, we will be much more at that point. But"
+ ],
+ [
+  5,
+  3434,
+  " right now, like, I'm still pretty actively involved here."
+ ],
+ [
+  5,
+  3438,
+  "Right? Like, at the output of one to the output of the next, it's not like I'm just, like, gonna be running Like, the way I'm saying it righ"
+ ],
+ [
+  5,
+  3445,
+  "t now, I might be like, ah, I run this prompt and this prompt and this prompt. What actually is happening is I'm looking at these files pret"
+ ],
+ [
+  5,
+  3452,
+  "ty closely and being like, Like, I really don't like this. This feels, like, super complicated. We don't need to do this. Or, you know, this"
+ ],
+ [
+  5,
+  3459,
+  " is too expensive or doesn't fit you know, whatever my individual decisions are. So there is quite a bit of human in the loop still happenin"
+ ],
+ [
+  5,
+  3466,
+  "g right now. That amount of human in the loop and where the human sits in the loop will continue to decrease, though, if I think that's to y"
+ ],
+ [
+  5,
+  3473,
+  "our point."
+ ],
+ [
+  5,
+  3474,
+  "I'm sure that there is. But yeah. I would I would urge caution on like, there's a there's a balance of over automation, which you can see yo"
+ ],
+ [
+  5,
+  3490,
+  "u can see in a lot of things too of, like, if you try and script out whole flows,"
+ ],
+ [
+  5,
+  3499,
+  "I'm interested in it, and I'm curious how your results go. For me, this is, like, the right balance in between my skill set, my understandin"
+ ],
+ [
+  5,
+  3511,
+  "g for the agent. Different people are gonna come up with different things there, and I'm interested to hear other workflows for sure. Yeah. "
+ ],
+ [
+  5,
+  3523,
+  "It's"
+ ],
+ [
+  5,
+  3523,
+  "happening throughout. It's it's not like so you're iterating on these prompts. I'm doing this on a bug fix ticket too, where I might be like"
+ ],
+ [
+  5,
+  3530,
+  ", ah, you know, the in the invite screen isn't loading the right invite correctly. Write an expert prompt on how to investigate this behavio"
+ ],
+ [
+  5,
+  3538,
+  "r. And I'll and oftentimes, you can also and I'll get into this on the class Thursday. This is a really great way. I am never ever compactin"
+ ],
+ [
+  5,
+  3545,
+  "g a conversation in Cloud Code."
+ ],
+ [
+  5,
+  3547,
+  "If my context window starts filling up, I say, oh, we're at 10% context. I want you to write a prompt to to go do this next thing, and I'm g"
+ ],
+ [
+  5,
+  3555,
+  "onna jump into the next thing. I also turn off auto compact, which gives you 20% more space in your context window, which if you're using Cl"
+ ],
+ [
+  5,
+  3563,
+  "oud Code is kind of crazy. I just wanna make sure. So the what we're talking about there is this meta refinement. Right? This constant thing"
+ ],
+ [
+  5,
+  3570,
+  " of, like, creating a document, handing it to the same large language model or different large language model, and saying refine this. Think"
+ ],
+ [
+  5,
+  3578,
+  " about this."
+ ],
+ [
+  5,
+  3579,
+  "State of automation, that's a specificity stuff. This is, I think, maybe more for people that are leading engineering teams. So I'm gonna ke"
+ ],
+ [
+  5,
+  3587,
+  "ep this super brief, but, like, there's this very interesting phenomenon of your leading teams of developers where everybody is using these "
+ ],
+ [
+  5,
+  3595,
+  "tools to get linear tickets that or whatever, Jira tickets, whatever your task management tickets. They all have MCPs. They all have CLIs. R"
+ ],
+ [
+  5,
+  3604,
+  "ight? So you can be using Jira. You can be using Linear. These agents will happily write novels in your task management software"
+ ],
+ [
+  5,
+  3611,
+  "about this stuff. And you end up with this, like, mega slop conversation in between two junior engineers that don't really understand what's"
+ ],
+ [
+  5,
+  3618,
+  " going on, and it's just, like, two different versions of Claude talking into itself and wasting everybody's time. And so being kind of awar"
+ ],
+ [
+  5,
+  3625,
+  "e like, yeah, I don't think there's, like that's a whole other topic necessarily, but there's it's an interesting thing here of, like, still"
+ ],
+ [
+  5,
+  3632,
+  " being sure that on some meta level, you understand what's going on, and I think task management is very much that. So I like, our corporate"
+ ],
+ [
+  5,
+  3639,
+  " policy is, like, it's okay if you wanna use Claude or Codex or whatever to make a linear ticket. But, like, it is on you that if I asked yo"
+ ],
+ [
+  5,
+  3646,
+  "u a specific detail about every any given line in that ticket in stand up, you need to, like, know what's going on. Right? And so and if tha"
+ ],
+ [
+  5,
+  3653,
+  "t's not the case, I'm gonna say, hey. I need you to rewrite this ticket to make it more specific so you understand it, whatever. Right? And "
+ ],
+ [
+  5,
+  3661,
+  "that's a good way to, like, kind of, like, walk that balance, I've found. But this is actually, like, a new,"
+ ],
+ [
+  5,
+  3666,
+  "challenge to engineering management. But I think I'm gonna, like, put a pin in that because there there's a lot that could be said there. Ye"
+ ],
+ [
+  5,
+  3677,
+  "ah. Four. I mean, three in myself. Yeah. Yeah. Yeah. I have about code reviews. Code reviews become huge, right, because there's so much bei"
+ ],
+ [
+  5,
+  3688,
+  "ng written. You know, it used to be I used to work in environments where it's like, you were not allowed to ask for a pull review over 500 l"
+ ],
+ [
+  5,
+  3699,
+  "ines. Right?"
+ ],
+ [
+  5,
+  3700,
+  "It used to be a very normal thing. And now it's like we're regularly having 2,000, 5,000 line poll reviews. No. I mean, not all the time. Mo"
+ ],
+ [
+  5,
+  3707,
+  "st of them are still pretty small. Most are still bug fixes. But I think having really good Git hygiene is super important, and I think auto"
+ ],
+ [
+  5,
+  3714,
+  "mating your code review is the only reason why I'm able to get anything fucking done. Because it's you know, it used to be like you'd hand a"
+ ],
+ [
+  5,
+  3721,
+  "n engineer a ticket, and you'd be like, okay. It's worth three story points. Like, come back in four days, and we'll pass it to QA."
+ ],
+ [
+  5,
+  3728,
+  "And now it's like, alright. Here's a ticket. Like, let me get you two other tickets so that way you'll be busy all the rest of today. And so"
+ ],
+ [
+  5,
+  3735,
+  " that means you need to be really good about your code reviews. And I am pretty pleased with my code review thing, which we're gonna get int"
+ ],
+ [
+  5,
+  3742,
+  "o with the long promised slash commands, which I wanna be sure to touch in this class. But I wanna touch on the magic words. So the importan"
+ ],
+ [
+  5,
+  3750,
+  "t thing here is not to memorize a given prompt."
+ ],
+ [
+  5,
+  3752,
+  "That is a rigid thing. That will not be that will help you a little bit and maybe can inspire you, but the goal is not to, Chinese room for "
+ ],
+ [
+  5,
+  3759,
+  "the AI fans of, like understand that, like, if someone passes you the symbol, you pass back this symbol. The goal is to be able to speak Chi"
+ ],
+ [
+  5,
+  3766,
+  "nese. The goal is to be able to speak to the agent. So the goal is to be able to write these prompts in your own style and in your own way. "
+ ],
+ [
+  5,
+  3774,
+  "And all of the stuff that I wanna be presenting here is to really spark you to be able to give the to be able to prompt in whatever the styl"
+ ],
+ [
+  5,
+  3781,
+  "e works for your technical background, your language preferences, how you like to build. It's gonna be different for every person in this ro"
+ ],
+ [
+  5,
+  3788,
+  "om."
+ ],
+ [
+  5,
+  3788,
+  "With that said, there are a few magic words that I do think can be applied pretty liberally across a variety of prompting strategies. These "
+ ],
+ [
+  5,
+  3797,
+  "are certainly my favorites. Use best practices, you can't go wrong with. You know? Like, when would you not want it to use best practices? Y"
+ ],
+ [
+  5,
+  3806,
+  "ou know? Like, I sprinkle that in all the time. It's in our agents.md."
+ ],
+ [
+  5,
+  3810,
+  "I also just throw it in the especially if my query is, like, a little bit wandery, you know, and I'm, like, naming a few different things. I"
+ ],
+ [
+  5,
+  3818,
+  "'m like, I'd be sure to use best practices to, like, trying to, like, bump it back onto the path of, like, high quality professional output,"
+ ],
+ [
+  5,
+  3826,
+  " especially if my query isn't maybe super professional. Right? You know, you're a senior engineer. That's good. This one, I recently came up"
+ ],
+ [
+  5,
+  3834,
+  " with, and it's fantastic."
+ ],
+ [
+  5,
+  3836,
+  "And it's for code reviews. But, I mean, you can use it in general, which is you are a senior engineer reviewing the work of a junior develop"
+ ],
+ [
+  5,
+  3844,
+  "er who created x. X could be a markdown file. X could be a whole Git branch. Could be a PR. Doesn't matter. It's fantastic because it says, "
+ ],
+ [
+  5,
+  3852,
+  "ah, this is good work, and I can do better. And it frames it in this professional way. And, also, the tone like, also, this gets into the en"
+ ],
+ [
+  5,
+  3860,
+  "gineering management thing, but, like, the tone matters. Right? Like, if I if I give feedback to a junior engineer on the team and it's ther"
+ ],
+ [
+  5,
+  3869,
+  "e are a number of critical errors in this code base and it is, like, clearly"
+ ],
+ [
+  5,
+  3873,
+  "not good, that's, like, not great. Right? We want there to be that professional tone of, like, we've you know, there's the following strengt"
+ ],
+ [
+  5,
+  3880,
+  "hs in the following code, and there's the following weaknesses, and we propose the following remediation plan to update the following weakne"
+ ],
+ [
+  5,
+  3888,
+  "sses. That's gonna, like, go over much better. It's gonna keep the team more cohesive. I do this to my own work. I will tell Claude that I'm"
+ ],
+ [
+  5,
+  3895,
+  " the junior developer that just submitted the thing and have it be the senior developer and give me feedback. It's, like, remarkably good."
+ ],
+ [
+  5,
+  3902,
+  "And then this one, I've talked with other members of the secret engineering group chat about this one, but, and give deep feedback as a deta"
+ ],
+ [
+  5,
+  3910,
+  "iled number a detailed numbered list of things to add, change, clarify, remove. This is super useful. This is the one that, like, if you're "
+ ],
+ [
+  5,
+  3918,
+  "gonna memorize one of these, like, this is fucking fantastic because what's going on here is, like, let's say I hand it a 2,000 line code ch"
+ ],
+ [
+  5,
+  3926,
+  "ange, right, across 20 files."
+ ],
+ [
+  5,
+  3928,
+  "I don't want a whole, you know, like, wandering essay of markdown about the various strengths and weaknesses that I have to type out. Instea"
+ ],
+ [
+  5,
+  3937,
+  "d, I can just I do this, and then I read that feedback. And I'm like, one, accept. Two, accept. Three, skip. Four, I like that idea, but we'"
+ ],
+ [
+  5,
+  3946,
+  "re not gonna implement it now. Make a linear ticket to do this in a future revision. Five, implement. Six, implement. Okay. Go."
+ ],
+ [
+  5,
+  3954,
+  "And I just that that just, like, vastly increased my productivity. Right? And oftentimes, I'm actually like, I agree with all of your sugges"
+ ],
+ [
+  5,
+  3964,
+  "tions except for eight and seventeen. Skip those two. Like, the it's a huge force multiplier, and it doesn't matter if you're working on cod"
+ ],
+ [
+  5,
+  3975,
+  "e or you're writing a poem. Like, this idea of,"
+ ],
+ [
+  5,
+  3978,
+  "I like and give your feedback as a detailed numbered list of things to add, change, clarify, remove. It's like, alright. What do we wanna ad"
+ ],
+ [
+  5,
+  3986,
+  "d? What things in here are inappropriate? What things in here just need clarification, and what things need removed? This is, like, so often"
+ ],
+ [
+  5,
+  3994,
+  " what you're using what you're trying to get out of the agent. And then I already mentioned using planning mode because of the RL environmen"
+ ],
+ [
+  5,
+  4002,
+  "ts that the current models are trained on. Planning mode is worth using. Don't just say,"
+ ],
+ [
+  5,
+  4007,
+  "don't write any code right now. Actually, kick the agent into whatever its industry specific planning mode is, at least at least until you g"
+ ],
+ [
+  5,
+  4014,
+  "et good at that. And then, like, once you've learned the rules, then you can discard the rules if, like, you feel so inclined. And then I me"
+ ],
+ [
+  5,
+  4021,
+  "ntioned the diagram like, knowing what a sequence diagram and a state diagram, particularly, maybe an interaction diagram is good. But just "
+ ],
+ [
+  5,
+  4029,
+  "have the agent just tell the agent, go make a bunch of diagrams."
+ ],
+ [
+  5,
+  4032,
+  "You don't even need to worry about what these specific things are. I if you are, like, doing this professionally, though, I think it probabl"
+ ],
+ [
+  5,
+  4039,
+  "y would be worth looking at the Wikipedia article of this while the agent goes and, like, makes the actual diagrams. And then and we're yeah"
+ ],
+ [
+  5,
+  4047,
+  ". We've this is technically an hour and a half class. This is the last major thing I wanna touch on is the slash command, and, particularly,"
+ ],
+ [
+  5,
+  4054,
+  " I am uniquely proud of our code review slash command,"
+ ],
+ [
+  5,
+  4057,
+  "which is huge if you're working so code reviews, for the independent developers here. Right? Like, you're working in git. You get something "
+ ],
+ [
+  5,
+  4068,
+  "done. You're gonna open a code review, which says, hey. I got this work done, and I want another engineer to review my work. Right? And let'"
+ ],
+ [
+  5,
+  4078,
+  "s go see. I don't actually know. Let's see. .Com."
+ ],
+ [
+  5,
+  4082,
+  "Let's see if we have any we actually might not have any open poll. We have no open poll requests on our client. Well, we don't have any open"
+ ],
+ [
+  5,
+  4092,
+  " pull requests because I've been doing a good job. But, basically, it's it shows up in here, it's just like, hey. Here's the change. This fa"
+ ],
+ [
+  5,
+  4102,
+  "lling number of lines changed, falling number of files changed."
+ ],
+ [
+  5,
+  4106,
+  "This is actually gonna be I strongly suspect how even individual projects work. This used to be something that only mattered to distributed "
+ ],
+ [
+  5,
+  4114,
+  "teams. Would only matter once you were working on a team of engineers. Your individual project, you would just do git push. Right? But now a"
+ ],
+ [
+  5,
+  4121,
+  "gents make these pull requests, and pull requests become the way that you're going to be reviewing what the agent does in its own world. And"
+ ],
+ [
+  5,
+  4129,
+  " what's great about this"
+ ],
+ [
+  5,
+  4130,
+  "let's go into actually, come again? I think I actually never yeah. Yeah. That's that's a good idea. I never I never look at closed folder re"
+ ],
+ [
+  5,
+  4145,
+  "quests. This is done this is done work. What's a fun I mean, there's a million possible things."
+ ],
+ [
+  5,
+  4156,
+  "How about this one? So here's a pull request. You can see it was, like, 2,000 lines were added, 400 lines were taken away. You should get fa"
+ ],
+ [
+  5,
+  4165,
+  "miliar with this. This is just, like, Git standard stuff, but it's, like, worth being familiar with. So whenever a team member opens one of "
+ ],
+ [
+  5,
+  4174,
+  "these pull requests, I'm gonna go in here. I'm gonna look at what changed particularly in the actual source code,"
+ ],
+ [
+  5,
+  4181,
+  "maybe a little bit less the tests. And it's like, alright. You know, I'm gonna I'm gonna take a glance through this, see what's going on. Ri"
+ ],
+ [
+  5,
+  4188,
+  "ght? You're gonna wanna be able to do this for agents. What's the current paradigm, which probably is not gonna be forever, but right now is"
+ ],
+ [
+  5,
+  4194,
+  " that if you have some of these cloud agents, what they're gonna do is they're gonna you're gonna say, go fix this bug. They go off. They fi"
+ ],
+ [
+  5,
+  4201,
+  "x this bug. They create a PR, a pull request. And then this is where I'm gonna you are gonna review"
+ ],
+ [
+  5,
+  4206,
+  "whatever that agent did and be sure that it, like, matches what your needs are. However, as these get huge, especially if you're coming with"
+ ],
+ [
+  5,
+  4215,
+  "out as much code background, right, there's a lot of there's a lot of stuff going on here. Right? And, like, you might not understand what t"
+ ],
+ [
+  5,
+  4225,
+  "hese files are necessarily. For me, I am using a slash command. Let's actually we'll use that specific one."
+ ],
+ [
+  5,
+  4232,
+  "So what I'm gonna do is I'm gonna do we're in let's switch to here. So I'm gonna go to Claude. I'm gonna say git fetch. I'm gonna say git ch"
+ ],
+ [
+  5,
+  4243,
+  "eckout here. We've already deleted this branch, I guess. But, basically, once we're in a branch, we can actually just run this here. I go sl"
+ ],
+ [
+  5,
+  4255,
+  "ash."
+ ],
+ [
+  5,
+  4255,
+  "I hit code review. This is my most recent one, October 30. You can see how often I'm updating this. Right? And I hit enter, and then I go do"
+ ],
+ [
+  5,
+  4264,
+  " whatever else I wanna do on my day. And while this is running, I'm gonna show you what the command is, and this is some pretty voodoo magic"
+ ],
+ [
+  5,
+  4274,
+  ". What what happens here, as you see, I'm doing that trick I told you with the junior and senior engineer. Giving feedback, it's critical to"
+ ],
+ [
+  5,
+  4283,
+  " do these phases."
+ ],
+ [
+  5,
+  4284,
+  "It checks to me and some of this might not apply to you. This is, like, this is very much a professional level project, but phase two partic"
+ ],
+ [
+  5,
+  4292,
+  "ularly will. Right? So for phase zero is make sure you're on the right branch. Make sure the branch is updated. Right? Because, like, what i"
+ ],
+ [
+  5,
+  4299,
+  "f the the person pushed some code later and isn't in my local directory? Make sure it's up to date. Look for previous reviews. This is super"
+ ],
+ [
+  5,
+  4307,
+  " handy because a lot of times, if you're doing a big thing, there might be multiple reviews. Find a previous review, but do not read it. Jus"
+ ],
+ [
+  5,
+  4315,
+  "t be aware that it exists and version this review appropriately."
+ ],
+ [
+  5,
+  4318,
+  "Understand the branch. And and by the way, I used Claude to help create this. Right? I said, okay. I need you and I watched how Claude do a "
+ ],
+ [
+  5,
+  4326,
+  "code review, and I kind of formalized it. Right? Of, okay. Understand the branch. What changes happened in this branch of code? A pull reque"
+ ],
+ [
+  5,
+  4335,
+  "st is just about one chunk of changes. Really understand all the files that changed, understand only on this branch."
+ ],
+ [
+  5,
+  4342,
+  "If you do not have this line, it will be like, I have opinions about your code base, and I will use this opportunity to share them with you."
+ ],
+ [
+  5,
+  4349,
+  " And sometimes that's interesting, but generally speaking, that's not what you want. Your goal is to be like, within this chunk of work, wha"
+ ],
+ [
+  5,
+  4356,
+  "t's happening? This is run the unit test, run the linter, run our type check, make sure that everything's solid, give me a really clear list"
+ ],
+ [
+  5,
+  4364,
+  " of what's going on. That,"
+ ],
+ [
+  5,
+  4365,
+  "I will chide a developer that gives me any pull request that doesn't pass these by default, but I just wanna be very sure that that's the ca"
+ ],
+ [
+  5,
+  4373,
+  "se. Then and this is my recent change. Understand the changes in the branch. It now has, in its context, thousands of tokens of what happene"
+ ],
+ [
+  5,
+  4381,
+  "d in this branch, of what was loaded, what was removed. Now I want you to come up with a clear understanding. Oftentimes, make a mermaid dia"
+ ],
+ [
+  5,
+  4389,
+  "gram or a numbered list that lays out sequence of events, what changes."
+ ],
+ [
+  5,
+  4393,
+  "This is super helpful because, again, I'm reviewing five to 10 pull requests a day. Right? So I might not know the details of what the login"
+ ],
+ [
+  5,
+  4401,
+  " screen bug is. This is gonna say, okay. This is a login screen bug fix. It edits the login screen test, and it also updates the API call fo"
+ ],
+ [
+  5,
+  4410,
+  "r user authentication in the authentication helper functions. Right? So I'm like, okay. It loads me with context of how can I assess what th"
+ ],
+ [
+  5,
+  4418,
+  "is code is? And whenever I run this, I'm gonna know, hey. The authentication code got changed here. I should be sure to make sure the logout"
+ ],
+ [
+  5,
+  4426,
+  " works still and stuff like that."
+ ],
+ [
+  5,
+  4428,
+  "I'll put this to the console, then create a actual markdown file with a consistent name structure of what this looks like. I actually repeat"
+ ],
+ [
+  5,
+  4438,
+  " this because I want it to be very clear. Okay. Now it's time to actually create your initial PR. It spent thousands of tokens. Like, this w"
+ ],
+ [
+  5,
+  4448,
+  "ill burn, you know, 80% of a claw well, maybe, like, 60% of a clawed code million token window doing this code review,"
+ ],
+ [
+  5,
+  4457,
+  "and that's what I want. What? I mean, it's gonna depend a lot on the complexity. Right? If it's two lines, it won't be, but it's a ton. It's"
+ ],
+ [
+  5,
+  4465,
+  " like, generally speaking, I'm just gonna use this chat for code review. Then on the feedback items, I will say, I agree with items let's ac"
+ ],
+ [
+  5,
+  4474,
+  "tually let's look at one. Let's see what it let's see what it came up with. Let's let's just look at a premade one here."
+ ],
+ [
+  5,
+  4481,
+  "So down here in notes, you see there's a bazillion bits of feedback. Right? So it says, alright. Like, this branch updates the story ring fu"
+ ],
+ [
+  5,
+  4490,
+  "nctionality. You know, Instagram has rings around the profile photo. That's what this is, unauthentic. Well implemented. Okay. So it sorts t"
+ ],
+ [
+  5,
+  4498,
+  "hem into categories of blockers, importance, and potentials. And the biggest human in the loop change that you wanna do is it oftentimes, th"
+ ],
+ [
+  5,
+  4507,
+  "ings that it thinks are blockers aren't actually blockers. Right? And that's where I that's that is where I am using my professional knowled"
+ ],
+ [
+  5,
+  4516,
+  "ge to iterate on the feedback. Right? Here, it's like important things that should fix."
+ ],
+ [
+  5,
+  4521,
+  "It's missing JSDoc documentation. It's using inline styles. One of these steps in the code review, so, yeah, blockers, whatever, is the vali"
+ ],
+ [
+  5,
+  4530,
+  "dation pass. This is probably something I don't see a lot of, and it's super handy. It comes up with this document. It writes all these list"
+ ],
+ [
+  5,
+  4538,
+  "s, and then it gets into phase five. For every single one of these items, go research it and make sure it's real."
+ ],
+ [
+  5,
+  4545,
+  "This knocks out probably 33% of the stuff it finds because this is complicated code. Right? Like, you have some error somewhere, some niche "
+ ],
+ [
+  5,
+  4554,
+  "function that isn't working. By having this validation pass, it's gonna be like, oh, I think I found an error with the authentication functi"
+ ],
+ [
+  5,
+  4562,
+  "on with logout. This phase five says, go use your agent and narrow in on authentication and logout specifically"
+ ],
+ [
+  5,
+  4569,
+  "and validate if this is an issue or not. And then and then also give it options of, like, okay. You can confirm it. You can remove it. You c"
+ ],
+ [
+  5,
+  4578,
+  "an downgrade it. You can ask a question if you're, like, not sure about something. Yeah. You know, it almost never uses it. Yes, though. It "
+ ],
+ [
+  5,
+  4588,
+  "does. But generally speaking, this is about the code that's there. Like, it doesn't need to learn about React Native. It's it's expert at Re"
+ ],
+ [
+  5,
+  4597,
+  "act Native. So there's not a lot of external"
+ ],
+ [
+  5,
+  4600,
+  "code, not a lot of external web calls that happen. If you were working on a project let's say you're working on, like, a d five project and "
+ ],
+ [
+  5,
+  4608,
+  "using a lot of different frameworks. Also, I I should very much say this. This I am able to automate much more than most projects because we"
+ ],
+ [
+  5,
+  4616,
+  " are in the center of the training distribution. And what I mean by that is by using React Native and JavaScript and Vercel,"
+ ],
+ [
+  5,
+  4623,
+  "this is, like, extremely well documented industry standard stuff. This means the agents are better. If you were working in Go and Rust on a "
+ ],
+ [
+  5,
+  4632,
+  "DNA recombining, you know, whatever lab, you are not gonna be able to get this level of automation. You will need to be more involved still."
+ ],
+ [
+  5,
+  4640,
+  " And I am very intentionally steering all my projects to the center of that training distribution."
+ ],
+ [
+  5,
+  4646,
+  "Like so by default, you need to have a damn good reason to use anything, in my opinion, object subjectively, besides Python, JavaScript, you"
+ ],
+ [
+  5,
+  4655,
+  " know, like standards. Right? Industry standards, center of the road stuff. You know, do you think of, like, c or any of the any if, like, i"
+ ],
+ [
+  5,
+  4664,
+  "t's not if if I if you say the name of the programming language and people don't immediately know what it is and college textbooks weren't w"
+ ],
+ [
+  5,
+  4673,
+  "ritten on that thing, I would strongly advise"
+ ],
+ [
+  5,
+  4676,
+  "making other architectural decisions. Obviously, sometimes it's out of our hands. Yep. Yep. Yep. Yes. Absolutely. So I'm gonna answer that i"
+ ],
+ [
+  5,
+  4692,
+  "n a general sense of, like, how you work with esoteric languages. Solidity certainly being one. Right?"
+ ],
+ [
+  5,
+  4703,
+  "Not a lot of college textbooks were written on Solidity, you know, and it's changing very quickly, right, which actually is even worse becau"
+ ],
+ [
+  5,
+  4710,
+  "se then the training data is polluted with, like, the old versions, the newer versions. And for that, it's about to me, it's about context e"
+ ],
+ [
+  5,
+  4718,
+  "ngineering. And so, like, I would take your favorite Solidity projects. And in my agents.md, I would say, I want you to follow the conventio"
+ ],
+ [
+  5,
+  4725,
+  "ns"
+ ],
+ [
+  5,
+  4725,
+  "here. You might even link to a Git repo. I know Patrick does that here. Where he will literally be like, here's a whole Git repo. Here's the"
+ ],
+ [
+  5,
+  4733,
+  " complete project. We want you to be following the techniques that are laid out here. Include style manuals. I I know I helped a corporate c"
+ ],
+ [
+  5,
+  4741,
+  "lient do this vastly overnight. You know? Like, their whole engineering team's, like, bitchy and moaning about how bad these agents are. And"
+ ],
+ [
+  5,
+  4748,
+  " I'm like, here's what we're gonna do. We're gonna take your entire in house style manual for this project, and we're gonna include it in th"
+ ],
+ [
+  5,
+  4756,
+  "e context window of every single query you sent."
+ ],
+ [
+  5,
+  4759,
+  "Like, I can't even quantify how how much of an improvement that makes instantly. Right? And, okay, your context window is smaller, but, like"
+ ],
+ [
+  5,
+  4767,
+  ", it doesn't it doesn't fucking matter. You know? So I would assume you'd be able to do something like that of, like, getting your documenta"
+ ],
+ [
+  5,
+  4775,
+  "tion and just jamming it into context. And I'll talk about this on the Thursday thing, but if you're in Claude here, you can do this context"
+ ],
+ [
+  5,
+  4783,
+  " command, which is, like, underrated."
+ ],
+ [
+  5,
+  4785,
+  "And this gives you a visual depiction of what your context was used for. This is really, really useful for understanding what got spent wher"
+ ],
+ [
+  5,
+  4794,
+  "e. Right? So my system prompt, which is some stuff from Anthropic and some stuff from my agents.md. Right? That's, like, 1% of my however ma"
+ ],
+ [
+  5,
+  4803,
+  "ny, a 100,000 tokens or two this is a 200,000 token window in this in this specific model. Right? So, like, this lets you be like, oh, this "
+ ],
+ [
+  5,
+  4812,
+  "is totally worth it. You know? I'd rather just have a few more chats. I can jam in whole manuals into here, especially if you format that in"
+ ],
+ [
+  5,
+  4821,
+  " markdown."
+ ],
+ [
+  5,
+  4822,
+  "And then and, you know, and, like, what what your customs agents are. If you use MCPs a lot, you will watch them consume huge amounts of thi"
+ ],
+ [
+  5,
+  4830,
+  "s context space. I actually don't use any MCPs at all at this point. I'm only using command line interfaces. There are different styles. Som"
+ ],
+ [
+  5,
+  4839,
+  "e people may do different things there, but I just, like, will briefly slip that in. And I'll just finish out on the code review thing here "
+ ],
+ [
+  5,
+  4847,
+  "as we're wrapping up."
+ ],
+ [
+  5,
+  4848,
+  "Then it says so when it's doing this code review, it's doing this validation pass, and then it's comparing against previous reviews. And it'"
+ ],
+ [
+  5,
+  4857,
+  "s looking at the previous review, and it's giving me feedback on what items the engineer resolved for the previous round. Right? And this is"
+ ],
+ [
+  5,
+  4865,
+  " just, like, incredibly useful. And so you see here, here's this detailed numbered list. And so I get to the end of this prompt, and I can y"
+ ],
+ [
+  5,
+  4874,
+  "ou know, it says, okay. You know, this is all done."
+ ],
+ [
+  5,
+  4877,
+  "Here's all this feedback. I just hop into super whisper, and I say so, you know, I'm I would be in Claude to do this, but I'll I'll just do "
+ ],
+ [
+  5,
+  4887,
+  "it right here. Thanks for the review. Let's address items one, three, and seven. Let's do this by writing a expert prompt that's a few 100 l"
+ ],
+ [
+  5,
+  4897,
+  "ines at most that will describe how to solve the issues here using best practices."
+ ],
+ [
+  5,
+  4903,
+  "We don't wanna worry about any of the other items except for the ones I mentioned. Right? Then we take this. It outputs a new markdown file "
+ ],
+ [
+  5,
+  4911,
+  "of a prompt. I copy that prompt. I paste it into a new chat. Then I have a full fresh context window. And this is important because right no"
+ ],
+ [
+  5,
+  4919,
+  "w, there's, like, effectively buggy code on how to use the auth function in the context window that was looked at multiple times by the revi"
+ ],
+ [
+  5,
+  4927,
+  "ewing agent. You do not want to fix the context window. You do not wanna fix the auth code in that context window"
+ ],
+ [
+  5,
+  4933,
+  "because you've got all these tokens that are, like, almost right but are wrong. That's the worst type of token. What you wanna do is you wan"
+ ],
+ [
+  5,
+  4941,
+  "na say, hey. I'm gonna open up a new context window. I'm gonna make a new chat with Claude. I'm gonna take this expert prompt that says, thi"
+ ],
+ [
+  5,
+  4949,
+  "s is what the issue is. Here's where the code is. Here's the issues we're fixing. You know, here's probably the related files, and then have"
+ ],
+ [
+  5,
+  4956,
+  " that happen in its own thread."
+ ],
+ [
+  5,
+  4958,
+  "And then if you want, after you've done that, you can hop back to your main review thread and be like, confirm that issue seven is resolved."
+ ],
+ [
+  5,
+  4965,
+  " Oftentimes, this point, I don't even do that because it it it's, like, that effective. Right? And then you can just run code review again a"
+ ],
+ [
+  5,
+  4972,
+  "fter that. Right? And so you can just keep hammering this command, and it will just keep giving you these, like, very detailed list of feedb"
+ ],
+ [
+  5,
+  4980,
+  "ack. Alright. So we're just about out of time here. I will just briefly plug. So if you're like, oh, this is super interesting, and I wonder"
+ ],
+ [
+  5,
+  4987,
+  " what this will look like, a more hands on approach will be like,"
+ ],
+ [
+  5,
+  4990,
+  "this this concept of a lab. We'll do it here on Thursday, same time, same place, where we'll be like, oh, we're gonna actually go through wh"
+ ],
+ [
+  5,
+  4997,
+  "at does this meta prompting look like. A little more open ended as well. I think that probably, like, 50% or more of this content will be in"
+ ],
+ [
+  5,
+  5004,
+  " that class, but I I think a lot of this is good. And if you're like, what does this actually look like to do and iterate on? Because I feel"
+ ],
+ [
+  5,
+  5011,
+  " like that was a lot of the feedback I got before of, like, okay. This is really good stuff. But to really embed this into your workflow, I "
+ ],
+ [
+  5,
+  5018,
+  "feel like seeing someone actually do a real thing is, like, invaluable."
+ ],
+ [
+  5,
+  5021,
+  "I think we probably have time for another quick question or two. I don't see anyone coming in the back. Your hand was right behind you. Up f"
+ ],
+ [
+  5,
+  5031,
+  "irst. Yep. Have you ever tried just generating the whole thing from low price? Like and There is a part of me that would love to take a week"
+ ],
+ [
+  5,
+  5041,
+  "end to try that. I I think it'd be very interesting. And you could even go further so what what you're saying is, like, a major refactor. Ri"
+ ],
+ [
+  5,
+  5051,
+  "ght? Like Yeah."
+ ],
+ [
+  5,
+  5052,
+  "Not refactor, just reproducing. Yeah. So what what you can do is you can say we have a v two of this project, and we're gonna create a v thr"
+ ],
+ [
+  5,
+  5060,
+  "ee. And then you can tell the agent, you can go look at the v two project, and, like, the best sort of documentation is code. Right? I think"
+ ],
+ [
+  5,
+  5069,
+  " it'd be really interesting. I have done that on small personal projects that are, like, whatever, less than 50,000 lines of code. I've neve"
+ ],
+ [
+  5,
+  5077,
+  "r done it on a project this big."
+ ],
+ [
+  5,
+  5079,
+  "I think it would be very interesting. But, like, my question is how do you work for a smaller project? A smaller project works great. Yeah. "
+ ],
+ [
+  5,
+  5086,
+  "For sure. Because the code is the best sort of documentation. Right? So if you're like, oh, I wanna I built this, like, web tool that tells "
+ ],
+ [
+  5,
+  5093,
+  "you time zones and different things, but I wanna fix some fundamental architecture issues. Because that happens a lot. Right? You're working"
+ ],
+ [
+  5,
+  5100,
+  " on a personal project. You realize you made a bad decision"
+ ],
+ [
+  5,
+  5103,
+  "early on, you didn't realize it until you built out the functionality, then you're like, oh, I wanna change the architecture to fix this. Wh"
+ ],
+ [
+  5,
+  5113,
+  "at you can do is be like, okay. I want you to evaluate this project, but with keeping in mind this major architectural change. And you'll wa"
+ ],
+ [
+  5,
+  5124,
+  "tch the agent jump to the old version and, like, right there. But I would encourage doing it for sure. Yeah. Yeah."
+ ],
+ [
+  5,
+  5132,
+  "Yeah. And Composer. I well, you know, we're we're taking some space. You know, it's a little little tense and I don't wanna, like, go on the"
+ ],
+ [
+  5,
+  5141,
+  " record necessarily, but, you know, I'm still paying them $200 a month but I don't think I will continue. I think I'll probably bump down pl"
+ ],
+ [
+  5,
+  5150,
+  "ans at least. I mean, I just wanted to say that like I am immensely proud"
+ ],
+ [
+  5,
+  5155,
+  "of my quad code score of like it's, like, such a good thing. If you can get yourself to think the video game here is being actually producti"
+ ],
+ [
+  5,
+  5163,
+  "ve in this, like, coding thing and not, like, leveling up in a you know, it's it's a really great mind hack to get yourself to be more produ"
+ ],
+ [
+  5,
+  5172,
+  "ctive. My record was I I had this was in the old era whenever Opus was much more accessible. I spent like $2,000 worth of API credits in a m"
+ ],
+ [
+  5,
+  5180,
+  "onth"
+ ],
+ [
+  5,
+  5180,
+  "and I'm paying $200. So you feel like you're like really beating the system. But we all have different solutions there and these things are "
+ ],
+ [
+  5,
+  5193,
+  "gonna go back and forth. And that's why it's just like aggressively evaluating your tech stack, is is the thing I'd like to encourage. Yeah."
+ ],
+ [
+  5,
+  5206,
+  " You've touched upon this a few times, but how do you make sure that the LLM is not touching the"
+ ],
+ [
+  5,
+  5215,
+  "the exact sharp knife that I'm I'm looking for. Yeah. I mean, well, one is the pull pull review. When, you know, right, like, whenever I'm p"
+ ],
+ [
+  5,
+  5222,
+  "assing this work off to another engineer, I might I might look at that, and then they're gonna look at that and be like, oh, you were workin"
+ ],
+ [
+  5,
+  5229,
+  "g on the login screen, but you just touched code that's, like, obviously wrong. That's one place to catch it. Another place is being I mean,"
+ ],
+ [
+  5,
+  5237,
+  " the agents are pretty good too. Three five, you know, a year ago, we were on Sonnet three five. That was, I think, more of a thing where it"
+ ],
+ [
+  5,
+  5244,
+  " would be like, oh, and, like, we should probably just refactor this whole code. This is kinda messy, and it'll just go off and do it thinki"
+ ],
+ [
+  5,
+  5251,
+  "ng it's a helpful, harmless assistant,"
+ ],
+ [
+  5,
+  5253,
+  "but it's really, like, making a mess of some completely unrelated feature. That's also why in the code review, I have this critical line of "
+ ],
+ [
+  5,
+  5261,
+  "just, like, you're only working here. I I generally have less of an issue of that, but I think and this is the meta learning of, like, okay."
+ ],
+ [
+  5,
+  5268,
+  " This is one of your observations that you're regularly having. Add that into your agent's MD file of, like, confirm with me the scope of th"
+ ],
+ [
+  5,
+  5276,
+  "e change you wanna make or use the smallest scope possible. I mean, I would be I would be hesitant on use the smallest scope possible"
+ ],
+ [
+  5,
+  5283,
+  "of just, like, we favor, you know, the most effective and minimal disruptions to the overall architecture flow as a whole or something like "
+ ],
+ [
+  5,
+  5291,
+  "that. Just being careful to not I mean, if you tell it make the smallest possible change, it'll be like, oh, okay. Like, I'm gonna come up w"
+ ],
+ [
+  5,
+  5300,
+  "ith this, like, god awful, like, single line thing that uses a bunch of ternary operations to, like, voodoo fix whatever this issue is. And "
+ ],
+ [
+  5,
+  5308,
+  "so it's just you need to be if you're noticing that agents and MD is the thing and just being subtle about how hard you try and push it beca"
+ ],
+ [
+  5,
+  5316,
+  "use you don't you wanna still let it have some freedom of will is kind of my my impulse there. Yeah. Totally."
+ ],
+ [
+  5,
+  5323,
+  "Any other questions? I think we're four minutes over now, so I think great success. Yeah. I hope that this was helpful for folks. And if you"
+ ],
+ [
+  5,
+  5341,
+  "'re interested in this and wanna see it in practice, we'll do that on Thursday. Yeah. Thanks."
+ ],
+ [
   6,
   2,
   "So for those of us who aren't musically talented or otherwise, you know, like in a stage kind of way talented, we have some mini games so th"
