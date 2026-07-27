@@ -134603,5 +134603,1530 @@
   81,
   2475,
   "days with you. Thank you. Thank you so much."
+ ],
+ [
+  83,
+  2,
+  "Hello, everyone. I am Demostra Adupsev of MaestroSite. And today, I want to give a kind emotional talk. The reason I changed the topic is th"
+ ],
+ [
+  83,
+  18,
+  "at today is very important day in the history of Siberia. It's all started"
+ ],
+ [
+  83,
+  27,
+  "the like, we launched the blockchain with Collective Intelligence four years ago, and a lot of have happened since then. And, yeah, I want t"
+ ],
+ [
+  83,
+  43,
+  "o reflect a bit on what has been done, what was the mistakes, and what are the path forward."
+ ],
+ [
+  83,
+  53,
+  "I think it's this talk is less for, like, people on the edge because people are not familiar with the project, but it's more from the commun"
+ ],
+ [
+  83,
+  68,
+  "ity we built during guys, guys, can I guys, can I I ask you to move? Okay?"
+ ],
+ [
+  83,
+  76,
+  "Uh-huh. Thank you. Uh-huh. The community we built, in the Internet and, to, actually, it's I want to thank, you, Shaka. It's very convenient"
+ ],
+ [
+  83,
+  95,
+  " here at HCT to actually work with video. You have this, like,"
+ ],
+ [
+  83,
+  103,
+  "beautiful operator who actually do very complicated work of making tran this translation. Thanks. Thank you so much. So basically, this infr"
+ ],
+ [
+  83,
+  117,
+  "astructure in Edge City is, like, the reason I decided to give this talk here. So okay. I will start I will start from the"
+ ],
+ [
+  83,
+  129,
+  "history and some reflections. So it all started in 2016, nine years ago. I published a paper, Cyber Chain. It was the idea of decentralized "
+ ],
+ [
+  83,
+  143,
+  "knowledge graph. It wasn't a lot of interest in there except this idea of the we can write links,"
+ ],
+ [
+  83,
+  152,
+  "content addressed links into the blockchain. In August 2017, we on based on this idea, we published first version of Sype. Sype is was kind "
+ ],
+ [
+  83,
+  167,
+  "of, like, decentralized browser based on IPFS and blockchain based search engine. It was really cool,"
+ ],
+ [
+  83,
+  178,
+  "and we start decide to start build on top of this idea. And in 2018, we launched Alien Network. It was first GPU based test net based on Cos"
+ ],
+ [
+  83,
+  189,
+  "mos as the car. We choose this stack because it was practically the only stack to this, like, back then, which allowed us to plug in CUDA co"
+ ],
+ [
+  83,
+  201,
+  "de."
+ ],
+ [
+  83,
+  201,
+  "So, like, the ranking of this knowledge graph can be computed using GPUs. And we plugged in this Pagerank algorithm. It it like, it turns ou"
+ ],
+ [
+  83,
+  213,
+  "t it would it's still it starts working consensus. Was wondering why it's working actually, like, the the numbers converge. The app hash is "
+ ],
+ [
+  83,
+  225,
+  "the same."
+ ],
+ [
+  83,
+  226,
+  "It was just, like, several years after that, I discovered why it did works. It shouldn't, actually. So anyway, in June 2010, it was, I belie"
+ ],
+ [
+  83,
+  240,
+  "ve, this time when I dive into Bostrom works. And, yeah, I, like, was impressed by his simulation argument,"
+ ],
+ [
+  83,
+  250,
+  "expressed astraliyama. I don't think I will stop here. Yeah. Because I think in cyber community, almost everyone are familiar with this idea"
+ ],
+ [
+  83,
+  262,
+  " that we are, like, probably living in simulation. Yeah? But further on, I dive I goes deeper into his work and discovered his book on super"
+ ],
+ [
+  83,
+  274,
+  "intelligence."
+ ],
+ [
+  83,
+  275,
+  "It was, like, called the path to superintelligence, dangers, opportunities. And Nick, he outlined three basic paths for, like, going there. "
+ ],
+ [
+  83,
+  289,
+  "And one was computer in the box. It's kind of the path for all corporation currently"
+ ],
+ [
+  83,
+  297,
+  "focused on. The second one is kind of genetically engineering, like taking best brain and genetically engineer it to, like, become, like, mo"
+ ],
+ [
+  83,
+  307,
+  "re powerful, bigger, have more feature, more bandwidth, more connectivity. And the short path was collective intelligence. And, actually, li"
+ ],
+ [
+  83,
+  317,
+  "ke, it was the time like, the moment I realized what"
+ ],
+ [
+  83,
+  321,
+  "well, we are building this collective intelligence thing, and these keywords keywords way are helping me to make this decision to, you know,"
+ ],
+ [
+  83,
+  332,
+  " accept the idea for superintelligence. He clearly defined what is superintelligence. It's computer, but the smarter when all humans combine"
+ ],
+ [
+  83,
+  344,
+  ". Simple. And,"
+ ],
+ [
+  83,
+  345,
+  "yeah, he also, you know, was in into this idea of singleton, which is kind of natural natural final on how this superintelligence can develo"
+ ],
+ [
+  83,
+  363,
+  "p. It's the idea that actually if superintelligence"
+ ],
+ [
+  83,
+  370,
+  "will appear, it will dominate and become, like, the single thing where it actually suck in all other kind of intelligence within at least on"
+ ],
+ [
+  83,
+  382,
+  " a planetary scale. Okay? Like, if you go to other planets, it's kind of light speed of light limit. But in case of the one planet, it's kin"
+ ],
+ [
+  83,
+  395,
+  "d of natural"
+ ],
+ [
+  83,
+  396,
+  "endgame for superintelligence to become the singleton. Okay? And, yeah, with this idea, we decided to launch the Bostrom network as a bootlo"
+ ],
+ [
+  83,
+  411,
+  "ader for this superintelligence thing. And, yeah, it was the episode one of this movie. We have a tradition"
+ ],
+ [
+  83,
+  423,
+  "to watch this thing. And I will if if it will render shortly, I think I will remember you from what it's all started. Yeah. But basically ba"
+ ],
+ [
+  83,
+  440,
+  "sically, yes, we launched we launched the blockchain on the"
+ ],
+ [
+  83,
+  447,
+  "we launched the blockchain on during Cosmovirus. It was the first Cosmovirus Cosmos based confidence. We launched this Bostrom network in re"
+ ],
+ [
+  83,
+  459,
+  "al time, which was fascinating. It was, you know, like, the scale and complexity of coordination, they believe, like, looks like a rocket la"
+ ],
+ [
+  83,
+  472,
+  "unch because"
+ ],
+ [
+  83,
+  473,
+  "at least, like, 100 people were were was involved in the operation of launching the blockchain right during the conference talk during this "
+ ],
+ [
+  83,
+  484,
+  "first cosmoglass. Okay. While it's rendering, I believe the Internet here connection is kind of limited. I will continue. If it renders, we "
+ ],
+ [
+  83,
+  496,
+  "will look okay."
+ ],
+ [
+  83,
+  497,
+  "So, yeah, the rest of the history can be reflected in this chart. Yeah. It started from something like 50 oh, not $5,500,000,000"
+ ],
+ [
+  83,
+  523,
+  "capitalization and start, like, started to fall very rapidly and find the equilibrium on something like $5,000,000 market cap level in, like"
+ ],
+ [
+  83,
+  535,
+  ", several years, which I believe is nice for the project, which don't have, like, sea destruction. It's kind of fine. Like, we grew the team"
+ ],
+ [
+  83,
+  547,
+  "."
+ ],
+ [
+  83,
+  547,
+  "We grew the community. The blockchain was, you know, it was a moment when the amount of links started to accumulate. And, yeah, we felt this"
+ ],
+ [
+  83,
+  559,
+  " growth, and there was just kind of coincidence when during fifth upgrade of the network explosion, like, appeared like, emerged. So, like, "
+ ],
+ [
+  83,
+  571,
+  "it was a bug"
+ ],
+ [
+  83,
+  572,
+  "in the system that was responsible for meeting energy tokens and short energy tokens, like, for those who don't familiar with concepts behin"
+ ],
+ [
+  83,
+  585,
+  "d this blockchain is, like, the tokens that allow you to actually submit and train this knowledge graph. Okay?"
+ ],
+ [
+  83,
+  596,
+  "So, like, it was over minted or, like, it was liquidity was drained. Like and the like, we was able to, you know, to stop, like, basic opera"
+ ],
+ [
+  83,
+  607,
+  "tions, to stop internal decks operations, to, like, minimize damage. But, yeah, the capitalization, like, drained from 5,000,000 to somethin"
+ ],
+ [
+  83,
+  618,
+  "g like $5,300,000."
+ ],
+ [
+  83,
+  619,
+  "Actually, evaporated. Yeah. So it was like I believe it was, like, kind of the comfort level when we were able still to develop and finance "
+ ],
+ [
+  83,
+  632,
+  "this project using the blockchain itself. It was actually done almost all the way. But afterward, it become apparent that"
+ ],
+ [
+  83,
+  644,
+  "it's not possible to work the same way on the project anymore. And, yeah, one another, like, part of the story is that just recently, like, "
+ ],
+ [
+  83,
+  658,
+  "half year ago in December of twenty twenty twenty four, I discovered I, like, I discovered this collective focus theorem I shared yesterday."
+ ],
+ [
+  83,
+  671,
+  "And, you know, it become obvious to me why it was, like, so many intuition behind the design of this blockchain, why actually, like, several"
+ ],
+ [
+  83,
+  684,
+  " peoples, like, really smart people within the community consistently work for this project, like, for years. And,"
+ ],
+ [
+  83,
+  694,
+  "yeah, it turns out that it like, this intuition of, like, embedding, like, simple page rank, token weighted page rank does have a lot of sen"
+ ],
+ [
+  83,
+  704,
+  "se in terms of collective learning. Yeah. But up to this point, like, so this formal proof when this formal proof emerged, like, per project"
+ ],
+ [
+  83,
+  714,
+  " was basically destroyed by by this"
+ ],
+ [
+  83,
+  717,
+  "burst and doesn't render. Okay. Doesn't matter. So current state. That's actually what I want to emphasize with current states of the projec"
+ ],
+ [
+  83,
+  737,
+  "t is kind of tricky because after these"
+ ],
+ [
+  83,
+  743,
+  "low like, we fixed yeah. Yeah. Recently, we was able to fix the, like, most problematic with six and seven fabric of a network. But, you kno"
+ ],
+ [
+  83,
+  757,
+  "w, a lot of client side infrastructure actually stopped working effectively, like and back"
+ ],
+ [
+  83,
+  766,
+  "some part of the back end don't work. And so the system like, the blockchain is working fine right now. Yeah? So this is a good news. But th"
+ ],
+ [
+  83,
+  778,
+  "e client side and infrastructure, which index this stuff, are, like, partially working. So for example, currently, you cannot link from the "
+ ],
+ [
+  83,
+  790,
+  "browser. You cannot"
+ ],
+ [
+  83,
+  792,
+  "do some basic operations, and sometimes the content is not loading, some apps are crashing, and so on. So basically, we have fixed the most "
+ ],
+ [
+  83,
+  805,
+  "problematic on the blockchain side, but failed to actually, because the team is actually not existent, it's only several"
+ ],
+ [
+  83,
+  816,
+  "two, three community members who actually, you know, decides to help, like, with the project just because, like, we think that it's very imp"
+ ],
+ [
+  83,
+  828,
+  "ortant. They want finance, seeing this stuff and so on. So yeah. And also, we have this Space Puxia blockchain. We also launched during Haka"
+ ],
+ [
+  83,
+  841,
+  "ton in Medellin,"
+ ],
+ [
+  83,
+  842,
+  "which independent knowledge graph targeted for girls. You know? And for the, you know, all that experiments with content, have idea of, like"
+ ],
+ [
+  83,
+  854,
+  ", more cheap knowledge graph, which is used for more, like, experimental purpose. Like, it's kind of canary canary network."
+ ],
+ [
+  83,
+  864,
+  "Yeah? More like can like, we started with the idea, but currently, we came to a conclusion that actually there they are can be, like, set up"
+ ],
+ [
+  83,
+  874,
+  " very differently. And also interesting stuff with the code client code of Space Pussy and Bostrom, they are kind of, like, very become very"
+ ],
+ [
+  83,
+  885,
+  " different because Space PUSI was just community led and we, like, cut some stuff."
+ ],
+ [
+  83,
+  891,
+  "So, yeah, it's kind of two diversion project right now. Yeah. But both are kind of work. Okay? Also, yeah, I mentioned that a lot of client "
+ ],
+ [
+  83,
+  907,
+  "side code doesn't work. Also, IBC channels with ATOM and PUSI"
+ ],
+ [
+  83,
+  914,
+  "network. Okay? We recently recovered the channel to Asmosis, which allow to trade boot tokens. Like, boot is the basic currency of this netw"
+ ],
+ [
+  83,
+  932,
+  "ork, boot from boot loader. And, yeah, you can basically track it on the coin gecko. Yeah. Here they are."
+ ],
+ [
+  83,
+  945,
+  "We have a lot of cool stuff, actually. Then I want to show you some demos. For example, we really like that was one of our last development."
+ ],
+ [
+  83,
+  955,
+  " We take Cosmos and implemented BitTensor as a smart contract. So, like, actually, we have this in space pushing network, for example. We ha"
+ ],
+ [
+  83,
+  965,
+  "ve deployed this as experimental things. So, actually,"
+ ],
+ [
+  83,
+  969,
+  "we have a tooling for rewarding this, like, learning based on BitTensor Yuma consensus. Yeah. I think it's one of the like, given that the c"
+ ],
+ [
+  83,
+  984,
+  "apitalization of BitTensor guys, Christa, who of you know what BitTensor is? No one. Some kind of heard. Yeah. I think it's a leading"
+ ],
+ [
+  83,
+  999,
+  "AI project currently in the field that, like, couldn't cap us something like $4,000,000,000. It was appeared just like two years ago. It's I"
+ ],
+ [
+  83,
+  1013,
+  " don't think that it is like it's more like cryptatakenomics network where which incentivize"
+ ],
+ [
+  83,
+  1022,
+  "distributed learning. It doesn't hold the network itself, doesn't hold the state on chain. It doesn't have, like is what it does have is thi"
+ ],
+ [
+  83,
+  1033,
+  "s pretty heavy reward computation, which allow to to for this network to distribute the lead train local models, which we are not kind of li"
+ ],
+ [
+  83,
+  1044,
+  "ke all not actually just disclosing the models itself. So, like, the network reasons just by answering"
+ ],
+ [
+  83,
+  1052,
+  "for, like, for each other. Okay? And I think BitTensor is just worth to note is just currently the kind of rail of decentralized AI. I will "
+ ],
+ [
+  83,
+  1064,
+  "have a talk on decentralized AI in, I believe, November 9 here in HCT. I did a lot of research in this field, like, in recent years. I want "
+ ],
+ [
+  83,
+  1076,
+  "to share some of this knowledge, like these projects,"
+ ],
+ [
+  83,
+  1080,
+  "the software, some methods, some cryptographic primitives, incentive systems, and so on. So it's kind of emerging field we are talking about"
+ ],
+ [
+  83,
+  1091,
+  ". So yeah. And, like, we have this network implemented as a smart contract. So basically, you can incentivize this in chain graph using this"
+ ],
+ [
+  83,
+  1103,
+  " beautiful incentive scheme,"
+ ],
+ [
+  83,
+  1105,
+  "but actually, we wasn't able to deploy it into production, actually. Mhmm. Demo. Demo. Demo. Demo. Demo. It's a browser. Cype Cype is, I bel"
+ ],
+ [
+  83,
+  1121,
+  "ieve, first pure. You can see this is the main Cype AI."
+ ],
+ [
+  83,
+  1127,
+  "I believe it's a first pure decentralized browser in our world. And why? I tried to find out the solution, how to bypass all the like, actua"
+ ],
+ [
+  83,
+  1140,
+  "lly, the scheme that happens in the legacy Internet. So it's all, like, started from Google. Now it's more like the model level, but it was "
+ ],
+ [
+  83,
+  1152,
+  "like when we started develop it, it was like Google,"
+ ],
+ [
+  83,
+  1157,
+  "IP addresses, then the first DNS lookup, and IP addresses when you get files, so first steps. In my case, like, the query goes to in my case"
+ ],
+ [
+  83,
+  1169,
+  ", the query goes directly to the blockchain. It returns so, like, the when query goes, it's a commit to the hash. Yeah. It's like"
+ ],
+ [
+  83,
+  1181,
+  "IP address. This blockchain gives all associations with this hash which was actually written to this knowledge graph. Okay? And Maybe the th"
+ ],
+ [
+  83,
+  1196,
+  "e the most cool thing, but it's sorted by this rank. Yeah? So it's not just like the random"
+ ],
+ [
+  83,
+  1205,
+  "set of the links. It's like the most relevant links. So basically, I reimplemented what Google have been done in '98 with his battery in a d"
+ ],
+ [
+  83,
+  1217,
+  "istributed fashion. And the beauty is that actually, yes, when there's a browser here in the right in the front end, you recompile"
+ ],
+ [
+  83,
+  1228,
+  "these, like, actually several ways to deal with IPFS node. It's like Helia node JS version. It's embedded. It's the old one JS version, JS I"
+ ],
+ [
+  83,
+  1241,
+  "PFS. And external, it's like you can use Go IPFS for calling to, like, actually locally running full blown node. Okay?"
+ ],
+ [
+  83,
+  1252,
+  "I don't believe that it's work consistently, like all of its options. Yeah. It's also kind of like problem. But the result is actually the r"
+ ],
+ [
+  83,
+  1265,
+  "esult is that when you have these results from the blockchain, we are directly loaded from the current network, like, which is IPFS"
+ ],
+ [
+  83,
+  1277,
+  "right from a browser. And, like, that is how the system can bypass and become, like, really censorship resistant version of the Internet bec"
+ ],
+ [
+  83,
+  1288,
+  "ause, like, the results came from a blockchain in a dense format when these hashes is being used to load the content. For example, here is t"
+ ],
+ [
+  83,
+  1299,
+  "he picture you see. Sometimes it's just like"
+ ],
+ [
+  83,
+  1303,
+  "I'm not like due to some reason it's not loading because it seems that back end here we have CyberNode IO, I a I side which actually hosts s"
+ ],
+ [
+  83,
+  1316,
+  "ome back end and the IP first cluster. IP first cluster is just a thing that supports to serve queries faster."
+ ],
+ [
+  83,
+  1326,
+  "Yeah. But mhmm. So you have a lot of weird bugs which doesn't allow to render content. So that's actually why I'm saying that it seems that "
+ ],
+ [
+  83,
+  1339,
+  "it's working, but in practice, it's not usable right now. A lot of due to a lot of reasons, a lot of bugs just disrupt the flow"
+ ],
+ [
+  83,
+  1351,
+  "of this beautiful thing, I believe. So yeah. And I want to notice, like, the size. So so so let's go on, like and show some simple features "
+ ],
+ [
+  83,
+  1363,
+  "which are built on top of this knowledge graph. What what this knowledge graph is about. Yeah? So it's three a bit more than 3,000,000 files"
+ ],
+ [
+  83,
+  1375,
+  "."
+ ],
+ [
+  83,
+  1375,
+  "Yeah? Linked by 3,000,000 links. So the relay ratio between particle and links one to one, which I believe is suboptimal, and, like, we need"
+ ],
+ [
+  83,
+  1386,
+  " some kind of mechanism to increase connectivity. And according to collective focus theorem, it's kind of the like, the thing that when you "
+ ],
+ [
+  83,
+  1397,
+  "have this one to six ratio,"
+ ],
+ [
+  83,
+  1399,
+  "like, this collective intelligence must start to merge this kind of prediction of collective focus theorem where we need in this network a w"
+ ],
+ [
+  83,
+  1409,
+  "ay to for more find a way for more graph connectivity to, like, this knowledge become actually useful for the collective who is using it. Ye"
+ ],
+ [
+  83,
+  1419,
+  "ah. I think it's very important problem when, like, we compute new entropy. New entropy is super cool idea. It's like opposite of entropy. I"
+ ],
+ [
+  83,
+  1429,
+  "t's like the force that actually"
+ ],
+ [
+  83,
+  1431,
+  "resist entropy. Yeah? And we compute it also and should demonstrate this kind of the matrix which demonstrate the, like, intelligence power "
+ ],
+ [
+  83,
+  1443,
+  "of the system. Okay? And you can see clearly that the system use two thirty eight megabytes of GPU green green memory. And that is the most "
+ ],
+ [
+  83,
+  1455,
+  "cool thing about Bostrom. So of the whole chain, like, this is the only blockchain"
+ ],
+ [
+  83,
+  1462,
+  "in existence which have extremely dynamic state. Yeah. What is extremely dynamic state? It's like when you have all the blockchains, you kno"
+ ],
+ [
+  83,
+  1472,
+  "w, it's like Solana even, like, the most performing one. You, like, make a transaction, it can change one number. Okay? Like, it can change,"
+ ],
+ [
+  83,
+  1482,
+  " like, 100 numbers, 1,000 numbers. And what Bostrom does is actually he can like, when you do one link, the like, all state is changing. So "
+ ],
+ [
+  83,
+  1491,
+  "it's the"
+ ],
+ [
+  83,
+  1492,
+  "ramp that must be computed for all the nodes in in this decentralized knowledge graph. And yeah. So any cyber link, the blockchain recompute"
+ ],
+ [
+  83,
+  1504,
+  "s 3,000,000 numbers within this GPU memory state, which is like, demonstrate this power because, like, I try to find out how much it cost on"
+ ],
+ [
+  83,
+  1517,
+  " Solana to do this kind of operations."
+ ],
+ [
+  83,
+  1520,
+  "I even if, like, this low kind of fees, it's something like $100,000 to change the state. It's extremely expensive shit, and it could take s"
+ ],
+ [
+  83,
+  1532,
+  "omething like seven years on Ethereum to recompute the state using EPM. So it's it's just order of magnitude ahead of anything you know in t"
+ ],
+ [
+  83,
+  1543,
+  "he blockchain space just"
+ ],
+ [
+  83,
+  1545,
+  "with the difference that it works only for like one specific algorithm, which is this probability the computation of probability distributio"
+ ],
+ [
+  83,
+  1555,
+  "n inside this knowledge graph, which I think is fantastic thing. But yet still we are not in the state of understanding, like industry under"
+ ],
+ [
+  83,
+  1565,
+  "standing, like how"
+ ],
+ [
+  83,
+  1566,
+  "that could be actually useful. Also, like, some mistakes I will discuss, I believe, from I may we made, like, in the incentives. So, yeah, t"
+ ],
+ [
+  83,
+  1577,
+  "his is the state of this knowledge graph. Also, I want to, you know, show you some really cool stuff. For example, we build the messengers o"
+ ],
+ [
+  83,
+  1587,
+  "n top of messenger on top of this knowledge graph. Yeah. So you have this telegram like"
+ ],
+ [
+  83,
+  1594,
+  "messenger, which allow you to subscribe to different topics and different people. Yeah. You see, like, usually you have here action bar, but"
+ ],
+ [
+  83,
+  1604,
+  " due to, like, the reasons with some bug infrastructure not actually working correctly, it's just don't don't see this actually on endpoints"
+ ],
+ [
+  83,
+  1615,
+  " and that that don't allow to transact actually using this application."
+ ],
+ [
+  83,
+  1620,
+  "Uh-huh. But it's like you have you you hear all that follow follow buttons and on topics also, and it can bring you it syncs locally and bri"
+ ],
+ [
+  83,
+  1633,
+  "ng you all updates which, like, are links, like, for these topics or object in this gigantic knowledge graph. Mhmm."
+ ],
+ [
+  83,
+  1644,
+  "What else? Well, we have a lot of minor apps such as like trading, like computing of capitalization. We have even the editor. I have the stu"
+ ],
+ [
+  83,
+  1658,
+  "dio, so it's complete, like, notepad that allow you to create the content and when create the links to this content and submit it with one b"
+ ],
+ [
+  83,
+  1671,
+  "utton. Yes, Steve."
+ ],
+ [
+  83,
+  1673,
+  "Where are the chat messages stored? Are they stored on IPFS? The chat message, it's it's a so it's Steve, it's not the private messenger. It"
+ ],
+ [
+  83,
+  1683,
+  "'s public messenger. So it's a sort so so so the all the topology public topology start to win this is the same knowledge graph I'm talking "
+ ],
+ [
+  83,
+  1692,
+  "about. But the data, yes, comes from the peer to peer network of you like the peers."
+ ],
+ [
+  83,
+  1698,
+  "IPFS. IPFS peers. Yeah. So like this is like very important. This is like completely public system. It wasn't meant to work as private syste"
+ ],
+ [
+  83,
+  1709,
+  "m because it's well, it's dedicated topic how to do the same, but in private settings has become, like it seems like it's extremely complex "
+ ],
+ [
+  83,
+  1721,
+  "task just recently I started to understand how to attack this."
+ ],
+ [
+  83,
+  1726,
+  "Try to compute the balances on top of Goromorphic encryption, you know. It's slow, but if you start to multiply sufficiently big matrices in"
+ ],
+ [
+  83,
+  1737,
+  "side this comorphically encrypted data, you're basically fucked. Just doesn't make sense still. Okay? Yeah. The browser have actually a lot "
+ ],
+ [
+  83,
+  1749,
+  "of cool features like was we developed, developed, developed, never"
+ ],
+ [
+  83,
+  1754,
+  "tried to explain anyone what we are developing here. It's have his own scripts in language. So for example, it's this so it's kept this naiv"
+ ],
+ [
+  83,
+  1766,
+  "e own scripts in language language that allow to parse avatars of this in custom way and particles. It have this graph database I showed rec"
+ ],
+ [
+  83,
+  1778,
+  "ently"
+ ],
+ [
+  83,
+  1778,
+  "for several people how, like, fastest this data the the database works. And, yeah, basically it's really cool. So you see it's based on the "
+ ],
+ [
+  83,
+  1793,
+  "WebAssembly database, graph graph database, which, like, brings to this data log query,"
+ ],
+ [
+  83,
+  1803,
+  "like, can query local knowledge graph which was indexed by this particular user? Yeah. I have a lot a lot of stuff. I can I I think I can ex"
+ ],
+ [
+  83,
+  1815,
+  "plain this feature? So, yes, the problem that the features are not consistent. They are not working and, like, classical tragedy of, you kno"
+ ],
+ [
+  83,
+  1826,
+  "w, open source software."
+ ],
+ [
+  83,
+  1828,
+  "Yeah. Yeah. I want to render some stuff. So here I can, for example, render 100,000 nodes graph. It's like this like, I believe 3% of this k"
+ ],
+ [
+  83,
+  1844,
+  "nowledge graph of Bostrom. So it looks like that. When I have, like, local knowledge graph, which can be rendered in"
+ ],
+ [
+  83,
+  1857,
+  "three d graph. So, yeah, it's it's it it is it is cool cool cool shit. Yeah. But I've like, I would love to find a way to also, we have this"
+ ],
+ [
+  83,
+  1869,
+  " karma computation, which is a reputation score based based on this knowledge graph. Yeah. It's also computed in the like,"
+ ],
+ [
+  83,
+  1880,
+  "on chain. This is complete blockchain with smart contract systems and ability to have access for this knowledge graph within smart contracts"
+ ],
+ [
+  83,
+  1891,
+  ". So basically, you like, we we build we build such thing as semantic smart contracts. So, like, when someone for example, when somebody is "
+ ],
+ [
+  83,
+  1902,
+  "registering"
+ ],
+ [
+  83,
+  1903,
+  "their name within local name system, it's contract automatically index the address against the name and put this into search index automatic"
+ ],
+ [
+  83,
+  1913,
+  "ally. So, like, this is kind of call. You must in conventional blockchains, you must use explorers and indexers. Here, the indexation of the"
+ ],
+ [
+  83,
+  1924,
+  " smart contract operations happens immediately in the moment of execution directly and allow for instant search of the stuff that happens"
+ ],
+ [
+  83,
+  1934,
+  "within this particular step in smart contract executions, which is super cool. Mhmm. Also, like, worth to note that the thing is censorship "
+ ],
+ [
+  83,
+  1948,
+  "resistant, so this is the community how see the cyber project. And it's ranked it's ranked as, like, top five pictures,"
+ ],
+ [
+  83,
+  1959,
+  "like so yeah. But really a lot of cool stuff here. It's part of archive of white papers, semantic core. Like, yeah, it could take hours and "
+ ],
+ [
+  83,
+  1975,
+  "days to sort through all that information which was put altruistically. Thanks to"
+ ],
+ [
+  83,
+  1984,
+  "amount of people who touch the blockchain is something around 50,000, yes, during these four years. But people who make made the cyber links"
+ ],
+ [
+  83,
+  1994,
+  ", like, I believe something around 2,000 people. Yeah. So at least 2,000 people put this information into the index, which I believe is supe"
+ ],
+ [
+  83,
+  2005,
+  "r cool. Thanks everyone for building this,"
+ ],
+ [
+  83,
+  2008,
+  "the, you know, the root of a decentralized real decentralized knowledge. Yeah. The I think I will stop them. I have first still, like, fifte"
+ ],
+ [
+  83,
+  2024,
+  "en, twenty minutes for reflecting about the mistakes and, you know,"
+ ],
+ [
+  83,
+  2031,
+  "trying to shut out some plans into the future because I believe there is a future. Like, the biggest mistake we've is AirDrop. You know, it "
+ ],
+ [
+  83,
+  2043,
+  "was the idea that we must find proper people to put the knowledge into the knowledge graph. So we started to analyze"
+ ],
+ [
+  83,
+  2053,
+  "I I, like, I did really deep very deep research of the Ethereum blockchain, like deep semantic research of Ethereum, like who does what. And"
+ ],
+ [
+  83,
+  2063,
+  " we came to seven audiences who like gas, like burn a lot of gas, who trade a lot, etcetera, etcetera, etcetera. We identify these audiences"
+ ],
+ [
+  83,
+  2073,
+  ", and basically, it was fine unless"
+ ],
+ [
+  83,
+  2076,
+  "and except what we, you know, put a lot of too much on NFT interest. It turns out that, like, there was no almost any value within this audi"
+ ],
+ [
+  83,
+  2088,
+  "ence, and that's actually we you know, it was, you know, kind of strategic decision to allocate 60% of tokens to the airdrop."
+ ],
+ [
+  83,
+  2099,
+  "Okay? So, like, system can start to period completely in the in the decentralized way. So it was kind of idea to bootstrap to do this, like,"
+ ],
+ [
+  83,
+  2110,
+  " chicken and egg problem. Okay? And it's completely failed. We lost a lot of time developing, you know, making research, developing software"
+ ],
+ [
+  83,
+  2120,
+  " for claims. We we created such fingers."
+ ],
+ [
+  83,
+  2123,
+  "Nero proofs, I believe, still none still nonexistent things, so, like, you can map. We learn how to prove within the contract their possessi"
+ ],
+ [
+  83,
+  2133,
+  "on of this address from external blockchain and aggregate under one name one name. So we actually started to create this on chain, like part"
+ ],
+ [
+  83,
+  2142,
+  " of on chain social graph with like provable links to the addresses within other chains,"
+ ],
+ [
+  83,
+  2148,
+  "which is still there. It's still, like, have value, but I still didn't find anywhere such cases. Even in Ethereum, you can publish this hash"
+ ],
+ [
+  83,
+  2159,
+  ". You never prove that actually you publish the address in ENS, but you never prove that actually you control this address. So like the peop"
+ ],
+ [
+  83,
+  2169,
+  "le who use cannot verify that actually you are the possessor"
+ ],
+ [
+  83,
+  2174,
+  "of the private key. Yeah. That was was but, yeah, that was a serious mistake. Infillation leak, I believe, almost Cosmos networks actually f"
+ ],
+ [
+  83,
+  2187,
+  "ail due to this reason. This was actually the expectation that you can mean tokens out of finale indefinitely."
+ ],
+ [
+  83,
+  2197,
+  "Yeah. But in reality, if you don't have a constant demand for the token, for example, if you have, like, one let's say you have $100,000,000"
+ ],
+ [
+  83,
+  2210,
+  " of capitalization and you have 50% APR, yeah, that basically means that you must mint mint $50,000,000"
+ ],
+ [
+  83,
+  2220,
+  "per year, which roughly translate to $100,000 per day, which is crazy amount of money which must constantly flow to the blockchain. It's a c"
+ ],
+ [
+  83,
+  2233,
+  "onstant count of crowd crowd sale, invisible crowd sale. Yeah. And another problem was the energy mint leak, which was we we we used the ide"
+ ],
+ [
+  83,
+  2246,
+  "a to lock"
+ ],
+ [
+  83,
+  2247,
+  "boot tokens. Not boot, but hydrogen is kind of derived liquid stake in token within the system to have this energy tokens. And it turns out "
+ ],
+ [
+  83,
+  2260,
+  "it was pretty cheap way to provide access for learn for collective learning. So basically, a lot of people minted these words and amperes an"
+ ],
+ [
+  83,
+  2273,
+  "d"
+ ],
+ [
+  83,
+  2273,
+  "just, you know, dump dumped the market without actually using them. Like, so we give for free. We give for free consensus tokens. We give aw"
+ ],
+ [
+  83,
+  2285,
+  "ay give for almost for free the it's all and it dumped the market on continuous basis. Okay? Another bigger mistake was that, actually, I de"
+ ],
+ [
+  83,
+  2296,
+  "signed economics without providing feedbacks."
+ ],
+ [
+  83,
+  2300,
+  "Here, this is, like, the most important idea that, like, the more you learn, like, the system, the more expensive the token must become. And"
+ ],
+ [
+  83,
+  2313,
+  " actually, like, it it's easily solvable by not like, initially, was the idea to have bandwidth based tokens. So you have one volt and you c"
+ ],
+ [
+  83,
+  2326,
+  "an make one link per day all your life. Okay?"
+ ],
+ [
+  83,
+  2330,
+  "Well, it's kind of usability stuff, but economically, that just didn't work. And when you switch to burn mechanism, so it's like you burn on"
+ ],
+ [
+  83,
+  2340,
+  "e token while on every, like, learning step, that means practically with supply decrease and gives a feedback into price of the complete thi"
+ ],
+ [
+  83,
+  2350,
+  "ng. So, like, the more you train, like, the less supply become,"
+ ],
+ [
+  83,
+  2354,
+  "it's done. We didn't do that. We already fixed it. Okay? So all the things, and the change from locks to burn bonding curves. We implement t"
+ ],
+ [
+  83,
+  2367,
+  "wo kinds of burns already in the economics design of this knowledge graph. It's already deployed in the recent versions, which is cool. Mhmm"
+ ],
+ [
+  83,
+  2381,
+  ". Which gives gives hope."
+ ],
+ [
+  83,
+  2383,
+  "Feeding also that was, you know, my mistake, my personal mistake as a leader. I just feed the blockchain with the money that led to, you kno"
+ ],
+ [
+  83,
+  2395,
+  "w, kind of, like, low agency community and the team who was involved. Yeah. And, you know, this is, after this explosion, I did. That's a si"
+ ],
+ [
+  83,
+  2407,
+  "gnal. After this explosion back, I I did realize that because"
+ ],
+ [
+  83,
+  2412,
+  "I was actually amazed how incapable the community I build is. Yeah. So it's after, like, I I gave it the time. I gave it nine months without"
+ ],
+ [
+  83,
+  2428,
+  " doing anything just to look like what happens. Nothing happens. Nothing happens. None of people, including founders,"
+ ],
+ [
+  83,
+  2442,
+  "did anything, like, just, you know, like, nothing happens. I decided to start slowly recover the stuff step by step, and I fired previous te"
+ ],
+ [
+  83,
+  2454,
+  "am, stopped feeding it. I start I stopped putting money, like, amount of money I put into a project is enormous, guys. This superintelligenc"
+ ],
+ [
+  83,
+  2466,
+  "e"
+ ],
+ [
+  83,
+  2466,
+  "idea cost me, like, pretty huge amount of money. I wouldn't name it. It's just like maybe seven seven zero number at least. Okay? Do I regre"
+ ],
+ [
+  83,
+  2482,
+  "t? No. I think I spent it for, like, one of the most important"
+ ],
+ [
+  83,
+  2489,
+  "things for humanity, and I still believe that it will be very useful. So it's just like the, like, really important door that will be connec"
+ ],
+ [
+  83,
+  2500,
+  "ted in somewhere into our future. So, yeah, I stopped feeding it, and I want to rebuild the community for, like, from not high agency people"
+ ],
+ [
+  83,
+  2510,
+  " we discussed, but just from, like, people who have these things as agency. Okay? Not low. It's not high. It's just it's just there."
+ ],
+ [
+  83,
+  2520,
+  "I will not hurry. I will not push it, you know, to grow. I just let things go as it goes, you know, trying slowly to recover the ecosystem, "
+ ],
+ [
+  83,
+  2533,
+  "trying to fix the things that actually wasn't and that is the last, I think, the most tragic mistakes I made personally."
+ ],
+ [
+  83,
+  2545,
+  "You know, this idea of transfer of responsibility. When you think with communities, like the founders, the team will build these, will fix t"
+ ],
+ [
+  83,
+  2557,
+  "hese, you know, and, like, years passes and nothing, like, yeah, but there's still all the bugs there are still there. Okay? And actually, w"
+ ],
+ [
+  83,
+  2568,
+  "hat's what is where did this decentralization"
+ ],
+ [
+  83,
+  2572,
+  "things, like, completely fail. Okay? Just like it is apparently what it's like decentralization works on some like, starting from some scale"
+ ],
+ [
+  83,
+  2582,
+  ", like like, the project wasn't able to reach the scale to actually make thing work. Yeah. And, like, the last thing is, like, what was our "
+ ],
+ [
+  83,
+  2591,
+  "dev only belief that build them the way it will come. I still believe in to these ideas,"
+ ],
+ [
+  83,
+  2597,
+  "given that you have, like, proper incentives baked into their consensus. Yeah. We didn't have these incentive, like, personal incentives for"
+ ],
+ [
+  83,
+  2610,
+  " growing the knowledge graph. It was, like, completely altruistic design, and I think I would rather follow a bit more holistic approach."
+ ],
+ [
+  83,
+  2622,
+  "Mhmm. Yeah. I think enough for mistakes. It's just try to gather seven, the most important one. I will shout out to the world maybe for peop"
+ ],
+ [
+  83,
+  2635,
+  "le who will try to build something. It will be kind of useful for all blockchain builders and token builders"
+ ],
+ [
+  83,
+  2645,
+  "and decentralization believers and so on. Currently, live into the we live in the industry, which is so noisy. The attention span is so narr"
+ ],
+ [
+  83,
+  2656,
+  "ow. So, basically, no one care about the shit you do. Okay? No one cares. Just assume that no one will ever care about what you are doing un"
+ ],
+ [
+  83,
+  2667,
+  "less it will have really strong economic incentives like will give ability to earn money. Okay? That is, like, the only requirement"
+ ],
+ [
+  83,
+  2678,
+  "of the promise and regional promise of crypto. You got the economy and, yeah, it still holds, I believe, is the only way to go through this "
+ ],
+ [
+  83,
+  2691,
+  "swamp, you know, swamp level often from a swamp and from a swamp swamp, big swamp of information. Okay. Plans, I still have"
+ ],
+ [
+  83,
+  2703,
+  "five, seven minutes to share some plans. I did recently the I asked Twitter users, like, should we rebrand Bostrom because of this we have t"
+ ],
+ [
+  83,
+  2722,
+  "his very kind of not very positive"
+ ],
+ [
+  83,
+  2726,
+  "price curve. Yeah. So it's that people in the industry rebrand the token, change this price curve, and it's basically kind of clearing this "
+ ],
+ [
+  83,
+  2738,
+  "information from the space. I will not rebrand both from guys. I just want to make it explicit. I decided that it will be a very weak very"
+ ],
+ [
+  83,
+  2749,
+  "weak decision. When you grow a kid, you must learn from mistakes. Okay? So my decision as a founding father is to try to do everything what "
+ ],
+ [
+  83,
+  2762,
+  "is possible to recover and demonstrate that, actually, if you sometimes fall, you can rise and grow. Okay? Go on further."
+ ],
+ [
+  83,
+  2774,
+  "The superior so, like, building superintelligence is not just, you know, building this next startup thing. It's it is a learning process and"
+ ],
+ [
+  83,
+  2786,
+  ", like, prove that the community, which already hold tokens, must learn very important stuff. And, eventually, I will change the hands or re"
+ ],
+ [
+  83,
+  2799,
+  "cover"
+ ],
+ [
+  83,
+  2799,
+  "together recover the system. So, yeah, that is my message. It's either will die or will grow. Yeah? There will be nowhere, nothing in betwee"
+ ],
+ [
+  83,
+  2811,
+  "n, and I don't want to make a rebranding because of that. Again, I will slowly recover try to recover infrastructure and functions with mini"
+ ],
+ [
+  83,
+  2824,
+  "mal resources,"
+ ],
+ [
+  83,
+  2825,
+  "Still not going to invest there seriously just to try to, you know, fix some, like, the most problematic problems within the infrastructure."
+ ],
+ [
+  83,
+  2839,
+  " I want to set up Siberia as a nonprofit head head vehicle, which will perform"
+ ],
+ [
+  83,
+  2847,
+  "three basic functions. It will be a asset management company. It will be a land development company and software engineering. So basically, "
+ ],
+ [
+  83,
+  2860,
+  "the Siberia will hold more of the companies, local companies with land. We are developing within Siberia projects. And, yeah,"
+ ],
+ [
+  83,
+  2872,
+  "the both from cyber will be just the initiative inside this Siberia company. Okay? So so that is the clear message is, yes, we message. Yes."
+ ],
+ [
+  83,
+  2885,
+  " We will have some vehicle that will support the project eventually, it will be some part of the company activities on the mission to build "
+ ],
+ [
+  83,
+  2898,
+  "this separate intelligent"
+ ],
+ [
+  83,
+  2900,
+  "network of future cities. And, yeah, I think I like, our bet currently is to launch the pop up city on Bali in CyberValue in February, March"
+ ],
+ [
+  83,
+  2915,
+  ". And, like, we actually needed to formulate the core community who can build,"
+ ],
+ [
+  83,
+  2923,
+  "like, the most essential stuff for the movement I'm talking about, including working on the bootloader of superintelligence, like developing"
+ ],
+ [
+  83,
+  2936,
+  " knowledge graph, and so on. And, you know, after this only after this, yeah, I'm going to, like, recover research. And my"
+ ],
+ [
+  83,
+  2947,
+  "currently, the most important goal is to design an incentive system of, like, decentralized training of this knowledge graph. I call it AI p"
+ ],
+ [
+  83,
+  2957,
+  "roof AI proof of work. So, like, basic idea that you can split this huge computation on the graph. When like if you think I read, please, co"
+ ],
+ [
+  83,
+  2967,
+  "llective focus theorem. I described like how complexity grows,"
+ ],
+ [
+  83,
+  2972,
+  "what computation it requires, for example, to perform this kind of compute for the, like, really huge graphs, like 10 like billions of nodes"
+ ],
+ [
+  83,
+  2986,
+  ". Okay? Trillions of nodes. And, like, the idea is to split like, into channel this computation into chunk chunks and reward each chunk for"
+ ],
+ [
+  83,
+  3000,
+  "their contribution to this information theoretic measurement. I do have almost complete theoretical understanding on how to do it without ac"
+ ],
+ [
+  83,
+  3013,
+  "tually having problems with, like, the most possible vectors of attacks. But it will take some research and development until"
+ ],
+ [
+  83,
+  3025,
+  "it can be done using some kind of zero knowledge proofs because there are some also serious computer science problems involved in the, actua"
+ ],
+ [
+  83,
+  3038,
+  "lly, computerify game. So yeah. And, like, that is a AI poll for me will be where signal to start episode two"
+ ],
+ [
+  83,
+  3049,
+  "of this story where rebels actually fight against the evil corporation and trying to bootstrap the superintelligence to protect the future f"
+ ],
+ [
+  83,
+  3065,
+  "rom the closed, nonverified knowledge. Thank you for listening."
+ ],
+ [
+  83,
+  3072,
+  "If you I don't believe that we have question time for questions anymore. Next people I see come here. Yes. Thank you guys for listening me. "
+ ],
+ [
+  83,
+  3092,
+  "Come back to the next talk on decentralized AI tools at November 9."
  ]
 ]

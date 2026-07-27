@@ -1,0 +1,253 @@
+# The Story of Bostrom
+
+Date: 
+Source video: The Story of Bostrom
+Drive: https://drive.google.com/file/d/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe/view
+Duration: 00:51:37
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Hello, everyone. I am Demostra Adupsev of MaestroSite. And today, I want to give a kind emotional talk. The reason I changed the topic is that today is very important day in the history of Siberia. It's all started
+
+[00:27] the like, we launched the blockchain with Collective Intelligence four years ago, and a lot of have happened since then. And, yeah, I want to reflect a bit on what has been done, what was the mistakes, and what are the path forward.
+
+[00:53] I think it's this talk is less for, like, people on the edge because people are not familiar with the project, but it's more from the community we built during guys, guys, can I guys, can I I ask you to move? Okay?
+
+[01:16] Uh-huh. Thank you. Uh-huh. The community we built, in the Internet and, to, actually, it's I want to thank, you, Shaka. It's very convenient here at HCT to actually work with video. You have this, like,
+
+[01:43] beautiful operator who actually do very complicated work of making tran this translation. Thanks. Thank you so much. So basically, this infrastructure in Edge City is, like, the reason I decided to give this talk here. So okay. I will start I will start from the
+
+[02:09] history and some reflections. So it all started in 2016, nine years ago. I published a paper, Cyber Chain. It was the idea of decentralized knowledge graph. It wasn't a lot of interest in there except this idea of the we can write links,
+
+[02:32] content addressed links into the blockchain. In August 2017, we on based on this idea, we published first version of Sype. Sype is was kind of, like, decentralized browser based on IPFS and blockchain based search engine. It was really cool,
+
+[02:58] and we start decide to start build on top of this idea. And in 2018, we launched Alien Network. It was first GPU based test net based on Cosmos as the car. We choose this stack because it was practically the only stack to this, like, back then, which allowed us to plug in CUDA code.
+
+[03:21] So, like, the ranking of this knowledge graph can be computed using GPUs. And we plugged in this Pagerank algorithm. It it like, it turns out it would it's still it starts working consensus. Was wondering why it's working actually, like, the the numbers converge. The app hash is the same.
+
+[03:46] It was just, like, several years after that, I discovered why it did works. It shouldn't, actually. So anyway, in June 2010, it was, I believe, this time when I dive into Bostrom works. And, yeah, I, like, was impressed by his simulation argument,
+
+[04:10] expressed astraliyama. I don't think I will stop here. Yeah. Because I think in cyber community, almost everyone are familiar with this idea that we are, like, probably living in simulation. Yeah? But further on, I dive I goes deeper into his work and discovered his book on superintelligence.
+
+[04:35] It was, like, called the path to superintelligence, dangers, opportunities. And Nick, he outlined three basic paths for, like, going there. And one was computer in the box. It's kind of the path for all corporation currently
+
+[04:57] focused on. The second one is kind of genetically engineering, like taking best brain and genetically engineer it to, like, become, like, more powerful, bigger, have more feature, more bandwidth, more connectivity. And the short path was collective intelligence. And, actually, like, it was the time like, the moment I realized what
+
+[05:21] well, we are building this collective intelligence thing, and these keywords keywords way are helping me to make this decision to, you know, accept the idea for superintelligence. He clearly defined what is superintelligence. It's computer, but the smarter when all humans combine. Simple. And,
+
+[05:45] yeah, he also, you know, was in into this idea of singleton, which is kind of natural natural final on how this superintelligence can develop. It's the idea that actually if superintelligence
+
+[06:10] will appear, it will dominate and become, like, the single thing where it actually suck in all other kind of intelligence within at least on a planetary scale. Okay? Like, if you go to other planets, it's kind of light speed of light limit. But in case of the one planet, it's kind of natural
+
+[06:36] endgame for superintelligence to become the singleton. Okay? And, yeah, with this idea, we decided to launch the Bostrom network as a bootloader for this superintelligence thing. And, yeah, it was the episode one of this movie. We have a tradition
+
+[07:03] to watch this thing. And I will if if it will render shortly, I think I will remember you from what it's all started. Yeah. But basically basically, yes, we launched we launched the blockchain on the
+
+[07:27] we launched the blockchain on during Cosmovirus. It was the first Cosmovirus Cosmos based confidence. We launched this Bostrom network in real time, which was fascinating. It was, you know, like, the scale and complexity of coordination, they believe, like, looks like a rocket launch because
+
+[07:53] at least, like, 100 people were were was involved in the operation of launching the blockchain right during the conference talk during this first cosmoglass. Okay. While it's rendering, I believe the Internet here connection is kind of limited. I will continue. If it renders, we will look okay.
+
+[08:17] So, yeah, the rest of the history can be reflected in this chart. Yeah. It started from something like 50 oh, not $5,500,000,000
+
+[08:43] capitalization and start, like, started to fall very rapidly and find the equilibrium on something like $5,000,000 market cap level in, like, several years, which I believe is nice for the project, which don't have, like, sea destruction. It's kind of fine. Like, we grew the team.
+
+[09:07] We grew the community. The blockchain was, you know, it was a moment when the amount of links started to accumulate. And, yeah, we felt this growth, and there was just kind of coincidence when during fifth upgrade of the network explosion, like, appeared like, emerged. So, like, it was a bug
+
+[09:32] in the system that was responsible for meeting energy tokens and short energy tokens, like, for those who don't familiar with concepts behind this blockchain is, like, the tokens that allow you to actually submit and train this knowledge graph. Okay?
+
+[09:56] So, like, it was over minted or, like, it was liquidity was drained. Like and the like, we was able to, you know, to stop, like, basic operations, to stop internal decks operations, to, like, minimize damage. But, yeah, the capitalization, like, drained from 5,000,000 to something like $5,300,000.
+
+[10:19] Actually, evaporated. Yeah. So it was like I believe it was, like, kind of the comfort level when we were able still to develop and finance this project using the blockchain itself. It was actually done almost all the way. But afterward, it become apparent that
+
+[10:44] it's not possible to work the same way on the project anymore. And, yeah, one another, like, part of the story is that just recently, like, half year ago in December of twenty twenty twenty four, I discovered I, like, I discovered this collective focus theorem I shared yesterday.
+
+[11:11] And, you know, it become obvious to me why it was, like, so many intuition behind the design of this blockchain, why actually, like, several peoples, like, really smart people within the community consistently work for this project, like, for years. And,
+
+[11:34] yeah, it turns out that it like, this intuition of, like, embedding, like, simple page rank, token weighted page rank does have a lot of sense in terms of collective learning. Yeah. But up to this point, like, so this formal proof when this formal proof emerged, like, per project was basically destroyed by by this
+
+[11:57] burst and doesn't render. Okay. Doesn't matter. So current state. That's actually what I want to emphasize with current states of the project is kind of tricky because after these
+
+[12:23] low like, we fixed yeah. Yeah. Recently, we was able to fix the, like, most problematic with six and seven fabric of a network. But, you know, a lot of client side infrastructure actually stopped working effectively, like and back
+
+[12:46] some part of the back end don't work. And so the system like, the blockchain is working fine right now. Yeah? So this is a good news. But the client side and infrastructure, which index this stuff, are, like, partially working. So for example, currently, you cannot link from the browser. You cannot
+
+[13:12] do some basic operations, and sometimes the content is not loading, some apps are crashing, and so on. So basically, we have fixed the most problematic on the blockchain side, but failed to actually, because the team is actually not existent, it's only several
+
+[13:36] two, three community members who actually, you know, decides to help, like, with the project just because, like, we think that it's very important. They want finance, seeing this stuff and so on. So yeah. And also, we have this Space Puxia blockchain. We also launched during Hakaton in Medellin,
+
+[14:02] which independent knowledge graph targeted for girls. You know? And for the, you know, all that experiments with content, have idea of, like, more cheap knowledge graph, which is used for more, like, experimental purpose. Like, it's kind of canary canary network.
+
+[14:24] Yeah? More like can like, we started with the idea, but currently, we came to a conclusion that actually there they are can be, like, set up very differently. And also interesting stuff with the code client code of Space Pussy and Bostrom, they are kind of, like, very become very different because Space PUSI was just community led and we, like, cut some stuff.
+
+[14:51] So, yeah, it's kind of two diversion project right now. Yeah. But both are kind of work. Okay? Also, yeah, I mentioned that a lot of client side code doesn't work. Also, IBC channels with ATOM and PUSI
+
+[15:14] network. Okay? We recently recovered the channel to Asmosis, which allow to trade boot tokens. Like, boot is the basic currency of this network, boot from boot loader. And, yeah, you can basically track it on the coin gecko. Yeah. Here they are.
+
+[15:45] We have a lot of cool stuff, actually. Then I want to show you some demos. For example, we really like that was one of our last development. We take Cosmos and implemented BitTensor as a smart contract. So, like, actually, we have this in space pushing network, for example. We have deployed this as experimental things. So, actually,
+
+[16:09] we have a tooling for rewarding this, like, learning based on BitTensor Yuma consensus. Yeah. I think it's one of the like, given that the capitalization of BitTensor guys, Christa, who of you know what BitTensor is? No one. Some kind of heard. Yeah. I think it's a leading
+
+[16:39] AI project currently in the field that, like, couldn't cap us something like $4,000,000,000. It was appeared just like two years ago. It's I don't think that it is like it's more like cryptatakenomics network where which incentivize
+
+[17:02] distributed learning. It doesn't hold the network itself, doesn't hold the state on chain. It doesn't have, like is what it does have is this pretty heavy reward computation, which allow to to for this network to distribute the lead train local models, which we are not kind of like all not actually just disclosing the models itself. So, like, the network reasons just by answering
+
+[17:32] for, like, for each other. Okay? And I think BitTensor is just worth to note is just currently the kind of rail of decentralized AI. I will have a talk on decentralized AI in, I believe, November 9 here in HCT. I did a lot of research in this field, like, in recent years. I want to share some of this knowledge, like these projects,
+
+[18:00] the software, some methods, some cryptographic primitives, incentive systems, and so on. So it's kind of emerging field we are talking about. So yeah. And, like, we have this network implemented as a smart contract. So basically, you can incentivize this in chain graph using this beautiful incentive scheme,
+
+[18:25] but actually, we wasn't able to deploy it into production, actually. Mhmm. Demo. Demo. Demo. Demo. Demo. It's a browser. Cype Cype is, I believe, first pure. You can see this is the main Cype AI.
+
+[18:47] I believe it's a first pure decentralized browser in our world. And why? I tried to find out the solution, how to bypass all the like, actually, the scheme that happens in the legacy Internet. So it's all, like, started from Google. Now it's more like the model level, but it was like when we started develop it, it was like Google,
+
+[19:17] IP addresses, then the first DNS lookup, and IP addresses when you get files, so first steps. In my case, like, the query goes to in my case, the query goes directly to the blockchain. It returns so, like, the when query goes, it's a commit to the hash. Yeah. It's like
+
+[19:41] IP address. This blockchain gives all associations with this hash which was actually written to this knowledge graph. Okay? And Maybe the the the most cool thing, but it's sorted by this rank. Yeah? So it's not just like the random
+
+[20:05] set of the links. It's like the most relevant links. So basically, I reimplemented what Google have been done in '98 with his battery in a distributed fashion. And the beauty is that actually, yes, when there's a browser here in the right in the front end, you recompile
+
+[20:28] these, like, actually several ways to deal with IPFS node. It's like Helia node JS version. It's embedded. It's the old one JS version, JS IPFS. And external, it's like you can use Go IPFS for calling to, like, actually locally running full blown node. Okay?
+
+[20:52] I don't believe that it's work consistently, like all of its options. Yeah. It's also kind of like problem. But the result is actually the result is that when you have these results from the blockchain, we are directly loaded from the current network, like, which is IPFS
+
+[21:17] right from a browser. And, like, that is how the system can bypass and become, like, really censorship resistant version of the Internet because, like, the results came from a blockchain in a dense format when these hashes is being used to load the content. For example, here is the picture you see. Sometimes it's just like
+
+[21:43] I'm not like due to some reason it's not loading because it seems that back end here we have CyberNode IO, I a I side which actually hosts some back end and the IP first cluster. IP first cluster is just a thing that supports to serve queries faster.
+
+[22:06] Yeah. But mhmm. So you have a lot of weird bugs which doesn't allow to render content. So that's actually why I'm saying that it seems that it's working, but in practice, it's not usable right now. A lot of due to a lot of reasons, a lot of bugs just disrupt the flow
+
+[22:31] of this beautiful thing, I believe. So yeah. And I want to notice, like, the size. So so so let's go on, like and show some simple features which are built on top of this knowledge graph. What what this knowledge graph is about. Yeah? So it's three a bit more than 3,000,000 files.
+
+[22:55] Yeah? Linked by 3,000,000 links. So the relay ratio between particle and links one to one, which I believe is suboptimal, and, like, we need some kind of mechanism to increase connectivity. And according to collective focus theorem, it's kind of the like, the thing that when you have this one to six ratio,
+
+[23:19] like, this collective intelligence must start to merge this kind of prediction of collective focus theorem where we need in this network a way to for more find a way for more graph connectivity to, like, this knowledge become actually useful for the collective who is using it. Yeah. I think it's very important problem when, like, we compute new entropy. New entropy is super cool idea. It's like opposite of entropy. It's like the force that actually
+
+[23:51] resist entropy. Yeah? And we compute it also and should demonstrate this kind of the matrix which demonstrate the, like, intelligence power of the system. Okay? And you can see clearly that the system use two thirty eight megabytes of GPU green green memory. And that is the most cool thing about Bostrom. So of the whole chain, like, this is the only blockchain
+
+[24:22] in existence which have extremely dynamic state. Yeah. What is extremely dynamic state? It's like when you have all the blockchains, you know, it's like Solana even, like, the most performing one. You, like, make a transaction, it can change one number. Okay? Like, it can change, like, 100 numbers, 1,000 numbers. And what Bostrom does is actually he can like, when you do one link, the like, all state is changing. So it's the
+
+[24:52] ramp that must be computed for all the nodes in in this decentralized knowledge graph. And yeah. So any cyber link, the blockchain recomputes 3,000,000 numbers within this GPU memory state, which is like, demonstrate this power because, like, I try to find out how much it cost on Solana to do this kind of operations.
+
+[25:20] I even if, like, this low kind of fees, it's something like $100,000 to change the state. It's extremely expensive shit, and it could take something like seven years on Ethereum to recompute the state using EPM. So it's it's just order of magnitude ahead of anything you know in the blockchain space just
+
+[25:45] with the difference that it works only for like one specific algorithm, which is this probability the computation of probability distribution inside this knowledge graph, which I think is fantastic thing. But yet still we are not in the state of understanding, like industry understanding, like how
+
+[26:06] that could be actually useful. Also, like, some mistakes I will discuss, I believe, from I may we made, like, in the incentives. So, yeah, this is the state of this knowledge graph. Also, I want to, you know, show you some really cool stuff. For example, we build the messengers on top of messenger on top of this knowledge graph. Yeah. So you have this telegram like
+
+[26:34] messenger, which allow you to subscribe to different topics and different people. Yeah. You see, like, usually you have here action bar, but due to, like, the reasons with some bug infrastructure not actually working correctly, it's just don't don't see this actually on endpoints and that that don't allow to transact actually using this application.
+
+[27:00] Uh-huh. But it's like you have you you hear all that follow follow buttons and on topics also, and it can bring you it syncs locally and bring you all updates which, like, are links, like, for these topics or object in this gigantic knowledge graph. Mhmm.
+
+[27:24] What else? Well, we have a lot of minor apps such as like trading, like computing of capitalization. We have even the editor. I have the studio, so it's complete, like, notepad that allow you to create the content and when create the links to this content and submit it with one button. Yes, Steve.
+
+[27:53] Where are the chat messages stored? Are they stored on IPFS? The chat message, it's it's a so it's Steve, it's not the private messenger. It's public messenger. So it's a sort so so so the all the topology public topology start to win this is the same knowledge graph I'm talking about. But the data, yes, comes from the peer to peer network of you like the peers.
+
+[28:18] IPFS. IPFS peers. Yeah. So like this is like very important. This is like completely public system. It wasn't meant to work as private system because it's well, it's dedicated topic how to do the same, but in private settings has become, like it seems like it's extremely complex task just recently I started to understand how to attack this.
+
+[28:46] Try to compute the balances on top of Goromorphic encryption, you know. It's slow, but if you start to multiply sufficiently big matrices inside this comorphically encrypted data, you're basically fucked. Just doesn't make sense still. Okay? Yeah. The browser have actually a lot of cool features like was we developed, developed, developed, never
+
+[29:14] tried to explain anyone what we are developing here. It's have his own scripts in language. So for example, it's this so it's kept this naive own scripts in language language that allow to parse avatars of this in custom way and particles. It have this graph database I showed recently
+
+[29:38] for several people how, like, fastest this data the the database works. And, yeah, basically it's really cool. So you see it's based on the WebAssembly database, graph graph database, which, like, brings to this data log query,
+
+[30:03] like, can query local knowledge graph which was indexed by this particular user? Yeah. I have a lot a lot of stuff. I can I I think I can explain this feature? So, yes, the problem that the features are not consistent. They are not working and, like, classical tragedy of, you know, open source software.
+
+[30:28] Yeah. Yeah. I want to render some stuff. So here I can, for example, render 100,000 nodes graph. It's like this like, I believe 3% of this knowledge graph of Bostrom. So it looks like that. When I have, like, local knowledge graph, which can be rendered in
+
+[30:57] three d graph. So, yeah, it's it's it it is it is cool cool cool shit. Yeah. But I've like, I would love to find a way to also, we have this karma computation, which is a reputation score based based on this knowledge graph. Yeah. It's also computed in the like,
+
+[31:20] on chain. This is complete blockchain with smart contract systems and ability to have access for this knowledge graph within smart contracts. So basically, you like, we we build we build such thing as semantic smart contracts. So, like, when someone for example, when somebody is registering
+
+[31:43] their name within local name system, it's contract automatically index the address against the name and put this into search index automatically. So, like, this is kind of call. You must in conventional blockchains, you must use explorers and indexers. Here, the indexation of the smart contract operations happens immediately in the moment of execution directly and allow for instant search of the stuff that happens
+
+[32:14] within this particular step in smart contract executions, which is super cool. Mhmm. Also, like, worth to note that the thing is censorship resistant, so this is the community how see the cyber project. And it's ranked it's ranked as, like, top five pictures,
+
+[32:39] like so yeah. But really a lot of cool stuff here. It's part of archive of white papers, semantic core. Like, yeah, it could take hours and days to sort through all that information which was put altruistically. Thanks to
+
+[33:04] amount of people who touch the blockchain is something around 50,000, yes, during these four years. But people who make made the cyber links, like, I believe something around 2,000 people. Yeah. So at least 2,000 people put this information into the index, which I believe is super cool. Thanks everyone for building this,
+
+[33:28] the, you know, the root of a decentralized real decentralized knowledge. Yeah. The I think I will stop them. I have first still, like, fifteen, twenty minutes for reflecting about the mistakes and, you know,
+
+[33:51] trying to shut out some plans into the future because I believe there is a future. Like, the biggest mistake we've is AirDrop. You know, it was the idea that we must find proper people to put the knowledge into the knowledge graph. So we started to analyze
+
+[34:13] I I, like, I did really deep very deep research of the Ethereum blockchain, like deep semantic research of Ethereum, like who does what. And we came to seven audiences who like gas, like burn a lot of gas, who trade a lot, etcetera, etcetera, etcetera. We identify these audiences, and basically, it was fine unless
+
+[34:36] and except what we, you know, put a lot of too much on NFT interest. It turns out that, like, there was no almost any value within this audience, and that's actually we you know, it was, you know, kind of strategic decision to allocate 60% of tokens to the airdrop.
+
+[34:59] Okay? So, like, system can start to period completely in the in the decentralized way. So it was kind of idea to bootstrap to do this, like, chicken and egg problem. Okay? And it's completely failed. We lost a lot of time developing, you know, making research, developing software for claims. We we created such fingers.
+
+[35:23] Nero proofs, I believe, still none still nonexistent things, so, like, you can map. We learn how to prove within the contract their possession of this address from external blockchain and aggregate under one name one name. So we actually started to create this on chain, like part of on chain social graph with like provable links to the addresses within other chains,
+
+[35:48] which is still there. It's still, like, have value, but I still didn't find anywhere such cases. Even in Ethereum, you can publish this hash. You never prove that actually you publish the address in ENS, but you never prove that actually you control this address. So like the people who use cannot verify that actually you are the possessor
+
+[36:14] of the private key. Yeah. That was was but, yeah, that was a serious mistake. Infillation leak, I believe, almost Cosmos networks actually fail due to this reason. This was actually the expectation that you can mean tokens out of finale indefinitely.
+
+[36:37] Yeah. But in reality, if you don't have a constant demand for the token, for example, if you have, like, one let's say you have $100,000,000 of capitalization and you have 50% APR, yeah, that basically means that you must mint mint $50,000,000
+
+[37:00] per year, which roughly translate to $100,000 per day, which is crazy amount of money which must constantly flow to the blockchain. It's a constant count of crowd crowd sale, invisible crowd sale. Yeah. And another problem was the energy mint leak, which was we we we used the idea to lock
+
+[37:27] boot tokens. Not boot, but hydrogen is kind of derived liquid stake in token within the system to have this energy tokens. And it turns out it was pretty cheap way to provide access for learn for collective learning. So basically, a lot of people minted these words and amperes and
+
+[37:53] just, you know, dump dumped the market without actually using them. Like, so we give for free. We give for free consensus tokens. We give away give for almost for free the it's all and it dumped the market on continuous basis. Okay? Another bigger mistake was that, actually, I designed economics without providing feedbacks.
+
+[38:20] Here, this is, like, the most important idea that, like, the more you learn, like, the system, the more expensive the token must become. And actually, like, it it's easily solvable by not like, initially, was the idea to have bandwidth based tokens. So you have one volt and you can make one link per day all your life. Okay?
+
+[38:50] Well, it's kind of usability stuff, but economically, that just didn't work. And when you switch to burn mechanism, so it's like you burn one token while on every, like, learning step, that means practically with supply decrease and gives a feedback into price of the complete thing. So, like, the more you train, like, the less supply become,
+
+[39:14] it's done. We didn't do that. We already fixed it. Okay? So all the things, and the change from locks to burn bonding curves. We implement two kinds of burns already in the economics design of this knowledge graph. It's already deployed in the recent versions, which is cool. Mhmm. Which gives gives hope.
+
+[39:43] Feeding also that was, you know, my mistake, my personal mistake as a leader. I just feed the blockchain with the money that led to, you know, kind of, like, low agency community and the team who was involved. Yeah. And, you know, this is, after this explosion, I did. That's a signal. After this explosion back, I I did realize that because
+
+[40:12] I was actually amazed how incapable the community I build is. Yeah. So it's after, like, I I gave it the time. I gave it nine months without doing anything just to look like what happens. Nothing happens. Nothing happens. None of people, including founders,
+
+[40:42] did anything, like, just, you know, like, nothing happens. I decided to start slowly recover the stuff step by step, and I fired previous team, stopped feeding it. I start I stopped putting money, like, amount of money I put into a project is enormous, guys. This superintelligence
+
+[41:06] idea cost me, like, pretty huge amount of money. I wouldn't name it. It's just like maybe seven seven zero number at least. Okay? Do I regret? No. I think I spent it for, like, one of the most important
+
+[41:29] things for humanity, and I still believe that it will be very useful. So it's just like the, like, really important door that will be connected in somewhere into our future. So, yeah, I stopped feeding it, and I want to rebuild the community for, like, from not high agency people we discussed, but just from, like, people who have these things as agency. Okay? Not low. It's not high. It's just it's just there.
+
+[42:00] I will not hurry. I will not push it, you know, to grow. I just let things go as it goes, you know, trying slowly to recover the ecosystem, trying to fix the things that actually wasn't and that is the last, I think, the most tragic mistakes I made personally.
+
+[42:25] You know, this idea of transfer of responsibility. When you think with communities, like the founders, the team will build these, will fix these, you know, and, like, years passes and nothing, like, yeah, but there's still all the bugs there are still there. Okay? And actually, what's what is where did this decentralization
+
+[42:52] things, like, completely fail. Okay? Just like it is apparently what it's like decentralization works on some like, starting from some scale, like like, the project wasn't able to reach the scale to actually make thing work. Yeah. And, like, the last thing is, like, what was our dev only belief that build them the way it will come. I still believe in to these ideas,
+
+[43:17] given that you have, like, proper incentives baked into their consensus. Yeah. We didn't have these incentive, like, personal incentives for growing the knowledge graph. It was, like, completely altruistic design, and I think I would rather follow a bit more holistic approach.
+
+[43:42] Mhmm. Yeah. I think enough for mistakes. It's just try to gather seven, the most important one. I will shout out to the world maybe for people who will try to build something. It will be kind of useful for all blockchain builders and token builders
+
+[44:05] and decentralization believers and so on. Currently, live into the we live in the industry, which is so noisy. The attention span is so narrow. So, basically, no one care about the shit you do. Okay? No one cares. Just assume that no one will ever care about what you are doing unless it will have really strong economic incentives like will give ability to earn money. Okay? That is, like, the only requirement
+
+[44:38] of the promise and regional promise of crypto. You got the economy and, yeah, it still holds, I believe, is the only way to go through this swamp, you know, swamp level often from a swamp and from a swamp swamp, big swamp of information. Okay. Plans, I still have
+
+[45:03] five, seven minutes to share some plans. I did recently the I asked Twitter users, like, should we rebrand Bostrom because of this we have this very kind of not very positive
+
+[45:26] price curve. Yeah. So it's that people in the industry rebrand the token, change this price curve, and it's basically kind of clearing this information from the space. I will not rebrand both from guys. I just want to make it explicit. I decided that it will be a very weak very
+
+[45:49] weak decision. When you grow a kid, you must learn from mistakes. Okay? So my decision as a founding father is to try to do everything what is possible to recover and demonstrate that, actually, if you sometimes fall, you can rise and grow. Okay? Go on further.
+
+[46:14] The superior so, like, building superintelligence is not just, you know, building this next startup thing. It's it is a learning process and, like, prove that the community, which already hold tokens, must learn very important stuff. And, eventually, I will change the hands or recover
+
+[46:39] together recover the system. So, yeah, that is my message. It's either will die or will grow. Yeah? There will be nowhere, nothing in between, and I don't want to make a rebranding because of that. Again, I will slowly recover try to recover infrastructure and functions with minimal resources,
+
+[47:05] Still not going to invest there seriously just to try to, you know, fix some, like, the most problematic problems within the infrastructure. I want to set up Siberia as a nonprofit head head vehicle, which will perform
+
+[47:27] three basic functions. It will be a asset management company. It will be a land development company and software engineering. So basically, the Siberia will hold more of the companies, local companies with land. We are developing within Siberia projects. And, yeah,
+
+[47:52] the both from cyber will be just the initiative inside this Siberia company. Okay? So so that is the clear message is, yes, we message. Yes. We will have some vehicle that will support the project eventually, it will be some part of the company activities on the mission to build this separate intelligent
+
+[48:20] network of future cities. And, yeah, I think I like, our bet currently is to launch the pop up city on Bali in CyberValue in February, March. And, like, we actually needed to formulate the core community who can build,
+
+[48:43] like, the most essential stuff for the movement I'm talking about, including working on the bootloader of superintelligence, like developing knowledge graph, and so on. And, you know, after this only after this, yeah, I'm going to, like, recover research. And my
+
+[49:07] currently, the most important goal is to design an incentive system of, like, decentralized training of this knowledge graph. I call it AI proof AI proof of work. So, like, basic idea that you can split this huge computation on the graph. When like if you think I read, please, collective focus theorem. I described like how complexity grows,
+
+[49:32] what computation it requires, for example, to perform this kind of compute for the, like, really huge graphs, like 10 like billions of nodes. Okay? Trillions of nodes. And, like, the idea is to split like, into channel this computation into chunk chunks and reward each chunk for
+
+[50:00] their contribution to this information theoretic measurement. I do have almost complete theoretical understanding on how to do it without actually having problems with, like, the most possible vectors of attacks. But it will take some research and development until
+
+[50:25] it can be done using some kind of zero knowledge proofs because there are some also serious computer science problems involved in the, actually, computerify game. So yeah. And, like, that is a AI poll for me will be where signal to start episode two
+
+[50:49] of this story where rebels actually fight against the evil corporation and trying to bootstrap the superintelligence to protect the future from the closed, nonverified knowledge. Thank you for listening.
+
+[51:12] If you I don't believe that we have question time for questions anymore. Next people I see come here. Yes. Thank you guys for listening me. Come back to the next talk on decentralized AI tools at November 9.

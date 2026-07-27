@@ -1847,13 +1847,14 @@
     "id": "1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe",
+  "duration": "00:51:37",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe.jpg",
   "speakers": []
  },
