@@ -1535,13 +1535,14 @@
     "id": "1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk",
+  "duration": "01:22:58",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk.jpg",
   "speakers": []
  },
