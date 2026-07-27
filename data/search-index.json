@@ -150033,5 +150033,2380 @@
   85,
   8371,
   "We will have a talent show back here starting at 9PM, so be back here for that. Thank you."
+ ],
+ [
+  88,
+  2,
+  "Excellent. So, yeah, I guess, I'll wait two more minutes and then we can we can kick off. Joe, it's it's great to see everyone that don't kn"
+ ],
+ [
+  88,
+  13,
+  "ow what kind of residencies are people from sort of vibe coding or or all over. Nice. Excellent. Excellent. And what brings you to the the v"
+ ],
+ [
+  88,
+  23,
+  "ibe or how to ship code to production?"
+ ],
+ [
+  88,
+  26,
+  "Are you building apps or? I'm very interested. I mean, if you if you have the code, I'll be very interested. But I guess the the goal of thi"
+ ],
+ [
+  88,
+  35,
+  "s talk is like is like a collection of tips and tricks and frameworks that I've learned over the past maybe two years using AI to code and s"
+ ],
+ [
+  88,
+  44,
+  "hipping buggy code that sort of breaks in production and"
+ ],
+ [
+  88,
+  48,
+  "all the headaches that come from that. So I have built sort of a system to try and prevent that, which I might as well might as well kick of"
+ ],
+ [
+  88,
+  75,
+  "f and people can sort of come in as they as they do. Yep. Also, I might code, like, software for my business, and Yeah. For sure. I guess it"
+ ],
+ [
+  88,
+  102,
+  " depends."
+ ],
+ [
+  88,
+  104,
+  "So, like, with some of, like, my like, personal website, I have, like, very basic CICD. So just have, like, a simple type check. Whereas for"
+ ],
+ [
+  88,
+  111,
+  " the like, my production business, my my start up, I have, like, you know, unit tests and and all these other kinds of tests. So I think it "
+ ],
+ [
+  88,
+  118,
+  "just depends that you can layer on complexity as necessary. But I think I'd start with, like, does it build or does it, like, pass the type "
+ ],
+ [
+  88,
+  124,
+  "checks? And if it does, then it it's probably fine for, like, a personal project. And then you might have more complex end to end testing if"
+ ],
+ [
+  88,
+  131,
+  " you have, like, a production app that goes out to users."
+ ],
+ [
+  88,
+  134,
+  "But I think it also depends as well. Like, if you're selling to enterprises, it might matter more if the website's down than if, like, you y"
+ ],
+ [
+  88,
+  141,
+  "ou've got an app that, like, helps you track your dog food or something. Like, you know, if you can't log on for five minutes, not a big dea"
+ ],
+ [
+  88,
+  148,
+  "l. But, if there's, you know, big contracts that depend on it, then maybe it's a bigger deal. So, yeah, I guess I'll kick off. I'm Brian. I "
+ ],
+ [
+  88,
+  155,
+  "think I've met a couple of you. I'm the founder and CEO of MicroDoc."
+ ],
+ [
+  88,
+  158,
+  "And I'm also here as part of the HCD fellowship, and I'm trying to use AI to prove novel mathematics. So if you have any interest in this, I"
+ ],
+ [
+  88,
+  167,
+  "'m more than happy to chat about it. And also before we get into the main book, I'd be interested to see, like, what kinds of AI coding tool"
+ ],
+ [
+  88,
+  176,
+  "s people use. And I want you to raise your hand if you use Cloud Code, and that's your favorite, or Codecs, Cursor,"
+ ],
+ [
+  88,
+  183,
+  "Klein, Windsurf, Lovable. Nice. I don't know. I can't remember any. No no AI? Excellent. There's always one. See, I think we've all had an e"
+ ],
+ [
+  88,
+  192,
+  "xperience like this of, you know, you're you're asking cursor to go do something, and it just destroys your code base. Like you say, like, r"
+ ],
+ [
+  88,
+  202,
+  "efactor this, like, 20 line function and then just delete six files and drops production database, and you're like, know,"
+ ],
+ [
+  88,
+  210,
+  "why? What do they do to the but at least this is my experience a lot of the time trying to build code using AI. And I think part of the reas"
+ ],
+ [
+  88,
+  219,
+  "on this is the case, or at least it was the case, was that the kinds of data it was trained on. So a lot of the time, the AI, at least until"
+ ],
+ [
+  88,
+  228,
+  " recently, was trained on these lovely, like, open source code bases that were, like, really nicely maintained"
+ ],
+ [
+  88,
+  235,
+  "and had, like, very consistent patterns throughout the code base and, you know, had no legacy code. But I think the reality is, like, you kn"
+ ],
+ [
+  88,
+  242,
+  "ow, most code bases are much messier. They have lots of anti patterns, lots of legacy code. Maybe it's maintained by, like, one person or no"
+ ],
+ [
+  88,
+  249,
+  " one. There's lots of anti patterns. There's lots of, like, duplicated code. So it's like the the ways in which we work are are much differe"
+ ],
+ [
+  88,
+  257,
+  "nt, or we used to work are much different than the kinds of data it was trained on."
+ ],
+ [
+  88,
+  261,
+  "So I think with this in mind, the goal for this is to try to teach you how to ship, production grade code using AI. And I think the the prob"
+ ],
+ [
+  88,
+  270,
+  "lems that AI has at the moment broadly break down into two buckets. So the first is accuracy. So these are questions like, did the AI write "
+ ],
+ [
+  88,
+  278,
+  "valid code, and did the agent understand, what I wanted? And then when it comes to completeness, you might ask, did the agent finish the tas"
+ ],
+ [
+  88,
+  287,
+  "k in full, and did the agent introduce regressions?"
+ ],
+ [
+  88,
+  290,
+  "And to fix this, I've created a four stage coding pipeline. So the first is understanding, the second is planning, the third is implementing"
+ ],
+ [
+  88,
+  297,
+  ", and finally, we have checking. So first, when it comes to understanding, I think this is like a broader problem in software engineering, w"
+ ],
+ [
+  88,
+  304,
+  "hich is like the mind of your junior developers or AI is not your own mind. Like, it doesn't know what you're thinking, doesn't know exactly"
+ ],
+ [
+  88,
+  311,
+  " how you want something implemented, or, like, the exact details that you have have in mind for something. So I think what often happens is,"
+ ],
+ [
+  88,
+  317,
+  " like, you know, if you hire a junior developer and you say, like, go implement this, and they go do it, and they do it wrong, I think it's "
+ ],
+ [
+  88,
+  324,
+  "actually your fault because it was an unspecified task. And they had to make assumptions, and they weren't the assumptions that you had. But"
+ ],
+ [
+  88,
+  331,
+  ", you know, you should have made those assumptions more explicit. I think we need to treat AI like it's a junior developer you've just hired"
+ ],
+ [
+  88,
+  338,
+  ". So they have no context about the code base or very little, and you need to sort of on the side of more being more explicit than less expl"
+ ],
+ [
+  88,
+  345,
+  "icit."
+ ],
+ [
+  88,
+  345,
+  "And with this in mind, these these are a few sort of like prompts that I find very helpful. And you can sort of like weave them into your yo"
+ ],
+ [
+  88,
+  351,
+  "ur code as you go. Things like, you know, research in the code base and find all the relevant context, and then ask me ask me clarifying que"
+ ],
+ [
+  88,
+  357,
+  "stions before you proceed. You know, propose a few different options for the solution and pick your favorite. And then you can read over all"
+ ],
+ [
+  88,
+  363,
+  " the different options, and you can even ask things like, you know, give me the trade offs between each option or or help me understand how "
+ ],
+ [
+  88,
+  368,
+  "should I think about the the trade offs between each option."
+ ],
+ [
+  88,
+  371,
+  "And then things like, stop writing code. Let's just like take a step back and analyze and research. From there, we move on to planning. So w"
+ ],
+ [
+  88,
+  379,
+  "hat I found before is like the problem with a lot of AI coding at the moment is that especially for bigger bigger features or bigger project"
+ ],
+ [
+  88,
+  388,
+  "s, it often loses context or loses a sense of progress as we move from session to session. Because when we clear the context, it loses all i"
+ ],
+ [
+  88,
+  396,
+  "ts memory."
+ ],
+ [
+  88,
+  397,
+  "So what I found really useful is I developed this bash script. And what it does is when I run it, it creates sort of an isolated project dir"
+ ],
+ [
+  88,
+  404,
+  "ectory that stores all the context for that project. So it means that if I want to come back to the come back to, you know, this this projec"
+ ],
+ [
+  88,
+  411,
+  "t and continue iterating on us or even to do something like a retrospective, it's very easy because the context is nicely isolated. And it m"
+ ],
+ [
+  88,
+  418,
+  "eans that all the time you spent understanding can now be clearly distilled into this set of project documents"
+ ],
+ [
+  88,
+  423,
+  "instead of having sort of random files littered throughout the code base. After that, move on to implementing. So I might say, you know, pic"
+ ],
+ [
+  88,
+  430,
+  "k the first item in the projects folder and start working on it. The agent would go off and say, I'm done. And then I'll open a new window, "
+ ],
+ [
+  88,
+  437,
+  "and I say, you know, my idiot junior developer had done this piece of work. I want you to check over the work to make sure that it's impleme"
+ ],
+ [
+  88,
+  444,
+  "nted as as it should be. And if it isn't, let's iterate until it's it's complete and full."
+ ],
+ [
+  88,
+  449,
+  "And what I find really useful about this is that LLMs, even though they make, like, very obvious mistakes, they're actually quite good at ch"
+ ],
+ [
+  88,
+  456,
+  "ecking work or or searching for errors or issues. So I find that this workflow of just asking, you know, check this other LLM's work is actu"
+ ],
+ [
+  88,
+  463,
+  "ally really helpful. And finally, we move to checking. And, you know, the LLM might say I'm finished, I say, okay, run all the code checks, "
+ ],
+ [
+  88,
+  470,
+  "all the static code analysis, all the tests."
+ ],
+ [
+  88,
+  472,
+  "And if there's any issues, want you to iterate until all the tests pass and and all the all the, like, the static code analysis is clean. An"
+ ],
+ [
+  88,
+  478,
+  "d I find this step in particular was, like, the most recent addition, and it's made the biggest difference. Because what often happens is, l"
+ ],
+ [
+  88,
+  484,
+  "ike, you know, you you ship an app to production, but, like, the it doesn't build properly or, like, there's some, like, huge issue in terms"
+ ],
+ [
+  88,
+  491,
+  " of, like, you know, it's trying to access something that doesn't exist or you forgot to import something and the whole app breaks. And so I"
+ ],
+ [
+  88,
+  497,
+  " found that, like, this step alone has, like, dramatically reduced the amount of buggy code I shipped to production,"
+ ],
+ [
+  88,
+  502,
+  "at least when it comes to LMS. So then other prompting techniques, so things like research and understand before writing code, like all sort"
+ ],
+ [
+  88,
+  510,
+  " of variations on just like, you know, just look through the code base. Ultra think, it's a really hard problem. Take a step back, clearly l"
+ ],
+ [
+  88,
+  517,
+  "ay out what you've done and what you've left to do. Ask me clarifying questions. Restate your understanding of this in your own words. And i"
+ ],
+ [
+  88,
+  525,
+  "mplement the best,"
+ ],
+ [
+  88,
+  526,
+  "most long term, most elegant, most idiomatic solution. I find that these things, littering them out my throughout my development process is "
+ ],
+ [
+  88,
+  534,
+  "really helpful. Other things I find really helpful is having making sure that I have a proper workspace setup. So the bash script before, I "
+ ],
+ [
+  88,
+  542,
+  "really like using that and letting the LLM run it so it has its own isolated context to manage the the chunks of work. Using the the agent's"
+ ],
+ [
+  88,
+  550,
+  " file to say, like, you know, don't do this or or do this, can be really helpful as well."
+ ],
+ [
+  88,
+  555,
+  "Another thing as well I quite like is being super opinionated about, code style. So what I'll do is I'll, like, go on to Chattypiti or Googl"
+ ],
+ [
+  88,
+  561,
+  "e. I'll say, like, give me the best software design patterns for React. Because I don't really know what they are. But, like, I just copy pa"
+ ],
+ [
+  88,
+  567,
+  "ste whatever it says, and I say, you know, follow these all the time. And what it means is you get super, super consistent and repeatable co"
+ ],
+ [
+  88,
+  574,
+  "de. But the really nice thing is that, like, you're essentially copying the best practices of, like, you know, the likes of Airbnb and Googl"
+ ],
+ [
+  88,
+  580,
+  "e"
+ ],
+ [
+  88,
+  580,
+  "who have, like, spent years iterating on, like, what the best thing is to do here. And you just like, the LM is very good at following these"
+ ],
+ [
+  88,
+  589,
+  " explicit instructions. So I like to very clearly codify it. It's like what should you do in every situation as you're developing this, like"
+ ],
+ [
+  88,
+  597,
+  ", this software project so that your code is nice nicely, like, extensible and and readable and so on. Proper"
+ ],
+ [
+  88,
+  604,
+  "continuous integration or CI is really important and static type checking. And then Git work trees is quite good. And so Git work trees allo"
+ ],
+ [
+  88,
+  611,
+  "ws you to run many different agents in parallel. Because what I found before is then I'd run them all in the same branch. And what happened "
+ ],
+ [
+  88,
+  618,
+  "is, like, codecs would realize that, like, there's other files that have been edited, and it thought it was like, oh, like, the linting, lik"
+ ],
+ [
+  88,
+  625,
+  "e, I changed these files, so let me just undo those."
+ ],
+ [
+  88,
+  628,
+  "So, like, we do undo hours of work, like, by the other agents. So I found that separating them out into separate work trees meant that it wo"
+ ],
+ [
+  88,
+  639,
+  "uldn't just override each other's progress. Update conquer. Yeah. So that would be, like, the agents dot m d. So I'll see if I can bring up "
+ ],
+ [
+  88,
+  650,
+  "an example. Yeah. So things like this. So this is an example of one of my agents dot m d. So"
+ ],
+ [
+  88,
+  657,
+  "so things like that, for example. So it it would, like, it would not run UV. So UV is a way of managing dependencies in Python, and it would"
+ ],
+ [
+  88,
+  664,
+  " like just run the Python directly. So adding things like this when it kept messing up meant that it just like stopped doing that. So like I"
+ ],
+ [
+  88,
+  671,
+  " find this process is quite iterative. So like when you find it like fucks up 10 times in a row, adding something to the agents dot m d file"
+ ],
+ [
+  88,
+  678,
+  " to say, like, stop doing this or, like, when you encounter this situation, this is what you should do"
+ ],
+ [
+  88,
+  683,
+  "means that, like, this is an iterative process that you sort of, like, whack the problems as they come up. But once you whacked all the prob"
+ ],
+ [
+  88,
+  691,
+  "lems, it's usually pretty stable. Yeah. So as I mentioned before, things like asking the LLM to be a judge. So say, like, my idiot junior de"
+ ],
+ [
+  88,
+  699,
+  "veloper did this work. I want you to check over their work to see is there any issues. And the idiot junior colleague actually is really, re"
+ ],
+ [
+  88,
+  707,
+  "ally important because"
+ ],
+ [
+  88,
+  708,
+  "there's, like, very interesting studies to find that if you say, like, the senior developer did this work, check over it, the LM misses issu"
+ ],
+ [
+  88,
+  716,
+  "es that were in the code. Whereas if you say, my idiot junior developer, they find the issues because the LM is primed to look for those iss"
+ ],
+ [
+  88,
+  723,
+  "ues. So yep. What about false positives? I generally don't worry about false positives in the sense that, like, I prefer my code to be, like"
+ ],
+ [
+  88,
+  731,
+  ", too robust than, like, not robust enough."
+ ],
+ [
+  88,
+  733,
+  "And, like, I also read over all the code. So, if I spot something that's, like, it's it's, like, freaking out about something, say, like, it"
+ ],
+ [
+  88,
+  746,
+  "'s it's actually fine. Sometimes. But what I find is with the best models, they actually have good, like, sort of epistemic access. So they "
+ ],
+ [
+  88,
+  759,
+  "know when"
+ ],
+ [
+  88,
+  760,
+  "they understand, like, truth, and they, like, they stop making up things. So, like, sometimes what it says is, like, oh, actually, you your "
+ ],
+ [
+  88,
+  766,
+  "idiot junior developer did a good job this time. I couldn't find any issues. And so sometimes it's false positives, but I also read over the"
+ ],
+ [
+  88,
+  772,
+  " code. So if it does flag something, I'm able to say, actually, it's fine. We we don't worry about that for now. But similarly, if, like, yo"
+ ],
+ [
+  88,
+  779,
+  "u've written a piece of code or, like, you're really happy with a piece of code, you can say, like, you know, the senior developer did this "
+ ],
+ [
+  88,
+  785,
+  "piece of code, and then my idiot junior developer, you know, added to this code. So I want you to, like, don't touch the senior developer st"
+ ],
+ [
+  88,
+  791,
+  "uff, but, like, you know, really, really check over the junior developer stuff. Those"
+ ],
+ [
+  88,
+  795,
+  "are language server protocols language server protocols. So in, like, you know, in a Versus code or Xcode, if you have, like, a like, if you"
+ ],
+ [
+  88,
+  804,
+  " introduce, like, a a type error and you hover over it, you can see, like, what the issue is. So that's actually just running it like a tiny"
+ ],
+ [
+  88,
+  812,
+  " server on your computer that, like, Versus Code or or Cursor makes a request to to find, is there an issue in this file? It's like a tiny t"
+ ],
+ [
+  88,
+  821,
+  "ype check. And what you can do is you can run those servers in isolation"
+ ],
+ [
+  88,
+  825,
+  "and give, like, Cloud Code access to that server so it can call it and do this mini type check. So if you have, if you have Claude code hook"
+ ],
+ [
+  88,
+  833,
+  "s, what you can do is you can get it to run automatically. So every time Claude updates a file, it'll run that mini type check and it'll get"
+ ],
+ [
+  88,
+  840,
+  " the response back. So it'll see as it goes, is it introducing errors? And it can fix those errors as it goes. And so I found this, like, a "
+ ],
+ [
+  88,
+  848,
+  "really cool way to just, like, build in robustness into the pipeline."
+ ],
+ [
+  88,
+  852,
+  "Other things about logs, like, if it's a really tricky issue, I find that, like, adding asking it to add lots of logs throughout is really h"
+ ],
+ [
+  88,
+  859,
+  "elpful because as a human, it's hard to read like a thousand lines of just crap, whereas LLM is happy to do that. Other things that's really"
+ ],
+ [
+  88,
+  867,
+  " interesting that I started doing is if you have a really tricky issue that it's that's possible to verify with some sort of script, I find "
+ ],
+ [
+  88,
+  874,
+  "that, like, giving the LN the ability to check its own work is super helpful. So, like, recently with my business, I ran into, like, this re"
+ ],
+ [
+  88,
+  882,
+  "ally weird issue with PDF conversion from, like, docs to PDF"
+ ],
+ [
+  88,
+  885,
+  "where, like, the font family wasn't carrying over or something like that. And but the LM was able to write a script to, like, iterate throug"
+ ],
+ [
+  88,
+  892,
+  "h and, like, print out the font family of the problematic elements and just iterate until they found a fix to the issue. So, like, worked fo"
+ ],
+ [
+  88,
+  899,
+  "r thirty minutes and found the issue. So I think that, like, adding the ability to give the LM or giving the LM the ability to check some wo"
+ ],
+ [
+  88,
+  906,
+  "rk is super helpful. Essentially, that's Yeah. Yeah. Yeah. It's another kind of tool. Yeah."
+ ],
+ [
+  88,
+  911,
+  "Other things on how to get better responses. So ask it the same thing many times. Splitting up big tasks into smaller tasks, using better mo"
+ ],
+ [
+  88,
+  919,
+  "dels, so using, like, GPT five Pro instead of GPT five. Using tools. So as I mentioned before, you know, you can ask the LLM, you know, chec"
+ ],
+ [
+  88,
+  928,
+  "k over this to see if it compiles, or you can just use a compiling tool to see if it compiles. Other things, context engineering. So,"
+ ],
+ [
+  88,
+  936,
+  "there's a very interesting study then, around, so there's a thing called Chekhov's gun. And there's a director called Chekhov in, like, I th"
+ ],
+ [
+  88,
+  943,
+  "ink the sixties who brought this idea of Chekhov's gun, which is that if a director puts a gun in a movie scene, it has to be used within th"
+ ],
+ [
+  88,
+  951,
+  "e next scene. And LLMs are a bit like that in that if they see a piece of context or a detail, they think it has to be used. So often LLMs g"
+ ],
+ [
+  88,
+  958,
+  "et bogged down on details that, aren't relevant, and you get really bad responses because of that. That they see the detail and they think t"
+ ],
+ [
+  88,
+  965,
+  "hey need to use it. When in reality, like most details, they don't need to use. So I think from that perspective, it's like if you give the "
+ ],
+ [
+  88,
+  972,
+  "LLM too much context or the wrong kind of context or contradictory context, it can get really confused and just give you crap. So I find tha"
+ ],
+ [
+  88,
+  980,
+  "t being really deliberate about, like, what you give it and when you give it has a huge impact on the quality of response."
+ ],
+ [
+  88,
+  986,
+  "Other things I found really good are AI code review. So I use three coding agents to review all my code as well as reviewing it myself. I us"
+ ],
+ [
+  88,
+  994,
+  "e Coderebit, Codex, and Cloud Code. And like the really nice thing is like I just copy paste whatever each of them says into a new window, a"
+ ],
+ [
+  88,
+  1002,
+  "nd I iterate until they have no problems with the code. So I find from that perspective, even if it like, the code it writes the first time "
+ ],
+ [
+  88,
+  1010,
+  "is quite reliable. But, like, I I feel so much better knowing that, like, there's a safety net of, like, really good CI as well as all these"
+ ],
+ [
+  88,
+  1018,
+  " AI code agents that read over all the code."
+ ],
+ [
+  88,
+  1020,
+  "Another thing, this is more maybe of advanced feature, but what I found before is like if you're on Cursor or Windsurf or whatever it is and"
+ ],
+ [
+  88,
+  1026,
+  " you're working on a feature, you know, you have to sort of like walk around keeping your laptop open so like it doesn't lose connection. An"
+ ],
+ [
+  88,
+  1033,
+  "d so what I started doing is I'll run like a tiny server in the cloud, and I'll do my coding there. So I can disconnect and like walk away, "
+ ],
+ [
+  88,
+  1039,
+  "and it'll work away for ten minutes in the background. And I can reconnect later and check on the progress."
+ ],
+ [
+  88,
+  1044,
+  "And like sometimes it's easier to have it on your laptop because you can easily check it and read over it. But sometimes it's nice to be abl"
+ ],
+ [
+  88,
+  1051,
+  "e to walk away, and it'll still work And related to that, web agents. So I'm using Codecs at the moment. I've tried Jules and the Cloud Code"
+ ],
+ [
+  88,
+  1058,
+  " web agent. I think Codecs is the best, but I think they're all quite good. And the idea is like you can give a task, maybe it takes thirty,"
+ ],
+ [
+  88,
+  1064,
+  " forty minutes, and you can spin it up in the cloud and then read over the code when it's written."
+ ],
+ [
+  88,
+  1069,
+  "And this is an example I did quite recently of there was, like, a 2,000 line file that I wanted to break down into smaller files so it's eas"
+ ],
+ [
+  88,
+  1076,
+  "ier to manage. And it worked for twenty eight minutes and, you know, produced perfect code. But the reason why it was able to produce perfec"
+ ],
+ [
+  88,
+  1083,
+  "t code is that it was able to run the tests. So it was able to see, like, with this new refactor, like, rewrite, do we still maintain the sa"
+ ],
+ [
+  88,
+  1091,
+  "me functionality? So I find that, like, giving the LLM the ability to check its own work is is a huge,"
+ ],
+ [
+  88,
+  1096,
+  "huge game changer. And even though these these tools are great, I think they have serious limitations. I think I think the first one is arou"
+ ],
+ [
+  88,
+  1103,
+  "nd memory. So, like, the the problem is is, like, context doesn't carry from conversation to conversation. So, like, you might spend ages ex"
+ ],
+ [
+  88,
+  1111,
+  "plaining all the details of your code base or, like, the product or what you want or where you want to take it. And then, like, you know, fi"
+ ],
+ [
+  88,
+  1118,
+  "ve minutes later, just, like, you know, makes all the same mistakes. So I think that, like, that's really frustrating, but also, like, has a"
+ ],
+ [
+  88,
+  1125,
+  " huge impact on"
+ ],
+ [
+  88,
+  1126,
+  "my ability to use these tools really productively. So I think that's a big problem. And then, like, somewhat related is epistemic access. So"
+ ],
+ [
+  88,
+  1133,
+  " it's like all the techniques I've talked to, a lot of them, are to do with, like, trying to extract what's in my head and give it to the LL"
+ ],
+ [
+  88,
+  1140,
+  "M so it has all the details it needs to complete the the the project effectively. But I think that, like, I I think that the fundamental rea"
+ ],
+ [
+  88,
+  1147,
+  "son is, like, it just makes assumptions when it doesn't have enough information."
+ ],
+ [
+  88,
+  1151,
+  "And if you had a developer and they get to know you, like, they make the right assumptions because they know you and they know the the way y"
+ ],
+ [
+  88,
+  1158,
+  "ou want like to work and the way you like to code. But if you're starting from scratch every time, they can't make the right assumptions. So"
+ ],
+ [
+  88,
+  1165,
+  " they keep messing up. So, like, the classic one is, you know, you ask you move the button like three three pixels to the right, and then Cl"
+ ],
+ [
+  88,
+  1172,
+  "oud Code is, you know, not thinking that."
+ ],
+ [
+  88,
+  1174,
+  "But that keeping that in mind, I think I have a few predictions over the next maybe six months or three months. I think there'll be a lot of"
+ ],
+ [
+  88,
+  1180,
+  " memory improvements or some memory improvements. I think there's gonna be a lot less degenerative behavior, so like deleting half the code "
+ ],
+ [
+  88,
+  1187,
+  "base. I think a lot of the things I've spoken about today will be productized and built into the, like, the wind surf and the cursor and so "
+ ],
+ [
+  88,
+  1193,
+  "on. I think there'll be as well increased model competition. So I think that I really, really like GPT five codecs thinking high. Just rolls"
+ ],
+ [
+  88,
+  1199,
+  " off the tongue."
+ ],
+ [
+  88,
+  1200,
+  "But I think, like, OPUS four point two and four point five will be here quite soon and Gemini three Pro. So I'll be really interested to wat"
+ ],
+ [
+  88,
+  1208,
+  "ch this space and see, like, how how those different models evolve. So, you know, I don't want go on for too long, but if you take anything "
+ ],
+ [
+  88,
+  1216,
+  "away from what I spoke about today, you should always start with clarifying questions. Use structured projects to manage pieces of work, and"
+ ],
+ [
+  88,
+  1224,
+  " like these could be small features or huge features,"
+ ],
+ [
+  88,
+  1227,
+  "and use automated verification at every single step. So say to the LLM, you know, run all the type checks, run all the tests, like, check yo"
+ ],
+ [
+  88,
+  1240,
+  "ur work, make sure, you know, it's valid code. So, yeah, if you have any questions, you can go to my website for the Bash script and also fo"
+ ],
+ [
+  88,
+  1253,
+  "r any technical write ups related to coding with AI. You can email me, telegram. So, yeah, I'm happy I'll also do a demo as well if people a"
+ ],
+ [
+  88,
+  1265,
+  "re interested. But, yeah, if any questions, I'm more than happy to answer."
+ ],
+ [
+  88,
+  1272,
+  "I think probably a pre commit hook is the best. So a pre commit hook. So well, it depends. So if you're coding on GitHub, you can do a thing"
+ ],
+ [
+  88,
+  1282,
+  " called a pre commit hook. So before you push the code to the cloud, there's a tool that you can use, which is called a pre commit. And it r"
+ ],
+ [
+  88,
+  1291,
+  "uns every time you push code. But before it goes up, it'll you can, like, do different tasks. So one task you can do is copy the agents.md"
+ ],
+ [
+  88,
+  1301,
+  "to all those different places. So you keep one source of truth in the agents.md, and then every time you push code just before you push it, "
+ ],
+ [
+  88,
+  1317,
+  "it copies all those files. Tools work, and I have new files to work on. Yeah. Yeah. Exactly. Yeah. So it all stays up to date. So I find or "
+ ],
+ [
+  88,
+  1333,
+  "or just like I think cursor actually uses agents.md now. So I think it's only you need you need a cloud.md and agents. M d, but it is quite "
+ ],
+ [
+  88,
+  1349,
+  "annoying. Yeah. Yep."
+ ],
+ [
+  88,
+  1351,
+  "I think it depends. So it depends how much the thing matters. So if it's like a throwaway piece of vibe coding, then it's fine. But I think "
+ ],
+ [
+  88,
+  1361,
+  "also, I think usually, at least in my case, I try the my mental model usually matches quite closely with the code. And the reason why is tha"
+ ],
+ [
+  88,
+  1371,
+  "t I'm really opinionated in my agents dot m d file. So I say, like, follow these React best practices,"
+ ],
+ [
+  88,
+  1378,
+  "where, like, the components go here and the pages go here, and this is how we should interact with the database. So it means that even if I'"
+ ],
+ [
+  88,
+  1385,
+  "ve never seen the code before, if someone tells me it's using that style, I know where to look for everything. And then, like, when it comes"
+ ],
+ [
+  88,
+  1393,
+  " to, like, more subtle details of, like, you know, when we delete a file, we also send an email to someone. Then I read over things manually"
+ ],
+ [
+  88,
+  1400,
+  " because it's like that detail might be obscured by the sort of high level structure."
+ ],
+ [
+  88,
+  1405,
+  "But usually, if you start with a good, a very opinionated structure, it's easy to see where everything should be. But I think it also depend"
+ ],
+ [
+  88,
+  1413,
+  "s. So, like, for production data, for MicroDoc, my startup, I read overall the commits, and we have, like, a robust review pipeline. But, li"
+ ],
+ [
+  88,
+  1421,
+  "ke, if it's from my personal website, I might, like, not even bother reading over it or take a quick once over. Yep."
+ ],
+ [
+  88,
+  1428,
+  "That was a great talk, Brian. I missed the first part. Just a quick one before I ask you my question. Did you do this without AI before? I d"
+ ],
+ [
+  88,
+  1436,
+  "o which? Development. Yeah. Yeah. Yeah. So I've been coding for, like, twelve years. So that okay. So that was a transition. Yeah. Do you kn"
+ ],
+ [
+  88,
+  1443,
+  "ow of any resources or, like, advanced courses where you can learn these best practices, you know, that you'd recommend to someone who hasn'"
+ ],
+ [
+  88,
+  1451,
+  "t done this kind of work before and wants to get started?"
+ ],
+ [
+  88,
+  1454,
+  "Wants to start with coding or AI coding? AI coding. I think what I find quite helpful is sort of pair programming with AI. So using somethin"
+ ],
+ [
+  88,
+  1462,
+  "g like cursor to say like, I want to build this app. You know, I want you to build it for me, but I also want you to explain as as we go wha"
+ ],
+ [
+  88,
+  1469,
+  "t you're doing so I have an understanding. And because I think that what what what's happening is like the understanding is moving up the ab"
+ ],
+ [
+  88,
+  1477,
+  "straction there. So it's like it used to be before that, like, you know, you had to be really good at, like, writing assembly, which is like"
+ ],
+ [
+  88,
+  1485,
+  " machine code, but then we develop more abstract languages."
+ ],
+ [
+  88,
+  1488,
+  "And now the next level of abstraction is just like the English language. And it's like maybe we we code in that way, but it's still helpful "
+ ],
+ [
+  88,
+  1494,
+  "to understand what's going on at a low level. So like if you need to, like, make architecture decisions about like this should go here and t"
+ ],
+ [
+  88,
+  1501,
+  "his should go here, you're able to understand that trade off. But I find that like just asking AI, you know, what should I be doing here? Ho"
+ ],
+ [
+  88,
+  1507,
+  "w should I think about this? It's really helpful. That's a good point. Especially with regards to that verification and getting the LLM to a"
+ ],
+ [
+  88,
+  1514,
+  "ctually"
+ ],
+ [
+  88,
+  1514,
+  "create little mini tests to fix its own code. I feel like that stuff I don't know if the LLMs alone will be able to propose or if there's so"
+ ],
+ [
+  88,
+  1522,
+  "mewhere, you know, where we can discover these practices or tools that we can use kind of around the process. Do you know of any sort of por"
+ ],
+ [
+  88,
+  1530,
+  "tals or places where these are these things are being discussed or forums or anything like that? I find x is really good. So, like, there's "
+ ],
+ [
+  88,
+  1538,
+  "certain x accounts that are are, like,"
+ ],
+ [
+  88,
+  1540,
+  "doing very similar things. But I think that, like, it depends very much. So, like, I think with a lot of, like, really excellent developers,"
+ ],
+ [
+  88,
+  1547,
+  " they're in sort of larger companies that, like, are scared of AI or, like, don't want to adopt AI or adopt it to, like, some extent for dif"
+ ],
+ [
+  88,
+  1554,
+  "ferent reasons. So I think that x and just people hacking on their own projects and you just, trying it out. Because, like, all these things"
+ ],
+ [
+  88,
+  1561,
+  " I I found from trial and error Mhmm."
+ ],
+ [
+  88,
+  1563,
+  "And sort of, like, different people have, like, adopted different solutions, but we all sort of, like, have a sense for, like, all the limit"
+ ],
+ [
+  88,
+  1573,
+  "ations, and that just comes from spending hours and hours with these things. So Brilliant. Thank you. Sure. Yep. Thanks. I have three questi"
+ ],
+ [
+  88,
+  1582,
+  "ons. First of all, if you use GPT-five Codecs Thinking High, like, what's your spending budget on the month? So I use the ChattyPety Pro pla"
+ ],
+ [
+  88,
+  1592,
+  "n,"
+ ],
+ [
+  88,
+  1592,
+  "and I think, like, it's insane value. Like, my productivity has, like, increased 10 times. Well, at least for me, I think it's insane. Like,"
+ ],
+ [
+  88,
+  1599,
+  " really, really good value. But I think even the Plus Chateappity plan is very generous. I used to have, like, three Cloud Code subscription"
+ ],
+ [
+  88,
+  1606,
+  "s, the Cloud Code, like, 20 x max, like, a month or two ago because I kept running into limits. But I've never hit a limit with ChatGPT. So "
+ ],
+ [
+  88,
+  1613,
+  "it seems like whatever the way they're they're structuring their limits, it's much more generous. So So how does it do you get an API key fr"
+ ],
+ [
+  88,
+  1620,
+  "om that?"
+ ],
+ [
+  88,
+  1620,
+  "No. So you just connect it to your ChatGP account Yeah. And it's included in all the other stuff. Oh, in, like, Gershell also? Yeah. Yeah. S"
+ ],
+ [
+  88,
+  1629,
+  "o, like, it's like a monthly subscription of €200 or $200. Yeah. And then yeah. So it's just, like, included. Okay. Wow. That's nice. Second"
+ ],
+ [
+  88,
+  1639,
+  " question, you mentioned the LSB and, like, giving the access to LLM"
+ ],
+ [
+  88,
+  1643,
+  "to that. Do you mean how do you do that? Do you do that with, like, hooks, like, Cloud Code? Yeah. Or yeah. That's it? Yeah. Yeah. Exactly. "
+ ],
+ [
+  88,
+  1651,
+  "I'll see if I can get it up that I can't use it anymore. Well, I don't use it anymore because I switched over to let's see if I find it. Oh,"
+ ],
+ [
+  88,
+  1660,
+  " yeah. And then a follow-up, like, in cursor, is there a similar functionality for that? No. Unfortunately not. But I think, actually, curso"
+ ],
+ [
+  88,
+  1668,
+  "r, it's built in. So"
+ ],
+ [
+  88,
+  1669,
+  "you might see something like Oh, okay. So, yeah, you might I I don't I'll see what this comes up with. But you you might see after it makes "
+ ],
+ [
+  88,
+  1678,
+  "an edit that it says, like, one one issue, and then it'll iterate until that's fixed. But it's not built into cursor or clog code by default"
+ ],
+ [
+  88,
+  1687,
+  ". Yeah. I I think it only reads, like, the LSP data from the files you edit. And that's why cursor sometimes misses a lot of this Mhmm. Sort"
+ ],
+ [
+  88,
+  1696,
+  " of type missing because if you change one schema somewhere, it, like, propagates. Right? Yeah. To the whole gobiz."
+ ],
+ [
+  88,
+  1703,
+  "And then my third question It's funny. Doesn't seem to fine. But I I think in cursor, it does find it, but cloud code, you need to set up ma"
+ ],
+ [
+  88,
+  1711,
+  "nually. I'll see it. I might have a write up on my website about it. So I'll I'll Okay. See who'll pull it up. Then my third question is, di"
+ ],
+ [
+  88,
+  1718,
+  "d you use the prompt from Patrick this last week by any coincidence on the mermaid diagrams? No. I haven't tried it yet. Okay. I would love "
+ ],
+ [
+  88,
+  1726,
+  "to hear your thoughts on that once you've tried I do recommend trying it. Yeah. I did try it on, like, a smaller project. I think that, like"
+ ],
+ [
+  88,
+  1733,
+  ", the idea, generally speaking, of mermaid diagrams is excellent."
+ ],
+ [
+  88,
+  1737,
+  "I guess my problem is, like, with all these things, it's, like, my ability to trust us. So I think what often happens is like the what the L"
+ ],
+ [
+  88,
+  1745,
+  "LM says and what it does are sometimes due to very different things, and it'll sort of hallucinate details. So I might have a mermaid diagra"
+ ],
+ [
+  88,
+  1752,
+  "m that looks excellent, but it's not reflective of the actual code base. And similarly, I might have a mermaid diagram that looks horrendous"
+ ],
+ [
+  88,
+  1760,
+  ","
+ ],
+ [
+  88,
+  1760,
+  "but it doesn't also reflect the actual code base. It might actually be fine. The code base might be good, mermaid bad, mermaid good, code ba"
+ ],
+ [
+  88,
+  1772,
+  "se bad. So I can't trust the details. So I think it's just like the volume of stuff to review is quite large. But in principle, think it's a"
+ ],
+ [
+  88,
+  1784,
+  "n excellent idea. Verify that"
+ ],
+ [
+  88,
+  1786,
+  "think it could be somehow externally verified or maybe with an MCP to verify that the diagram actually corresponds to the code? Yeah. I mean"
+ ],
+ [
+  88,
+  1793,
+  ", absolutely. Like, you can can use a sort of a similar LLM as a judge. So you can say, like, this is a mermaid written by my idiot junior d"
+ ],
+ [
+  88,
+  1800,
+  "eveloper. This is the code base. You know, c are the c is it correct or, like, find all the issues. And if you do that enough times, like, i"
+ ],
+ [
+  88,
+  1807,
+  "t'll probably be pretty accurate."
+ ],
+ [
+  88,
+  1809,
+  "But, yeah, I guess, like, it's definitely worthwhile something I I should probably investigate more. What tools do you use for end to end te"
+ ],
+ [
+  88,
+  1817,
+  "sting? I use Playwright for front end end to end Playwright MCP? No. Just Playwright. So I write, like, manual Playwright scripts that run o"
+ ],
+ [
+  88,
+  1825,
+  "n production and then run-in the staging server. So whenever I make a change, it'll, like, pretend to be a user and click around. But it's l"
+ ],
+ [
+  88,
+  1832,
+  "ike a predefined set of steps with a predefined set of success conditions. And if it fails, then I just you know, the it won't let me merge "
+ ],
+ [
+  88,
+  1840,
+  "the code in."
+ ],
+ [
+  88,
+  1841,
+  "And I do use Playwright sometimes when when, like, doing exploratory stuff. So if the AI wants to, like, open the page and, like, test and p"
+ ],
+ [
+  88,
+  1850,
+  "ick the functionality, I have Playwright installed, but I don't I don't use it that much. Do you think there is any benefit between Playwrig"
+ ],
+ [
+  88,
+  1859,
+  "ht over Playwright MCP or vice versa? I think Playwright MCP is for deterministic"
+ ],
+ [
+  88,
+  1864,
+  "or Playwright MCP is for exploratory stuff. So if you're developing new, like, front end page and the LLM wants to see does the button click"
+ ],
+ [
+  88,
+  1871,
+  ", that's really useful because, like, it can, like, call the open page, like, MCP function, then it can call the click function. So, like, i"
+ ],
+ [
+  88,
+  1878,
+  "t can, you know, iterate in real time until the functionality works. Whereas I think for like when you're shipping production code, you want"
+ ],
+ [
+  88,
+  1884,
+  " it to be deterministic. Like you don't want the agent to like like make up the flow on the fly. You want it to be like at this step, we do "
+ ],
+ [
+  88,
+  1891,
+  "this. At this step, we do this. And like this is like a deterministic pathway."
+ ],
+ [
+  88,
+  1895,
+  "Because when the agent is iterating it, they might forget to call something or they're just sort of exploring. So I think Playwright scripts"
+ ],
+ [
+  88,
+  1906,
+  " are for production end to end testing. And then Playwright MCP is for exploratory during development, seeing what works and what doesn't. Y"
+ ],
+ [
+  88,
+  1916,
+  "ep. This is a little bit less related to"
+ ],
+ [
+  88,
+  1919,
+  "what you like, the talk is about, like, shipping things, so we may talk after. But you said that your project here is proving novel mathemat"
+ ],
+ [
+  88,
+  1929,
+  "ics using AI. Yeah. Do you I found I'm more of a, like, scientist than than, like, a, I don't know, software engineering, and I find it sort"
+ ],
+ [
+  88,
+  1939,
+  " of cheats sometimes. Mhmm. Is there, like, a a way that you"
+ ],
+ [
+  88,
+  1943,
+  "when you're doing, like, something with a different goal where, like, the means are what matter, not the end, do you have, like, a different"
+ ],
+ [
+  88,
+  1952,
+  " strategy? Or is it similar to this? Quite very similar. So I'll show you a quick we can take a quick detour to the AI maths. But I'll get i"
+ ],
+ [
+  88,
+  1962,
+  "t up. But I I I did have, like, a very custom pipeline built. Mhmm."
+ ],
+ [
+  88,
+  1966,
+  "But the problem is after I spent a thousand in credits, was like, look, know, I'll just use touchy p d's built in. But, yeah, absolutely. So"
+ ],
+ [
+  88,
+  1974,
+  " I like, this is one example. So I have a code base that's how that I used to manage the the piece of maths. Let's see. Yeah. So, like, this"
+ ],
+ [
+  88,
+  1983,
+  " is the sort of structured code base of, like, this is the the the kind of, like, thing I'm trying to solve, and it's distilled into all the"
+ ],
+ [
+  88,
+  1991,
+  "se files."
+ ],
+ [
+  88,
+  1992,
+  "And then I have a a thing that lets me copy this sort of chunk of the code base into ChatGPT. So I'll say something like, you know, an extre"
+ ],
+ [
+  88,
+  1999,
+  "mely junior PhD student is working on solving this. I've attached all their work, you know, check through it and find every single mistake. "
+ ],
+ [
+  88,
+  2006,
+  "Because, like, you know, they're undoubtedly these mistakes. Even though I'm using GPT five Pro and, like, iterating over and over, like, st"
+ ],
+ [
+  88,
+  2012,
+  "ill makes those mistakes. So, like, I do this to try grounded in truth. And if I do this a few times and says, look, there's no issues, like"
+ ],
+ [
+  88,
+  2019,
+  ", I generally trust it. Mhmm. Because it's good at finding these, like, subtle issues Mhmm. But not so good at, like, generating it, like,"
+ ],
+ [
+  88,
+  2026,
+  "in a true way on the first time. So I use, like, LLM as a judge, like, a lot. Okay. Cool. Thank you. Yeah. I have a follow-up question on th"
+ ],
+ [
+  88,
+  2038,
+  "e Playwright's question. So you mentioned that you don't use Playwright MCP, but you use Playwright CICD like a lot to test your front end. "
+ ],
+ [
+  88,
+  2050,
+  "Have you"
+ ],
+ [
+  88,
+  2051,
+  "tried or experienced with, using a browser agent to verify, like, new front end functionality by basically doing the same? Because I imagine"
+ ],
+ [
+  88,
+  2059,
+  " that when you have a browser agent, basically, it calls the same functions that it does with Playwright. Right? It says open page, click bu"
+ ],
+ [
+  88,
+  2067,
+  "tton, like, read through HTML, Have you tried that? Yep. Yeah. So I tried, I think, use browser or browser based or something like that. I'l"
+ ],
+ [
+  88,
+  2075,
+  "l see if I can"
+ ],
+ [
+  88,
+  2076,
+  "or browser based. Maybe it's use browser. Oh, that one. Yeah. Yeah. Yeah. So I've used that. I I I tried that out for a while, and I found t"
+ ],
+ [
+  88,
+  2084,
+  "hat, like, it it suffered from the same problems as the MCP, which is just like it was nondeterministic. So it's like the agent would, like,"
+ ],
+ [
+  88,
+  2091,
+  " forget to, like, call something or like forget to navigate somewhere and the test would fail, but also like it's very expensive. So like li"
+ ],
+ [
+  88,
+  2099,
+  "ke"
+ ],
+ [
+  88,
+  2099,
+  "the playwright is free and like this, you get charged every time you run it. So in my mind, it was like much easier to like have the robustn"
+ ],
+ [
+  88,
+  2107,
+  "ess of like a deterministic pathway in the front end to see, like, if it passes, I'm certain that this functionality works where, like, the "
+ ],
+ [
+  88,
+  2114,
+  "agent could have forgotten to call something. Right. Maybe a good I I just an an idea would be to have the browser agent go over the app if "
+ ],
+ [
+  88,
+  2122,
+  "you have new functionality, and then based on the actions that it made, write a playwright script and keep that in your CICD. Yeah. I'm"
+ ],
+ [
+  88,
+  2129,
+  "wondering, though, if you use this one over the cursor now available browser sort of agent also. Or I think cloud cloud also has one. Right?"
+ ],
+ [
+  88,
+  2136,
+  " Yeah. Yeah. So So, like, I I do that already. So I'd say, you know, I want you to write a playwright script. I want you to iterate until it"
+ ],
+ [
+  88,
+  2143,
+  "'s it's complete. So the agent will, like, read over the code base, and I figure, okay. So, like, based on what I see based on how the pages"
+ ],
+ [
+  88,
+  2151,
+  " relate to each other, this is how the the test should look. And they'll just iterate"
+ ],
+ [
+  88,
+  2155,
+  "locally until the the test passes. So absolutely, can definitely do this. Or you can use the the cursor one or the call code. But I find, li"
+ ],
+ [
+  88,
+  2165,
+  "ke, using AI to write these tests is is very powerful as well. Yeah. So you but then you don't actually use the browser agent. You use the a"
+ ],
+ [
+  88,
+  2174,
+  "gent to write the playwright scripts and therefore, like, experiment. Yeah. Exactly. Yeah. That makes sense. So there's a couple things whic"
+ ],
+ [
+  88,
+  2184,
+  "h I think can be framed as a single question."
+ ],
+ [
+  88,
+  2187,
+  "You mentioned Git work trees, web agents, and these remote servers. Do you have any specific scripts for setting that up? Or is that somethi"
+ ],
+ [
+  88,
+  2197,
+  "ng, like, you determine in your, like, your agents file? Or is there some other setup that you're doing there which is replicable or shareab"
+ ],
+ [
+  88,
+  2207,
+  "le in that dimension? Yeah. So I think it's in some sense, it's quite primitive. So,"
+ ],
+ [
+  88,
+  2213,
+  "like, I might like, sometimes I might do something like, you know, set up a new Git work tree called, you know, health cloud dash master das"
+ ],
+ [
+  88,
+  2224,
+  "h two or something like that. That all of those flags you have in there, did you have how do you have that shortcutted? I think the one dang"
+ ],
+ [
+  88,
+  2235,
+  "erously bypassed approval. So all these flags are there's a terminal,"
+ ],
+ [
+  88,
+  2240,
+  "like, plug in where if you it'll, like, search through your history if you just click, like, type out the start of the command and click the"
+ ],
+ [
+  88,
+  2250,
+  " up arrow. Okay. I can't remember. I think it's, like it's called, like, zed s h something or other. Zush. Yeah. Oh, my Zush. Oh, yeah. Yeah"
+ ],
+ [
+  88,
+  2259,
+  ". It might be one of these. I think it's Just auto suggestions? Yeah. I think so."
+ ],
+ [
+  88,
+  2265,
+  "But And then so when it comes to setting up the, like, remote server and stuff, I might say something like, you know, spin up, like, a tiny "
+ ],
+ [
+  88,
+  2275,
+  "e c two instance in, like, you know, Ireland or in, like, Europe or something. And then I'll just SSH in there and and get things set up. An"
+ ],
+ [
+  88,
+  2285,
+  "d then when it comes to the web agents with Codecs, for example, the oh, wow."
+ ],
+ [
+  88,
+  2290,
+  "Okay. Interesting. I wonder what went on here. I don't even know if it's gonna load. Yeah. I suspect it just deleted the yeah. It yeah. So a"
+ ],
+ [
+  88,
+  2300,
+  "nyway so it's not perfect still, but it's pretty good. When it comes to setting up the web agents, spend a bit of time setting up the enviro"
+ ],
+ [
+  88,
+  2309,
+  "nments. So this is an example of one environment. So, like, often it's, like, quite simple. Just like I have, like, a like, I just do NPM in"
+ ],
+ [
+  88,
+  2319,
+  "stall,"
+ ],
+ [
+  88,
+  2319,
+  "and it has access to the dependencies and can spin up a a server to do playwright tests in the cloud if it wants. But sometimes, like, it's "
+ ],
+ [
+  88,
+  2327,
+  "significantly more complex. So for my main production app, it runs Svelte on the front end, Django on the back end. So I have this huge setu"
+ ],
+ [
+  88,
+  2335,
+  "p file that goes through installing all the necessary dependencies, installing like a tiny tiny database in the cloud so it can run the, lik"
+ ],
+ [
+  88,
+  2343,
+  "e, the unit tests,"
+ ],
+ [
+  88,
+  2344,
+  "installing all other, like, related dependencies. Is this in the web agent or in the EC two instance? Or is the web agent running in the EC "
+ ],
+ [
+  88,
+  2351,
+  "two instance? This is in the web agent. So I I I think what's happening on their side is is it it's something like an EC two instance. Okay."
+ ],
+ [
+  88,
+  2358,
+  " They're like, it's just virtualized, and they, install this tiny Docker container where they run this setup script. And then I run a simila"
+ ],
+ [
+  88,
+  2365,
+  "r script for when I I do my own Cloud Agent on EC two. Are you running any type of Docker locally?"
+ ],
+ [
+  88,
+  2370,
+  "No. Okay. So you're just always spinning up an instance, and then you have your IAM, like, configured so that you can prompt it to be config"
+ ],
+ [
+  88,
+  2378,
+  "ured in that way? So I have, like, a set of set of set of scripts in GitHub. Okay. So just, like, SSH then clone the the repo. But I like to"
+ ],
+ [
+  88,
+  2386,
+  " keep, the setup very lightweight. I I'm not sure what you mean by you have the set the scripts in GitHub. Like, they're in a repository tha"
+ ],
+ [
+  88,
+  2394,
+  "t Yeah. So, like, the the setup script itself. Okay. And then repository, and you can from with the agent in your CLI"
+ ],
+ [
+  88,
+  2401,
+  "reference that respective. Is that a publicly available script then? So sorry. I I might not be so this script is for, like, codec codecs we"
+ ],
+ [
+  88,
+  2411,
+  "b agents. Yeah. And then there's a separate one. I I don't know if it's running at the moment, but I'll do something like I'll SSH into the "
+ ],
+ [
+  88,
+  2421,
+  "server, and I'll go to my like, I'll go to my"
+ ],
+ [
+  88,
+  2424,
+  "GitHub repo, and I'll say something like, you know, whatever it is, run the setup script. And then it'll run the setup script and get everyt"
+ ],
+ [
+  88,
+  2433,
+  "hing set up on its side. Got you. So it has all the dependencies it needs to Okay. So health cloud is actually an EC two instance, and you a"
+ ],
+ [
+  88,
+  2442,
+  "re now you're SSH ed into that. Yeah. You're and then you run codecs from within there. Yeah. How do you how do you re authenticate codecs e"
+ ],
+ [
+  88,
+  2451,
+  "ach time that you run one of these new instances? Is that in the initial setup script?"
+ ],
+ [
+  88,
+  2457,
+  "Yeah. Exactly. So there's a thing you can do, I think, is log in or maybe no. I think it's log in. So I think I'm logged in already. But the"
+ ],
+ [
+  88,
+  2468,
+  " way it works is that when you connect your ChatGPT account to or an API key to codecs, then it has it forever. So it's sort of able to main"
+ ],
+ [
+  88,
+  2479,
+  "tain that across sessions."
+ ],
+ [
+  88,
+  2481,
+  "Cool. Yeah. I mean, like, it's not an ideal workflow, but just like for some for some types of work, it's type of janky that gets it done. E"
+ ],
+ [
+  88,
+  2494,
+  "xactly. I think the the key theme is a very janky There's like there's like a dozen companies trying to do this exact thing. Yeah. Like and "
+ ],
+ [
+  88,
+  2507,
+  "you could just script it in a couple hours. Don't know if took you. So yeah. Yeah. You're saying? Yeah. I think the reason why I prefer this"
+ ],
+ [
+  88,
+  2521,
+  " is"
+ ],
+ [
+  88,
+  2521,
+  "much more configurable. So or I find I can drive it more easily. So yeah. I don't maybe, like, maybe functionally, it it's quite similar. Bu"
+ ],
+ [
+  88,
+  2531,
+  "t I find that, like, it's easier to review the code and review the steps it took in this interface for some kinds of code changes. But if th"
+ ],
+ [
+  88,
+  2541,
+  "e if the code change is, like, very isolated"
+ ],
+ [
+  88,
+  2544,
+  "and very focused, I like the web agents. So I'll give you an example of this is something I ran the other day. So this is a quite self conta"
+ ],
+ [
+  88,
+  2553,
+  "ined change in the sense that it's just like add this one button on this page, and then add the relevant back end endpoints and connect them"
+ ],
+ [
+  88,
+  2563,
+  " up as appropriate. So it's very focused, very self contained. It was somewhat easy to verify, but clearly didn't quite get it right. And I "
+ ],
+ [
+  88,
+  2572,
+  "think the problem was when it was auto generating the"
+ ],
+ [
+  88,
+  2576,
+  "so we use OpenAPI to keep type safety between the back end and front end, and clearly it used the wrong arguments to set that up. So it dele"
+ ],
+ [
+  88,
+  2585,
+  "ted whatever it is, 22,000 lines of code. So the test should not pass, and it should try again. Right? Yeah. So I think what it did there wa"
+ ],
+ [
+  88,
+  2595,
+  "s it just used the wrong arguments. So it regenerated it in the wrong way. So from that perspective, so like having it locally,"
+ ],
+ [
+  88,
+  2603,
+  "I or like having it in the cloud where I can SSH in, I find it easier to iterate. Where if needed, I can even run the commands myself and, l"
+ ],
+ [
+  88,
+  2612,
+  "ike, fix it for the agent if it's not quite getting it. But the benefit of having it in the cloud is, like, I close my laptop, walk away, an"
+ ],
+ [
+  88,
+  2621,
+  "d it's still working away in the background. Yeah. On that note, have you ever had any success with essentially instructing it to do segment"
+ ],
+ [
+  88,
+  2630,
+  "ed, like, stages of commits and then have some type of"
+ ],
+ [
+  88,
+  2633,
+  "Yep. Yeah. Yeah. And have you implemented that somehow? Not like a like a an autonomous recursive one, but just more inform me where I'm lik"
+ ],
+ [
+  88,
+  2643,
+  "e, I do checkpoints as I go. And then as I do the checkpoints, say, like, you know, read back over the code and make sure it's it's consiste"
+ ],
+ [
+  88,
+  2653,
+  "nt with what our original plan was. Okay. Yeah. Yeah. Yes. I think in fact, you can do it now. I think the quick demo might be good. Only pr"
+ ],
+ [
+  88,
+  2664,
+  "oblem now is, like, the agents are so slow that there's no such thing as a quick demo."
+ ],
+ [
+  88,
+  2670,
+  "So Oh, yeah. Perfect. Sorry. That I'll make it bigger. So, yeah, I guess it depends on the project I'm doing. So"
+ ],
+ [
+  88,
+  2695,
+  "if it's the case that, like, I want, like, a simple app that, like, runs really well, I'll use Next. Js because, like, these agents have bee"
+ ],
+ [
+  88,
+  2703,
+  "n trained on, like, so much Next. Js code that they're really, really good at it. And what I might do is, like, start a new codec in a sense"
+ ],
+ [
+  88,
+  2712,
+  ", and I'm or, you know, it depends, I might say. I think Next. Js actually has an issue with its agents aren't very good at setting it up. S"
+ ],
+ [
+  88,
+  2720,
+  "o I might do something like"
+ ],
+ [
+  88,
+  2722,
+  "go online and look up the React or Next. Js setup. I might also look up Next. Js best practices. And I might, like, copy paste some of these"
+ ],
+ [
+  88,
+  2738,
+  ". And I give it to the agent, and I say, like, I want you to save these best practices in a"
+ ],
+ [
+  88,
+  2749,
+  "d file. So I might start up with something like that. So we have our practices nice and codified. And after that, I might a getting started."
+ ],
+ [
+  88,
+  2761,
+  " I might do something like this where I'll create it. Because the problem is as well, for some reason, agents are really, really bad at gett"
+ ],
+ [
+  88,
+  2772,
+  "ing this set up. So I like to do it manually. But from there, they're late. They fly."
+ ],
+ [
+  88,
+  2779,
+  "So I guess that that's sort of a and then it just depends how you want to develop it. Then once it has the structure in the agents. Md file,"
+ ],
+ [
+  88,
+  2793,
+  " the code it writes is really reliable and repeatable. So I guess that that's a rough overview. Yeah. And do you any other like, or anything"
+ ],
+ [
+  88,
+  2807,
+  " specific about sorry? Yeah."
+ ],
+ [
+  88,
+  2810,
+  "Yeah. So in that case, I might do something like in this case, for example, like, for my maths project, I have it in the cloud. So this is m"
+ ],
+ [
+  88,
+  2822,
+  "y I just, like, do, like, a git clone, like, whatever it is. Like, I can't remember. And then I git clone it to the, like, server in the clo"
+ ],
+ [
+  88,
+  2834,
+  "ud. And this server command I ran before is just an alias for,"
+ ],
+ [
+  88,
+  2839,
+  "like, whatever is SSH, Ubuntu, whatever it is. So I have this server running in the cloud. I connect to it, and then I clone the repo so all"
+ ],
+ [
+  88,
+  2850,
+  " the code gets on the server. And then from there, I can start a codex instance or whatever my favorite editor is. And I might say something"
+ ],
+ [
+  88,
+  2861,
+  " like, I want you to add a new button or something like that. And you use the server for them to"
+ ],
+ [
+  88,
+  2868,
+  "develop. Right? This Yeah. Or or or run scripts in the cloud. It's like if there's, like, some maintenance stuff that I need to run, I can r"
+ ],
+ [
+  88,
+  2876,
+  "un-in the cloud. And then to manage the session so I can walk away, I'd use something like screen. So screen is a Linux utility that lets yo"
+ ],
+ [
+  88,
+  2884,
+  "u run something. Maybe it's like there's a long running task or an agent or something that's in the background. I can disconnect from the sc"
+ ],
+ [
+  88,
+  2892,
+  "reen, disconnect from the server, walk away, and then I can reconnect to the server"
+ ],
+ [
+  88,
+  2897,
+  "and then reconnect to the screen. Oh, dear. Thank you. Yeah. And it's still running in the background. So the idea is like I can start a lon"
+ ],
+ [
+  88,
+  2919,
+  "g running coding task that might take twenty, thirty, forty minutes,"
+ ],
+ [
+  88,
+  2930,
+  "like disconnect, walk away, and then I can reconnect and check on the progress and run any commands that I want or even pull it down to my l"
+ ],
+ [
+  88,
+  2938,
+  "ocal computer. But this is like a very advanced, like for, like, 95% development, I just do it locally. And then, like, maybe 3% on the clou"
+ ],
+ [
+  88,
+  2945,
+  "d and 2% with the custom server in the cloud. There's a handful of us. I wanna know way more about that. The the custom server. How you set "
+ ],
+ [
+  88,
+  2953,
+  "up the custom server, how you get"
+ ],
+ [
+  88,
+  2955,
+  "your script to authenticate your agent respectively from that server. Yeah. I guess you're using codec. But Yep. Yeah. Actually access that "
+ ],
+ [
+  88,
+  2965,
+  "code that track GBT serve codec GUI from the like, when you open a browser in that EC two instance? Yeah. Yeah. Well, depends. So if you giv"
+ ],
+ [
+  88,
+  2975,
+  "e it, like, a if you give it, like, a a virtual a virtual display, like, XVFB"
+ ],
+ [
+  88,
+  2981,
+  "is one example of one, it can run I think it's called XVFB. Yeah. So, like, so XVFB is a virtual display server. So can I run a like a brows"
+ ],
+ [
+  88,
+  2990,
+  "er in the cloud? So if you want from PayWrite or any sort of end to end tests, I find this is really helpful. It's like from server, my MacB"
+ ],
+ [
+  88,
+  3000,
+  "ook, I see the display. Yeah. Yeah. Exactly. Do you have a screenshotting agent that just screenshots that and also has all your respective "
+ ],
+ [
+  88,
+  3009,
+  "tasks which we we segment it and send that back to the agent within that? Yeah. Absolutely. You can read it can read images. Yeah. Okay. Yea"
+ ],
+ [
+  88,
+  3019,
+  "h. From"
+ ],
+ [
+  88,
+  3019,
+  "x f x v f No. You can run it. Yeah. Yeah. Okay. Or or even like what you can do as well is Playwright has like built in screenshot functiona"
+ ],
+ [
+  88,
+  3027,
+  "lity or like you can take a a photo of the current state. So even if you like, you can take the screenshot through x v f b you can take the "
+ ],
+ [
+  88,
+  3035,
+  "screenshot through Playwright if, like, you're just doing web development. And would you store that store that on the respective server"
+ ],
+ [
+  88,
+  3042,
+  "there? Yeah. Or, like, I'll just upload to GitHub and then download to my computer depending on the workflow or depending on the type of dat"
+ ],
+ [
+  88,
+  3057,
+  "a. Yeah. Yep. So it depends. So one task that ran very successfully quite recently well, clearly not this one."
+ ],
+ [
+  88,
+  3068,
+  "Let's see if we can find that. Okay. Really doesn't like this, all these code changes. What's the fastest like, ECQACs region in your experi"
+ ],
+ [
+  88,
+  3083,
+  "ence? The one you're closest to. So I think latency is the biggest biggest thing. If you're just shipping prompts and"
+ ],
+ [
+  88,
+  3096,
+  "and then you're, you know, having latency of the LON serving to that EC two instance. Yeah. Is that a consideration at all? So I think most "
+ ],
+ [
+  88,
+  3103,
+  "LLM providers are multi zonal. So they just connect to whatever they're the closest. So, like, there's data centers in Ireland and also, lik"
+ ],
+ [
+  88,
+  3111,
+  "e, you can spawn e c two from Ireland. So usually, like, just like but also if you're in The US and you have a EC two in The US, it'll just "
+ ],
+ [
+  88,
+  3118,
+  "connect to the the OpenAI or cloud servers in The US. Okay."
+ ],
+ [
+  88,
+  3121,
+  "I'll see if I can find a example of one. Yes. I think this is quite let's see. Yeah. I think this is quite a good one. So the point of this "
+ ],
+ [
+  88,
+  3130,
+  "was, like, it worked for, I think, eighteen minutes. I think that there's longer ones as well. But the point is like the reason why it could"
+ ],
+ [
+  88,
+  3139,
+  " work for so long is it's actually quite a simple prompt, but it had a well defined metric of success."
+ ],
+ [
+  88,
+  3145,
+  "So the goal was you have to get all the tests to pass, you can't change the tests. So if the tests are failing, it keeps iterating. And so i"
+ ],
+ [
+  88,
+  3152,
+  "f you give it this verifiable goal, or if you have like a project directory and you say, want you to tick off every single item in this and "
+ ],
+ [
+  88,
+  3160,
+  "don't stop until you have ticked off every item, that can be really helpful. And you can even like another thing I implemented was like a si"
+ ],
+ [
+  88,
+  3167,
+  "mple script that will check for a given project."
+ ],
+ [
+  88,
+  3170,
+  "Are all the like, I'll give an example of a to show you what I mean. Yeah. This one, for example. So so you have this"
+ ],
+ [
+  88,
+  3192,
+  "like, you have this sort of progress tracker. And, like, I built a simple script before that just checks, like, if you see any of these thin"
+ ],
+ [
+  88,
+  3198,
+  "gs without an x in them, like, that's considered, like, the the test didn't pass. So, like, in the agent's case, like, you might say, like, "
+ ],
+ [
+  88,
+  3205,
+  "you have to iterate until this, like, check passes. And the check is just checking, like, have you ticked off all the items in the progress "
+ ],
+ [
+  88,
+  3211,
+  "list. So from that perspective, it's able to work for really long because the thing's like, there's so much more I need to do. Whereas, like"
+ ],
+ [
+  88,
+  3217,
+  ", if you give an open ended task, it might say, you know, I've done I've done the bulk of the work, you know, but I like, there's no there's"
+ ],
+ [
+  88,
+  3224,
+  " no pressure to continue. But if it's got a way of checking its own work and verifying have I done have it completed,"
+ ],
+ [
+  88,
+  3229,
+  "because it seems like the the Boolean or like the Boolean, like, does this code run or is like, have I completed this task? It's the most im"
+ ],
+ [
+  88,
+  3241,
+  "portant thing for the other one. So if you give it away to check its own work, it'll work for very long. Yep. Have you tried Kline? Kline? N"
+ ],
+ [
+  88,
+  3252,
+  "o. Yeah. I mostly use codecs because it's extremely generous rate limits."
+ ],
+ [
+  88,
+  3258,
+  "Oh, nice. Yeah. Nice. Yeah. Yeah. Must give WinSurf a go. Yeah. Yep. How do you deal with these changes in documentation"
+ ],
+ [
+  88,
+  3296,
+  "in everything? Mostly documentation, but maybe some other, you know, like, and tricks. Because what I found, I start iteratively and after s"
+ ],
+ [
+  88,
+  3309,
+  "everal iterations, my documentation log in and I already start to forget what I was doing. Yeah. How to keep up with these changes in projec"
+ ],
+ [
+  88,
+  3322,
+  "t."
+ ],
+ [
+  88,
+  3322,
+  "Yeah. I mean, I think that, like, the project structure can be quite good for that. So I'll give you a quick example. So for example, I migh"
+ ],
+ [
+  88,
+  3335,
+  "t have you know, want you to like, I just made some some changes to the organization model. I want you to research in the code base"
+ ],
+ [
+  88,
+  3347,
+  "to find all references to the organization model in documentation and make a list of them. And then once I have that list, I can say save al"
+ ],
+ [
+  88,
+  3356,
+  "l the stuff in the project. And then I can open a new window and say, I want you to update the references in this file and then tick it off."
+ ],
+ [
+  88,
+  3364,
+  " And the next file, tick it off. Make sure that I systematically update all the references to them. So if I do make any sort of structural c"
+ ],
+ [
+  88,
+  3373,
+  "hanges,"
+ ],
+ [
+  88,
+  3373,
+  "for example, to, like, the data structures, I just say, like, you know, make a list of everywhere that that I need to update, and then let's"
+ ],
+ [
+  88,
+  3383,
+  " update them. The traditional model, is it database model? Yeah. Yeah. So it's like a a a data model. Okay. Find all the links, like, when c"
+ ],
+ [
+  88,
+  3394,
+  "ode use database in this respect and then tell, like, update documentation."
+ ],
+ [
+  88,
+  3399,
+  "Yeah. So, like, I think what it's probably gonna do is just search for the word organization. And if it finds it in, like, a dot m d file ex"
+ ],
+ [
+  88,
+  3406,
+  "actly. Yeah. So it search for organization, and it's gonna make a link list of maybe, like, 20 documents. And I'll say, store all these 20 d"
+ ],
+ [
+  88,
+  3413,
+  "ocuments in a project, and then I want you to iterate until the project is done. So, yeah, I think I don't wanna keep people for too much lo"
+ ],
+ [
+  88,
+  3420,
+  "nger. I know how tiring it is to listen to someone jabber on for an hour. So I'll probably take, like, one more question or any sort of clos"
+ ],
+ [
+  88,
+  3427,
+  "ing thoughts and then probably wrap it up."
+ ],
+ [
+  88,
+  3429,
+  "I appreciate everyone coming as well. Hope it's mildly useful. Yep. Specifically around setting up gateway with mobile agents, might you jus"
+ ],
+ [
+  88,
+  3448,
+  "t quickly demonstrate how you Yeah."
+ ],
+ [
+  88,
+  3453,
+  "So I think yeah. I'll I'll give you a quick demo. So I might say something like create a new Git work tree. It's like these are examples of "
+ ],
+ [
+  88,
+  3466,
+  "Git work trees I have, but it's just I don't know if I have a master. Just check. Yeah. So master branch called Worktree"
+ ],
+ [
+  88,
+  3478,
+  "in Worktree temp master or something like that. So it'll run the the relevant commands. Like, I haven't bothered to memorize the syntax beca"
+ ],
+ [
+  88,
+  3491,
+  "use I never used Git work trees before before LLMs. So it ran the Git work tree. And now what I'll do is I'll open several tabs,"
+ ],
+ [
+  88,
+  3502,
+  "and I'll do something like what is it? Temp master. So now I'm in the work tree. So now I can do some I can open a codex instance, and I can"
+ ],
+ [
+  88,
+  3510,
+  " say, you know, in in this case, I want to work on, you know, adding a button to the home page. And in this Git work tree or branch, I want "
+ ],
+ [
+  88,
+  3519,
+  "to work on, you know, I don't know, adding a button to the, like, the, you know, the settings page."
+ ],
+ [
+  88,
+  3525,
+  "And because what happened before is what I found is that they would think that the the files had been unintentionally changed, and they woul"
+ ],
+ [
+  88,
+  3532,
+  "d override each other's progress. So That that's that's the main reason. But, like, if they stop doing that, I'll get rid of the work trees."
+ ],
+ [
+  88,
+  3540,
+  " How do you how do you handle, like, passing over context, especially where you wanna, like, drive parallel ventures? Like, you have some ty"
+ ],
+ [
+  88,
+  3547,
+  "pe of, like, set of complications that you have that you then do the git git work tree, or you even create create new two new git work trees"
+ ],
+ [
+  88,
+  3554,
+  " that then explore those affected vectors. Is there any type of message passing that you can do between those?"
+ ],
+ [
+  88,
+  3560,
+  "Usually in the documentation. So say, like, you know, update the project docs Yeah. To reflect your findings or something. In in a, like, a "
+ ],
+ [
+  88,
+  3568,
+  "model reboot in that? Yeah. Yeah. But I have the I have the sort of projects folder adjacent to the the rest of the code. So the the convent"
+ ],
+ [
+  88,
+  3576,
+  "ion of for this particular feature making, you get work free. Does that work just generally speaking? Yep. Yep. Okay. Yeah."
+ ],
+ [
+  88,
+  3583,
+  "So, yeah, I'll probably wrap it up here. Thanks so much everyone for for coming. If you have any questions, you can come up to me afterwards"
+ ],
+ [
+  88,
+  3607,
+  ". But I really appreciate it. Thanks."
  ]
 ]
