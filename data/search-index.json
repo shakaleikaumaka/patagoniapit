@@ -450,6 +450,1286 @@
   "did you wanna add anything? Yeah. I think so."
  ],
  [
+  2,
+  8,
+  "These. Okay. Yeah. There you go. Nice job. Thank you."
+ ],
+ [
+  2,
+  35,
+  "Testing. Testing. Testing. Maybe a little higher. That's probably pretty good. That's good. Alright. Can you hear me? Alright. We got a good"
+ ],
+ [
+  2,
+  46,
+  " size round today. Do you guys have your computers? Because we are hitting the driving range, and this is going to be a participatory event "
+ ],
+ [
+  2,
+  57,
+  "here. It's all it's vibes, but we are golfing today."
+ ],
+ [
+  2,
+  61,
+  "Yeah. Are are are we ready? Are are clubs clean? Are your are your terminals clear? Because this is the inaugural talk for development as go"
+ ],
+ [
+  2,
+  84,
+  "lf."
+ ],
+ [
+  2,
+  84,
+  "So if you're with us two weeks ago, I gave a talk, mermaids and sculptors, which kind of peruse the space of how I've been thinking about ma"
+ ],
+ [
+  2,
+  94,
+  "king long shots and trying to develop in a way which is establishing a new theory of mind around how to use LLMs to achieve goals, mostly in"
+ ],
+ [
+  2,
+  104,
+  " the space of software development."
+ ],
+ [
+  2,
+  107,
+  "And, you know, I'm finding a lot of the language around how we think about certain aspects of these different heuristics, which folks have b"
+ ],
+ [
+  2,
+  119,
+  "een sharing between one another about how to approach development from the perspective of the repeated procedural and automated use of LLMs,"
+ ],
+ [
+  2,
+  130,
+  " as lacking."
+ ],
+ [
+  2,
+  131,
+  "So here, my aim with this talk is to introduce, the idea of hyperdimensional space golf in a way that allows us to extend the overall, the t"
+ ],
+ [
+  2,
+  145,
+  "he overall ontology for how we how we can describe going from one state in development of application to the next,"
+ ],
+ [
+  2,
+  157,
+  "and that is hyperdimensional space golf. So if if you'll heed me, it's vector space golf for that matter. So, what we're seeking to do is to"
+ ],
+ [
+  2,
+  168,
+  " achieve learning a little bit about how, reinforcement learning with human feedback works, how we got here canonically in the grand scheme "
+ ],
+ [
+  2,
+  179,
+  "of things of having now LLMs,"
+ ],
+ [
+  2,
+  181,
+  "which are trained on all written down human knowledge, how vector multiplication has resulted in seemingly extractable and useful intelligen"
+ ],
+ [
+  2,
+  192,
+  "ce in the form of prompting and transformation of intent, and and higher order logistical, resolution from just figuring out how"
+ ],
+ [
+  2,
+  203,
+  "our own semantic exchanges work with language to then a higher order language model and inference set, you know, colloquially transformers h"
+ ],
+ [
+  2,
+  215,
+  "ave been able to, unlock this potential to essentially build things with semantic language. So I think we should start"
+ ],
+ [
+  2,
+  226,
+  "just as a, as as a, ensemble of a of a as a party, as a a seniors, say, you know, the the the collective genius of the whole starting to bui"
+ ],
+ [
+  2,
+  236,
+  "ld a new ontology for how we describe working with this inconceivable entity, the embedding space. And so I I've tried here, to pull out thi"
+ ],
+ [
+  2,
+  246,
+  "s idea of this embedding space, this massive entity, you know, if it were real,"
+ ],
+ [
+  2,
+  252,
+  "something that is, you know, space like, it's hyperdimensional, we can barely even raster the, actual spatial elements of how these vectors,"
+ ],
+ [
+  2,
+  262,
+  " are ultimately spatial entities, are actually composed and how they take ideas and turn them into raw numbers. So that's the mechanics of w"
+ ],
+ [
+  2,
+  272,
+  "hat I'm going to sneak in here a lesson of, through the,"
+ ],
+ [
+  2,
+  276,
+  "really this idea of golf as a lesson. So the the moding motif, is is that cover art, essentially this gigantic entity. And, you know, we hav"
+ ],
+ [
+  2,
+  288,
+  "e, well, here, recapitulated, you know, the the prompt which I used to make that. But this idea of the developer needs to navigate"
+ ],
+ [
+  2,
+  299,
+  "semantic space. You the the models are ultimately trained on human knowledge and intelligence as it has been distilled by language. That rep"
+ ],
+ [
+  2,
+  311,
+  "resents your own knowledge, which is very much tied to your experiential evidence, in life. And so, going back to this, we I'm"
+ ],
+ [
+  2,
+  322,
+  "urging all of you to think about and even try to have a Fermi calculation of how many pages you have read in your life of, you know, any typ"
+ ],
+ [
+  2,
+  332,
+  "e of text at at some type of human readable level. And I want you to imagine yourself standing on top of those piles of books. And, you know"
+ ],
+ [
+  2,
+  342,
+  ", that's a growing stage at any point. And that is an imaginary basis is actually all of the context of"
+ ],
+ [
+  2,
+  349,
+  "reading that you've ever done that is actually your own trained model to be able to chat with this entity. And what I find is, you know, man"
+ ],
+ [
+  2,
+  358,
+  "y people have similar sets, and we can run diffs on the you know, how much one person has read versus how much different stuff people have r"
+ ],
+ [
+  2,
+  366,
+  "ead and how much canonically similar things I've read, I e, like, you know, the required book in your high school."
+ ],
+ [
+  2,
+  373,
+  "That set of knowledge, that language, that's gonna we're gonna call that RT. And, essentially, we are, as human developers, constrained by h"
+ ],
+ [
+  2,
+  382,
+  "ow high we stand on this pile of books, how much you have read. It's kind of a you know, it's a it's a very levelizing factor as far as how "
+ ],
+ [
+  2,
+  391,
+  "much effort one has put in. It it's probably consistent throughout, you know, IQ, although it is probably also correlated with IQ about how "
+ ],
+ [
+  2,
+  400,
+  "much you've read. But it is equivocating in that you can read more and be able to do more in LLM space by knowing more words, how they work,"
+ ],
+ [
+  2,
+  409,
+  " and how to wrangle and take shots into LLM space."
+ ],
+ [
+  2,
+  412,
+  "So just wanna be, this is our our training session here. So I wanna be, you know, pretty cognizant of time as we go through this. And, you k"
+ ],
+ [
+  2,
+  421,
+  "now, the the main thing is to keep this talk fun and actionable. And so we are going to build a simple ecommerce app, and we are gonna think"
+ ],
+ [
+  2,
+  430,
+  " about our club selection like we would if we were to go out and play some golf on a golf course we've never played."
+ ],
+ [
+  2,
+  437,
+  "And so we wanna think about going on this cliff edge, but really grounding ourselves on a golf course, a beautiful place and an an aesthetic"
+ ],
+ [
+  2,
+  446,
+  " feeling that's familiar. And we are truly working in this idea of, you know, the the the real value of the embedding space. So this is what"
+ ],
+ [
+  2,
+  455,
+  " we're working with. We're working with our our clubs. These are our heuristics for how we might think about prompting."
+ ],
+ [
+  2,
+  462,
+  "We're gonna have precision clubs, close clubs, you know, a driver, a wedge, a hybrid, a putter. These are going to help us in different scen"
+ ],
+ [
+  2,
+  471,
+  "arios, and we're gonna be thinking about how when we get a response from an LLM, particularly in code, and how we understand those responses"
+ ],
+ [
+  2,
+  480,
+  ", what club to choose versus our own understanding of our goal. And, you know, as with development,"
+ ],
+ [
+  2,
+  487,
+  "setting that goal post is half the battle, and we are also gonna use this to extend the analogy to be able to not only review the quality of"
+ ],
+ [
+  2,
+  496,
+  " our prompts and how close those have gotten us to our goal, but also to develop the framework of future courses which we design which we ma"
+ ],
+ [
+  2,
+  505,
+  "y design ourselves and think about to segment intermediary steps in developing very large projects."
+ ],
+ [
+  2,
+  511,
+  "So without further ado, the shot archetypes. First, and almost incrementally, and part of the one of the impetuses what I've seen for this t"
+ ],
+ [
+  2,
+  521,
+  "alk is that most people with LLMs know how to use the putter very well. And most people actually show up to the tee with the putter. You kno"
+ ],
+ [
+  2,
+  531,
+  "w, they they forget to really think about using executive language that is giving the model, the agency to contemplate certain apps of what "
+ ],
+ [
+  2,
+  542,
+  "they wanna build, to"
+ ],
+ [
+  2,
+  543,
+  "expand the space of potentiality, to take bigger shots, to try to achieve bigger goals. Moreover, I more and but the more often problem is i"
+ ],
+ [
+  2,
+  553,
+  "s I see people, if they do take the driver, they go for these one shot drives. They often bring the putter with them to the middle of the fi"
+ ],
+ [
+  2,
+  562,
+  "eld or even in the rough, and they get over fixed on localized entities,"
+ ],
+ [
+  2,
+  567,
+  "before going and making further leaps. And I challenge even the best prompters out there to truly not get over concerned with the the roughn"
+ ],
+ [
+  2,
+  576,
+  "ess of some of the details of your outputs as you begin to develop, apps where you utilizing these respective models, which are developing t"
+ ],
+ [
+  2,
+  585,
+  "he ontology, the semantic basis for your new repository or any project you're developing on to take larger shots and put away the putter til"
+ ],
+ [
+  2,
+  594,
+  "l you'll need it. But we wanna introduce the putter as, you know, very localized changes within semantic space And to use LLMs in a way whic"
+ ],
+ [
+  2,
+  602,
+  "h I've been successful with is we wanna use some bigger clubs. And so that brings us to the driver. And"
+ ],
+ [
+  2,
+  609,
+  "if you will heed me, there are we could use the putter and the driver the whole way. Now, locally, I think you've all experienced using the "
+ ],
+ [
+  2,
+  618,
+  "driver where and the propensity of the LLM to think you might be wanna using the driver when you're trying to do refinement. So, thinking cl"
+ ],
+ [
+  2,
+  626,
+  "early about how we might think about using prompts to say, hey. Let's actually, you know, just change this color or, like, re re you know, l"
+ ],
+ [
+  2,
+  635,
+  "et let's, you know, put in a little tailwind class to to bump that over versus, you know, let's just fully blow out the entire ecommerce"
+ ],
+ [
+  2,
+  643,
+  "plan and app in one shot. Right? So those are obviously very different prompts, and I think we are ontologically as a seniors as a as a coll"
+ ],
+ [
+  2,
+  652,
+  "ective group of people learning to work with these machines, lacking the the analogies and bases by which we are thinking about framing our "
+ ],
+ [
+  2,
+  660,
+  "prompts from other than just, you know, how we describe those prompts, but from a from a, qualia of the experience of actually working with "
+ ],
+ [
+  2,
+  669,
+  "LLMs and getting responses back."
+ ],
+ [
+  2,
+  671,
+  "So those are our two ends. You know, we have the precision work being done with the the putter, and we have the long shot work being done wi"
+ ],
+ [
+  2,
+  679,
+  "th the driver. Then we have what is the iron, and the this is a little bit muddier with respect to this theory, but these are any long shot "
+ ],
+ [
+  2,
+  687,
+  "prompts where, we wanna think about this tool different than, you know, the the magnitude of change which are expected specifically from the"
+ ],
+ [
+  2,
+  695,
+  " putter. The iron is going to make our longest leaps. The iron is creating most of the value in our creation. This is between the the five a"
+ ],
+ [
+  2,
+  704,
+  "nd forty prompts that are well crafted within the semantic space of what you're establishing,"
+ ],
+ [
+  2,
+  709,
+  "and those are actually making the long leaps where you must maintain both strength and accuracy in your shots. And that is where I also see "
+ ],
+ [
+  2,
+  719,
+  "in the canonicalization of this talk and thinking about these tools, many people not quite grab, this idea of the use of the iron and planni"
+ ],
+ [
+  2,
+  729,
+  "ng steps. So I think an iron should be used from the from a well"
+ ],
+ [
+  2,
+  734,
+  "purposed set of planning. You have gone off the tee and you you have evaluated what you got. You know? You might have ended up in a in a haz"
+ ],
+ [
+  2,
+  742,
+  "ard. It might have not made it all of what you wanted. You might have been right down the fairway, and you have what seems like 99% of what "
+ ],
+ [
+  2,
+  750,
+  "you asked for in that app. The iron is something that where you have done contemplations prior, I e, the make making of markdown files or wh"
+ ],
+ [
+  2,
+  758,
+  "atever, it is then taking in that respective context, planning your shot, and then lining up that drive towards your goal. And the iron also"
+ ],
+ [
+  2,
+  766,
+  " is the tool by which you move your goal. This is where you also introduce new information and set the the actual putting green out further."
+ ],
+ [
+  2,
+  775,
+  " And so this is where we're actually expanding the field of the course that we're playing in."
+ ],
+ [
+  2,
+  780,
+  "The wedge. Now the wedge is a tool used for steering. It's one which you work with in the wind. This is where, you know, most of us start to"
+ ],
+ [
+  2,
+  791,
+  " think about and where I spend most of my times with LLMs and have very often admittedly become the most lazy. It's the let's copy the"
+ ],
+ [
+  2,
+  802,
+  "let's copy the output of the logs and, you know, copy and paste that into the LLM and say fix this. That is it's a dangerous shot because ve"
+ ],
+ [
+  2,
+  811,
+  "ry easily in the flow, if you ever experience playing actual golf and you're close to where you wanna go, you could where you might have oth"
+ ],
+ [
+  2,
+  821,
+  "erwise taken a putter, taken simple steps, understood the problem, and addressed"
+ ],
+ [
+  2,
+  826,
+  "particular aspects and worked in detail, tried to get to that end too fast, and you end up just hitting the shot and slicing it, and the bal"
+ ],
+ [
+  2,
+  834,
+  "l goes far past your goal. And now you're off into woods, and you have to revert, if you are even prepared to do so in that first place. So "
+ ],
+ [
+  2,
+  842,
+  "the idea of the wedge is it's a it's a club that we don't wanna have to use. You know? We really wanna you know, in an ideal case, in our pa"
+ ],
+ [
+  2,
+  851,
+  "r case, we would drive,"
+ ],
+ [
+  2,
+  852,
+  "we would sequence our set of irons and get to, you know, a local area where then we can do refinements with our putter. But the wedges often"
+ ],
+ [
+  2,
+  860,
+  " need us to get out of cases. And as the user, your cases often where you're developing really fast, where you have a onslaught of informati"
+ ],
+ [
+  2,
+  868,
+  "on from these LLMs working faster than you ever had before, where you need to update with the actual semantic model of, like, what is are th"
+ ],
+ [
+  2,
+  876,
+  "e things called in your code base. The wedge is that tool where you are in the rut, you are reading the code for the first time, and you are"
+ ],
+ [
+  2,
+  884,
+  " starting to actually frame,"
+ ],
+ [
+  2,
+  886,
+  "you know, these different tools, that might be building the observability dashboard, that might be filling in these respective logs. It's th"
+ ],
+ [
+  2,
+  894,
+  "e artisanal work to kind of apply what we know as developers in the kind of, you know, yesteryear working style of software development to p"
+ ],
+ [
+  2,
+  902,
+  "ull out what tricks that we have and get back to, approaching the green and and working towards our goal. Now in many cases, we have gotten "
+ ],
+ [
+  2,
+  911,
+  "to the point where the wedge no longer works. And so this is where we're gonna have to use our recovery shot."
+ ],
+ [
+  2,
+  917,
+  "And this looks like, actually a well preparedness, which this might require you actually needing to bring a number of tools with you, before"
+ ],
+ [
+  2,
+  928,
+  " you venture out. And so what that might look like are your, set of ball recovery tools. And this is a very, kind of fun area of of contempl"
+ ],
+ [
+  2,
+  940,
+  "ation,"
+ ],
+ [
+  2,
+  940,
+  "for inventing real golf tools, you know, little extra things as as I golf caddied back in the day, and, you know, it was always fun to see t"
+ ],
+ [
+  2,
+  947,
+  "hese, like, contraptions that folks would bring along with them to kind of solve their, like, water hazard problem or, like, you know, in th"
+ ],
+ [
+  2,
+  954,
+  "e rough or in the poison ivy problem. And I think this is a very similar problem where, you know, in the exchange of ideas, we can build our"
+ ],
+ [
+  2,
+  962,
+  " own water hazard tools. And,"
+ ],
+ [
+  2,
+  963,
+  "what I, you know, what I'm bringing here today, specifically with these, how they differentiate from the rest of them, is this is our toolin"
+ ],
+ [
+  2,
+  970,
+  "g that we set up before we go out and play the course. Before we start coding, These are this is our our Git work trees. This is our, pre co"
+ ],
+ [
+  2,
+  978,
+  "mmit hooks. These are our tools that we bring from experience from having worked with these tools that give us guardrails, that give us prot"
+ ],
+ [
+  2,
+  985,
+  "ection, that allows us to actually recover where we are at and continue to make progress. And so these are bits and bobs. These are learning"
+ ],
+ [
+  2,
+  992,
+  "s. These are scripts. These are tools which we can automate and use to help us get out of sticky situations."
+ ],
+ [
+  2,
+  998,
+  "Next, we we have next, we have the chip. And the chip is different from the wedge because this is about really gauging and using words that "
+ ],
+ [
+  2,
+  1007,
+  "are when we are scoping these example props, these are words which are more computer science aligned. This is, you know, in I'm kind of forc"
+ ],
+ [
+  2,
+  1016,
+  "ed to kind of differentiate by using this ontology, but I think I've, you know, discovered a particular distance difference between the wedg"
+ ],
+ [
+  2,
+  1025,
+  "e, which is kind of saving us from these wayward directions, the the iron"
+ ],
+ [
+  2,
+  1030,
+  "and the chip. And the chip, what I have discovered is the specific aspect of the chip is that and this is not exactly the right canonicaliza"
+ ],
+ [
+  2,
+  1038,
+  "tion, but the the chip is is really close work. And this is where we're actually referencing entities as they're in the code code base direc"
+ ],
+ [
+  2,
+  1046,
+  "tly as we have discovered them and being extremely clear about how we are executing, and using"
+ ],
+ [
+  2,
+  1052,
+  "the verbiage of of computer science, not just of creating directives and plans to actually constrain the model to, you know, actually edit a"
+ ],
+ [
+  2,
+  1062,
+  " string or actually, you know, create some type of, you know, eight bit array stream or, you know, work with an interface. This is where the"
+ ],
+ [
+  2,
+  1071,
+  " knowledge of software engineers really comes in advantage"
+ ],
+ [
+  2,
+  1075,
+  "and where, having the software engineering background or the explainability of the experience of a software engineer, which is really import"
+ ],
+ [
+  2,
+  1083,
+  "ant here, that's where, the, you know, the difference between the kind of vibe coder and the software engineer really comes into handy becau"
+ ],
+ [
+  2,
+  1090,
+  "se this is where your experience in having solving problems before talking about specific computer science problems, the definitions for how"
+ ],
+ [
+  2,
+  1098,
+  " we learn to approach those problems,"
+ ],
+ [
+  2,
+  1100,
+  "and then finding preparing how you would traditionally, to make an edit. Finding the entry points, writing out the logic, and then building "
+ ],
+ [
+  2,
+  1109,
+  "the exact almost code like prompt to then execute that respective change. And that's the chip, and that's really where the art of the game i"
+ ],
+ [
+  2,
+  1118,
+  "s. Then we have the curve shot. And, if you joined me for the last talk,"
+ ],
+ [
+  2,
+  1123,
+  "this is actually a a a kind of a side, canonicalization of what I called big brother programming. But this is where, you build a work space "
+ ],
+ [
+  2,
+  1134,
+  "and you have, you have wins. And so the wins are other courses that influence your development pipeline. So this is bringing in example code"
+ ],
+ [
+  2,
+  1144,
+  " that will steer the embedding space of your actual output. So you wanna think about other code base as"
+ ],
+ [
+  2,
+  1152,
+  "deviating the path of what other was otherwise, your drive, your web shot using those, respective constraints. And, you know, this might act"
+ ],
+ [
+  2,
+  1161,
+  "ually involve, you know, constraints. If you're building three d tools, you know, there's many pathways to build tools, where when you start"
+ ],
+ [
+  2,
+  1170,
+  " to introduce, say, you know, WebGL or three JS or React three fiber, these are very large packages which are very opinionated,"
+ ],
+ [
+  2,
+  1178,
+  "which are actually gonna lot add a lot of weight to your context model. And so you need to be thinking about curving your shot with the wins"
+ ],
+ [
+  2,
+  1186,
+  " of what exists in the context of those dependencies which you're building. The drop. This is a good old revert. And it's very often the cas"
+ ],
+ [
+  2,
+  1195,
+  "e that the drop is also something which can happen, and what differentiates this particularly from the recovery is the the drop might happen"
+ ],
+ [
+  2,
+  1203,
+  " where you're actually taking some type of newly developed solution."
+ ],
+ [
+  2,
+  1207,
+  "So I e going to a new code base entirely or going and doing a prototype and some type of prompt to app and then using that as a vector to th"
+ ],
+ [
+  2,
+  1216,
+  "en resituate your drives inside of the code base. And so this this idea of, you know, going back to the initial concept and then taking a ne"
+ ],
+ [
+  2,
+  1224,
+  "w direction, bringing that new direction in as, like, new seed data from where you can then, you know, really drop a position and then, you "
+ ],
+ [
+  2,
+  1233,
+  "know, reapproach your goal. But within the con to not lose that entire, you know, prompt context."
+ ],
+ [
+  2,
+  1239,
+  "And there's, you know, a relationship with respect to how we think about Git and how we think about using trees, branches, and other aspects"
+ ],
+ [
+  2,
+  1250,
+  " of revision work. And and revision work that gets us closer or further from our goal, is the is the the idea of reusing reusing work that w"
+ ],
+ [
+  2,
+  1260,
+  "ent bad can be a part of this and help having an LLM look up a git diff and then have that be as part of, you know, a a sequence of of, you "
+ ],
+ [
+  2,
+  1271,
+  "know, getting regular expressions that are then indicative of how you might wanna make a change, you can use the explanation"
+ ],
+ [
+  2,
+  1280,
+  "of how your initial drives went poorly to then revert and restart. And I think this is a very underappreciated method of, taking many waywar"
+ ],
+ [
+  2,
+  1290,
+  "d drives, using that semantic base to then return to, not only the deck, the original point, but somewhere at the the intersection of those "
+ ],
+ [
+  2,
+  1299,
+  "initial drives and and drop and having a drop start,"
+ ],
+ [
+  2,
+  1303,
+  "between different projects. And those projects can look very different. The layup. So this is where we have potential hazards in the way, an"
+ ],
+ [
+  2,
+  1316,
+  "d we want to often build our own, tool from the ground up. So my own experiences with this hazard are that we are often working with this on"
+ ],
+ [
+  2,
+  1329,
+  "e doesn't have scrolling in it, but"
+ ],
+ [
+  2,
+  1332,
+  "the the layup is, you know, making it easier to take our next shot. So you might say, oh, we are going to have a content rich app. You know,"
+ ],
+ [
+  2,
+  1341,
+  " when using prompt app tools, which applications are very, often perused, which is having a lot of pictures and having a lot of high res pic"
+ ],
+ [
+  2,
+  1350,
+  "tures and making s three bucket and, you know, shipping those all in. Little does the, you know, uninformed developer know that, you know, t"
+ ],
+ [
+  2,
+  1360,
+  "hey are about to be in for a giant bill from Amazon provided that, you know, folks use their app."
+ ],
+ [
+  2,
+  1366,
+  "You know, other people have kind of, you know, solved this problem, but, if it's your first time developing an app, you're not gonna quite k"
+ ],
+ [
+  2,
+  1375,
+  "now about, you know, using next image or using a script to segment the size of the actual required pixels for the least contentful paint. So"
+ ],
+ [
+  2,
+  1385,
+  " we wanna think about hazards of these elements which are both aspects of our future development as things we wanna prepare for, and we wann"
+ ],
+ [
+  2,
+  1394,
+  "a play short of the hazard often. So thinking about in the usage of our,"
+ ],
+ [
+  2,
+  1399,
+  "our driver of or of our, of our of our iron or or even our chip, we wanna play right before the hazard and then kind of, you know, peruse ve"
+ ],
+ [
+  2,
+  1408,
+  "ry carefully towards these edges where there are actually these, you know, true cliff failure hazards. And and, you know, I'm sure as softwa"
+ ],
+ [
+  2,
+  1417,
+  "re engineers, you have or anyone that has built something, no risk and hazards, and LLMs have common pitfalls such as, you know, delivering "
+ ],
+ [
+  2,
+  1425,
+  "full size images at scale."
+ ],
+ [
+  2,
+  1427,
+  "And so we can think about defining those hazards as we go about planning. And then finally, the punch shot. And, you know, I I, just basical"
+ ],
+ [
+  2,
+  1437,
+  "ly kind of, this is this is a useful canonicalization of, you know, where you would otherwise, you know, use an iron, a driver, and a putter"
+ ],
+ [
+  2,
+  1448,
+  " and trying to get to your,"
+ ],
+ [
+  2,
+  1450,
+  "get to your goal. I I often find it useful to go right towards your goal from the drive as soon as you can. Like, you know, being very decla"
+ ],
+ [
+  2,
+  1459,
+  "rative, being lazy, and, you know, punching right at the pin with the hopes that, you know, provided you're lucky that day that you can take"
+ ],
+ [
+  2,
+  1467,
+  " a low iron shot and you will hit the pin and it will go right in the hole. And I think the heuristic here is that golf can teach us a lot m"
+ ],
+ [
+  2,
+  1476,
+  "ore about LLMs than LLMs can teach us about golf."
+ ],
+ [
+  2,
+  1479,
+  "And it's very often the case that, you know, you can get really lucky. The pin you hitting the pin and going right in these days is kind of "
+ ],
+ [
+  2,
+  1488,
+  "a more off I I I see it happen a lot more often where I'm thinking about these incremental strategies and I'm planning out all of my step by"
+ ],
+ [
+  2,
+  1497,
+  " step, iron shots, my web shots, and, shots. And then I'm thinking about cleaning the app up where, you know, sometimes I just load it with "
+ ],
+ [
+  2,
+  1507,
+  "context and I take a, you know, a full"
+ ],
+ [
+  2,
+  1509,
+  "a a, you know, full power punch shot right at my goal. And if I don't get there right away, there's something I can learn from that even sup"
+ ],
+ [
+  2,
+  1518,
+  "erficial implementation of, like, you know, I've been like, hey. Like, you know, build me a entire physics engine for, you know, making a pr"
+ ],
+ [
+  2,
+  1528,
+  "otein battery from scratch. And that type of prompt actually, even superficially,"
+ ],
+ [
+  2,
+  1533,
+  "gets towards this local minima goal space where the model's forced to, like, think through maybe a suboptimal, path. But in that experiment,"
+ ],
+ [
+  2,
+  1542,
+  " you might find and learn a ton of what you've never even experienced before, especially when you're in a new space. And so the punch shot i"
+ ],
+ [
+  2,
+  1550,
+  "s both a research tool and kind of like a gamble towards winning, and it's becoming cheaper and cheaper, to make these punch shots respectiv"
+ ],
+ [
+  2,
+  1559,
+  "ely."
+ ],
+ [
+  2,
+  1559,
+  "Although the the kind of caveat to that is that, you might you might, like, kind of burn out on an idea by, like, building, you know, giant "
+ ],
+ [
+  2,
+  1567,
+  "prompts and expecting a win and then getting to this, like, superficial local minimum that is not all that's not you know is not well planne"
+ ],
+ [
+  2,
+  1576,
+  "d out. But because the appearance nature of that superficial minimum, looks and maybe even feels like you were what you were thinking about,"
+ ],
+ [
+  2,
+  1584,
+  "it's a it's a it's like a faux pas that you wanna really be mindful of that you are truly when, you know, going for these, like, you know, i"
+ ],
+ [
+  2,
+  1593,
+  "nstantiate the the the, the project and then try to get to your final destination by just iterating on what came from that, that initial res"
+ ],
+ [
+  2,
+  1603,
+  "ponse, that this is like a faux pas approach, but there is value in the in the extraction of what was actually generated, in that step."
+ ],
+ [
+  2,
+  1612,
+  "So, yeah, this decision tree is certainly gonna grow. You know, thinking about how we reflect on what we got back from the respective LLM wi"
+ ],
+ [
+  2,
+  1625,
+  "th a given prompt. We wanna think about, you know, our initial prompts. And part of what I wanna introduce today, is another canonicalizatio"
+ ],
+ [
+  2,
+  1638,
+  "n"
+ ],
+ [
+  2,
+  1638,
+  "of the of the what what's the semantic certainty of your application. I could kinda just explain it, but so, when you first set your prompt,"
+ ],
+ [
+  2,
+  1652,
+  " you are taking kind of infinity, the all of the respective potential things you could build and collapsing it by, I don't know how many 99."
+ ],
+ [
+  2,
+  1667,
+  "99"
+ ],
+ [
+  2,
+  1667,
+  "nines. So, this idea that, you know, you're you're you're showing up and those initial prompts really matter in establishing your, your prog"
+ ],
+ [
+  2,
+  1676,
+  "ress for that day. And and so I I I really, I I advise using your driver a lot, going to the range, and practicing building prompts that get"
+ ],
+ [
+  2,
+  1686,
+  " you closer to your goal faster, that aren't wayward, and you learn what is,"
+ ],
+ [
+  2,
+  1691,
+  "semantically acceptable in in working with LLMs. The caveat here as discussed widely is that the kind of central vector of the way that LMs "
+ ],
+ [
+  2,
+  1701,
+  "are trained is this TypeScript Reacts NextJS stack that kind of all look the same. And so being very specific about how you diverge from tha"
+ ],
+ [
+  2,
+  1711,
+  "t, like, trained means of the bias of the app is important."
+ ],
+ [
+  2,
+  1715,
+  "And you need practice to be able to describe where what are the caveats that are important to distinguish? Where is the model going to fill "
+ ],
+ [
+  2,
+  1728,
+  "in details that you otherwise wouldn't have expected it to? And how you can take better drives that don't kind of curl off into the rough re"
+ ],
+ [
+  2,
+  1741,
+  "quiring you to, save yourself from local minima? Yeah. Yeah. Yeah. So if if you need to create something outside of the the distribution of "
+ ],
+ [
+  2,
+  1754,
+  "common apps, you need to learn to take big drives"
+ ],
+ [
+  2,
+  1758,
+  "that, are are explorative. You need to get into the woods and kind of learn the ontology there as you would learning a programming language "
+ ],
+ [
+  2,
+  1767,
+  "yourself for the first time, and and let it kinda just fill in the token so that you then build up that semantic base, which is basically le"
+ ],
+ [
+  2,
+  1775,
+  "arning how to, swing a golf club and turn the face and and do everything you need to connect the shot together to actually get towards your "
+ ],
+ [
+  2,
+  1784,
+  "goals faster."
+ ],
+ [
+  2,
+  1785,
+  "So, in kind of output and what I think will be my my gift in open source contribution towards developing this model is a a development score"
+ ],
+ [
+  2,
+  1797,
+  "card, and we could switch kinda to the app now. And and thinking about let's for any given app which we might build, let's say we build a ec"
+ ],
+ [
+  2,
+  1809,
+  "ommerce MVP,"
+ ],
+ [
+  2,
+  1810,
+  "how might we then, you know, build the entire, app in a in a round of golf, in in individual features that we play where we have a target go"
+ ],
+ [
+  2,
+  1819,
+  "al, we're able to qualify that goal, and we're be able to get one from the next. And then, you know, we literally count prompts. You know, w"
+ ],
+ [
+  2,
+  1827,
+  "e think about taking shots as, you know, number of prompts that gets us to a product listing,"
+ ],
+ [
+  2,
+  1833,
+  "one that gets us to having an implemented, cart. So, you know, whether you use the shop API or you build your own, you know, cart from the g"
+ ],
+ [
+  2,
+  1842,
+  "round up, it's likely that in the space of both of those tool cases, you can create your own prompts that get you there in under four prompt"
+ ],
+ [
+  2,
+  1852,
+  "s. So that's describing tool usage. You're describing recapitulating that feature from the ground up. Yeah. So"
+ ],
+ [
+  2,
+  1859,
+  "on on that note, we wanna think about getting to goals faster so that we can iterate our learning cycles because a lot of the lot of the val"
+ ],
+ [
+  2,
+  1868,
+  "ue comes from getting to the putting green, getting to these local minima, and having the experience of whether or not you were in frustrati"
+ ],
+ [
+  2,
+  1877,
+  "on and actually achieving goals, by by the structure of your prompts. And using the difference in the spread of data of many different exper"
+ ],
+ [
+  2,
+  1886,
+  "iments to, one, update your own model of explainability for how to use these tools,"
+ ],
+ [
+  2,
+  1891,
+  "and be able to then, describe better prompts as you then move your way towards working on bigger projects, which have different courses, whi"
+ ],
+ [
+  2,
+  1902,
+  "ch you might then use the space of considering how you might approach building big collaborative projects as the design of a golf course. So"
+ ],
+ [
+  2,
+  1913,
+  ","
+ ],
+ [
+  2,
+  1913,
+  "you know, this week, pick a feature that you're working on. Write down, you know, what are what are how many shots do you think you can get "
+ ],
+ [
+  2,
+  1922,
+  "to in that feature? Think about framing it in the respective kind of four different types of of shots. We wanna think about the driver. What"
+ ],
+ [
+  2,
+  1931,
+  " is that big prompt, that initial prompt? And it doesn't even have to be bigger. It could be quite simple. That gets us to, like, 99 points "
+ ],
+ [
+  2,
+  1940,
+  "percent of where we're going. And that looks like, you know, center fairway, in a in a golf, in a real golf scenario."
+ ],
+ [
+  2,
+  1947,
+  "And, you know, we're collapsing from this hyper space to, you know, this idea of the, the the many channels, rainbow road of indeterminate l"
+ ],
+ [
+  2,
+  1956,
+  "ength potential golf courses where we could just keep going forever, but we know we wanna set the respective post somewhere and get to a a g"
+ ],
+ [
+  2,
+  1965,
+  "oal on this feature and get to a a a set of requirements that then meet the overall,"
+ ],
+ [
+  2,
+  1971,
+  "the requirements of the feature that you set out to play in the first place. So count your shots, count your number of prompts. I recommend "
+ ],
+ [
+  2,
+  1982,
+  "bigger prompts that have more, specificity that are mapped to the types of tools here. And, you know, ideally, you would to complete this, y"
+ ],
+ [
+  2,
+  1993,
+  "ou would use your driver, get pretty close,"
+ ],
+ [
+  2,
+  1996,
+  "you know, and then implement the the features as you've, kind of structured them out in your plan, with your iron. And then, you know, and t"
+ ],
+ [
+  2,
+  2005,
+  "hen putt, you know, do those last bit of refinements that, you know, get the the, design system in compliance with what you're building. But"
+ ],
+ [
+  2,
+  2015,
+  " now you have the tools to think about framing the respective other types of cases,"
+ ],
+ [
+  2,
+  2020,
+  "and framing those according to, you know, actually being cognizant of how much you're prompting something. I think, you know, when, versus a"
+ ],
+ [
+  2,
+  2028,
+  "ctual coding where we were able to, you know, in software development, count lines of code, count, you know, kind of the efficiency of a cod"
+ ],
+ [
+  2,
+  2037,
+  "e, there there's kind of a, there's a asymptotic, nonlinearity to, like, how much you prompt and how much value you're creating. And we need"
+ ],
+ [
+  2,
+  2045,
+  " a framework like this, I believe, to, actually track our progress as we prompt and, you know, realize that we are in the water hazard."
+ ],
+ [
+  2,
+  2053,
+  "And, you know, in in developing this, I use this method to develop this talk as well and in the app that I'm gonna demo. And I found myself "
+ ],
+ [
+  2,
+  2063,
+  "in the literal feature that is the water hazard, having an under defined water hazard, which is, I think, poetic in the in the in the the fo"
+ ],
+ [
+  2,
+  2074,
+  "rmation of the idea of this talk,"
+ ],
+ [
+  2,
+  2076,
+  "which is which is that, you know, the water hazard can be undefined. You might not know that you are in the water hazard. And you might have"
+ ],
+ [
+  2,
+  2086,
+  " not read the code. You might even know where you're going. And so, I'm gonna I'm gonna wrap up early, or wrap up on time if you look at it "
+ ],
+ [
+  2,
+  2096,
+  "one way or the other, and, you know, challenge yourself to, to find out if you're in the water hazard. And if you are,"
+ ],
+ [
+  2,
+  2104,
+  "I recommend building an extra tool for yourself for next time you, take a gab at taking a swing in the hyperdimensional vector space golf co"
+ ],
+ [
+  2,
+  2133,
+  "urse."
+ ],
+ [
   16,
   0,
   "So because I'm traveling, I did not prepare anything, you know, anything. So I'm just gonna speak of the cuff, but maybe you you can remind "
