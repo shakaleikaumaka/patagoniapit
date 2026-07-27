@@ -1129,13 +1129,14 @@
     "id": "1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N",
+  "duration": "00:40:20",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N.jpg",
   "speakers": []
  },
