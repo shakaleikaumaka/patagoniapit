@@ -72915,6 +72915,1031 @@
   " Bye bye. Thank you. Bye bye. Bye bye."
  ],
  [
+  40,
+  0,
+  "Hi. I'm Brian, and I'm gonna be chatting a bit about how you can build an AI CRM. So before you before we get started, just wanna run throug"
+ ],
+ [
+  40,
+  9,
+  "h some terms. So CRM is customer relationship manager. So these are things like HubSpot, but they could be things like Excel or Airtable and"
+ ],
+ [
+  40,
+  18,
+  " things like that. So you want to manage, maybe customer data or client data and,"
+ ],
+ [
+  40,
+  23,
+  "sort of what's your relationship with that. So I'm Brian. I'm I'm working on using AI to prove mathematics. And I think the overall goal for"
+ ],
+ [
+  40,
+  31,
+  " this is going to be so that at the end, all of you can build your own AI CRM for your own business. So quick overview of what we're gonna r"
+ ],
+ [
+  40,
+  39,
+  "un through. So first, I'm gonna talk about why I like these sort of custom CRMs versus maybe the the off the shelf things like HubSpot."
+ ],
+ [
+  40,
+  47,
+  "Second, I'm talk about how to structure data. Third, how to divide up workflows. Fourth, how to implement the code changes themselves once y"
+ ],
+ [
+  40,
+  55,
+  "ou figure out the the overall design. And last, some sort of like tips and tricks, things to avoid, and I was gonna run through a quick demo"
+ ],
+ [
+  40,
+  63,
+  ". So, this all started about, maybe ten, eleven months ago, when I was trying to scale up go to market and sale to my own company. And I was"
+ ],
+ [
+  40,
+  70,
+  " running into lots of different challenges and I was finding out all the limitations of the existing software. And I thought, you know, it'd"
+ ],
+ [
+  40,
+  78,
+  " be great if I can build these sort of custom sales automations to really supercharge our go to market."
+ ],
+ [
+  40,
+  84,
+  "But I hope Spot wanted to charge me about 45 k a year. So I thought, you know, this is this is quite pricey. You know, I don't know, like, a"
+ ],
+ [
+  40,
+  92,
+  "s much as I love these, like, sales automations, I don't know if I love them that much. And I think also it's sort of, there was a, like, a "
+ ],
+ [
+  40,
+  100,
+  "broader set of problems, which is like the CRMs, have lots of problems. So they're not that good. They're pretty expensive, and they're not "
+ ],
+ [
+  40,
+  107,
+  "customizable."
+ ],
+ [
+  40,
+  108,
+  "And as well as though they're not built for sort of the the age of AI. And ultimately, wanted some AI automation, but I also wanted to custo"
+ ],
+ [
+  40,
+  116,
+  "mize, the software and centralize my data. And these are the kinds of things I wanted with AI automation. So things like I wanted to find ne"
+ ],
+ [
+  40,
+  125,
+  "w clients. Once I had these clients, I wanted to research them. I wanted to find their contact information."
+ ],
+ [
+  40,
+  131,
+  "I wanted it, like, the ability to analyze communications, so, you know, things like emails and texts. I wanted to AI to keep detailed notes "
+ ],
+ [
+  40,
+  139,
+  "on the client, and also to send emails. And these are some examples of of the kinds of workflows I'm talking about. So, you know, you might "
+ ],
+ [
+  40,
+  146,
+  "take a client, go research them, and then assess to the extent to which this is a good client to contact. We also have things like, you know"
+ ],
+ [
+  40,
+  154,
+  ", oh, I want to find the contact information, then write a cold email and schedule a series of follow ups over the next two months."
+ ],
+ [
+  40,
+  161,
+  "Or I wanted to have it so that I can connect into my email. And when I get an email, I analyze the email and then maybe take a series of ste"
+ ],
+ [
+  40,
+  168,
+  "ps. So maybe I update the status of the client. Maybe I schedule an action in the future, so maybe a follow-up email. Maybe I store sort of "
+ ],
+ [
+  40,
+  176,
+  "key takeaways from that email, or, you know, a three schedule action. Clearly, I'm really I'm really wanting to schedule actions. Or as well"
+ ],
+ [
+  40,
+  183,
+  " as that, I I thought it would be really useful to be able to customize and centralize,"
+ ],
+ [
+  40,
+  188,
+  "my data. So things like adding custom features or custom fields, and centralizing the data source and relates that at the ability to build A"
+ ],
+ [
+  40,
+  195,
+  "I agents. So AI agents perform best when all the data is easily accessible in one place. Whereas if it's sort of scattered across Airtable a"
+ ],
+ [
+  40,
+  203,
+  "nd Excel and then Google Docs and so on, it's hard for the agent to access that data. And then as a result, it's hard for the agent to be ve"
+ ],
+ [
+  40,
+  210,
+  "ry effective and to effectively work autonomously."
+ ],
+ [
+  40,
+  213,
+  "And lastly, deeper integration. So like things I thought might be very interesting is like the ability to connect to my bank account and get"
+ ],
+ [
+  40,
+  221,
+  " sort of real time analytics and sort of match up transactions to different customers and so on, instead of reconciling everything manually."
+ ],
+ [
+  40,
+  228,
+  " So this is sort of a quick example of, what the Microdoc CRM looks like. And a lot of the benefit of the CRM is actually in the background."
+ ],
+ [
+  40,
+  236,
+  " So I haven't spent that much time on the user interface, but, this is sort of like high level overview and that, like, you have, dashboard,"
+ ],
+ [
+  40,
+  244,
+  " that there's a place to analyze emails."
+ ],
+ [
+  40,
+  246,
+  "You know, you can view individual contacts and so on. But I think what would be really interesting is to sort of, like, build a repeatable p"
+ ],
+ [
+  40,
+  254,
+  "rocess that everyone can use. So, as sort of a case study, I'm gonna be running like a quick consultation for the edge team to show show the"
+ ],
+ [
+  40,
+  262,
+  "m how they can build their own AI CRM. This one is free, you know, next one, you know, you're gonna have to negotiate. So, broadly speaking,"
+ ],
+ [
+  40,
+  269,
+  " I think, there's a three step plan that I found really effective."
+ ],
+ [
+  40,
+  273,
+  "So the first is you want to decide on the data structures. The second is you want to plan out the workflows. And third, you want to use AI t"
+ ],
+ [
+  40,
+  280,
+  "o implement. And there's been loads and loads of talks over the past two weeks on how to use AI to code. So I'm not gonna spend too much tim"
+ ],
+ [
+  40,
+  287,
+  "e on it here. But, like, you know, I'll go into it later, but even, no code tools or low code tools are really effective as well. So a cavea"
+ ],
+ [
+  40,
+  294,
+  "t before I get into it is that this approach, like, can be much more effective and much more powerful than building, like, a the the using s"
+ ],
+ [
+  40,
+  302,
+  "ort of a generic piece of software like HubSpot, but there are cons. So you introduce, like, risk of bugs. So if, the software isn't working"
+ ],
+ [
+  40,
+  309,
+  ", there's an onus on you as the organization to figure out how to solve those bugs."
+ ],
+ [
+  40,
+  313,
+  "There's also security things to be concerned about. So because you're now managing the data in house, you don't wanna leak leak a lot of, li"
+ ],
+ [
+  40,
+  320,
+  "ke, very cost, sensitive, you know, sponsorship information or whatever it is. And there's also added maintenance work and things like that "
+ ],
+ [
+  40,
+  327,
+  "where if you want to evolve the platform or add features. So those are just the caveats at the top, but I I I found it good in my experience"
+ ],
+ [
+  40,
+  334,
+  ". So in the case of Edge, the the thing you want to start with is, you know, what data does your business deal with? So in the case of Edge,"
+ ],
+ [
+  40,
+  340,
+  " it might be, you know, that there's a series of Edge City events that happen, throughout the year, And there's also a series of Edge City l"
+ ],
+ [
+  40,
+  347,
+  "ocations. Maybe there's some participants as volunteers,"
+ ],
+ [
+  40,
+  350,
+  "sponsors, but as well as that, you know, one sponsor might give many sponsorships. So maybe you want a separate way to manage, you know, whi"
+ ],
+ [
+  40,
+  358,
+  "ch sponsor corresponds to which, like, dollar amount. Maybe you want to keep track of correspondence and so on. So to start with, an AI can "
+ ],
+ [
+  40,
+  365,
+  "be really effective with this to just ask, you know, I'm, I'm running this business called Edge or whatever it's called. I want you to ask m"
+ ],
+ [
+  40,
+  373,
+  "e 20 clarifying questions about the business to help me figure out what data I deal with."
+ ],
+ [
+  40,
+  378,
+  "And once you have this data, it can be helpful to visualize it, in different ways. So this is using a mermaid diagram. But the idea is that "
+ ],
+ [
+  40,
+  385,
+  "you have this data, but also the data has relationships with each other. So for instance, like you have the sponsorship, but also maybe the "
+ ],
+ [
+  40,
+  392,
+  "each sponsor cars like, they might have multiple transactions. So you want to a a way to sort of map that relationship. But it also might be"
+ ],
+ [
+  40,
+  399,
+  " the case that a sponsor might be attached to a company. So for example, like an individual sponsor might be associated with Ethereum or Lis"
+ ],
+ [
+  40,
+  406,
+  "k and so on. So you want to wait to to manage that relationship."
+ ],
+ [
+  40,
+  409,
+  "But also maybe a company is is mapped to an individual person, and maybe that person is tied you know, the person is tied to a specific even"
+ ],
+ [
+  40,
+  417,
+  "t or multiple events. So the idea is that you want to be very clear about what are the fundamental piece of data in your business and how do"
+ ],
+ [
+  40,
+  424,
+  " how do they relate to each other. And I find that spending a lot of time at this stage helps you avoid a lot of, headaches down the road. A"
+ ],
+ [
+  40,
+  432,
+  "nd yeah. That's it."
+ ],
+ [
+  40,
+  433,
+  "Yeah. And it's like just work with AI to figure this stuff out, and then think about the ways in which the data interacts. And AI can be rea"
+ ],
+ [
+  40,
+  440,
+  "lly in like, really helpful for asking you good questions to help you extract what's in your head and put it down on the page, but also can "
+ ],
+ [
+  40,
+  446,
+  "be really good suggesting things like, you know, did you given what we know, did you think about this? Or, you know, is it possible that, li"
+ ],
+ [
+  40,
+  453,
+  "ke, this relationship should be mapped in the database and so on? So once you have the data, you then move on to workflows. So what are the "
+ ],
+ [
+  40,
+  459,
+  "common things that your business does? So, like, does it send out invoices or does it manage you know, does it send out reminder emails or d"
+ ],
+ [
+  40,
+  466,
+  "oes it send out, you know, whatever it is. So so, like, every business will be different. So this is why this sort of generic piece of softw"
+ ],
+ [
+  40,
+  472,
+  "are like HubSpot"
+ ],
+ [
+  40,
+  473,
+  "don't sort of perfectly match people's businesses because they've designed designed for everyone. But think about, you know, what is it that"
+ ],
+ [
+  40,
+  480,
+  " your business does on a day to day basis? So in the case of Edge, it might be, you know, you want to send a thank you email to all the spon"
+ ],
+ [
+  40,
+  488,
+  "sors two weeks after Edge finishes. Or it's like you want to find a list of people that have, like, list of Ethereum sponsors on LinkedIn, y"
+ ],
+ [
+  40,
+  495,
+  "ou want to send them a customized,"
+ ],
+ [
+  40,
+  497,
+  "personalized cold email. And then you want to think about, okay, we have these, you know, maybe it's ten, fifteen, 20 different workflows. Y"
+ ],
+ [
+  40,
+  504,
+  "ou want to think about what are the common bits between each workflow. So in the previous example where we send we're sending emails, it mig"
+ ],
+ [
+  40,
+  510,
+  "ht be the case the first we determine the audience. So, you know, maybe use the LinkedIn API or we use the sponsor database. We figure out s"
+ ],
+ [
+  40,
+  517,
+  "ome way to figure out like who we should be sending this email to. The second stage is we write the email. So in the, you know, in the case "
+ ],
+ [
+  40,
+  524,
+  "of the reminder email or the thank you email, it might be like a template where you leave like a spot for their name to go. But in the secon"
+ ],
+ [
+  40,
+  530,
+  "d case, it might be AI writing the email. And third case, you send the email. So, you know, it might be in the future, it might be immediate"
+ ],
+ [
+  40,
+  537,
+  "ly, it might be a series of emails over time."
+ ],
+ [
+  40,
+  539,
+  "But ultimately, like, based on what we're talking about, like, this sounds like we should build, like, a campaign manager or like an email c"
+ ],
+ [
+  40,
+  546,
+  "ampaign manager. And I think that like the the sort of feature you build to to generalize over the workflows that you want to have will depe"
+ ],
+ [
+  40,
+  553,
+  "nd case to case. So like an email manager might work here, but there's some caveats as well. So like some features are really not worth rein"
+ ],
+ [
+  40,
+  561,
+  "venting and there's like really great businesses that like focus exclusively on the really hard bits. So for like for example, in the case o"
+ ],
+ [
+  40,
+  568,
+  "f Microdoc, we, use two features around our email sending. We use a thing called warm box, which sort of warms up our inbox that when we sen"
+ ],
+ [
+  40,
+  575,
+  "d emails, we improve delivery deliverability rates. We also use zero bounce, which checks the email that we're sending to to make sure it's "
+ ],
+ [
+  40,
+  582,
+  "a valid email so our email doesn't bounce and we improve deliverability rates. And like, it'd be ridiculous to go try building these because"
+ ],
+ [
+  40,
+  589,
+  " like those like require really, really hard infrastructure to build and it's just not worth my time. But I think all businesses should focu"
+ ],
+ [
+  40,
+  596,
+  "s on the thing that they're best at and they shouldn't spend too much time on the things that like are are not worth their time. I think in "
+ ],
+ [
+  40,
+  604,
+  "these cases, it's not worth reinventing those."
+ ],
+ [
+  40,
+  606,
+  "And I think the the way I sort of think about it is like sort of a two act sort of, across two axes. But like if there's a workflow that hap"
+ ],
+ [
+  40,
+  613,
+  "pens every single day, you should probably build a custom feature for that. So for example, if it's like adding a new sponsor to the databas"
+ ],
+ [
+  40,
+  621,
+  "e, you should probably just like add a an add sponsor button instead of, you know, instead of like buying an external service. But if it's a"
+ ],
+ [
+  40,
+  628,
+  " case that like it's a super complex thing that you use often, so for example, checking if an email is valid, you should probably use a thir"
+ ],
+ [
+  40,
+  636,
+  "d party service for that."
+ ],
+ [
+  40,
+  637,
+  "But if it's a really complex thing and if it only happens once or it happens maybe two times a year, you should probably just build a one of"
+ ],
+ [
+  40,
+  644,
+  "f piece of code for that. I don't think it's worthwhile investing time to figure out how to build this into a really nice feature when the r"
+ ],
+ [
+  40,
+  650,
+  "eality is like you should just let the AI write the code itself. And then last, it's like if it doesn't happen that often and it's not very "
+ ],
+ [
+  40,
+  657,
+  "complex, you should probably just do it manually or, you know, build a simple feature for that."
+ ],
+ [
+  40,
+  661,
+  "So you have the data structures and you have the workflows. So, you know, what do you do next? So I think what can be really helpful, and th"
+ ],
+ [
+  40,
+  668,
+  "is is something that I actually didn't do, but I wish I did in hindsight, was use an open source piece of software, like an open source CRM."
+ ],
+ [
+  40,
+  676,
+  " And I tried to sort of reinvent everything from the ground up, and that was like a bad idea. Because what I end up happen what end up happe"
+ ],
+ [
+  40,
+  683,
+  "ning was like I just reinvent from first principles everything that was already in the software."
+ ],
+ [
+  40,
+  688,
+  "And then looking back, I was like, you know, why did I bother why did I put myself through that? So I think that that's one thing that can r"
+ ],
+ [
+  40,
+  695,
+  "eally be helpful as a starting point for me to build on. Other thing in like I mentioned before is, like, try keep everything very, very sim"
+ ],
+ [
+  40,
+  703,
+  "ple, and add complexity, like, naturally. So, like, similar to, like, the not reinventing the wheel, like, start with sort of, like, very ba"
+ ],
+ [
+  40,
+  710,
+  "sic features and see how you can, like, put together your data in a way that makes sense for you,"
+ ],
+ [
+  40,
+  715,
+  "instead of like, trying to make things too complex. As well as that may around making code changes, people have spoken a lot about this, but"
+ ],
+ [
+  40,
+  723,
+  " using platforms like Lovable or Replit can be good. Or if you're if you're a bit more tech savvy or if you the people on your team that are"
+ ],
+ [
+  40,
+  731,
+  " bit more tech savvy, using things like Cloud Code and Cursor and Codex Web can be really helpful to make code changes. In terms of hosting,"
+ ],
+ [
+  40,
+  739,
+  " I think, hosting on something like Vercel can be very solid."
+ ],
+ [
+  40,
+  743,
+  "Again, it's like you want to pick something that has no headaches. So Vercel provides a very, like, headache free streamless experience. And"
+ ],
+ [
+  40,
+  751,
+  ", like, there are ways to save, $2 each month with like a custom implementation, but the time it takes to set up and maintain is just not wo"
+ ],
+ [
+  40,
+  758,
+  "rth it. So I think the team throughout this is just like you want to, pick things that are are sort of like the least headache y as possible"
+ ],
+ [
+  40,
+  766,
+  ". So, yeah, I guess that that's, like a very sort of quick crash course on on the workflow that I use to build the CRM."
+ ],
+ [
+  40,
+  772,
+  "I can give a quick demo of the edge the rough edge CRM that I built. But I think that, like, it'd be most helpful if, like, people sort of d"
+ ],
+ [
+  40,
+  779,
+  "rove the discussion as as they see fit. So if there's, like, specific things that you're thinking about or, like, specific questions that yo"
+ ],
+ [
+  40,
+  786,
+  "u have, I'd I'd love to hear them. So, yeah, I'll I'll do a very, very brief demo, and then we can move on to a couple questions. So, yeah, "
+ ],
+ [
+  40,
+  793,
+  "I guess that this is sort of like a broad dashboard of, there's nothing in there yet. But the idea is that, like, you can populate things ov"
+ ],
+ [
+  40,
+  801,
+  "er time. So if it's the case, for example, that you wanted to add the ability to, you know, use the LinkedIn API, you can, you know, give th"
+ ],
+ [
+  40,
+  808,
+  "e LinkedIn API or you can give the AI agent, coding agent access the LinkedIn API. And you can add a button that says, you know, I wanted to"
+ ],
+ [
+  40,
+  815,
+  " pull in all the data from LinkedIn and so on. So the idea is that, like, so really your imagination is the limit, and you're able to adapt "
+ ],
+ [
+  40,
+  822,
+  "this software over time as you see fit."
+ ],
+ [
+  40,
+  824,
+  "So yeah. Is there any questions or yep. I think you can go do it as you as you go and adjust."
+ ],
+ [
+  40,
+  862,
+  "Like, I'm even finding with with my Microdoc CRM that it evolves over time depending on sort of the new challenges that come with each each "
+ ],
+ [
+  40,
+  869,
+  "sort of level of the business. I guess that, it can be really helpful to to start and try get them as right as possible to begin with. So, l"
+ ],
+ [
+  40,
+  876,
+  "ike, if you find that no code helps you better visualize things, I think that's a great idea. I often find that, like, even a pen and paper "
+ ],
+ [
+  40,
+  884,
+  "can be really good. So, like, even to just list out all the piece of data that the business works with and then sort of, like, write arrows "
+ ],
+ [
+  40,
+  891,
+  "between the thing. So things like, you know,"
+ ],
+ [
+  40,
+  893,
+  "with, like, with Edge City, example, there might be the cases like Edge City Esmeralda, but that might happen, you know, every single year. "
+ ],
+ [
+  40,
+  901,
+  "So you want maybe one Edge City Esmeralda, location, but then you maybe want, like, multiple ways, to reference that location from all the v"
+ ],
+ [
+  40,
+  908,
+  "arious events that happened over the years. And then AI can take care of a lot of that abstraction. So once you have the relationships and y"
+ ],
+ [
+  40,
+  916,
+  "ou have the data, AI is usually pretty good at picking out, like, what are like, how does this translate into code?"
+ ],
+ [
+  40,
+  922,
+  "So yeah. I have built stuff with the Slack"
+ ],
+ [
+  40,
+  949,
+  "API. So, there's sort of a Slack bot that has access to the CRM. So I'm able to ping that from Slack. I guess the thing I like about Slack i"
+ ],
+ [
+  40,
+  956,
+  "s that, I think, like, again, like Slack is a you know, it does seem on the surface like it's it's a piece of software that, like, shouldn't"
+ ],
+ [
+  40,
+  963,
+  " be like, it's probably not that worthwhile. But I think, again, it comes back to the headache question where, like, I like the ability to, "
+ ],
+ [
+  40,
+  971,
+  "like, have Slack on my phone, for example, and get notifications."
+ ],
+ [
+  40,
+  974,
+  "And, like, to build all that infrastructure of, like, building an app and building notification infrastructure would just be like a headache"
+ ],
+ [
+  40,
+  981,
+  " I don't want. So I think about like, try to be strategic about, like, okay, is it like, I don't want that headache, but is there a way I ca"
+ ],
+ [
+  40,
+  987,
+  "n, like, integrate this into the main workflow? And I find that, like, giving like, having good APIs where you can, like, plug into the Link"
+ ],
+ [
+  40,
+  994,
+  "edIn API or plug into the Slack API and I'll bring it down to the same place means that once it's all in the same place, it's easy to action"
+ ],
+ [
+  40,
+  1001,
+  " and to use that information."
+ ],
+ [
+  40,
+  1002,
+  "Hi. Thank you for the talk. You mentioned at the beginning of the talk that it's better for agents if they have access to all the informatio"
+ ],
+ [
+  40,
+  1010,
+  "n in one place. And I've been building some agents that have, for example, access to some database which has dynamic data of the business. A"
+ ],
+ [
+  40,
+  1017,
+  "nd they also have access to some kind of knowledge base where you have the rest of the information that it's not needed in the database."
+ ],
+ [
+  40,
+  1025,
+  "And usually, it's a problem that, some questions I am talking about agents that attend customers, for example, like a customer service. Cust"
+ ],
+ [
+  40,
+  1035,
+  "omers make questions and their correct answer is split between the information in the database and the information in the knowledge base. An"
+ ],
+ [
+  40,
+  1046,
+  "d usually, this is a problem. This makes the responses to be very slow."
+ ],
+ [
+  40,
+  1051,
+  "What approach would you recommend for this kind of, structure? Would you recommend to try to dump the information in the database in some ki"
+ ],
+ [
+  40,
+  1060,
+  "nd of huge knowledge base or maybe change the database? Or is it this just the way it is? Yeah. I think there's probably, like, three things"
+ ],
+ [
+  40,
+  1070,
+  " there. So I think the first is, like, around"
+ ],
+ [
+  40,
+  1073,
+  "maybe four. So I think the first is, like, customer service versus like other kinds of AI automation. I think that customer service is like "
+ ],
+ [
+  40,
+  1081,
+  "a uniquely tricky problem in some way. Some ways in that like, it's essentially like a search problem. And in some ways, it's like a time se"
+ ],
+ [
+  40,
+  1088,
+  "nsitive search problem because maybe you have like a little pop up like at the bottom of your website and users can chat to it and they they"
+ ],
+ [
+  40,
+  1096,
+  " don't wanna wait fifteen minutes for like a simple question."
+ ],
+ [
+  40,
+  1099,
+  "So I think from that perspective, I I would generally use like external services for that. So I think that, like, that's a really hard probl"
+ ],
+ [
+  40,
+  1106,
+  "em to solve and I'd use something like Intercom, with their Fin AI agent instead of trying to build it in house. But when it comes to sales "
+ ],
+ [
+  40,
+  1114,
+  "and particularly email, the natural cadence of email is like it's quite slow. So, like, you wouldn't expect someone to respond within fiftee"
+ ],
+ [
+  40,
+  1121,
+  "n seconds if they get an email. So I think in a similar way, it's like because you have that extra time,"
+ ],
+ [
+  40,
+  1127,
+  "you can do deeper research. So I think that's the second thing. And then third thing might be like, if it's the case that the data is split "
+ ],
+ [
+  40,
+  1135,
+  "between your knowledge base and your, main database, maybe I try design, like, guardrails around the AI so that, like, it can only query dat"
+ ],
+ [
+  40,
+  1144,
+  "a related to that that organization or that that user, so that, like, you you prevent sort of data breaches."
+ ],
+ [
+  40,
+  1150,
+  "Or it might be the case that, like, you do find a way to sort of ingest the data to your knowledge database. And what I find also really hel"
+ ],
+ [
+  40,
+  1158,
+  "pful is, like, to to make them almost the same thing. So to just have, one, to let the agents choose, like, what it thinks is the appropriat"
+ ],
+ [
+  40,
+  1166,
+  "e place to look. And whether that is that a structured set of documents or it is the main main database, and they can sort of make that deci"
+ ],
+ [
+  40,
+  1175,
+  "sion."
+ ],
+ [
+  40,
+  1175,
+  "So, yeah, I'm not sure if that's a Yeah. Yeah. Thank you. Perfect. So, yes, there's any other questions. Oh, I I can go through a quick sort"
+ ],
+ [
+  40,
+  1186,
+  " of demo of how I think about maybe adding, the LinkedIn automation to the the Edge City CRM. Whereas any other questions, I'll have to answ"
+ ],
+ [
+  40,
+  1198,
+  "er them now. Yep. Do you also,"
+ ],
+ [
+  40,
+  1200,
+  "plug in something like, an automation builder like n eight n, or do you just do everything through AI in the back end of your CRM? Like, you"
+ ],
+ [
+  40,
+  1209,
+  " just don't bother with these external add ons? Any of them, it could be a good idea. I typically use, sort of like, background workers. So "
+ ],
+ [
+  40,
+  1218,
+  "using something like, BullMQ, for example, is like a a type of background back end worker or background worker."
+ ],
+ [
+  40,
+  1225,
+  "And the idea is that, like, you can schedule these tasks throughout the day. And I guess the benefit of this, again, is like you keep everyt"
+ ],
+ [
+  40,
+  1233,
+  "hing in one place. So it's easier for the AI to to work with those things. So, yeah, guess I can give a quick example of what that might loo"
+ ],
+ [
+  40,
+  1241,
+  "k like. So I don't know if they're hopefully, LinkedIn has an API. Well, I can use it. It's very difficult to do anything with a LinkedIn AP"
+ ],
+ [
+  40,
+  1249,
+  "I."
+ ],
+ [
+  40,
+  1249,
+  "Okay. Maybe we shouldn't pick LinkedIn then. They're they're very strict. Yeah. Yeah. Yeah. So they might require me to, like, go through lo"
+ ],
+ [
+  40,
+  1261,
+  "ts of loops. So I'll yeah. Let's build a sales email writer. So I might say something like, I and, again, using something like a text to spe"
+ ],
+ [
+  40,
+  1274,
+  "ech, we use for this. So,"
+ ],
+ [
+  40,
+  1276,
+  "I want to build a sales email writer. So the idea is that it will take, context about the, given prospect and write a detailed sales email b"
+ ],
+ [
+  40,
+  1291,
+  "ased on what we know about them. I want you to research in the"
+ ],
+ [
+  40,
+  1298,
+  "code base to find all relevant context and then report back with a plan. So, yeah, that might be sort of a a quick example of of what that l"
+ ],
+ [
+  40,
+  1309,
+  "ooks like. I think it'll work way in the background. So, yeah, I think that, in that case, while it's working away, unless there's any quest"
+ ],
+ [
+  40,
+  1320,
+  "ions, I'll probably probably wrap up. I'll yep. I'm not too sure. So you mean, like, paying the $2 a month or whatever it is? Or Yeah."
+ ],
+ [
+  40,
+  1330,
+  "Yeah. Yeah. Exactly. I haven't. But I think maybe they released a lower tier recently. Maybe not. Yeah. Is it more that you're looking to do"
+ ],
+ [
+  40,
+  1356,
+  " posts or you're looking to make queries to it? Yeah. I think,"
+ ],
+ [
+  40,
+  1367,
+  "yeah. I think it depends. So if it's the case that the like, it might be the case that, like, you need to eat the cost in the beginning. But"
+ ],
+ [
+  40,
+  1376,
+  " then it's if it's the case that, like, the $200 a month you spend on the API allows you to unlock maybe it's like a thousand dollars extra "
+ ],
+ [
+  40,
+  1385,
+  "per month of business you would otherwise wouldn't have gotten. And maybe it's like in the first three months, it's losing money, but then a"
+ ],
+ [
+  40,
+  1394,
+  "fter after month four,"
+ ],
+ [
+  40,
+  1395,
+  "you make more money than you do from the Twitter API. Yeah. I think they they had to lower it because people were not very happy. Yeah. Yeah"
+ ],
+ [
+  40,
+  1415,
+  ". So I think that that's probably,"
+ ],
+ [
+  40,
+  1420,
+  "I think that that that that's probably all for me. Unless unless there's any other questions, I'll I'll probably wrap up. So, yeah, I hope, "
+ ],
+ [
+  40,
+  1427,
+  "I hope you learned something about building an AI CRM, and I hope I I convince some people to to try it out. I think maybe one last note on "
+ ],
+ [
+  40,
+  1435,
+  "on AI CRMs is that, like, it can be a big investment. So, like, you you really want it to be sort of like a collaborative effort in your tea"
+ ],
+ [
+  40,
+  1442,
+  "m,"
+ ],
+ [
+  40,
+  1442,
+  "or like among the the the relevant people. Because what can often happen is like, you know, when you're switching to a new tool or building "
+ ],
+ [
+  40,
+  1449,
+  "a building a new tool, you can miss sort of, like, key features that mean that, like, and these features might seem very trivial. It's like "
+ ],
+ [
+  40,
+  1456,
+  "the ability to, print off a certain page or to generate a dashboard, but without those features that people won't don't wanna come over. So,"
+ ],
+ [
+  40,
+  1463,
+  " keeping in mind, like, what are the sort of minimal"
+ ],
+ [
+  40,
+  1466,
+  "agreeing amongst you? What are the minimal viable set of things you you need in the CRM in order to switch and then building those things? S"
+ ],
+ [
+  40,
+  1485,
+  "o yeah. Excellent. Thanks so much. I really appreciate everyone coming and, and"
+ ],
+ [
   41,
   0,
   "Alright. Aloha, everybody. Welcome to Edge City Patagonia. And I wanna show you how easy it is to join a guest link in the StreamYard studio"
