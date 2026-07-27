@@ -1,1 +1,1782 @@
-[]
+[
+ [
+  16,
+  0,
+  "So because I'm traveling, I did not prepare anything, you know, anything. So I'm just gonna speak of the cuff, but maybe you you can remind "
+ ],
+ [
+  16,
+  9,
+  "me of the topic. Sure. I'll I'll maybe provide some context as we start off, Michel. Then you can maybe riff or respond to that. Cool. So I'"
+ ],
+ [
+  16,
+  18,
+  "m told we're live now. Yeah. Yeah. So good afternoon,"
+ ],
+ [
+  16,
+  22,
+  "everyone. Welcome to this session, Cosmo Localism with Michel Bowens, hosted by the CPR, the citizenship protocols residency. My name is Sam"
+ ],
+ [
+  16,
+  31,
+  ". I'm one of the hosts of the citizenship protocols residency or CPR for short. We are one of the maybe a dozen residencies at H City Patago"
+ ],
+ [
+  16,
+  40,
+  "nia where we're all here today. There's about maybe 25, 30 people in the room right now."
+ ],
+ [
+  16,
+  46,
+  "And CPR is interested in futures of citizenship, borders, migration, visas. Maybe a number of us in this room had some challenges traveling "
+ ],
+ [
+  16,
+  55,
+  "to different parts of the world because of different challenges in visas. We're interested in what kinds of future solutions might emerge fo"
+ ],
+ [
+  16,
+  64,
+  "r those, what kinds of new collaborations and partnerships, protocols might emerge."
+ ],
+ [
+  16,
+  69,
+  "So very simple example that has affected some of us. DevConnect is being held in, Argentina for this year, and one of the special arrangemen"
+ ],
+ [
+  16,
+  77,
+  "ts that, they've been able to create to support the conference has been a DevConnect, sort of like visa expedited process where people apply"
+ ],
+ [
+  16,
+  85,
+  "ing for DevConnect from countries who might normally have a lot more steps for their visa have been able to actually, apply to a form that's"
+ ],
+ [
+  16,
+  93,
+  " made the process much smoother. So it's an example of a small hack that allows for those things. But, there's about a dozen residencies her"
+ ],
+ [
+  16,
+  102,
+  "e, and, many of them are also exploring things about, over the past weekend."
+ ],
+ [
+  16,
+  106,
+  "I met people from, South Africa, Bhutan, and Argentina, all exploring ways of starting new kinds of regenerative communities and projects co"
+ ],
+ [
+  16,
+  114,
+  "nnected, with the land. So we're talking about citizenship, which is one layer of how do people move around and are able to, like, live and "
+ ],
+ [
+  16,
+  121,
+  "connect with different places. But there's also some residencies here who are talking about how do we connect people with land locally where"
+ ],
+ [
+  16,
+  129,
+  " they are. We just had a talk, by the folks at Siberia talking about the project,"
+ ],
+ [
+  16,
+  133,
+  "in Bali, I believe, right, where they're thinking about how to grow permaculture in different ways. And cosmopolocalism is a topic that CPR "
+ ],
+ [
+  16,
+  141,
+  "is interested in, but we believe that also many of you are interested in because it's really about right here, in a way, through the magic o"
+ ],
+ [
+  16,
+  148,
+  "f cosmo connection through the digital cloud. Michelle's sitting in Chongqing, China, on basically the other side of the world, but we're ab"
+ ],
+ [
+  16,
+  156,
+  "le to connect and converse today because bits and digital stuff can go, through the cosmos."
+ ],
+ [
+  16,
+  161,
+  "But we're also very, like, physical, environmental beings. We currently can't eat bits yet. We have to eat atoms, ideally atoms in the confi"
+ ],
+ [
+  16,
+  169,
+  "gurations that are healthy, for us, and it requires connections with with soil and ecology and all those things. And that's a topic that sev"
+ ],
+ [
+  16,
+  177,
+  "eral residencies have been speaking about here as well. Right? So for those of you not familiar with cosmolocalism, Michelle will be able to"
+ ],
+ [
+  16,
+  185,
+  " tell us a bit more, but I'll my starting summary for this is, really,"
+ ],
+ [
+  16,
+  189,
+  "how do we keep the the light stuff, bits, digital, ideas, recipes, light and in the cloud. So a really good recipe or formula for how to do "
+ ],
+ [
+  16,
+  198,
+  "good agriculture can be digitized and shared with billions of people around the world. The folks at Siberia, we're just sharing some of the "
+ ],
+ [
+  16,
+  207,
+  "database of stuff that could be used in many different climates. But then you have to solve it locally. So the heavy stuff, how do we the th"
+ ],
+ [
+  16,
+  215,
+  "e atoms,"
+ ],
+ [
+  16,
+  216,
+  "growing a garden, moving around, like, supply chains, like, manufacturing things that are in three d. That has to be local. So cosmopolocali"
+ ],
+ [
+  16,
+  223,
+  "sm is a philosophy that tries to combine and bridge these both. And then in the in between, you have the question of, like, that maybe CPR i"
+ ],
+ [
+  16,
+  231,
+  "s more interested in, which is people. Are we light? Are we heavy? Right? It's a bit of both. Right? We it's easy for people, many of us, to"
+ ],
+ [
+  16,
+  238,
+  " be able to travel, but it's not so easy for many other people to travel. And, also, it's easy to travel for a week or two,"
+ ],
+ [
+  16,
+  245,
+  "but to stay and build routes for six months, three years, thirty years is a different kind of story. So how do we bridge and navigate these,"
+ ],
+ [
+  16,
+  253,
+  " together is part of the question we're confronting here. So I've spoken a bit about the group that's here. We've got about twenty, thirty p"
+ ],
+ [
+  16,
+  260,
+  "eople in the room here, Michelle. DevConnect is coming up in a couple weeks. The theme this year is Real World Ethereum, Ethereum's World Fa"
+ ],
+ [
+  16,
+  268,
+  "ir, and there's really a big interest across the ecosystem about how does all this really good technology,"
+ ],
+ [
+  16,
+  274,
+  "begin to become real world experiences, which is something that I think, maybe cosmopolitanism and some of your research also speaks to. And"
+ ],
+ [
+  16,
+  284,
+  " we have quite a global group here as well. So, maybe that touches to that. And I think, Amemet, do you have some other seeds to plant as we"
+ ],
+ [
+  16,
+  294,
+  " set this up? Just wanna thank you, Michel,"
+ ],
+ [
+  16,
+  297,
+  "for your busy timeline and you joined us. And, you also talk about about cosmolocalism. And most of you know Michel Bowens. I want a small i"
+ ],
+ [
+  16,
+  307,
+  "ntroduce about him. He is founder of p two p foundation, and he's a pioneer of cosmonocolism idea. And, Michel, I think floor is yours, and "
+ ],
+ [
+  16,
+  317,
+  "we have around one hour. After thirty minutes, we can go to q and a sessions."
+ ],
+ [
+  16,
+  323,
+  "Yeah. Sure. Thank you. Yeah. If you have questions, you want calibration on, happy to provide a sounding board sense check from this side as"
+ ],
+ [
+  16,
+  335,
+  " well. Alright. So so I understand I have thirty minutes. Right? Thirty minutes. Yes? Yes. Yeah. So alright. Well, let me just give you a bi"
+ ],
+ [
+  16,
+  347,
+  "t of context. So"
+ ],
+ [
+  16,
+  348,
+  "so I'm I live in Chiang Mai Northern Thailand, but I'm presently in Chongqing, and I'm doing a five week trip in China. So I've been to Kunm"
+ ],
+ [
+  16,
+  359,
+  "ing. And after Chongqing, I will go to Wuhan, to Nantang, a big agricultural cooperative with the DAO. I will go to Pingnan, another rural"
+ ],
+ [
+  16,
+  370,
+  "co op with the DAO, and then Shanghai, Shenzhen, Hong Kong. And my the trip the aim of my trip is really to, you know, visit grassroots comm"
+ ],
+ [
+  16,
+  381,
+  "unities and look at the peer to peer situation here in in China. So cosmolocalism, one of the questions that asked that was act actually ask"
+ ],
+ [
+  16,
+  391,
+  "ed when I'm talking to people here is, you know, what what is the difference between cosmo localism"
+ ],
+ [
+  16,
+  399,
+  "and globalization? Because haven't we been global already '34 my answer was the following. Localization is really the condition we are all i"
+ ],
+ [
+  16,
+  411,
+  "n and in a way it's what Sam described in the beginning. We are physical beings. We have a body, so we are somewhere that's inevitable."
+ ],
+ [
+  16,
+  423,
+  "So that's that's the local parts. But our brain today is basically everywhere. Right? So that's the difference. We have body that is local, "
+ ],
+ [
+  16,
+  436,
+  "but we participate in mind communities and, you know, the word newest fear is often used for that now. So we have the the bios the geosphere"
+ ],
+ [
+  16,
+  449,
+  ","
+ ],
+ [
+  16,
+  449,
+  "the sphere of that matter. We have the biosphere and then we have the newest sphere. And the newest sphere is what we have created with our,"
+ ],
+ [
+  16,
+  458,
+  " basically, digital networks, the capacity for our brains to be connected and for knowledge to be exchanged. So that's like a general condit"
+ ],
+ [
+  16,
+  466,
+  "ion. I don't think anyone on the on the planet can escape this nowadays, you know, maybe some very isolated"
+ ],
+ [
+  16,
+  473,
+  "mountain communities or, you know, natives. There's an island in Thailand where they still chase away all the foreigners. But anyway, so in "
+ ],
+ [
+  16,
+  485,
+  "general, it's it's a generic condition. So how is cosmologicalism different? And it's different because it's supposed it's a it's a positive"
+ ],
+ [
+  16,
+  497,
+  " program. It's actually a theory,"
+ ],
+ [
+  16,
+  500,
+  "an offering to change the world. And so that requires maybe some explanation about geopolitics. So I think today they are like, you know, we"
+ ],
+ [
+  16,
+  512,
+  " have a depth of ideology and so we we basically have a kind of a polarization today between well, it's often called the West and the rest. "
+ ],
+ [
+  16,
+  524,
+  "So we have, you know, Western polarity"
+ ],
+ [
+  16,
+  527,
+  "around democratic nation states. And I think it's not entirely difficult to say that the system is in is in crisis. And then if you believe "
+ ],
+ [
+  16,
+  542,
+  "in multi polarity in this kind of change in geopolitics, you could say there's, like,"
+ ],
+ [
+  16,
+  551,
+  "another polarity that is being created and that's basically led by countries like, you know, the BRICS, but especially China, Russia, India."
+ ],
+ [
+  16,
+  563,
+  " And in a way, they're already post was failing already because they all these three defined just today. So they they they believe they see "
+ ],
+ [
+  16,
+  575,
+  "the decline in the West as a kind of also a cultural dissolution"
+ ],
+ [
+  16,
+  580,
+  "and they want to avoid it. They want to put the brakes on that. And so they kind of reconnect with their older layers of spiritual tradition"
+ ],
+ [
+  16,
+  590,
+  "s and they kind of mixing this in a way. So you will notice that the West is still more market centric, but these other countries are more s"
+ ],
+ [
+  16,
+  600,
+  "tate centric. Right? They they have very strong states, very strong governments."
+ ],
+ [
+  16,
+  606,
+  "They control the markets much more. And so these are the two kind of kind of alternatives that that for geopolitical hegemony. And so it may"
+ ],
+ [
+  16,
+  619,
+  " sound ambitious, but I think because molecularism is an alternative vision to that kind of struggle"
+ ],
+ [
+  16,
+  629,
+  "and polarity between these two models. Because it kind of starts from, you know, this kind of digit digitally native awareness that we can u"
+ ],
+ [
+  16,
+  642,
+  "se the digital to transform the the the world order. So I'd like to say that civilization itself is a geographic notion."
+ ],
+ [
+  16,
+  654,
+  "It started in Mesopotamia when the people who lived in Egypt and Sumer, they said, okay. If we want to stay here and want to survive the flo"
+ ],
+ [
+  16,
+  664,
+  "ods, we need to manage nature. So essentially, I I so I would argue this civilization is very much linked to a geographic view of the world "
+ ],
+ [
+  16,
+  674,
+  "and a particular relation between the human and nature."
+ ],
+ [
+  16,
+  678,
+  "And we had distance. We had very fast fast and faster communications, but what we didn't have was asynchronous real time communication. And "
+ ],
+ [
+  16,
+  689,
+  "so this, in my view, changes thing. It creates a new layer, a non territorial layer on top of the geographic layer. And so that one of the t"
+ ],
+ [
+  16,
+  701,
+  "asks of this transition moment"
+ ],
+ [
+  16,
+  703,
+  "is to find how to adapt to this new reality. Right? So you could say that the these the two that were designed for a geographic era of civil"
+ ],
+ [
+  16,
+  716,
+  "ization are not entirely fit for an era where we have this this digital layer on top of it. And it it changes"
+ ],
+ [
+  16,
+  727,
+  "our human condition. And cosmologicalism to basically summarize its its basic principle, which is like a it's an imperative. It's a moral im"
+ ],
+ [
+  16,
+  738,
+  "perative if you like is what is heavy should be local and what is light should be global and shared. So this is very specific. It's it's bas"
+ ],
+ [
+  16,
+  750,
+  "ically"
+ ],
+ [
+  16,
+  750,
+  "the idea that we should combine a relocalization of our productive capacity with kind of an abandonment a conscious abandonment of strong IP"
+ ],
+ [
+  16,
+  764,
+  " of strong IP protections. Right? So these two things together is in my view what Cosmoloculim"
+ ],
+ [
+  16,
+  774,
+  "is about. So first of all, we should ask the question is why should we localize? And this of course is a issue, but I certainly belong to th"
+ ],
+ [
+  16,
+  785,
+  "e group of people who believe that we humanity is in overshoot so that we that we're using resources faster than that the earth can regenera"
+ ],
+ [
+  16,
+  796,
+  "te them and and recreate them. So, you know, think about a cup of you drink the coffee in a plastic cup. It takes, you know, a few million y"
+ ],
+ [
+  16,
+  806,
+  "ears to make oil under the grounds."
+ ],
+ [
+  16,
+  809,
+  "We pump it. We make it into plastic. We just send it around the world and we drink it in fifteen seconds. Right? So the discrepancy between "
+ ],
+ [
+  16,
+  819,
+  "our use of these resources in a very, very short time and the long, much longer time it takes to create these resources biophysically is an "
+ ],
+ [
+  16,
+  829,
+  "issue. So this is the idea is that we are in overshoot. And some of some of the elements of the overshoot is, for example,"
+ ],
+ [
+  16,
+  838,
+  "the calculation that we use NG to transport than to make. So this is a first argument for relocalization is the idea that by doing that, We "
+ ],
+ [
+  16,
+  856,
+  "can save and answer. And then you're saying closer to the point of need."
+ ],
+ [
+  16,
+  865,
+  "Not directly connected to cosmon localization, but certainly, a big part of my vision of cosmon localization is mutualization. And not just "
+ ],
+ [
+  16,
+  878,
+  "mutualization of the knowledge, but actually also, mutualization of physical resources. So there is a project that you can find the website "
+ ],
+ [
+  16,
+  891,
+  "of John Takara with a"
+ ],
+ [
+  16,
+  893,
+  "kind of a regenerative designer and or at least an observer of the space who lives in an English man in in France. And he talks about factor"
+ ],
+ [
+  16,
+  904,
+  " 20 reduction. Right? And he has a number of case studies where you he shows, for example, German city and I forgot the name of it, they rep"
+ ],
+ [
+  16,
+  916,
+  "laced their commercial fleets"
+ ],
+ [
+  16,
+  918,
+  "with cargo bikes and electric vans. And they obtained a 95% reduction in energy usage while maintaining the level of commerce. So just as mu"
+ ],
+ [
+  16,
+  935,
+  "ch transportation as before with with a 95% drop in the energy usage."
+ ],
+ [
+  16,
+  944,
+  "I can give you examples of city of Ghent where I I worked for the mayor in 2017. And there's a very big association for car sharing, so not "
+ ],
+ [
+  16,
+  955,
+  "Uber, but an association and there's also co op. Basically, you know, neighborhood blocks decide to diminish the number of individual cars."
+ ],
+ [
+  16,
+  966,
+  "And so one shared car replaces nine to 13 private cars. And if you know that we only drive cars 5% of the time, by having 10% of that number"
+ ],
+ [
+  16,
+  977,
+  ", you have a double reserve. And so basically, everybody can use the car whenever they need it. So you have no loss of personal liberty of g"
+ ],
+ [
+  16,
+  987,
+  "oing point to point,"
+ ],
+ [
+  16,
+  989,
+  "but you have diminished by an enormous substantial amount what you need in in terms of matter and energy. Now in the context, actually, you "
+ ],
+ [
+  16,
+  1000,
+  "know, just mentioning this because I'm here, China has a slightly different vision. Of course, they are have created a massive machine to do"
+ ],
+ [
+  16,
+  1011,
+  " very long transports."
+ ],
+ [
+  16,
+  1013,
+  "So they're they're not cosmological at all in that sense. But what is interesting in China is this kind of decision of, yes, we continue ext"
+ ],
+ [
+  16,
+  1026,
+  "racting but we renewable energy and a massive electrification of the country. Right? And so this is very interesting to see is that"
+ ],
+ [
+  16,
+  1038,
+  "the levels of pollutions that were, you know, very famous, for example, in Beijing have dramatically been reduced that they're greening the "
+ ],
+ [
+  16,
+  1048,
+  "deserts. There there's a green build around Beijing. Like here in Chongqing, which is a city of 40,000,000, all the motorcycles are electric"
+ ],
+ [
+  16,
+  1058,
+  ". A lot of the cars are electric as well. So it's quite impressive. But that's not cosmopolitanism, but it's still an interesting way of env"
+ ],
+ [
+  16,
+  1068,
+  "isioning this transformation."
+ ],
+ [
+  16,
+  1070,
+  "But so cosmopolitanism is about localization. But it's not, you know, what we did in the seventies, which is simply go back to the land. Rig"
+ ],
+ [
+  16,
+  1082,
+  "ht? Which does also form of capital and primitive means we we would be able to do that. By the way, this is still going on. There's a tenfol"
+ ],
+ [
+  16,
+  1093,
+  "d increase"
+ ],
+ [
+  16,
+  1094,
+  "of the number of eco villages in France the last ten years. I I was looking at something called Repobracion in Spain, which is the old Las I"
+ ],
+ [
+  16,
+  1105,
+  "ndias community working with the provincial government, if I'm not mistaken. And they're, you know, they're working on a re near realization"
+ ],
+ [
+  16,
+  1116,
+  ", which is, by the way, also happening here"
+ ],
+ [
+  16,
+  1119,
+  "in China. So there is something called the National Rural Reconstruction Movement. They some migrants who working in the cities and they hav"
+ ],
+ [
+  16,
+  1131,
+  "e their own buildings, they sell organic food and the cities to go back to the countryside. Maybe one more word about the eco villages. Why "
+ ],
+ [
+  16,
+  1143,
+  "are they growing so fast?"
+ ],
+ [
+  16,
+  1145,
+  "Because in abandoned villages or, you know, declining villages, like if you're familiar with France, the whole middle section, if you take t"
+ ],
+ [
+  16,
+  1155,
+  "hat that the highway is basically empty on both sides, you know, there's nobody's living there. So they're now giving land, leasing land to "
+ ],
+ [
+  16,
+  1164,
+  "eco villages at a very, very low prices. And so that kind of stimulates"
+ ],
+ [
+  16,
+  1169,
+  "this new realization. But because more localism, you know, is high-tech. Right? So it's about not just going back to the country, but it's a"
+ ],
+ [
+  16,
+  1181,
+  "bout using Guarduino. It's about using tech to have high productivity localization. This is also distributed manufacturing."
+ ],
+ [
+  16,
+  1192,
+  "Now this so far hasn't worked out that well. If you remember, maybe ten years ago, there was WikiSpeed, there was local motors, there was so"
+ ],
+ [
+  16,
+  1202,
+  "mething called arrival, you know, they had 2,000 engineers and they were making basically vans and buses for municipalities on based on on t"
+ ],
+ [
+  16,
+  1211,
+  "he idea of distributed manufacturing. So a set of global designs,"
+ ],
+ [
+  16,
+  1216,
+  "they had reduced the car making process from 750 process to 75 and even maybe lower. A physical platform and they can just make on demand. T"
+ ],
+ [
+  16,
+  1230,
+  "hat has been shown so far not to be economical. But so if you look at the geopolitical situation"
+ ],
+ [
+  16,
+  1240,
+  "and started with COVID, Europe discovered that it basically didn't have the capacity to make masks and this is the PPEs and and basically no"
+ ],
+ [
+  16,
+  1254,
+  "thing even the medication wasn't there. So the supply chain were disordered. And so now we have very strong geopolitical"
+ ],
+ [
+  16,
+  1266,
+  "tensions with the war in Ukraine and other other elements. And so we are entering a period of high risk in terms of supply chains. So I woul"
+ ],
+ [
+  16,
+  1278,
+  "d argue that the capacity for distributed manufacturing to be competitive is dependent on the health of the mainstream economy. So if we hav"
+ ],
+ [
+  16,
+  1289,
+  "e further degradation"
+ ],
+ [
+  16,
+  1291,
+  "of the mainstream economy, so in my view that would stimulate the livability of distributed manufacturing. And just to mention, a article th"
+ ],
+ [
+  16,
+  1306,
+  "at just appeared the cosign singularity. So cos the economists that argued around transaction costs between firms"
+ ],
+ [
+  16,
+  1318,
+  "and networks. And so the argument there is that AI is gonna be also the next factor to bring down transaction costs to the point where firms"
+ ],
+ [
+  16,
+  1333,
+  " become basically obsolete. And if you follow my work, you know, I used to be I"
+ ],
+ [
+  16,
+  1342,
+  "think they still exist. And last time I talked to them was about last year that we're growing in Brazil. Very interesting project that compl"
+ ],
+ [
+  16,
+  1352,
+  "etely redefined how to make, produce, make, and sell coffee. So these were two executives from the coffee industry and they asked themselves"
+ ],
+ [
+  16,
+  1362,
+  " in Brazil, why is it that we have the best coffee in the world,"
+ ],
+ [
+  16,
+  1366,
+  "but we have bad coffee and the people who make the coffee can't make a living. So how can we change that? So make good coffee while not expl"
+ ],
+ [
+  16,
+  1378,
+  "oiting the the the farmers that produce the coffee. Ecosystem where you know where the coffee comes from. This is called favorable trade. It"
+ ],
+ [
+  16,
+  1389,
+  "'s the fair trade because there's no intermediary NGO. It's direct from the producer."
+ ],
+ [
+  16,
+  1396,
+  "They designed a roasting machine that could be used locally and that's quadrupled the the income of the farmers. They haven't they had a ope"
+ ],
+ [
+  16,
+  1408,
+  "n coffee commons where they share the recipes. And then they did crowdfunded retail expansion. So they asked their community to invest"
+ ],
+ [
+  16,
+  1419,
+  "in retail in the in the rents of places where they could sell the coffee and then those investors got paid back in free coffee. And then the"
+ ],
+ [
+  16,
+  1428,
+  "y also hacked the Nescafe machine and various other things. And it was a really interesting project because it shows that you could actually"
+ ],
+ [
+  16,
+  1437,
+  " have a whole supply chain without any company. It was an ecosystem and not not a company."
+ ],
+ [
+  16,
+  1443,
+  "And if you're also familiar with parts of my work and especially my report called p two p accounting for planetary survival, I talk about al"
+ ],
+ [
+  16,
+  1452,
+  "l these new forms of accounting that are being used in this pioneering communities, which is contributory accounting, which is working at th"
+ ],
+ [
+  16,
+  1461,
+  "e core of the net networks and are not in touch with the market and still fund them. So public good funding in web three is an example of th"
+ ],
+ [
+  16,
+  1470,
+  "at. Global accounting,"
+ ],
+ [
+  16,
+  1471,
+  "three d accounting is called REA, resources events agents. And so instead of having, you know, two way accounting, you have basically a univ"
+ ],
+ [
+  16,
+  1481,
+  "ersal you use a universal ledger, the blockchain to have one accounting system for the whole ecosystem and beyond. And then the last part is"
+ ],
+ [
+  16,
+  1491,
+  " very important, which is thermodynamic accounting, which is a direct view of resources that we're using."
+ ],
+ [
+  16,
+  1498,
+  "And I heard here in China, I can't give you too much details yet, but there are apparently two pro accounting. So they they basically basica"
+ ],
+ [
+  16,
+  1512,
+  "lly not don't look at them just the money, but they actually look at the flows of matter and energy. And you may know that today,"
+ ],
+ [
+  16,
+  1524,
+  "officials here are judged not just on what they call common prosperity was basically GDP growth. So they judge on the capacity to grow the l"
+ ],
+ [
+  16,
+  1533,
+  "ocal economy, but they're also now judged on their ecological advances. So they have a double system. So that's that's really very interesti"
+ ],
+ [
+  16,
+  1543,
+  "ng. And this is the reason why I think China is actually attempting to be the first"
+ ],
+ [
+  16,
+  1548,
+  "biophysical civilization. And so cosmologicalism is about all of that. Right? It's about relocalizing to save matter and energy, but use hig"
+ ],
+ [
+  16,
+  1560,
+  "h-tech to be very productive. But it's also and I I kinda will end with this, a new way of thinking about organizing the world. So"
+ ],
+ [
+  16,
+  1571,
+  "we need to be regenerative. Right? Okay. How do we do that? By having local regenerative circular, you know, etcetera production. So how do "
+ ],
+ [
+  16,
+  1581,
+  "we organize this? Well, in two ways. One is bi regionally. So this means that only people doing different things to regenerate a region or i"
+ ],
+ [
+  16,
+  1591,
+  "n territory are in a network together in solid arity and common territory with each other. So they create, if you like, horizontal"
+ ],
+ [
+  16,
+  1601,
+  "mechanism of solidarity. But all the people doing the same things all over the world learn from each other cosmo locally. So if you like the"
+ ],
+ [
+  16,
+  1614,
+  " cosmo local aspect is the vertical aspect. And so if you're a local regenerative project, that means you have more than one option. One opt"
+ ],
+ [
+  16,
+  1626,
+  "ion is"
+ ],
+ [
+  16,
+  1627,
+  "an option, of course, is to, you know, work together with local officials who are much more concerned with the local situation and get maybe"
+ ],
+ [
+  16,
+  1636,
+  ", you know, all kinds of support and cooperation that you can get at the local level. But let's assume you have a hostile nation state or ev"
+ ],
+ [
+  16,
+  1646,
+  "en local administration. This is not the end of it. Right? You can actually now say, well, I'll have an alternative which is working because"
+ ],
+ [
+  16,
+  1655,
+  " more locally with all the other people who wants to achieve the same aim in the whole world."
+ ],
+ [
+  16,
+  1661,
+  "And so that's kind of like a way of thinking. So that's the way of thinking, if you remember what I said in the beginning, you know, the Wes"
+ ],
+ [
+  16,
+  1669,
+  "t versus the rest, the market centric versus the system state centric rivalry. You could say we have a third way and that is the way of the "
+ ],
+ [
+  16,
+  1678,
+  "archipelago of regenerative villages. Right? It's it's another way of looking at your development thing growth"
+ ],
+ [
+  16,
+  1684,
+  "by looking to grow trans local solidarity and trans local financing. So I participate in network state. This was my very short contribution "
+ ],
+ [
+  16,
+  1696,
+  "there is to basically argue that, yes, the network state movements is very important because it sees something, a new capacity,"
+ ],
+ [
+  16,
+  1707,
+  "you know, to create these new forms starting like digital native territories. I think that's a very imaginative and, you know, legitimate de"
+ ],
+ [
+  16,
+  1718,
+  "sire and new forms of sovereignty that can be developed. But right now, Web three has been basically code and capital. Right? We can coordin"
+ ],
+ [
+  16,
+  1728,
+  "ate labor, coding labor, and we can coordinate"
+ ],
+ [
+  16,
+  1732,
+  "its financing through capital. And capital needs code and code needs capital. And that is the success I think of Ethereum is to have found t"
+ ],
+ [
+  16,
+  1741,
+  "his kind of capacity to align incentives for for these groups. But it's it's still not connected. It's not connected to physical realities. "
+ ],
+ [
+  16,
+  1750,
+  "Right? So the network state is one one example to to work on that issue. It's like, yeah, we are we are embedded. We have a territory,"
+ ],
+ [
+  16,
+  1758,
+  "But I I think that's, you know, like a particular base because our localism is is saying we can connect places that are not close to each ot"
+ ],
+ [
+  16,
+  1769,
+  "her, but can still have a form of digital sovereignty, a form of digital cooperation. And if web three if web three which, you know, is an e"
+ ],
+ [
+  16,
+  1779,
+  "xit strategy to hedge"
+ ],
+ [
+  16,
+  1781,
+  "the expected failure of nation states. If they want to be, you know, long term, they need a connection with physical production communities."
+ ],
+ [
+  16,
+  1793,
+  " Right? So I argue, and this will be the end of my talk, I argue for an alliance between web three, its coordination capacity, and its capac"
+ ],
+ [
+  16,
+  1805,
+  "ity"
+ ],
+ [
+  16,
+  1805,
+  "to have access to these $5,000,000,000,000 that is floating as exit money in the world and investing this money locally to sustain and suppo"
+ ],
+ [
+  16,
+  1816,
+  "rt investment agent regeneration. And then you have this, basically, very strong connection of people. You know, this is Austin Wade Smith. "
+ ],
+ [
+  16,
+  1826,
+  "It says you have by regional guilds and those are the people who stay put and produce."
+ ],
+ [
+  16,
+  1833,
+  "And then you have the this with nomadic guilds. And these are the people who know the networks can learn from the different places and can s"
+ ],
+ [
+  16,
+  1841,
+  "hare their knowledge in the in the different physical nodes. And That's because monopolism for me. I I'm sure other people have different vi"
+ ],
+ [
+  16,
+  1850,
+  "sions. But as you see, it's it's a positive program. It's not just saying, you know, we're a global. You know, this is this is a way to"
+ ],
+ [
+  16,
+  1858,
+  "a proposition to reorganize our world. Thank you. Thank you, Michel, for sharing, your thoughts with us. And I have to say, despite the grea"
+ ],
+ [
+  16,
+  1873,
+  "t firewall, we have, the connection worked very well. And, who wanna start for our q and a sessions? Who wanna share first,"
+ ],
+ [
+  16,
+  1886,
+  "your thoughts and Do you have any questions? We can start. Yeah. You can come here and you can ask from there. Also, like, up there from, li"
+ ],
+ [
+  16,
+  1909,
+  "ke, a up there."
+ ],
+ [
+  16,
+  1911,
+  "Nah. Stay here. Thanks, Michel. So, talking about the third option. So the third option of cosmolocalism, I'm interested you laid it quite c"
+ ],
+ [
+  16,
+  1922,
+  "learly in terms of, practical micro level, actions in terms of developing these, regenerative villages. I'm interested in how do you see thi"
+ ],
+ [
+  16,
+  1934,
+  "ngs evolving more on a macro scale once this movement gains enough popularity"
+ ],
+ [
+  16,
+  1940,
+  "to interfere with options one and two? Yeah. I so so I think the the main vision that we have that I have is that the way to change the worl"
+ ],
+ [
+  16,
+  1958,
+  "d today is to constructive networks."
+ ],
+ [
+  16,
+  1962,
+  "Right? So I'm a big fan of Kojin Kharitani, the structure of world history. He says you have mode a, commoning and gifting, which is the val"
+ ],
+ [
+  16,
+  1973,
+  "ue exchange in in tribal tribal, civilizations or whatever you wanna call it, tribal societies. Then you have mode b, the state when you hav"
+ ],
+ [
+  16,
+  1983,
+  "e conquests and domination, and then you have mode c, the market."
+ ],
+ [
+  16,
+  1988,
+  "And civilization is mode b and mode c with these with these two, you know, polarities. Right? But mode d is a permanent attempt of the peopl"
+ ],
+ [
+  16,
+  1997,
+  "e to recreate mode a at a higher level because civilization is alienating. When you live in mode a, you are convivial, you live in small gro"
+ ],
+ [
+  16,
+  2006,
+  "ups, all the people around you are family, and then suddenly you're a slave, you serve, you're, you know, you know, you're a badly paid work"
+ ],
+ [
+  16,
+  2015,
+  "er, etcetera, etcetera, etcetera."
+ ],
+ [
+  16,
+  2017,
+  "So what is Modi today? The first attempt was world religion, the ethical religions to, know, basically civilize civilization and and and giv"
+ ],
+ [
+  16,
+  2028,
+  "e, you know, ethics to power. And when we stop believing with happens, which is, you know, let's take power and then we can change things. R"
+ ],
+ [
+  16,
+  2039,
+  "ight? And I think mode d as today, you know, of which I think cosmologicalism is a part is not necessarily contentious."
+ ],
+ [
+  16,
+  2049,
+  "It's it's about building. It's about constructing. It's about we're not waiting to take power. And so we'd and so I want to give you a very "
+ ],
+ [
+  16,
+  2060,
+  "paradoxical example because I'm here in China and I'm, you I'm meeting all these people. And you would think, you know, China, you know, it'"
+ ],
+ [
+  16,
+  2070,
+  "s relatively strong government and and, you know, some people would call it authoritarian."
+ ],
+ [
+  16,
+  2077,
+  "Paradoxically, precisely because it's that the only way here to do anything is to be peer to peer. Right? Because you don't wanna be a movem"
+ ],
+ [
+  16,
+  2087,
+  "ent with leadership. So people here who are change agents and wants, you know, permaculture done and organic agriculture and all kinds of th"
+ ],
+ [
+  16,
+  2097,
+  "ings, they are establishing peer to peer networks, which everybody's doing their thing and interconnecting"
+ ],
+ [
+  16,
+  2104,
+  "without necessarily having, you know, branding that makes them appear, you know, threatening in any way. Right? So that's a very interesting"
+ ],
+ [
+  16,
+  2117,
+  ", I think, aspects here in China where you have actually so many things happening, you know, even in in in in this particular context."
+ ],
+ [
+  16,
+  2129,
+  "So I think that's the way to approach local governments. I think politics is dangerous for us because let's say, you know, you're a lefty to"
+ ],
+ [
+  16,
+  2140,
+  " advance our calls. Well, what happens if you have a populist takeover or, you know, people actually elect them. Right? So, yeah, suddenly, "
+ ],
+ [
+  16,
+  2152,
+  "you no longer have any support."
+ ],
+ [
+  16,
+  2154,
+  "So I don't think that's a good strategy. The and what I've seen in Ghent, for example, where I did my study in 2017 is that people were tell"
+ ],
+ [
+  16,
+  2163,
+  "ing me we are working with the officials, the unelected officials of the city because their state. And we know precisely what people are for"
+ ],
+ [
+  16,
+  2173,
+  " and who people are and what people are against. And they said about 50% of the officials"
+ ],
+ [
+  16,
+  2179,
+  "support these common centric initiatives and we build relationships with them and they support us. They give us keys. They give us rooms. Th"
+ ],
+ [
+  16,
+  2188,
+  "ey give us, you know, all kinds of support. So I think this is this is how to approach it in a kind of positive way working with local offic"
+ ],
+ [
+  16,
+  2196,
+  "ials, you know, whoever they are, if they are sympathetic. And I think this is a good a good rule. The more local, the more interested they "
+ ],
+ [
+  16,
+  2205,
+  "are in the health of their of their territories. Right? The further up you go,"
+ ],
+ [
+  16,
+  2210,
+  "the more you have politicians who can play with regions and groups and can sacrifice one group in order to maintain power. But as you go dow"
+ ],
+ [
+  16,
+  2220,
+  "n, especially at the mayor level, you have people who, you know, they can see the unemployment. They can see the issues. So and they're real"
+ ],
+ [
+  16,
+  2229,
+  "ly interested in working with positive"
+ ],
+ [
+  16,
+  2232,
+  "people who are actually building the new and not necessarily, you know, in a threatening way, but they are actually enriching their locality"
+ ],
+ [
+  16,
+  2244,
+  ". So that's how, personally, I would see it as as the approach. Yeah. You, Michael. Related question. How do you imagine or or can you help "
+ ],
+ [
+  16,
+  2255,
+  "me understand what"
+ ],
+ [
+  16,
+  2257,
+  "the institutional architecture of this next, you know is this third option looks like? And it can be it can be also maybe primitives of it. "
+ ],
+ [
+  16,
+  2266,
+  "So for example, you know, rules move from lot to code or, you know, just primitives to help us understand what that institutional architectu"
+ ],
+ [
+  16,
+  2276,
+  "re looks like. So the first phase, of this change was the open source communities. And I have"
+ ],
+ [
+  16,
+  2282,
+  "a very particular view of how they were organized, as a as a as a trinity. So you have a change in the value model. Right? The traditional v"
+ ],
+ [
+  16,
+  2291,
+  "alue model is you extract, you create a commodity, which is rare that creates surprise. You have a market, you have a profit, and then and t"
+ ],
+ [
+  16,
+  2300,
+  "hen the state comes into tax the profits and we distribute. That's that's what we know under the nation state model. But if you look at the "
+ ],
+ [
+  16,
+  2309,
+  "open source economy, no. It's not like that. It's people contributing"
+ ],
+ [
+  16,
+  2314,
+  "to a common core And that creates a possibility for many entrepreneurs to create economic activity around that common core. And so they beco"
+ ],
+ [
+  16,
+  2324,
+  "me dependent on that common core. So you have community and you have an entrepreneurial coalition. And then because they have conflicts both"
+ ],
+ [
+  16,
+  2335,
+  " within the community within"
+ ],
+ [
+  16,
+  2337,
+  "the entrepreneurial coalition and between the coalition and the and the community of contributors, they create foundations. So that was the "
+ ],
+ [
+  16,
+  2346,
+  "model, of, the open source economy, which is very powerful. It's still there. You know, the Linux foundation, they're all still there. The D"
+ ],
+ [
+  16,
+  2356,
+  "rupal Association, the Apache, whatever it's called, I forgot."
+ ],
+ [
+  16,
+  2360,
+  "So these things are still there. And an open source communities are still creating those dynamics. So then you have the second model, which "
+ ],
+ [
+  16,
+  2368,
+  "is the crypto model. Right? And the crypto model is an answer to the problem of the first model, which is the people in the core couldn't ge"
+ ],
+ [
+  16,
+  2376,
+  "t money. So the and you have the entrepreneurial coalition and they, you know, they have market activities, but the people working for the c"
+ ],
+ [
+  16,
+  2384,
+  "ore open source infrastructure were were not paid or"
+ ],
+ [
+  16,
+  2387,
+  "or you needed IBM to step in. And so crypto in that sense is a huge advance because it has invented public good funding. So you are self inf"
+ ],
+ [
+  16,
+  2397,
+  "rastructure, you're self funding, and now the people are actually paid to do core open source work. And and then you have the incentives kin"
+ ],
+ [
+  16,
+  2407,
+  "d of alignments, which is I think the method of crypto."
+ ],
+ [
+  16,
+  2411,
+  "So I'm just observing that this is how it's happening. And, I think, you know, DAOs are interesting because they are like an integrating mec"
+ ],
+ [
+  16,
+  2424,
+  "hanism. You can do markets. You can have agreements with states and you can allow permissionless contributions."
+ ],
+ [
+  16,
+  2435,
+  "And it's like a meta governance idea. Now is it working very well? I'm I'm not sure yet. So actually, I don't have an answer. Right? I I jus"
+ ],
+ [
+  16,
+  2446,
+  "t observed that we are learning how to do this and I'm I'm not sure there is a model yet. And by but I we observe we see a bioregional movem"
+ ],
+ [
+  16,
+  2458,
+  "ent emerging with its own logic. We see web three emerging with its own logic, And now we need to find the link between the two."
+ ],
+ [
+  16,
+  2468,
+  "I think we we should be working on investment links. So we need Cosmo local financing. And you probably fall if you fall like me, just recen"
+ ],
+ [
+  16,
+  2478,
+  "tly, two really great examples was the Commons Hub Vienna. They want to buy a church. Didn't have enough means to do so. They did a crowd le"
+ ],
+ [
+  16,
+  2487,
+  "nding with 5% return on three, four, five years. I can't remember the details and they got it. And then the traditional dream factory did mo"
+ ],
+ [
+  16,
+  2497,
+  "re or less the same and they also got it. So we can see it starting. Right? We we we can see"
+ ],
+ [
+  16,
+  2503,
+  "the first attempts to the successful Cosmo local financing. And by region financing is also already happening. So we have the buyer by regio"
+ ],
+ [
+  16,
+  2514,
+  "n financing facility and the book by Sonata Power. So the and then we have recently, what is it called, the localism fund. So, yeah, it's mo"
+ ],
+ [
+  16,
+  2525,
+  "ving it's moving and it's too early to really answer your question."
+ ],
+ [
+  16,
+  2530,
+  "Hey, Mikhail. This is Patrick. I'm wondering what you see as the skill gap intermediaries between the cyber and the physical, particularly a"
+ ],
+ [
+  16,
+  2539,
+  "round, you know, what I extract from your example of the coffee manufacturing. You have this new utilization of open source capabilities to,"
+ ],
+ [
+  16,
+  2549,
+  " allow the primary creators to extract more vertical value."
+ ],
+ [
+  16,
+  2553,
+  "I also, on the other side, see there, like, a lot of, crypto nomads, like, having a, like, physical touch point with coffee every day. Is th"
+ ],
+ [
+  16,
+  2561,
+  "at somewhere being, you know, something that is kind of over indexed, whereby, like, you know, if you wanna, like, create a, like, hyper loc"
+ ],
+ [
+  16,
+  2569,
+  "al solar panel manufacturing, you know, nine out of 10 crypto people necessarily with their network distribution capabilities are not kind o"
+ ],
+ [
+  16,
+  2577,
+  "f sprinkling the, technical know how of, semiconductor manufacturing"
+ ],
+ [
+  16,
+  2581,
+  "to, like, localized, you know, bioregional areas. So how do how do you see that type of skill gap being bridged? Yeah. Yeah. So I I think th"
+ ],
+ [
+  16,
+  2590,
+  "ey there are different skills that need to be put together. So my my big critique, you know, like, for example, when I go to funding the com"
+ ],
+ [
+  16,
+  2600,
+  "mons in Bangkok and I'll see all these enthusiastic coders and then they say, oh, let's make software to connect"
+ ],
+ [
+  16,
+  2607,
+  "organic producers and organic consumers. And I'm thinking, oh god. There's 300 of them and they don't know it. Right? So I I think most of t"
+ ],
+ [
+  16,
+  2616,
+  "he funding now is, internal. It's coders having good ideas and then competing for public goods funding and grand rounds, but they're not con"
+ ],
+ [
+  16,
+  2626,
+  "nected. And so I think this is this is not the right way. What we need to do now is find a way to connect with already existing"
+ ],
+ [
+  16,
+  2634,
+  "communities on the ground who have the skills. They have their skills, permaculture skills, organic farming skills. They have them. They've "
+ ],
+ [
+  16,
+  2643,
+  "been doing this for, you know, ten, fifteen, twenty years, five years, but but they they have the skills. But they don't have coding skills."
+ ],
+ [
+  16,
+  2652,
+  " Right? And then you have the this coding community. So I don't know how to call this, but I think we need we need to change this mentality "
+ ],
+ [
+  16,
+  2662,
+  "of these two separate worlds. We need"
+ ],
+ [
+  16,
+  2664,
+  "coders to understand that the future is still depending on physical production, especially on regenerative physical production. And they sho"
+ ],
+ [
+  16,
+  2676,
+  "uld be going to these people. And I see Mehmet there, you know, in on my screen and okay. It's it's a beginning, but the"
+ ],
+ [
+  16,
+  2687,
+  "reason I like Zukash so much I'm just doing a bit advertising, Mehmet. Thank you. Is that this this was not a public village with people, li"
+ ],
+ [
+  16,
+  2696,
+  "ke, hovering over, you know, from the global to the local and then leaving again. No. These are people. They're embedded in cash. They know "
+ ],
+ [
+  16,
+  2706,
+  "everybody, not just in cash, but in the rest of Turkey. And so that's the that's the first step. Right? We need Oasis instead of just pop up"
+ ],
+ [
+  16,
+  2715,
+  " villages."
+ ],
+ [
+  16,
+  2716,
+  "And these Oasis, they know the people locally, so they also know who needs support, you know. And and so maybe, you know, these always is is"
+ ],
+ [
+  16,
+  2726,
+  " like the connecting tissue that we need to to have more of. So that when the nomads come to cash, they can also start connecting really loc"
+ ],
+ [
+  16,
+  2737,
+  "ally because they have the intermediary,"
+ ],
+ [
+  16,
+  2740,
+  "which is the local nodes like met the hub in cache. So we need more of these oasis who who can be connected to the local ecosystems. And the"
+ ],
+ [
+  16,
+  2750,
+  "se people have skills, you know, they have physical skills. They have craft they know crafts. They know many different things, but they don'"
+ ],
+ [
+  16,
+  2760,
+  "t know coding and vice versa. So let's let's put these two groups together."
+ ],
+ [
+  16,
+  2765,
+  "Actually, the same thing happening in h it's Patagonia. They have very well connected with local institutions also. That's also same thing h"
+ ],
+ [
+  16,
+  2775,
+  "appening here with bigger scale. And we have one more question from Telegram group. Sure. So, hi, Michelle. We have about five minutes left."
+ ],
+ [
+  16,
+  2785,
+  " So read out couple of two part question. I just wanna say hello to Shankar,"
+ ],
+ [
+  16,
+  2790,
+  "where I have the time before I forget. Yeah. Go ahead. Okay. So it's a two part question, we received digitally. First is role of digital no"
+ ],
+ [
+  16,
+  2798,
+  "mads, and connecting to these. Most digital nomads today tend to visit big global cities instead of regional or rural rural areas where rege"
+ ],
+ [
+  16,
+  2807,
+  "nerative work is happening. Can that be shifted? Could digital nomads broadly defined, be encouraged to connect more deeply with local commu"
+ ],
+ [
+  16,
+  2815,
+  "nities? And the second part is,"
+ ],
+ [
+  16,
+  2817,
+  "how does local wisdom become Cosmo shared? How do we can we effectively engage local communities that understand the local challenges and th"
+ ],
+ [
+  16,
+  2829,
+  "eir knowledge and make that shareable with the global Cosmo digital community, uploading and downloading local wisdom? Okay. What was"
+ ],
+ [
+  16,
+  2840,
+  "the first I want to answer the first part. Digital nomads connecting locally. How do digital nomads connect more locally Yeah. Instead of ju"
+ ],
+ [
+  16,
+  2850,
+  "st the big mega cities? Yeah. Okay. I have I have an idea for this. So I, you know, I used to work with the common strategies group. And wha"
+ ],
+ [
+  16,
+  2861,
+  "t we did for three, four years, maybe five"
+ ],
+ [
+  16,
+  2864,
+  "until 2018, we were funneled to do this. We had deep dives. And deep dives were meetings between two groups that didn't know each other. So "
+ ],
+ [
+  16,
+  2873,
+  "we brought together open hardware and free software. You you know, maybe you don't believe me, but these people didn't talk together. Unbeli"
+ ],
+ [
+  16,
+  2882,
+  "evable, but true. They didn't talk together. Then we brought the commons and the cooperatives. These people didn't talk together."
+ ],
+ [
+  16,
+  2890,
+  "The commons and ethical finance, these people didn't talk together. And by bringing these people together, you know, for four or five days j"
+ ],
+ [
+  16,
+  2898,
+  "ust to get let them talk and understand each of the position and language, Eighteen months later, we always had, like, five, six, seven diff"
+ ],
+ [
+  16,
+  2907,
+  "erent initiatives coming out of it. We we we didn't we didn't say what they should do. We just created the connection. Right? And a mutual u"
+ ],
+ [
+  16,
+  2915,
+  "nderstanding."
+ ],
+ [
+  16,
+  2916,
+  "And so I think, ideally, this is what I would like to do if I find funding. I would have, like, meetings about housing. Right? So bring toge"
+ ],
+ [
+  16,
+  2926,
+  "ther housing advocates using commons, you know, in different parts of the world and then bring them together with Web three people. And just"
+ ],
+ [
+  16,
+  2937,
+  " get to know each other. Like Yep. How can Web"
+ ],
+ [
+  16,
+  2940,
+  "three be used for housing? How can Web three be used for agriculture? Right? And create these connections. And I think if we do that over ti"
+ ],
+ [
+  16,
+  2949,
+  "me, we will create that culture where coders can begin to understand what the needs are of these groups. And don't forget the other side is "
+ ],
+ [
+  16,
+  2958,
+  "also prejudice. Right? There's there's all of prejudice in, you know, the green, more regenerative sector of the population against Web thre"
+ ],
+ [
+  16,
+  2967,
+  "e. A lot of people think they're scams and, you know, this and that."
+ ],
+ [
+  16,
+  2971,
+  "So by by bringing those people together, understanding that, you know, they're human beings with goodwill and ideals and understanding each "
+ ],
+ [
+  16,
+  2979,
+  "of the needs and and then compare the skills, I think yeah. So it's it's it's first culture work. We need to do this culture work of of brid"
+ ],
+ [
+  16,
+  2987,
+  "ging these different cultures. Cool. That's great. I think you've also answered the second question with that. Right? Which is how local gro"
+ ],
+ [
+  16,
+  2995,
+  "ups can then share their wisdom. And it feels like this, what you're describing as Cosmo local matchmaking. Yeah. Right? Can help to bridge "
+ ],
+ [
+  16,
+  3003,
+  "that gap. So if there's any funders or partners in the room, maybe we can explore that after this"
+ ],
+ [
+  16,
+  3009,
+  "session. And we'll we'll loop back with you, Michelle, when we have that. Okay. Yeah. Yeah. We do have another session in this room coming u"
+ ],
+ [
+  16,
+  3018,
+  "p, so we're gonna have to thank Michelle for this. Thank you very much. Maybe a round of applause. And Michelle is very reachable if you do "
+ ],
+ [
+  16,
+  3026,
+  "have questions for him. So I think that's it for today. Mehmet? Yeah. Cool. I just want to say yeah. I just want to say one thing. I'm doing"
+ ],
+ [
+  16,
+  3035,
+  " a diary on x."
+ ],
+ [
+  16,
+  3036,
+  "What's the thing? That's that's sign. Vowelinks in China with b I c in capital. And if you follow me, I I tell my story of what I encounter "
+ ],
+ [
+  16,
+  3043,
+  "here in China, and I think it's quite interesting what I'm discovering. But sorry sorry I interrupted you. No problem. So, yeah, if we can g"
+ ],
+ [
+  16,
+  3050,
+  "et the link, I will just share it with you, Paul. I will I will share it in the group. So, yeah, Mehmet's gonna share the link with you in t"
+ ],
+ [
+  16,
+  3057,
+  "he group. If you're not in the CPR group In the chat. Yeah. Look for look for chance."
+ ],
+ [
+  16,
+  3061,
+  "Okay. So that's it for today's session. If you're interested in these topics, we do have a CPR we're in Imagination Week where we're writing"
+ ],
+ [
+  16,
+  3069,
+  " fiction, we and have a session in about thirty minutes. Downstairs in the library, we'll be we'll like, writing experiment fiction, imagini"
+ ],
+ [
+  16,
+  3077,
+  "ng stories of, like, different experiments, maybe like cosmological matchmaking or digital passports that actually take life in the next fiv"
+ ],
+ [
+  16,
+  3085,
+  "e to ten years. If you're interested in making some stories with that, like, come look for us later. Thirty minutes,"
+ ],
+ [
+  16,
+  3092,
+  "01:30 in the library downstairs. Thank you all."
+ ]
+]
