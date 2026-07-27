@@ -1224,13 +1224,14 @@
     "id": "1NWpegTye1-XqlBv3IVqVBwlbioTgelUt",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1NWpegTye1-XqlBv3IVqVBwlbioTgelUt.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1NWpegTye1-XqlBv3IVqVBwlbioTgelUt",
+  "duration": "01:26:01",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "speakers": []
  },
  {
