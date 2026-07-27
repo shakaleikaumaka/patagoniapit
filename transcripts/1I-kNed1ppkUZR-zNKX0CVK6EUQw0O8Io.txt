@@ -1,0 +1,21 @@
+# Juan Reflections
+
+Date: 
+Source video: Juan Reflections
+Drive: https://drive.google.com/file/d/1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io/view
+Duration: 00:05:54
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Kind of the large long term grand vision. Because that way, can build a lot of credibility with a small little, smaller tool, and you can immediately see that, like, that's potentially already valuable for people. But then you can also connect it to something larger and larger and larger. It's kind of like when that gap is too big, it's difficult for people to understand, like, how this little tool might kind of really go and achieve the the grand vision that you're describing. Also, you know, strong rec for people to hyperfocus on,
+
+[00:27] you know, minimum viable products. So there really be you know, it takes a long time to build stuff, so you wanna be hyperfocused on the set of features that you're gonna have. Every additional feature that you add is something that could potentially break, something that could potentially, like, not have the best UX or whatever. So you wanna distill and narrow down on, like, what are the core essentials of what you need to have to be able to deliver that kind of, thread of impact, and you wanna polish the UX.
+
+[00:57] And just remember, like, four weeks might feel like a little time, but it truly is a long time. Some things have been built really, really quickly. JavaScript was built in ten days, like the first version, and that got shipped to the world and set in motion. I don't know. Lots of things for good or bad. UNIX was built in three weeks. Now granted, there was the many operating systems and
+
+[01:19] and and so on that people had worked on for many years to distill the ideas, but the actual first version took three weeks to distill those ideas into a working prototype. And Git, was also self hosting in three days. So so there's here are three examples of a range of ideas that people had thought about for quite a while, but then eventually distill down into something concrete, practical, and, and usable in a very short period of time. So four weeks, can be you know, even though it might feel very small, can be very significant to catalyze whatever you're thinking about into something that could, you know, be the start of something really big.
+
+[01:56] Cool. Thanks for sharing your all the stuff with us. Like, super, super cool and super exciting, and best of luck with with everything you're building. Sorry, Juan. I ran so ahead. I'm running ahead of my own time here. Fantastic. I just wanted to give a quick update. We are gonna head to dinner.
+
+[02:19] It is at a private venue. So I've sent you guys the addresses in your Google Calendars. If you can Uber over, let me know if I can assist you guys. And then I've got a very, very small favor to ask if we could take a group picture with you because I know we're not gonna have much of your time. Yeah. And if you could take it for us, it'd be great. And then I wanted to Cool. Thank you, and well done, everyone.
