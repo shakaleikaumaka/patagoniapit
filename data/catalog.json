@@ -1471,13 +1471,14 @@
     "id": "195IkTXcZ25Md2pQs4BprGtYT5itYDGsO",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "195IkTXcZ25Md2pQs4BprGtYT5itYDGsO",
+  "duration": "01:30:35",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO.jpg",
   "speakers": []
  },
