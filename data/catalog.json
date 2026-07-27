@@ -1646,13 +1646,14 @@
     "id": "1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P",
+  "duration": "01:18:58",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P.jpg",
   "speakers": [
    "Ethereum Inspiration"
