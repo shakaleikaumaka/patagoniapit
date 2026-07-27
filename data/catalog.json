@@ -140,13 +140,14 @@
     "id": "1431wcuGianhIV-YgBdYZPLh3SHbFKsOp",
     "kind": "audio",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1431wcuGianhIV-YgBdYZPLh3SHbFKsOp.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1431wcuGianhIV-YgBdYZPLh3SHbFKsOp",
+  "duration": "01:52:36",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "note": "Audio capture; the video version is also in the pit.",
   "speakers": []
  },
