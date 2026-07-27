@@ -1,0 +1,201 @@
+# VibeResidency Buildathon Kickoff!
+
+Date: 
+Source video: VibeResidency Buildathon Kickoff!
+Drive: https://drive.google.com/file/d/15KbpwFQc2suQDveCdIuvArOOhSnFzUfN/view
+Duration: 00:42:57
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Hello. Welcome, everyone. Feel free to come sit up front. We're so excited to have you at the kickoff of the Vibe Buildathon, and we're gonna show you a quick movie first. Alright. So I'm already loving the arcade, but the build a thon starts very soon.
+
+[00:23] And specifically at 3PM Argentina time, I want to make this look as awesome and cool and fun as possible. I'd love to see if we could get a countdown at the top of the arcade where Oh, gosh. So he's vibe coding and running if you can't tell.
+
+[00:55] The future of the Edge City is gonna be great. Okay. Amazing. Well, welcome everyone. This is the official kickoff of the Vibe Buildathon. This will be my first hackathon, so I'm super excited to experience it all with you here at, Edge. And, Jack has been to a few. Deka has been to many, many.
+
+[01:21] 30. Almost 30. But for me, my favorite part about organizing this is the overall structure of the event and, like, the system behind it. So we're really focused on wellness. So we'll be giving there'll be daily schedules in which we'll be pointing people in the direction of, like, a morning vibe run sesh with Jack. We'll have primal movement at Oz City residency.
+
+[01:45] We'll be outside. We're really focused, again, on, like, where we'll be spending our time while we're coding together. And then there will also be some programming. There will be a women's only vibe coding session run with Sofia from Cello, and there will be some other things that will be announced along the way. So super excited. And then also, this is co creation. So if there's something specific that you wanna see or you wanna host within
+
+[02:12] the, like, larger structure of the next five days, let us know. Okay. So here you have the the call to action. Everything happens inside at this link, edge.cherry.builders. And I'm just gonna show you quickly, what it looks like. Oh, it looks like we have some new people already.
+
+[02:38] Okay. So if you just go to edge.cherry.builders, first time it'll ask you to log in. And I encourage everyone in the room and everyone who's planning to participate in the build a thon to do this. So you'll, you'll be once you log in, you'll be redirected to the information page. So all of the events that Mariela has been mentioning
+
+[03:00] are right here. You've got the link to the social layer for each of them so you can add them to your calendars. And pay attention to the ones that are highlighted. We also include coworking space where you'll be able to collaborate, work together, get mentorship. And also, come back to this page because as you can see, there's there's still
+
+[03:24] more things to be added. So, again, this is a co creation effort. Some someone's been telling me about, oh, let's do a session about funky ways to use AI. Everyone has their own their own special ways to adopt it. So if you have an idea for a session that you think might be useful, please come to us. We'd love to know. Okay. Let's talk about the tracks.
+
+[03:47] So we've got three tracks. This is different from most, traditional hackathons that you might be, accustomed to because here, we're really trying to help each other shine and also leave some impact on the territory, on on the play this beautiful place where we are. So first track is a sponsor track.
+
+[04:10] So, we've got, Vibe, very generously providing 5 k in US dollar equivalent in Vibecoin, Sello providing 5,000 US dollars in equivalent in Sello, and Hollywood as well. This is, amazing AI creation company. So if you click on these, you can see the specifics
+
+[04:34] about what each of the bounties are asking for, and and how to submit. Second track, help an edge citizen. Okay. So use your skills to help an edge citizen with their startup or project. So maybe imagine you just launched a project. You're missing a good logo. You're missing a good design. Maybe you have a scrappy one because you created it as part of a hackathon a month ago or maybe,
+
+[05:05] and and therefore you need a designer. Or maybe you wanna add a new AI feature to your app and, therefore, you need an AI engineer. Or maybe you just need, like, a second view. Maybe you you you just want to collaborate with people. Well, that's what this is for. And if you just wanna help someone else on their project, there's some some great some great prizes there for that. And I'll I'll let you guys find out the information about that too.
+
+[05:45] Is that we can all build on top of it. And so, yeah, there will be more more information shared on that, like, in a little bit. So yeah. And third track is the kids track. So Jack has already been doing for the past over two weeks an amazing job of going to BitCodesma, the coworking space that you all know. So that space, actually, it has it has,
+
+[06:09] incredible courses for kids. And he's been taking part in helping, run them while he's here. And, there's kids doing incredible games and apps and and things like that. So this track is devoted to do you want to help local kid mentor them and build their project with them? Now the just like for the help an edge citizen track, also the kids track will have prizes
+
+[06:36] provided by Edge City. So, the prizes for both, track two and three will be provided in the form of discounts for future Edge City editions. And, again, all of the details are inside. Now, along the bottom, you can see that we have this, this sort of footer. And,
+
+[07:00] this is how you register for the build a thon. You can sort of say which tracks and sponsors you're interested in, who you want to pair up with, what sort of profile you have, also links. And feel free to add as much or as little as you want, but keep in mind that this will be quite relevant to finding people.
+
+[07:23] So if you go, here to find people, you'll be redirected to the matching page. And what this allows is to go through people's profiles and so the information that you've inserted on the previous page will appear over here. This is a good way to gauge people. But also, once you once you like someone, you can send them a message through here. It won't automatically mean that you're a team. This is very chill, laid back thing where you can just,
+
+[07:50] without going out of your comfort zone, just chat with people. So the people that you've matched with, where you like them and they like you, will appear over here. So, you can you can chat with them. You can you can vibe check further. And finally, the submission. Right? So the submission page
+
+[08:13] is coming soon. But, we we wanna who here has heard or participated in something called BuildSpace? Does anyone know about BuildSpace? So so we're taking a page from BuildSpace's book and leveraging the power of the social media algorithm. So what we'll be doing is that the submissions and I say submissions because we encourage people to submit every day. It's not compulsory,
+
+[08:40] but the more you do, the more powerful this becomes. The submissions will involve not submitting your work itself, but rather a social media post to your work with a tag. We'll all be using the same tag. And part of this, daily submission will be engaging with the posts of other participants in the Buildathon.
+
+[09:04] The goal of this is to create, a sort of tidal wave of algorithmic engagement, and you can choose whatever platform you want, whether it's x Insta, Substack. Maybe if it's Substack, put a link to your Substack in a in an x post or something, Farcaster. And this way, we will get to support each other in two ways. One, underneath your post, you will see helpful feedback
+
+[09:32] from other edge citizens. And second, this will create an amplifying effect that will help you grow your audience. So, I think that's it for the platform right now. Should we move on to the next section? Actually, quickly, I would love to understand the people in the room how many hackathons they've been a part of,
+
+[10:03] anything that they'd like to share of things that they've really enjoyed, what they're looking forward to in this. Again, this is a a circular space, so it's not just us, like, letting you know. But I don't know if we can popcorn or I can hand the mic around, but would you just love to understand. Especially because we're an intimate group right now, we can quickly go around. Colton, do you wanna start?
+
+[10:25] Sure. I think just having a, like, a shared space for us all to be building together is a lot of fun. I'm looking forward to all the wellness stuff that you guys mentioned. I've never been to a hackathon that really brings that in, but it's feels super edgy. So looking forward to to that. And do we do we have a, like, a shared space where we're gonna be all working together?
+
+[10:54] Power. Good to know. Yeah. Let me let me just, also show you visually. So day one, Wednesday, we're here at Le Village. Okay. Thursday, Odd City coworking space will be open from one to 7PM. Friday, the Vibe House. And these are Google Maps links, and these are social layer links. So, you can find everything on here. So,
+
+[11:23] yeah. Day three, Friday, vibe house, one to 6PM, and so on. I we we're we're gonna add information to this. So if you come back to this page, you'll find it more filled. Oh, man. Like, 15 maybe? I don't know. 15. 15. 1515.
+
+[11:48] What am I looking forward to? I'm gonna try and do something creative, this hackathon, which is usually not what I do at all. But I'm excited. Hello. I'm Charlotte. This is my first hackathon, and I'm excited to figure out what a hackathon is. Hello. I'm Matti. It's also my first hackathon. I did witness one
+
+[12:14] in July this year that it was, like, an AI weekend event, and I've been blown away what by what people can do in just two days and a lot of, like, power force through no sleep. I'm looking forward for the wellness part and, like, a longer one. And I'm really excited about the space. I wanna learn more and see if there is a project that I could contribute
+
+[12:37] my skill set that is more in the animation industry. So curious if there is something that could match with that. I'm Michael. This is my second hackathon. The other one, I got first prize. Oh. But it was a tie for first place with three people, and there were only three people in the hackathon.
+
+[13:03] Get started. Still first time. This time, I'm looking for, like, creative stuff. I'm good with AI, so I can, do all kinds of coding stuff, but more also wanting to be more creative. Hi. I'm Alex, and this is my first or second. The the first one wasn't the real one, I think. And I am excited about the kids, working with the kids. I haven't done that yet.
+
+[13:31] And, you know, helping others. I'm also good with I'm not really good with the with the LLMs, but I was good. I'm getting back into it. Hello. My name is Shago. This is my first hackathon. And as she said, I'm I'm looking forward to know what what this is. And, I'm very curious. That's actually,
+
+[13:56] I'm very good at content creating and marketing, so that's my stuff. Hello. I'm Patrick. This is I I think I've hosted more hackathons than I've been in, so I'm excited to be a part of this one. I have a lot of ideas that I'm interested in building and sharing and also helping other people's ideas, and I know how to get really far really fast on your idea and help you get further faster by yourself.
+
+[14:23] So let me know how you might want me to help. Hello. I am Augustine. I am volunteering in Edge. I'm in my day off. That's why I'm here. But I I hope I can participate in my first hackathon.
+
+[14:46] Let's figure it out. You know? Hi. My name is Augusto, and this is my second Haggen Haggen. In 2020, I have the the first one. But this is very different because the first is in virtual community, and maybe this is different.
+
+[15:10] My ability was personal trainer, training people, connect with nature. And I'm a geologist and human treatment. Maybe this is very curious to to make with another people. Augusto. What's up? I'm Josh. This is also my first hackathon. Yeah.
+
+[15:36] Let's see. Oh, yeah. What what were the other prompts? I am really excited to make progress on my idea. I've shared it the first with the first meeting you guys had, the piano video game. And, yeah, I I have I have no, contact with technological spaces other than Edge City. And so
+
+[16:00] oh, really? Oh, that's cool. Okay. Nice. Yeah. Yeah. So I don't know. I'm I'm I consider myself mostly technologically illiterate. So this is my first kind of contact with this world, so I'm very excited to learn. Yeah. Hi.
+
+[16:25] I'm Mate. And I would like to I'm excited to use, some knowledge I learned from the the Patrick and the Brian on the white coding sessions. And I'm looking forward to build probably some, simple easy game. That's it. Thank you. So hi. I'm Toby, also for Secathon, and I don't know what to build yet. But, maybe some, platform to help, like, do analytics or something.
+
+[16:50] Yeah. Hi. I'm miss Purple. I'm actually part of the VIVE house, and this would be my second hackathon. I'm more of a creative than anything. I kinda live on AI now at this point, so I'm looking forward to just kinda seeing what I put together
+
+[17:16] and having fun. So we're saying our name and what number hackathon and what you're looking forward to in this hackathon. Name and How many hackathons? Oh, okay. And what are you looking for? Hey, everyone. I'm Yudhishtra, actually part of the, Wipe Code Residency.
+
+[17:41] Yep. Okay. I'm I'm I've participated in, 40 hackathons before. And for this hackathon, I'm just looking to build a simple, podcast mini app, for my d five product, just experiment and stuff. I'm hoping to get feedback from you guys too. Yep. Hello, everybody. My name is Thomas. I am also a resident of the Vibe Code residency. Whoo.
+
+[18:04] Whoo. Whoo. I think this is my six number six or seven hackathon, And I will create also a mini app with some by calling tools. So, yeah, I'm waiting for your feedback, guys. Amazing. So I think, like, that's the other thing that we forgot to mention in the beginning is that the ethos of this is that everyone's a builder. We're in this really unique time when we have, like, so many tools available to us,
+
+[18:33] so that anyone can build. And so as you can see, even just, like, in this room, there's some people who have been too many. There's some people like me that this is my first. And we're really looking to cocreate something, like, new and different, in this moment of everyone being able to build. Amazing. Yeah. It was it was a great idea to just go around and get everyone's,
+
+[18:55] oh, I gotta bring this up. Let me see if I can Yes. I always have great ideas. Yes. It was another one. But, yeah, it's it's gonna be a really exciting few days. And, yeah. Just some additional and but I've got a little sniffle, so apologies on that. But, yeah, I think I think the idea of this is obviously that everyone is a builder. And,
+
+[19:21] yeah, there's there's a lot of different tracks, and I'm gonna go into the VibeCoin bounties and all the different there's gonna be eight different yeah. For, like, for this track, there's gonna be eight different $500 bounties worth in VibeCoin. And there's a bunch of different options and a bunch of different angles. And, like, the idea with this is some of these, like, you could spin up in, like, literally ten minutes. If you're just, like if you have an idea for, like, a Telegram bot, for example, just, like,
+
+[19:52] we made one of Tomas, and it's just like a very fun Telegram bot. And I think anyone can create their own agent. So, like, yeah, there's I'll just go through the list real quick in terms of, like, all the different bounties and just give, like, a high level overview of it. And then we can, yeah, we can, like, have questions after if there's anything that comes up. So oh, yeah. And then so there's eight different bounties that are each gonna be $500 each, and then there's gonna be $1,000 in Vibecoin that we'll all vote on. So, like, for the best overall winner, we'll all vote on that and just
+
+[20:26] pick what boosts the vibes the most, and, we'll go from there. And yeah. And then one last detail is we're gonna have like, teams can be up to three people, and we're gonna I think, like, honestly, it's encouraged to just if you have, like, a little idea, you can just, like, ship it and just submit it solo. And
+
+[20:50] I think there's a lot of reasons to do that, but you can have a team of up to three, and I think that can also be really fun. So yeah. So the first we just made this list today. It was really fun to just kind of think of all the different tracks. And, yeah, the first one is the best overall AI agent. And and I should also say for for the projects, you can, you can submit multiple projects. So, like, you can submit multiple projects and then say you, like, create a Telegram agent that, like,
+
+[21:21] that remembers, like, your whole residency's information. Like, maybe Agatha has, like, a Telegram agent or something, you could submit, like, you could submit for multiple different bounties with one project. So you could, like if you have a really killer, like, project, you could win, like, yeah, multiple of these bounties. And yeah. So the most creative or useful AI agent, something that feels alive, helpful, or just weirdly brilliant, that's the first one.
+
+[21:48] And some examples of this are, like, yeah, like an event concierge, maybe, like, a daily reminder that can also, like, tap into different apps. The second one, the best telegram bot. And for this, I'm gonna be hosting a session tomorrow. Like, I've built a platform, which is, like, the easiest way on the Internet to build telegram bots. And I'm just gonna share how we can do that. And so, like, the idea is, like, we could have, like,
+
+[22:15] 30 different like, at least yeah. Here's a question. What? Can we zoom in? Yeah. That's a great point. I should zoom in. Appreciate it. So a little more? Mass. Cool. Amazing. Perfect. Yeah. So so, yeah, for the best, Telegram bot, we'll have a workshop.
+
+[22:37] We haven't finalized the time for this, but I'll just have, like, a thirty minute to one hour session where we can all just, like I guess now you could, like, think of a bot idea. Maybe you wanna, like, make a bot for your friend. Do you wanna make your own personal bot? You wanna, like, create a character in a game and also have them be a Telegram bot that anyone can interact with. These bots can also be, like, in group chats. So, like, there's a lot of different features we're adding to this. So, like,
+
+[23:02] yeah, there's there's a lot of stuff we can do, and I'm excited to see what we all create. And then this one I'm really excited about, the best three d or VR game. So, like, we have an Oculus. Like, there's quite a few Oculuses around Edge City, and I think it's really cool to just see, like, what we can create, like, in a VR physical physical digital space.
+
+[23:25] So, like, yeah, there's there's a bunch of different ideas. I'll let you guys just think of think of those. And I'll also probably do a session on on just, like, how to build a VR game because, like, I have a bunch of like, I've I've created, like, at least three different VR games which you can, like, play with your headset. And I'm also gonna be, like, open sourcing these so, like, you guys can remix them and
+
+[23:48] make them more interesting. And I'm also, like, donating my own lovable credits just because I think it's, like, it's for the greater good. And then And then just quickly, Jack, I'll just mention. So the bot creation that he was mentioning, it is really, really easy to create a bot. And so I think that the again, the cool moment that we're in is, like, as your own building state becomes really, really easy, it's no longer you're not no longer blocked by, like, technical difficulties.
+
+[24:17] You're blocked by your level of creativity. Right? So your flow state will be completely different because if anyone can create a bot, then it's not about actually creating a bot. It's about how unique, how funny, how, like, deep into your own inspiration can you go, which is again why we're dipping into wellness and, like, different other ways to create inspiration, like going for a run-in vibe coding. Right? Like going to meditation and then from that meditative state, vibe coding because those are the most creative places that you can, like, con continue to build from. Totally. Yeah. And it's, like, literally
+
+[24:53] the workshop tomorrow, I'll show you. It's, like, literally less than a minute. You could have an idea. You can, like, you can I created, a Patrick Star bot on Telegram? We can we can all text Patrick Star right now if we want to. But, like, it literally takes less than a minute, so it's it's really exciting. And I think I don't see any reason, like, why everyone can't create, like, five of these if they want. So, yeah, it's a it's a good point. And
+
+[25:17] and, yeah, I should also mention that right now it's 03:45, and at 6PM, we're gonna be joining the kids at Bitcotasma. So, like, from six to 07:30, we're gonna be creating a bunch of these, like, three d and two d games. And, yeah, if anyone wants a head start on the on the build a thon, you can join us for that. Like, that'll be really fun. And
+
+[25:40] and then we're also trying to convince, like, we need all the kids need to, like, have their parents' permission, but, like, we might invite them to the Vibe House this weekend and do some additional building. So, yeah, there's a lot of exciting stuff. Best two d game. Like yeah. We like, we've created a bunch of, like, there's a bunch of versions of this. I could go into some demos. But,
+
+[26:04] for now, I'm just doing, an overview. But, like, two d games, we've created, like, Mario like experiences. We've created candy collector for Halloween we we made. And then best mobile experience, another $500. So something that just feels really good and you can use while, like, just, like, a mobile app would be really cool to see. Like, there's some people building those. A VIBE RADAR app is, like, a bunch of these AI generated examples that we can go to. But,
+
+[26:33] yeah, this this other track is really exciting. So as a part of VIBE coin, like, we're we're really excited about the idea of, like, VIBE raising. So, like, if you have, like, a project, you can actually, like, spin up a token for it, and it will like, we just did it for the Vibe Code residency and all of our projects as a whole, but there's gonna be, like, sub sub projects, like, within our community that, like, you can launch a token for.
+
+[26:58] And, like, similar to, like, an actual arcade, like, if you were to like, when you when you go to an arcade, it's been too long since I've been to one, but, like, they give you a bunch of coins. You get the coins. You go into arcade, and then you can, like, play the games. And, yeah, there's gonna be a prize for, like, the best tokenized project. And the cool the cool thing with this one is, like, if you launch, you'll also you won't just get $500 US in Vibecoin, but, like, if the project has momentum, you'll you'll see it through and
+
+[27:26] have a lot more than just $500 if it's if it all goes well. And yeah. I think so there's two more. This one I'm really excited about, like, there's a creators of the future creators of the future residency, and it's like we've seen so many, like, amazing videos. And I think we can like, something that yeah. We could there's there's a lot of different stuff we can do, but, like, just AI generated art or
+
+[27:54] just, like, you film a video that, like, recaps your residency. Like, we'd just love to see more creative media projects. So, like, this is another one. And I don't know if you wanna add anything to that or just in general. No. I mean, I think the only thing that I'll add is that, like, this is a lot of information. There's a lot of different ways to win prizes. Yeah. Totally. All of this information will be linked,
+
+[28:21] on the Cherry's website. Right after this, we're also launching an FAQ. And then the other thing too is, like, we're here to help and be completely available to you all. So, like, DM us, get together with your friends, ask questions. Like, this is meant to be, like, a really fun journey, especially as this is your first. It's my first. I want a really good time. Right? So, like and especially in, like, the coworking sessions, like, tomorrow specifically,
+
+[28:48] you know, I think it will be, like, a lot of us, like, getting together and, like, just spitballing ideas. You can talk about it over, like, dinner tonight. Like, just, like, really kind of, like, stoke the the many different ideas and then from there decide where to go. And, usually, you wouldn't see a, like, a a video or media bounty in in a hackathon. Yeah. So, again, like, the rules are our own, and we're here at Edge creating our first hackathon,
+
+[29:16] because we want to. So we're coloring vibrantly. Yeah. Thanks. I I just wanted to add to that. Yes. So why is it called a build a thon and not a hackathon? Because what is the difference between a hacker and a builder? A builder is a wider term. If you're an artist, if you're a creator of any kind, then you're a builder. Someone who just throws their hats in the ring, Maybe you're just writing articles.
+
+[29:38] Maybe you're you're a writer. Maybe you're, AI art creator. Whatever it may be, this is any any kind of submission is is allowed for part of to be part of this. The very first thing I'll do after this session is gonna be to add an FAQ. If you have a question that is not answered anywhere on the website,
+
+[30:02] please ask. You can DM us. And if you don't have our handles, you can also write in the in the vibe code residency channel within the Yeah. So for instance, one thing, how how do I pair up with a kid? So for that, we're not gonna the kids are not gonna be signing up to the matching platform. Otherwise, I would probably go to jail. So
+
+[30:25] instead instead, go with Jack to the BITCOTEZMA session Yeah. Or DM Jack directly, and and he'll help you get in touch. Yeah. Yeah. It's a really cool opportunity to building with kids. I think it's a I just find, like like, with meditation, a lot of people talk about beginner's mind, and I'm a big fan of that. And, like, with kids, you just instantly get beginner's mind because it's, like, it's it's good. So yeah. Do you have How old are you?
+
+[30:53] Six to 11 is the ages. So, yeah, it's a good prime creative anything goes type of age. So yeah. And they're, like, worlds ahead of me with, like, some of their, their vibe coding and stuff. They've been, like, all like, since we've gotten there, they've multiple games a day that they're, like, cooking over there. Yeah. So at a Bikkotzma,
+
+[31:15] so they're they're from San Martin. Mhmm. Yeah. They're local kids. Yeah. And, yeah, this is like so we can see a lot of the like, we just launched this vibe arcade, which I'm really excited about, and it's basically a way to yeah. Just to, like, post all your your projects. So, like, the piano project, for example, we can actually I'll show you just real quick. I I forget her name, but we were we're building someone else made, a music app, and she's like, I want a piano app. I'm like, okay. And then, like, I just turned around, and then, like,
+
+[31:47] five minutes later, we just have, like, a full so it's just like and then you can, like, play it. There's, like, different things with the sequencer. Tip of the iceberg, I haven't but, like and then the cool thing is, like, all these projects, like, you can click edit with Lovable. And this is not a Lovable sponsored hackathon, but I'm a huge fan of it. And I feel like it's the best way to create collaborative software projects, like, if you're not technical.
+
+[32:16] So, yeah, I think this is this is gonna be really cool. And, yeah, I think there's a lot of different projects. Like, we we can submit all the different games and, like, also just, like, other apps, like, into the arcade. And the vision with this is, like, we can launch just, like, mini, like, economies or, like, little basically, coins for each of the games.
+
+[32:39] So that's just, like, another fun experiment we're running. And, yeah, feel really lucky. It's like a exciting time to be building. So yeah. Do we have any I don't let me just look at the agenda that we vibe coded essentially In terms of So if you are joining tonight with the kids at 6PM, it is a small room.
+
+[33:02] So we'd have you RSVP on SocialLair. So just and also, like, feel free to come up to us and and let us know. But I think in terms of scheduling, our our next thing I don't know, Jack, if you're running tomorrow morning. Yeah. Could do something like that. Yeah. Yeah. Maybe maybe you'll run. There's primal movement with Tessa at noon, and that's, like, super fun.
+
+[33:27] And the idea is, like, we go from that into building. So it's like last time we were, like, we literally were hopping around, like, frogs and just Crabs. Crabs and elephants, all all the animals. Roaring and group hugs. So lots of primal things. Yeah. And then and then from there, the sky's the limit of building. So, yeah, it's gonna be a fun day. And, yeah, I think yeah. Like, I I touched on it already, but, like, with teams, we're saying max
+
+[33:57] max three people per team. And, yeah, I think yeah. There's no, like there's no deadline to, like, have a team by, but, like, it would be good to have an idea by the end of today, in terms of the teams. And, and then if you have a friend, for example, that's, like, not at Edge City, but, like, maybe he's more technical or she's more technical,
+
+[34:20] you can you can phone a friend and you can have up to one basically, you can if you have a team of two, you can, have one person join remote. And, yeah, the idea is, like, this can be an online thing as well. So yeah. Yep. We'll go with questions. And then after this, I would love to take a group photo in front of the screen. Yeah. So I just did my calendar before coming down here. And
+
+[34:46] if I'm in a team, I usually commit a lot. And I just wanted to know what what time of time commitment am I looking at the Totally. The yeah. I would I mean, a Telegram bot, you can spin it up in fifteen minutes. I guess if you're fast enough, you I don't know. Yeah. Yeah. Yeah. So the way we're designing this is, like, really focused on emergence and, like,
+
+[35:14] the idea is you just live your life at Edge City. And if you feel an idea and a team call to you, this is, like, the perfect container for that. We don't want you to, like, optimize your entire life around the Telegram bot, like, things. So, like, I I would just say, like, whatever you're feeling, just go with the flow, and and you can submit, yeah, submit whatever. And the idea is, like, everyone's a builder. There's we're hopefully gonna get, like, the whole community to share at least, like, a project
+
+[35:40] and post about it and stuff. So that's the idea. Any yep. Great. It is not. It what? You can
+
+[36:04] it's it's private repo. You can you can reach out to me. Yeah. I think, like, I think collaborative building is, like, the spirit of this entire build a thon. So I think
+
+[36:29] yeah. Maybe, yeah, maybe there's a way to collaborate there. I think that'd be cool. Then I think all connect with me on there, by the way. Yep. It it it comes up. Yes. Amazing. I need to make a a whole thing. And then yep. One more. Okay. I'm just I think structurally a little lost. Okay.
+
+[36:53] Sorry. Oh. Are is there so for someone like me who's never used any of these tools, is there how does it work? Like, do you Yeah. Do they cost money? Are there credits? So so with Lovable, so, basically, like, the app building platform, I'm, like, personally gonna sponsor. And if you talk to me, we'll just, like, start a project. And then Okay. You make an account, and then under my project. And, like, I've done this with the kids. I feel like it's really worth it, and I'm happy to do that. And Cool. There's been a few people that are offering other donations. So, like, if anyone else wants to donate, like, even, like, $20 actually goes a long way with some credits. Okay. So,
+
+[37:30] yeah, the idea is we can anyone can make, like, a Lovable account, and there's also Meshi. There's, like, there's many more tools than just Lovable, like, clearly. But, yeah, we'll have, like, a little bit of an orientation tomorrow and, like, get set up with the tools. I think today is, like, a good idea day. But, yeah, we'll we'll get that sorted out. Okay. And in terms of the team,
+
+[37:53] it's just like, do you recommend a particular way of finding teammates? Yeah. And then Yeah. So for you, I would like, if you are free at six, it'd be really fun to come. I I, unfortunately, am not. I have a I have to prepare for a I'm doing I'm giving a presentation at seven I have to prepare for. So Okay. Okay. Is there another opportunity to meet the kids? We'll probably have one on the weekend, but,
+
+[38:17] we'll we'll just follow-up there, and I'll let them know that we got a piano man. So Okay. I could maybe try to come from for, like, fifteen minutes at the beginning. Okay. Yeah. I think that'd be I think that'd be cool. That'd good. Just, to get a vibe check and we'll see if she's here. Okay. Yeah. I think it's gonna be I think we can also have a team forming, like I would encourage you guys to just, like maybe we could have a way of, like, everyone shares, like, in person, like, while we're all together, like, maybe an idea. And then, like, if
+
+[38:48] if anyone wants to collaborate here, it would be really nice to make those connections while we're all together. But, yeah, tomorrow will also be a good day to, like, form teams, and we'll all be together for that. So Okay. Yeah. Cool. And what? So, Cherry, I am not And then tell us here too. Yeah. And we touched on the Edge City
+
+[39:13] Bounty, I I touched on the Edge OS thing. There's like we've been vibe building this build a thon. So, like, I think there's a lot that I love to hear from from Telamon too. And, like, I I basically drafted up. There was a previous yeah. If if you wanna come up too and just just sit and sort of been late and Yeah. Running between it. Thank you. I don't know what has been said already, but quite quickly,
+
+[39:36] we've been building on the back end a very light stack, like open source tech stack called we call it EdgeOS. It's very simply just a a plug into a lot of the data we've been collecting from our citizen portal, and, like, the the data that people have opted in to share, via the applications and the intros, and you can pull all of that and directly kind of plug into our back end CRM, which is quite nice. We ran and we've joined the f,
+
+[40:02] Funding the Comments hackathon recently where we essentially were giving away tickets, and we kinda wanna do the same thing with with the Vibe Buildathon here now. Long story short is anything that is relevant for network societies, it's really open. Find a way to plug in this, you know, you utilize the people in real life and the kind of the open source tech stack we have here. Not gonna be strict at all, but just, ideally, it's something useful. Here's some example ideas we've we've put out. Like, you know, you've seen us mess around with the world app and other similar concepts. Like, if any way you can improve those or give alternatives, we'd love to see any of those, like something digital town squares, modular calendar systems,
+
+[40:37] other forms of coordination and governance. Open to anything you think is relevant. Not many constrictions. The first team will get free edge tickets that'll be claimable for the future flagship pop up village in the future and second or third place to get discounts. Quite simple as that. Not much more to it. Excited. Thanks, guys. Amazing.
+
+[41:01] So we'll also be answering questions tomorrow, at the co work, but would love for everyone to come up and we'll take a big group photo, in front of the the picture, not you running. Let's find it. Hold up. This is like Perfect. Perfect. Would love everyone's faces. Super excited to get this started.
+
+[41:24] I don't if this is best way to describe it.
