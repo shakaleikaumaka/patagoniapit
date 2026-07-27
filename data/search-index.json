@@ -124875,6 +124875,1261 @@
   "No more questions? That's fine. Yes. Let's relax."
  ],
  [
+  73,
+  1,
+  "Hi, everyone. Thank you for coming. We're here live from Edge City Patagonia. And today, Anuj Das Gupta from Smart Transactions will be pres"
+ ],
+ [
+  73,
+  18,
+  "enting reversible transactions. So, yeah, please come curious. And if you have any questions, we'll leave some time at the end. Thank you so"
+ ],
+ [
+  73,
+  35,
+  " much. Yeah. Hi, everybody. I guess I can get started from what I understand. Right?"
+ ],
+ [
+  73,
+  45,
+  "Okay. So yeah. Thank you for everybody for joining. I mean, this is a very unique problem to blockchains that we are all used to, but not al"
+ ],
+ [
+  73,
+  55,
+  "ways like it. We're used to it. We do have this wonderful feature slash bug called immutability, which is great because once something's on "
+ ],
+ [
+  73,
+  64,
+  "chain, no one can be changed. Things that have been there and then blockchain for the last ten, fifteen, eighteen years of its life now. It'"
+ ],
+ [
+  73,
+  74,
+  "s always there. Right? Which is a great feature. But what if sometimes, you know, we make mistakes or something bad happens?"
+ ],
+ [
+  73,
+  82,
+  "What do we do? I mean, this is really worrying, but there are ways, and this is exactly what we had come about building our applications tha"
+ ],
+ [
+  73,
+  92,
+  "t users do make mistakes, bad things do happen. Spam happens on the network, fraud happens. How do we fix that? How can we still have immuta"
+ ],
+ [
+  73,
+  101,
+  "bility but not the bad effects of it? Right? And so this is really a unique thing because blockchains are kind of weird. I mean, no other te"
+ ],
+ [
+  73,
+  111,
+  "ch has this"
+ ],
+ [
+  73,
+  112,
+  "incredible thing of immutability. Every other thing goes to upgrades. Doctor. Naju goes to upgrade, but the actual data on genes, they are i"
+ ],
+ [
+  73,
+  122,
+  "mmutable, right, which is very, very unique. And so what we had concretely as a problem, as an example I can talk about is one of the app th"
+ ],
+ [
+  73,
+  131,
+  "at we built, it's called CleanApp. And this app, CleanApp,"
+ ],
+ [
+  73,
+  135,
+  "what it does is I don't know. I think somebody might be controlling my slides. I don't think so. Anyway, I just saw it move, so I wasn't sur"
+ ],
+ [
+  73,
+  146,
+  "e. So Clean app, what we build is a one click incident reporting app. It's basically you can download it as it's on Android. It's on iOS as "
+ ],
+ [
+  73,
+  157,
+  "well. Once you open the app, it opens directly onto camera."
+ ],
+ [
+  73,
+  162,
+  "And then from the camera, you can take a picture of any incident, anything that you are looking at that you think is a problem. Could be a p"
+ ],
+ [
+  73,
+  172,
+  "othole, could be a broken thing, like, during so we got accepted to the dev con improvement proposal. So, officially, from the Theria Founda"
+ ],
+ [
+  73,
+  182,
+  "tion, during DevConnect, if you see problems on the"
+ ],
+ [
+  73,
+  186,
+  "the the places wherever any event is hosted or even in one of the softwares, one of the apps that has been used for DevConnect, you can offi"
+ ],
+ [
+  73,
+  195,
+  "cially use CleanApp to take either take a screenshot if it's an app, Or if it's an IRL problem, you can take a photo using the CleanApp app."
+ ],
+ [
+  73,
+  204,
+  " You get immediately a token for taking a photo that has high value or a screenshot."
+ ],
+ [
+  73,
+  210,
+  "And then our AI scans it, try to find out what exactly is the problem. But the the moment we built it, it's a great use. But the problem we "
+ ],
+ [
+  73,
+  219,
+  "had, which any user application has, is what if people spam the network with photos that are not useful? Yes. Our AI does catch it, but ther"
+ ],
+ [
+  73,
+  228,
+  "e's always things that are not immediately obvious. You need more context. And even in the case,"
+ ],
+ [
+  73,
+  234,
+  "it's not really spam. Somebody could intentionally, you know, create trash and then take a picture and then clean it and get rewards. Right?"
+ ],
+ [
+  73,
+  243,
+  " So you have these things which only with other people also reporting the same problem, you know, like, with validation. Then you know that "
+ ],
+ [
+  73,
+  253,
+  "it's that somebody posed a fraudulent report. Right? So in this case, we do need everything to go on chain. We do need things to be time sta"
+ ],
+ [
+  73,
+  262,
+  "mped on chain, but we need a way for us to be able to fix it. So that means we need to be able to have reversibility"
+ ],
+ [
+  73,
+  270,
+  "of these on gen reports only when there are fraud, only when there's spam, only when something bad happens. Right? And so there has been som"
+ ],
+ [
+  73,
+  279,
+  "e experiments so far in making reversibility happen on gen. So the classic example that you all know about is flash loans, where, basically,"
+ ],
+ [
+  73,
+  288,
+  " within a single transaction, you can let's say, you can take a loan, in the case of flash loan, and you can use the loan. Let's say, get a "
+ ],
+ [
+  73,
+  296,
+  "a 100 USDC"
+ ],
+ [
+  73,
+  297,
+  "loan. And within the single transaction, the time it takes for it to execute. If you find an opportunity, let's say, arbitrage opportunity t"
+ ],
+ [
+  73,
+  307,
+  "o use that 100 USDC to make, let's say, a 120 USDC out of that, then you can return the 100 USDC before the the single transaction, lifespan"
+ ],
+ [
+  73,
+  317,
+  " is not over. And once you return it, you pay whatever you have to pay for the loan. Let's say, 1 USDC."
+ ],
+ [
+  73,
+  325,
+  "The rest, 19 USDC, you can profit it. Right? So and if anything happens, mistaken, which is now this is the trick. Like, why are we able to "
+ ],
+ [
+  73,
+  335,
+  "take a loan without any collateral? Because if you do not want to give back the 100 USDC that you took, you cannot exit. What will happen is"
+ ],
+ [
+  73,
+  344,
+  " before the transaction is about to finish execution, it does not return,"
+ ],
+ [
+  73,
+  349,
+  "it gets rolled back as if the loan was never given to you. Right? So this is a great thing of Flashstone where it takes this aspect which we"
+ ],
+ [
+  73,
+  357,
+  " call atomicity, which is this idea that transaction executing has to execute completely or nothing at all. So that means everything connect"
+ ],
+ [
+  73,
+  366,
+  "ed to the transaction is also removed if the transaction is executed in the first place. Right? That means in this case, the loan that was g"
+ ],
+ [
+  73,
+  374,
+  "iven is also canceled if somebody does not do what was the requirement"
+ ],
+ [
+  73,
+  378,
+  "in that flash loan. So that's one experiment that we have seen. People have used it quite a bit. Then there are l twos that kinda provide th"
+ ],
+ [
+  73,
+  387,
+  "is kind of a feature, but not really where, basically, you do something on l two. Let's say, some shared transitions where you are even some"
+ ],
+ [
+  73,
+  396,
+  " bets, some arbitrage, whatever, and you're not sure of the success. So in l two,"
+ ],
+ [
+  73,
+  401,
+  "because l twos are not so decentralized, has more control over the actual l two chain. It depends on the l two, of course. In many cases, th"
+ ],
+ [
+  73,
+  411,
+  "e l two can decide to not actually submit the transition that happened, but submit the previous state as if the transition never happened. S"
+ ],
+ [
+  73,
+  421,
+  "o that's something that happens out of the platforms as well. Now what you get as a result of that"
+ ],
+ [
+  73,
+  428,
+  "is that then the third thing is, of course hold on. There's also hard forks where you can fork a chain and you can actually, undo some of th"
+ ],
+ [
+  73,
+  438,
+  "e chains that the DAO hard fork is exactly what's gonna happen. So what we get as a result of this is reversibility. The question of reversi"
+ ],
+ [
+  73,
+  448,
+  "bility is actually a question of atomicity."
+ ],
+ [
+  73,
+  451,
+  "So if we are able to solve atomicity, if you are able to take atomicity from currently what it is, it's only atomic within a single block, w"
+ ],
+ [
+  73,
+  460,
+  "ithin a single slot to multiple blocks, multiple slots. So in our case, when an on chain report goes on, you you reported a trash, but after"
+ ],
+ [
+  73,
+  469,
+  " three, four, five, twenty blocks, you realize that was fraud. Somebody else also posted a proof saying like, a fraud proof, saying that tha"
+ ],
+ [
+  73,
+  478,
+  "t actually was a incorrect report."
+ ],
+ [
+  73,
+  480,
+  "After 20 blocks, you can do nothing about it. Right? So you can slash them if they have something deposited. What if they don't have it depo"
+ ],
+ [
+  73,
+  490,
+  "sited? So what we need to do in that case is we need to have extend atomicity to more than a single block. So right now, atomicity is this i"
+ ],
+ [
+  73,
+  500,
+  "dea that in within a single slot, you either have"
+ ],
+ [
+  73,
+  503,
+  "all of the transactions that are committed committed or a particular transaction is not committed. Right? This is exactly what we have. So f"
+ ],
+ [
+  73,
+  513,
+  "or atomicity to be programmable, we basically have four properties that we need to work with. One is we need to make sure that let's say, in"
+ ],
+ [
+  73,
+  524,
+  " the example of the on chain report, I submitted a photo"
+ ],
+ [
+  73,
+  528,
+  "and somebody else I have to wait for three other person to also submit a photo to prove that my photo of the trash or incident is actually a"
+ ],
+ [
+  73,
+  537,
+  "ccurate. So that would mean my photo is one transaction. The others are also each three transactions each. So what we need to do is within t"
+ ],
+ [
+  73,
+  547,
+  "hese four transactions, we have to make sure that if"
+ ],
+ [
+  73,
+  550,
+  "my transaction gets undone gets reversed after a certain amount of blocks, that it does not lead to a side effect of some other transaction "
+ ],
+ [
+  73,
+  560,
+  "outside of mine and all other two transactions. So we have to have what we call isolation, which means that we have to make we have to make "
+ ],
+ [
+  73,
+  569,
+  "sure that only the transactions that are involved in this condition of reversibility"
+ ],
+ [
+  73,
+  575,
+  "can only reverse. Nothing else outside of that. So, for example, if somebody else was depending on my transaction, knowing not knowing that "
+ ],
+ [
+  73,
+  584,
+  "in within the next 20 blocks, it might get reversed, that's not something we can allow. Right? So side effects is the first thing we need to"
+ ],
+ [
+  73,
+  593,
+  " absolutely be constrained. The side effects are not allowed. That only within the designated amount of transactions within that particular "
+ ],
+ [
+  73,
+  602,
+  "unit of atomicity,"
+ ],
+ [
+  73,
+  603,
+  "reversibility can happen. Second thing we have to make sure is exits, which means within this, in this case, 20 blocks, even if it's on reve"
+ ],
+ [
+  73,
+  613,
+  "rse, somebody cannot just take let's say, for sending a report, you get one USCC. You should not just be able to go to an exchange, have any"
+ ],
+ [
+  73,
+  623,
+  " way to cash out, and then exit from the system. So exit is also also needs to be blocked. The third thing is rollbacks, which is the main t"
+ ],
+ [
+  73,
+  632,
+  "hing about reversibility,"
+ ],
+ [
+  73,
+  634,
+  "which is when in the next 20 blocks, if anybody provides a proof that my report was fraudulent or spam, that the my transaction gets rolled "
+ ],
+ [
+  73,
+  643,
+  "back in any transaction that my transaction affected, provided it's within that side effect that that list of transaction, also get rolled b"
+ ],
+ [
+  73,
+  653,
+  "ack. So that is the rollback. And the last one is dependencies,"
+ ],
+ [
+  73,
+  657,
+  "which means that we have to make sure the order of transactions between these four transactions has to be maintained, which means, in this c"
+ ],
+ [
+  73,
+  667,
+  "ase, my transaction of that the fact that I took a picture of a trash needs to go first for then other two transactions to come after to pro"
+ ],
+ [
+  73,
+  677,
+  "ve or disprove that, yes, indeed, my transaction was correct or not. Not the other way around. So ordering of transactions gets a bit"
+ ],
+ [
+  73,
+  687,
+  "tricky when it comes to multiple blocks, which is what we are trying to solve, right, in the example 20 blocks. So how we introduce this new"
+ ],
+ [
+  73,
+  696,
+  " construct that makes sure transactions can be reversed across multiple blocks, atomicity can be extended across multiple blocks, is what we"
+ ],
+ [
+  73,
+  706,
+  " call time capsules or time caps. And the way time capsules work, you can think of them as"
+ ],
+ [
+  73,
+  712,
+  "they're all l one. They're not l two. They completely work on l one. And how it works is all transactions that are related to each other in "
+ ],
+ [
+  73,
+  721,
+  "terms of reversibility. In my case, my transaction depends on other three transactions as proved that I did not, fraud the system. It means "
+ ],
+ [
+  73,
+  730,
+  "these four transactions will be connected like the it's the time capsule operator, in our case solvers,"
+ ],
+ [
+  73,
+  737,
+  "would maintain a DAG, direct to a secretly graph of these transactions. And that could allow because of the DAG, it will allow to also maint"
+ ],
+ [
+  73,
+  746,
+  "ain the order with which the transaction came through. So we would know the transaction mine. Let's say my transaction is the fifth in block"
+ ],
+ [
+  73,
+  756,
+  " height, seven, and the ones that I'm dependent on for proofs"
+ ],
+ [
+  73,
+  760,
+  "are transactions like one, two, and three in block height 17, like 10 transaction, 10 blocks after. So the DAG will maintain this order exac"
+ ],
+ [
+  73,
+  770,
+  "tly across the blocks because the DAG is well, the proof of the DAG, the witness, will be timestamp on chain. But the actual construction of"
+ ],
+ [
+  73,
+  779,
+  " the DAG will happen happen off chain by the solvers."
+ ],
+ [
+  73,
+  783,
+  "And this is where the dependencies are calculated in a lazy evaluation way because we have to wait till the very last moment when we know al"
+ ],
+ [
+  73,
+  795,
+  "l the dependencies to know if the time capsule is valid or not. Because within these 20 slots that the example is, anytime within these 20 s"
+ ],
+ [
+  73,
+  807,
+  "lots,"
+ ],
+ [
+  73,
+  807,
+  "if there is a error, let's say, the third transaction that came through to prove or disprove since it's a it's a fraud, that means those ent"
+ ],
+ [
+  73,
+  819,
+  "ire transactions needs to be pulled back. So what we get as a result of that is we have to time capsules are always these new construct that"
+ ],
+ [
+  73,
+  832,
+  " we have come upon that you"
+ ],
+ [
+  73,
+  834,
+  "declare. First thing is any condition that has to be holdable, which means that you have to say either as simple as number of blocks you hav"
+ ],
+ [
+  73,
+  842,
+  "e to say. Let's say, is it 20 blocks within which the time capsule has to either, be true and then it's outside of the time capsule so you c"
+ ],
+ [
+  73,
+  851,
+  "an exit those funds, Or you have to have some other condition, let's say, has to get three signatures, has to get some other some Oracle val"
+ ],
+ [
+  73,
+  859,
+  "ue has to come in. So or you can think of it as a limit order. So for example, limit order,"
+ ],
+ [
+  73,
+  865,
+  "let's say Alice sells one EK to Bob for 10,000 USDC. Now we know the value of ETH is not 10,000 today. But let's say a time to live is five "
+ ],
+ [
+  73,
+  874,
+  "years. So that means the time capsule will be open for five years. It has to be it there has you cannot open a time capsule without mentioni"
+ ],
+ [
+  73,
+  883,
+  "ng some kind of a criteria for the time capsule to collapse, and that criteria has to be multiple. It has to be. So it has to be as simple a"
+ ],
+ [
+  73,
+  892,
+  "s a time limit or the number of blocks. It has to be some condition."
+ ],
+ [
+  73,
+  896,
+  "Could be something that can be evaluated. Now within these five years, how it'll work is, say, I'm sending one each to you. You send me 10,0"
+ ],
+ [
+  73,
+  908,
+  "00 USDC today to me. The difference between a regular limit order and the way time capsules work is this the transfer of the ETH versus USDC"
+ ],
+ [
+  73,
+  920,
+  " happens immediately"
+ ],
+ [
+  73,
+  922,
+  "in the current block that these transactions are sent. It doesn't happen in when the 10,000 happens at the price. The the the trick being th"
+ ],
+ [
+  73,
+  934,
+  "at once I send my and you send your 10,000, my EAT and your USDC gets locked in an escrow. This is instrumental to time capsule. It's lockin"
+ ],
+ [
+  73,
+  946,
+  "g up assets. So what we do is assets are locked,"
+ ],
+ [
+  73,
+  950,
+  "but there's a oracle that the time capsule listens to. The oracle will be a price oracle. The price oracle will say the moment it get 10,000"
+ ],
+ [
+  73,
+  959,
+  ", unlock these assets. Or if it's five years, unlock these assets. So within the let's say in the five years and two years from now, it goes"
+ ],
+ [
+  73,
+  968,
+  " to 10,000. The Oracle the price Oracle says it's 10,000. Then immediately, our assets like like my"
+ ],
+ [
+  73,
+  975,
+  "each which belongs to you now, your UGC belongs to me now gets un unlocked, and I can, you know, exit from the the cash out, and you can do "
+ ],
+ [
+  73,
+  985,
+  "the same thing. However, if it does not happen and five years pass, then at the very five year limit, the time capsule evaluates you, okay. "
+ ],
+ [
+  73,
+  994,
+  "This never happened. So then I did you return my one lead, you can return the 10,000 lead. And within this five years time,"
+ ],
+ [
+  73,
+  1003,
+  "that this is the another beauty of time capsules, I can actually just state transitions. I can deploy the 10,000 to other contracts. You can"
+ ],
+ [
+  73,
+  1012,
+  " deploy the, EAP to other contracts provided those contracts take part in this time capsule, which means those contracts will be deemed as b"
+ ],
+ [
+  73,
+  1021,
+  "eing part of the time capsule that will maintain the all the transactions relating to their contracts because it has to keep maintaining a l"
+ ],
+ [
+  73,
+  1029,
+  "ist of every transaction"
+ ],
+ [
+  73,
+  1031,
+  "that it touches upon. Because when it comes to the five year mark or when it comes to the price circle of saying it's 10,000, it has to eval"
+ ],
+ [
+  73,
+  1039,
+  "uate that rollback or not. Because then by the time you interact with other transaction, let's say there are, I don't know, 30 transactions "
+ ],
+ [
+  73,
+  1048,
+  "totally in the next five years. At the end of five years, it realizes that it never went 10,000, then all of those transactions need to roll"
+ ],
+ [
+  73,
+  1056,
+  " back. That means that every contract"
+ ],
+ [
+  73,
+  1058,
+  "that interacts with the time capsule has to be absolutely be aware and make it very clear in the way time capsule are constructed on the l o"
+ ],
+ [
+  73,
+  1067,
+  "ne that it is a reversible transaction. It is on chain. It is confirmed, but it can be reversed. Now how we reverse it, you might think. Bec"
+ ],
+ [
+  73,
+  1077,
+  "ause what we do to reverse it, we don't do rewards. Rather, what we do is we use the problem"
+ ],
+ [
+  73,
+  1083,
+  "of immutability as a feature, which means that let's say on in block height 10, the time capsule started to block height 20. So what we do i"
+ ],
+ [
+  73,
+  1094,
+  "n when in block height 20 comes and the time capsule the time to evaluate, roll back or not, then because every block is a snapshot of the s"
+ ],
+ [
+  73,
+  1105,
+  "tate of the world in the the in the chain,"
+ ],
+ [
+  73,
+  1108,
+  "we'd see the value in block height nine, just the one before when the time capsule started, of all the account balances and provided the sid"
+ ],
+ [
+  73,
+  1117,
+  "e effect is maintained. So nothing outside of those seven, eight, 20, whatever transactions have been mentioned, time capsule is not mention"
+ ],
+ [
+  73,
+  1126,
+  "ed. Only within those transactions in block height nine, which is one block height before"
+ ],
+ [
+  73,
+  1132,
+  "the time capsule started, we see the account values, and we literally put those account values, reset it back to those values. We can totall"
+ ],
+ [
+  73,
+  1142,
+  "y do that without needing to actually do state rewards. Why? Because we are doing it only on the accounts that are in the time capsule. No s"
+ ],
+ [
+  73,
+  1151,
+  "ide effects are allowed. And, also, naturally, blockchains do preserve the exact state of the world. So we know just before it started what "
+ ],
+ [
+  73,
+  1161,
+  "was the value. So this is something that we completely utilize. So what we get as a result are asynchronous"
+ ],
+ [
+  73,
+  1168,
+  "transactions, which means transactions that not just execute completely or none at all, but transactions that execute over a course of time "
+ ],
+ [
+  73,
+  1177,
+  "at different instances of time. In many ways, you can think of them as kind of futures if we're used to the rest model of futures. It's quit"
+ ],
+ [
+  73,
+  1185,
+  "e similar to futures, but l one, of course, is not sure. And what we get as a result are two kinds of asynchronous transaction as a result. "
+ ],
+ [
+  73,
+  1194,
+  "One is time capsules with what I just mentioned. We maintain a DAG across multiple blogs."
+ ],
+ [
+  73,
+  1199,
+  "There multiple blogs. There has to be a criteria for the time capsule to finally collapse where all the transactions within the DAG gets rew"
+ ],
+ [
+  73,
+  1209,
+  "arded or not. And the other is we have which I will share the paper after the call. I will give the details, which is we have a system of do"
+ ],
+ [
+  73,
+  1219,
+  "ing kind of like, precons, but"
+ ],
+ [
+  73,
+  1221,
+  "precons on steroids where, basically, you can actually buy an option to execute a transaction in a future date. And there's a whole option m"
+ ],
+ [
+  73,
+  1230,
+  "arket that we did. I will again share the paper. It will become too involved to explain how the options actually work. They're inter they're"
+ ],
+ [
+  73,
+  1239,
+  " connected time capsules, but they're also their own thing. So what we ultimately get as a result of this kind of a smart atomicity or atomi"
+ ],
+ [
+  73,
+  1249,
+  "city"
+ ],
+ [
+  73,
+  1249,
+  "that is programmable, that extends to multiple blocks, is this feature that you you have to think of it as time traveling transactions. Time"
+ ],
+ [
+  73,
+  1258,
+  " traveling transaction means that, basically, what we get as a result of that in the example of 10 blocks, transactions starts on block heig"
+ ],
+ [
+  73,
+  1267,
+  "ht 10 to block height 20. There can be dependencies of transaction. Let's say, transaction"
+ ],
+ [
+  73,
+  1273,
+  "one of Blockhide one actually has dependency on transaction one of Blockhide n plus one, the next one, which means that this transaction wil"
+ ],
+ [
+  73,
+  1284,
+  "l only execute provided, let's say, the price goes up in the next block. Now you wouldn't know beforehand how to do that. So what what time "
+ ],
+ [
+  73,
+  1294,
+  "capsules provide is you can provide these kind of conditions with the time capsule of future conditions to be true or false. Why?"
+ ],
+ [
+  73,
+  1304,
+  "Because of lazy evaluation. We we include those transactions, the let's say transaction n in the end block, but we don't evaluate them to be"
+ ],
+ [
+  73,
+  1314,
+  " true or false. We evaluate them in the next block based on the condition being the next block is what you're dependent on. And if the condi"
+ ],
+ [
+  73,
+  1324,
+  "tion is not true, we can then just roll it back. So because of rollback features across multiple blocks,"
+ ],
+ [
+  73,
+  1332,
+  "we can have transactions depend on other transactions that did not even yet happen, that will happen in the future. So what you get as a res"
+ ],
+ [
+  73,
+  1344,
+  "ult of that are transactions that looks like that I'm traveling. So for example, I could say that I will sell you like, the example I gave y"
+ ],
+ [
+  73,
+  1355,
+  "ou, the the limit order of EAT versus USDC,"
+ ],
+ [
+  73,
+  1359,
+  "it could be even more interesting where I say, I will send you EAT and you will give me USDC provided tomorrow you stake the EAT and you get"
+ ],
+ [
+  73,
+  1368,
+  " a premium whatever, and you give me a percentage of that stake. Now I don't know tomorrow you will do that. But within that five years of t"
+ ],
+ [
+  73,
+  1376,
+  "he time to live, if you don't do that at the end of it, I will roll back and I will get my so that's the condition I agreed at the beginning"
+ ],
+ [
+  73,
+  1385,
+  " of the time capsule. So within that five year, you can have conditions in the future"
+ ],
+ [
+  73,
+  1390,
+  "not knowing at all it will be true or false, but with the guarantee that at the end of the five year, there will be a moment of reckoning wh"
+ ],
+ [
+  73,
+  1399,
+  "ere you will check that all those conditions have been true or not. If it's not true, you roll back. Right? So they are I mean, we use diffe"
+ ],
+ [
+  73,
+  1408,
+  "rently different terms, but they kind of have the same idea, which is smart atomicity"
+ ],
+ [
+  73,
+  1413,
+  "or asynchronous transactions, time traveling transactions, basically or even irreversible or reversibility and irreversibility all the way d"
+ ],
+ [
+  73,
+  1423,
+  "own. So what you have, as a result of that are smart transactions. Why? Because, literally, these are transactions that do not make you regr"
+ ],
+ [
+  73,
+  1433,
+  "et what the state of affairs because the worst case scenario, if provided you open the time capsule now what I have to absolutely mention th"
+ ],
+ [
+  73,
+  1442,
+  "at if you do any transaction without first opening"
+ ],
+ [
+  73,
+  1446,
+  "a time capsule, later realizing, oops, I shouldn't have done that. Nothing we can do about it. You have to first open a time capsule, then y"
+ ],
+ [
+  73,
+  1456,
+  "ou do some contingent execution on chain, on l one, knowing fully well, worst case scenario, I will have rollback provided you are okay, you"
+ ],
+ [
+  73,
+  1466,
+  "'re happy to only interact and transact within the transaction,"
+ ],
+ [
+  73,
+  1470,
+  "within the time capsule DAGs. You cannot go outside of the absolute. That is a you can almost think of the DAGs. One DAG is basically the th"
+ ],
+ [
+  73,
+  1480,
+  "e span of transaction for a single time capsule. It's almost like a time capsule is almost like a virtual virtual block. We can think of it "
+ ],
+ [
+  73,
+  1490,
+  "in some ways. Right? So this is why,"
+ ],
+ [
+  73,
+  1493,
+  "in many ways, MEV, with the problem of transactions being being, you know, being, front run is actually a problem of time because it changes"
+ ],
+ [
+  73,
+  1503,
+  " the order of transactions being being executed, right, which is a problem of time, which is again a problem atomicity. So in many ways, sol"
+ ],
+ [
+  73,
+  1513,
+  "ving atomicity gets us closer to solving the problem of transactions referring values"
+ ],
+ [
+  73,
+  1519,
+  "across blocks and slots in the future, And which also means that it's a very unique way of also addressing any b problem worth because, you "
+ ],
+ [
+  73,
+  1528,
+  "know, you can always roll back that kind of way of solving it. So there are some interesting philosophical tangents. I won't get details abo"
+ ],
+ [
+  73,
+  1537,
+  "ut it, but, I mean, long story short, reversibility does not break immutability."
+ ],
+ [
+  73,
+  1542,
+  "Because what we do when we do rollbacks, as I said, we put the account, account values to the exact same values it was before time capsule s"
+ ],
+ [
+  73,
+  1551,
+  "tarted. We are not reordering the blocks. The blocks are not reordered at all. We don't change anything about that. So this is why there's n"
+ ],
+ [
+  73,
+  1560,
+  "o immutability that is broken. And only that the changes, the rollback, happen only within those transactions which have already agreed"
+ ],
+ [
+  73,
+  1569,
+  "to get reversed at the beginning of the rollback, which is side effect prevention, as I said. And in many ways, the whole problem of trust a"
+ ],
+ [
+  73,
+  1578,
+  "nd trustless and which is cornerstone of Bitcoin, blockchain, crypto, and all that. It's also a problem of time if you think about it. When "
+ ],
+ [
+  73,
+  1586,
+  "I say you don't have to trust the chain, what you are saying is any promises made on chain will be fulfilled in time. There's no one can cha"
+ ],
+ [
+  73,
+  1595,
+  "nge that once you put something on chain. If you'll be there, like, a smart contract has some condition,"
+ ],
+ [
+  73,
+  1601,
+  "you know, in the future or in escrow, it will be it will be fulfilled no matter what. So in many ways, trust is actually saying something of"
+ ],
+ [
+  73,
+  1610,
+  " surety about an event that will happen in the future. Again, about time. Right? So time capsules are almost like virtual blocks. They're ki"
+ ],
+ [
+  73,
+  1619,
+  "nd of like not really blocks, but they act that way because you get like blocks, like a slot. You get the kind of atomicity unit that you ge"
+ ],
+ [
+  73,
+  1628,
+  "t with blocks,"
+ ],
+ [
+  73,
+  1629,
+  "except they're not actually real blocks. Blocks are blocks. They're not creating blocks or anything, but we kind of give you the feel of it."
+ ],
+ [
+  73,
+  1637,
+  " This way, they're virtual. And solvers end up acting like because solvers are the one who maintain the DAG. They enforce those kind of roll"
+ ],
+ [
+  73,
+  1646,
+  "backs. You know, they and they they kind of act like energy miners. We also have a whole a whole mechanism of insuring against any kind of f"
+ ],
+ [
+  73,
+  1654,
+  "raud when somebody has to forcefully"
+ ],
+ [
+  73,
+  1656,
+  "reverse. Again, you know, the paper I will share, the paper has all those details how we do insurance against any kind of fraud, like, that "
+ ],
+ [
+  73,
+  1666,
+  "can happen from people, unfairly rolling rolling back like solvers. And time capsules do not actually simulate future state because they vir"
+ ],
+ [
+  73,
+  1675,
+  "tualize them, which is a way of saying that when in the case of the example of, the limit order that I gave you,"
+ ],
+ [
+  73,
+  1683,
+  "you do not have to know or simulate, you know, change me what will happen in the future. You just open the time capsule. And when the future"
+ ],
+ [
+  73,
+  1691,
+  " happens, when that block happens, when x y z condition is condition is supposed to happen, you literally evaluate if it does not happen, yo"
+ ],
+ [
+  73,
+  1699,
+  "u roll back. So you kind of almost are virtually going there in the present moment, you know, including a transactional block. Why virtually"
+ ],
+ [
+  73,
+  1708,
+  " going there? Because you can include a transaction block with a 100% guarantees that in the future, whatever condition is there will be don"
+ ],
+ [
+  73,
+  1716,
+  "e. If not, it'll be rolled back. So you are having a guarantee about the future without actually being there and without even simulating wha"
+ ],
+ [
+  73,
+  1724,
+  "t would be there. You were just waiting for it to go there with the with the magic of rollbacks. Right?"
+ ],
+ [
+  73,
+  1730,
+  "So and if you like this, you know, I will share this, the presentation. There's some blog entries. There are some demos in GitHub you can se"
+ ],
+ [
+  73,
+  1756,
+  "e, and there's also, you know, the paper I will share. So, I mean, having said that, I will pause and, you know, will, you know, wait for qu"
+ ],
+ [
+  73,
+  1783,
+  "estions if anybody has. One two."
+ ],
+ [
+  73,
+  1789,
+  "Hi. Thanks a lot for for your talk. I have one question. As I understand, right, that it's like hard to use it as a loans because like if yo"
+ ],
+ [
+  73,
+  1800,
+  "u have a loan mostly you want to use this money and if it's a reversible transaction or a reversible transaction, mostly, you can't use mone"
+ ],
+ [
+  73,
+  1810,
+  "y until it will be paid."
+ ],
+ [
+  73,
+  1812,
+  "Yeah. Yeah. So it's more optional things. Yes. Yes. Yes. Yes. It's more options also. We do some kind of a liquid derivative also. So since "
+ ],
+ [
+  73,
+  1821,
+  "the time you're waiting for it, you can use a liquid derivative. In the example, I give five years, it could be less, of course. And within "
+ ],
+ [
+  73,
+  1830,
+  "that time, you can use a derivative, knowing fully well that, you know, you can also"
+ ],
+ [
+  73,
+  1836,
+  "have like, right is that there will be, ideally, other contracts that will be willing be part of a band capsule. It's a risk. If the thing t"
+ ],
+ [
+  73,
+  1845,
+  "he risk is worth, trying to be part of it, trying to be I mean, agreeing that you will can be rolled back. So that's a bet we are we are doi"
+ ],
+ [
+  73,
+  1854,
+  "ng. Yeah. Okay. And second one the second question is more about architecture."
+ ],
+ [
+  73,
+  1859,
+  "Can you little bit dive deeper about how it can be Sure. Erased? So what we do is, like, we when we have the transactions coming in, we have"
+ ],
+ [
+  73,
+  1870,
+  " an on chain mempool, which is so, basically, for each public key, we create a mempool. We call it laminated proxy. I'm I'm not sure if I go"
+ ],
+ [
+  73,
+  1882,
+  "t this guy. I I think I'm still on the show. Yeah. I'm still on show. Okay."
+ ],
+ [
+  73,
+  1888,
+  "So it has an on chain mempool for public key. We call it laminated proxy. So almost like a on chain wallet, you can think of it, where every"
+ ],
+ [
+  73,
+  1898,
+  " transaction, is, basically stored. And solvers any solver can can listen to all of that. And based on that, they create these tags of trans"
+ ],
+ [
+  73,
+  1909,
+  "actions. Now when you want to do a transaction that are contingent,"
+ ],
+ [
+  73,
+  1914,
+  "that can be reversed, you open the time capsule with the condition that it can be reversed. Then the solvers basically listen to those trans"
+ ],
+ [
+  73,
+  1931,
+  "actions, create the DAGs, and they are responsible for enforcing the rollback. Alright."
+ ],
+ [
+  73,
+  1942,
+  "Well, thank you so much. I don't think we have any more questions. We really appreciate your talk. Thank you very much. I appreciate it. I I"
+ ],
+ [
+  73,
+  1950,
+  " have one question. What was it like, your transition from being a Buddhist monk into a computer developer? I mean, I still have the hairsty"
+ ],
+ [
+  73,
+  1959,
+  "le, as you can see, of the Buddhist monk. That never changed. Some things never changed. I mean, actually, in Buddhist monk, when you're a m"
+ ],
+ [
+  73,
+  1967,
+  "onk, you do,"
+ ],
+ [
+  73,
+  1968,
+  "think a lot about, you know, same things as computational computer science about time, about what it means for something to be what it is on"
+ ],
+ [
+  73,
+  1976,
+  "tology and stuff like that. So, I mean, the main difference, I would say, conceptual, but lifestyle. Lifestyle, of course, being among the l"
+ ],
+ [
+  73,
+  1984,
+  "ifestyle is super different. I mean, your daily schedule is very different. You have a very singular focus on what you're trying to do. So I"
+ ],
+ [
+  73,
+  1992,
+  " would say that"
+ ],
+ [
+  73,
+  1993,
+  "there's a more distractions. You know, many of are computer scientists than Buddhist monk. But, you know, on a conceptual level, not a lifes"
+ ],
+ [
+  73,
+  2003,
+  "tyle level, it there's a lot of overlap. In fact, more overlap than I could think of differences. I get I guess to follow-up on that, what v"
+ ],
+ [
+  73,
+  2014,
+  "alues in Ethereum do you see align with Buddhist values? Yeah. I mean, I"
+ ],
+ [
+  73,
+  2019,
+  "I mean, the whole idea that in Ethereum about justice and fairness, it exists quite a lot that, you know, everything has to have this proof,"
+ ],
+ [
+  73,
+  2028,
+  " don't don't trust, verify. I think that's something very fundamental to without to say that, you know, it's not a belief system. I'm not ju"
+ ],
+ [
+  73,
+  2038,
+  "st telling you a dogma. You have to accept it. Try it yourself."
+ ],
+ [
+  73,
+  2042,
+  "You know, sit, meditate, you know, live your life and see if it works. If it doesn't work, try something else. And I think that's kind of pl"
+ ],
+ [
+  73,
+  2053,
+  "uralism, open openness to and willing to be wrong and trying things, but completely relying we're completely relying on the proofs. I think "
+ ],
+ [
+  73,
+  2063,
+  "that's, like, Buddhism one zero one."
+ ],
+ [
+  73,
+  2066,
+  "Beautiful. I love that. I think that's a great great note to end on. Thank you so much, Bradley. Bless you. Thank you. Thank you. We'll end "
+ ],
+ [
+  73,
+  2086,
+  "the stream here. So goodbye everyone from Edge City Patagonia. Waz. Waz."
+ ],
+ [
   74,
   13,
   "Aloha from HCT. This is Shaka, and I'm very grateful to be given a space where I can have creativity, allow for productivity, and operate in"
