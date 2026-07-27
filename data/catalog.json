@@ -1511,13 +1511,14 @@
     "id": "1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5",
+  "duration": "00:47:23",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5.jpg",
   "speakers": []
  },
