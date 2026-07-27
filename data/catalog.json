@@ -1559,13 +1559,14 @@
     "id": "14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4",
+  "duration": "01:02:38",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4.jpg",
   "speakers": [
    "@MatiasBilkis"
@@ -1759,13 +1760,14 @@
     "id": "10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK",
+  "duration": "00:19:36",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK.jpg",
   "speakers": []
  },

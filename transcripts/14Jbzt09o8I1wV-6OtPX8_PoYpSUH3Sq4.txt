@@ -1,0 +1,305 @@
+# Quantum Tech Beyond the Hype
+
+Date: 
+Source video: Quantum Tech Beyond the Hype
+Drive: https://drive.google.com/file/d/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4/view
+Duration: 01:02:38
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Hola. So welcome everyone to this session of Quantum Tech Beyond the Hype. I know there is perhaps many people in the livestream in Twitter and social media. We are in Patagonia, a beautiful Argentina. I am from Argentina, so welcome everybody. We're in San Martin De Los Sandozin, Edge City,
+
+[00:26] Patagonia. And what I want to talk today is a bit on quantum technology, what this means, and there is a lot of hype with this. So I am a doctor in physics. I I created a research group in Barcelona. So, of course, sometimes we need to sell a bit smoke, but we definitely do science.
+
+[00:49] So I will try to make a point, a real point on what we mean by quantum technologies. So here in San Martin De Las Sandes, I want to interact a lot with the people because otherwise, this topic of physics, technology, and whatever can be super boring. So the first question that I have, have you ever seen these objects,
+
+[01:12] these machines before? At least a picture. Yes or no? Raise your hands if you have seen them. Ah, okay. So what they are, they are quantum computers, at least one platform of those. And this is I don't know the English the the name of the CEO of Google, but you know this guy. And this is Jacob Beta who is the IBM
+
+[01:37] research lead. And the these are two different quantum computers developed, of course, by Google and by IBM. So quantum computing is getting real. Okay? These machines actually work. They do something. I will try to tell you what they do. It's pretty crazy what they do and they do computations
+
+[02:01] that we believe they were not well, we know they are not possible with the machines that we used to do computations now, which are classical computers or even supercomputers. Okay? So in these talks, I say they redefine impossible. Okay? And this is this is happening. So for generative AI,
+
+[02:24] there is a recent paper by by Google. You have it there in the in the references. And then there is also a paper by a company called Quantinuum with people from some university in The US. I'm sorry. I don't remember which university. In which they really prove experimentally using these machines that you cannot
+
+[02:48] do these experiments with a classical computer. And these are useful. Okay? So we call this quantum advantage, which is a fancy name. And we can turn this quantum advantage into problems that are relevant to industry, but many industries. It's quite transversal.
+
+[03:11] Okay? So for science, I don't know if you will agree with this or not. I'm a physicist, so I'm a bit biased. For science, physics is quite transversal as mathematics. Do you agree? Yes? We believe that quantum technologies, computing but also other technologies, will be very transversal
+
+[03:34] for many, many industries, from logistics to telecommunications to material discoveries to gas and oil and so on and so forth. If you want to have a mental image, it's like trying to figure out which and explain which was going to be, that's very complicated conjugation,
+
+[03:57] the impact of AI in industry. It's quite transversal. Do you agree? Okay. So these are only a small list of the private efforts worldwide on quantum computing. When I refer to quantum computing, maybe I want to also refer to other kind of technologies, some sensing,
+
+[04:19] computing, communications, simulations. There are many, many like, the big tech companies are there, all of them. There are a lot of startups worldwide. There there are a lot of quantum hubs, at least 100. And there are also, of course, public efforts for the development of quantum technologies.
+
+[04:44] It's very hard to keep track of this on this. And, you are in the maybe closer than me to the crypto world. Maybe $50,000,000,000 per year is not that much, but for a technology is quite relevant. There is something happening. Do you agree with this? Okay. Is this a number? Okay. So but it's very difficult to keep track on on what is the total market.
+
+[05:12] So what is quantum? Maybe so do you do you know a bit? Do you have a background or absolutely none? More or less? A little bit. Well, I will be very brief. So in these talks, where we want to make a point that quantum computing is a real technology and is happening, we want to keep some distance on the philosophical aspect of quantum theory, which in my case, it's my passion and that's why I studied physics on the first place.
+
+[05:44] But the the thing is that quantum is very weird, but it's not abstract. It is the theory that describes the microscopic universe, like what are we made of and of course it's atoms, molecules, proteins, so on. So when we use this theory to describe the movements and the behavior of the electrons,
+
+[06:10] about eighty years ago, people came up with this device which is called a transistor, which I guess you all know it. Someone does not know what a transistor is. You know. Okay. So we have a lot of transistors. This is the basics of electronics, so on and so forth. And without quantum theory,
+
+[06:33] we wouldn't have the transistor. We wouldn't have also atomic clocks that serves to use GMAPs. And the people that do a bit of history and, history of science, they compare, like, the development of quantum mechanics and the transistor and the last year, to the first quantum revolution. And now we are in the second quantum revolution
+
+[06:59] where we are able to manipulate the quantum correlations and the quantum superpositions at a very precise level. So there it's not me who uses the the second quantum revolution term. That's a report of the European Union, which maybe are more credible than me or maybe not. So why do we bother? If we want to understand nature,
+
+[07:25] we really want to to use quantum mechanics as a computing platforms. If you want to understand the electronic structure of complex enough molecules which are more than, say, 30 electrons, you cannot do it with a classical computing framework unless you do approximations. Okay? This is very important. To discover materials,
+
+[07:50] to discover new drugs, there is giants on this AstraZeneca, preparing these slides, it was a bit sad because it remind me to the pandemics, and the vaccines. At least in Argentina, AstraZeneca vaccines were among us. But it's also very important. And, of course, if you know a bit of quantum computing, you know there is the short algorithm which allows us or provides a more efficient
+
+[08:18] way to factorize a number into its prime, factors. And this is the basics of the RSA protocol for encrypting data, which is widely used. It's not the only protocol, but it's widely used. And, by now, we we have solid evidence that, in the next ten years,
+
+[08:44] we will have quantum computers that very likely will be able to execute this short algorithm. So we we we have entered into a a transition stage in which we need to implement protocols that are quantum secure against short algorithm. Okay? So this is not selling smoke, or at least I I am selling smoke with the NIST, which is the national international
+
+[09:11] is NIST? Do you know? Yes. What is? National Institute of Standard Technologies. Is it like that? I always forget. Sorry. And that's why I need feedback. So these are reports that devised a road map to deploying a quantum safe
+
+[09:34] protocols for encrypting data. Right now, our data is not secure, in terms of the future. So if we store the data, you and then use a quantum computer in the future, then there are no secrets for the future. Okay? That's more or less the message. There is way lot more
+
+[09:59] of quantum algorithms and that's why it's interesting at least to me. It's not only about breaking the RSA code. There are a lot of algorithms that run on a quantum computer that have a provable advantage, and this advantage is not a joke. It's sometimes, it's an exponential advantage. For instance, inverting a a linear system of equations, which is fundamental to everything,
+
+[10:25] like, not only machine learning, in modeling complex systems, everything. But there's way more. So I don't know. How are we doing? Is this two hand waving is not rigorous? Tell me. Are we okay? I will tell you about what is how quantum computer works, at least hand waving in the next two or twenty
+
+[10:52] minutes. Let's see. So the idea is that, this is my favorite picture ever of any paper, which is the the the picture, the cover of a book about something called quantum decoherence, which is a theory that explains how this very weird world that quantum mechanics describes in which we have Schrodinger cats of being dead
+
+[11:19] and alive at the same time. Have you heard about Schrodinger cats? Okay. You have a picture there, which I love it. It's I will go away from the camera one second. It's this one. Okay? But, also, you have a very crazy phenomena such as superconductivity, super fluidity, super fluidity. This does not happen in the classical world. Okay? And, we don't know
+
+[11:45] how to explain how the classical world emerges out of the quantum world. One of the most sensible explanations is the decoherence theory developed by Soulek, who is a researcher now. He's Polish, but he's in Los Alamos. When it comes to making programs and computing,
+
+[12:07] we operate with something called qubits, which can be in superposition of zero and one instead of bits that are either zero or one. Quantum computing is probabilistic on nature. Okay? So it's like rolling dices, and it exploits something called quantum entanglement or a broader class of quantum correlations, which come to be the fuel. And sometimes I make this analogy, which I'm not very sure if it's useful or not, but it's the fuel of the vehicle that would be, you know, the quantum computer. That in principle is the Ferrari. If it's fault tolerant, then you can build it.
+
+[12:47] We have many different platforms for that engine, and we don't know which is the best one. You can use neutral atoms. You can use ions. You can use superconducting qubits. It could be ah, this is a superconducting qubit machine developed by Google or IBM. You can use photons, and there are companies like Sanadu or CyQuantum,
+
+[13:10] is from Australia, but all these companies operate globally. And these are different engines. Okay? We are trying them all, and it is not clear which is the best platform. As I said, as I mentioned, this engine works with the fuel, which is quantum correlations.
+
+[13:35] Okay? Maybe the most famous I will link a bit of photon. The most famous quantum correlation is quantum entanglement. Have you heard about quantum entanglement? Yes or not? No. Okay. So the idea I will not explain quantum mechanics, but the idea is that there is a game, okay,
+
+[14:00] which is called the Bell game in which you have two players and a referee, which is Charlie. Okay? And there are strategies to play this game. If you use classical correlations, if you don't use quantum entanglement, you can achieve you can
+
+[14:24] gain win this game with 75% of probability of success. But if you use quantum entanglement, then the success probability increases. Okay? So quantum entanglement is a resource. Okay? We can comment a bit more on some metaphors, some images that we have to explain quantum entanglement later after the talk. Okay?
+
+[14:50] Again, this is a very good resource for Spanish speaking, but YouTube, you can translate or whatever, from a YouTuber called Quantum Fracture, which I am a very big fan. And then this is again, it's no joke. The Nobel Prize of Physics was awarded in 2022 for this Bell game. And this I think it was two weeks ago. It was awarded for the basics of superconducting
+
+[15:18] qubits. Okay? So quantum is quite real. And to implement something on a quantum computer, what you need is a quantum circuit. Have you seen an image of a quantum circuit? Okay. This is a very basic image of a quantum circuit, very basic.
+
+[15:42] It has two qubits, but it creates a quantum state that is entangled. Okay? This is called the well state. So we have quantum gates. This is the Hadamard gate, and this is the CNOT gate. Okay? And there are some analog analogies to classical circuits. Okay? And this generates this quantum state, which is a separate position of zero zero and one one. Okay?
+
+[16:11] This state is canonical to do many, many things, communication, sensing, but also computing. And you of course, you have many, many qubits. With two qubits, you do stuff like the Bell game like this one. But with many qubits, well, you can do serious computations. Okay? Winning the Nobel Prize, it's serious enough to me anyways.
+
+[16:36] So if you want to learn more, we can talk in the edge city and whatever, but you also have a lot of resources which are very good. Very, very good. This, for example, is a very nice very nice introduction to quantum developed by Penny Lane, which is a software by Shanadu.
+
+[16:58] This is a course by IBM Quantum Learning Experience. This is, maybe the most brilliant professor of physics, quantum physics ever, John Watrous from Canada. And this is like the bible of quantum computing, which is the Nielsen and Trung. Okay? Again, you can put all these in Notebook LM and ask questions. I think the most effective way to learn is to interact.
+
+[17:23] So how are we doing? Good? Good. That was quantum computing in a nutshell. Okay? Where are we now? Like, do you know this sort of a story that computers used to have a size of a room? Okay. That's a picture of a a computer in IBM in the forties,
+
+[17:47] and then it with the transistors and implementing this was working with, I don't know the English, like, pushing cards. Is it the English? Punch cards. Punch cards. Okay. Thank you. Twenty years later, we had this. So right now, it would be like the the stage is, like, we are kind of here.
+
+[18:11] Let's see what happens in twenty years. This is the road map. Maybe it's a bit more optimistic because they are building it and they need to sell it. This is the road map of IBM. It is really unclear, which is the stage of the technology because at some point, it will become a secret of state because it's a geopolitical thing.
+
+[18:37] It's really strategic. But right now, we have around 1,000 qubits that are noisy. It depends on the platform. Maybe we have 5,000 or 4,000. But, back in well, when I began the PhD in quantum computing, we had 50 qubits. Okay? So the growth is quite
+
+[19:02] good. But, of course, you don't measure everything in terms of, the number of qubits. This is like a Pareto front. Like, there are many, many variables, like how many gates you can implement, which are the errors of each gate. And it's very complex to evaluate how good a quantum computer is. It's actually a matter of research. So it's a machine that you cannot compare how,
+
+[19:29] like, if it beats a classic algorithm or not because, you are really in the frontier of knowledge. So it's a very exciting field. Yes. And maybe I'm mentioning something more about all this. People like to term this as eras. Okay? So we are in the transitioning from the NISC era, which is
+
+[19:52] I always forget, noisy intermediate scale quantum devices era in which devices are useless. Okay? Basically. But you can do, interesting stuff at academic level. For example, winning Nobel prizes, which is not bullshit. And now and now we are transitioning to an era in which we can correct for such a noise. You can correct for the errors. Okay?
+
+[20:19] Implementing error correction mechanism mechanisms on quantum computer is a quantum computers is something very hard because you need to observe the state of the quantum system and then correct the errors. But I don't know if you remember, the Schrodinger cut. If you observe the Schrodinger cut, then it becomes either dead or alive. You lose the quantumness.
+
+[20:43] So quantum error correction is very hard due to this fact. So implementing quantum error correction protocols, it's a matter of research and we are doing very, very well at this. So so well that we are entering the early fault tolerant era in which we can correct some errors. So, I really don't know.
+
+[21:09] Maybe this Ferrari is a bit of hype, but I'm pretty confident that we are in between these, two vehicles, which I really don't know the English for this. This is like a car watch. I don't know. And this is a Fidito. We call it in Spanish. So why is this so hard? So you have to get an idea, just an image. Okay? And
+
+[21:33] this specific platforms, which is the superconducting qubit platform, This needs to, of course, exploit something called superconductivity, transmit energy for free. Okay? Stereo resistance. And this is a physical phenomenon, quantum phenomenon, that happens at very low temperatures. So for this, we need to recreate artificially,
+
+[21:57] of course, the lowest temperature, like and we need to operate close to the vac close to the zero temperature, which is minus 273 Kelvin. Okay? Point something. For you to get an idea so sometimes it's cold in San Martin. But for you to get an idea, this is the coldest place that we know in universe. Okay? And we have it on Earth.
+
+[22:24] Okay? So this is really challenging. And people do it in in many, many labs, also in Argentina. Okay? This is something that is standard by now. How do you implement quantum algorithms on these computers? Well, this is a challenge. But we can't really achieve such temperatures, and it's colder than outer space. Okay? So this is impressive. Okay? This is for you to get an image on why this is so hard.
+
+[22:50] Okay. So, again, a bit more let me tell you a bit more on the stage, of where we are. Okay? Maybe am I being boring? I I'm this is the fear of a scientist talking to an audience. Am I getting people bored? But, well, you can run away. Five years ago, when I began my PhD, it was a bit longer, like,
+
+[23:14] eight years ago, whatever. The it was like some sort of academic battle in which, like, is there any any any algorithm that can provide quantum advantage? Okay? So it was like a battle between classical computers. This is the the the the supercomputer, which is beautiful. It's built inside the church in Barcelona.
+
+[23:38] The Marie Nostrum classical computer, and it has a lot of of notes and etcetera. And this is Google's one. So it was a battle between these two. Okay? This battle was kind of won in 2019 by the the so called quantum supremacy experiments,
+
+[24:01] by an totally useless, problem, which is sampling from a complex enough probability distribution, whatever. You can read more on on that here. Right now, we are really researching and thinking on how to make the best of the two worlds. Okay? So how to merge
+
+[24:28] the the HPCs in the high performance computers with how how can they talk. Okay? How to integrate a quantum computer inside an HPC. So it's not available anymore. So and and for you again to get get an idea, whatever, NVIDIA, is really working on this workflow, heavily, heavily. Okay?
+
+[24:53] So that was for quantum computer and what is more or less the industry point, more or less. There is a lot to talk. But what I want to make a point is that technology is not only about computing. Okay? It's way more. And quantum is also way more. Quantum technologies
+
+[25:18] can do more things than just running algorithms. The idea is that if you really want to look on the limits of nature in the microscopic level, we have quantum physics. Okay? But if you look at which are the limits to process information,
+
+[25:42] well, is quantum information theory. Okay? There was von Neumann and Shannon that developed information theory, classical, that describe not only computing but also communications, and that was very, very important. But there is, like, that's the, how do you say, tip of the ice iceberg. The whole iceberg is quantum information theory. Okay? And the quantum information theory describes how
+
+[26:10] what are the fundamental limits to process information, which in its more general aspect is quantum information with entanglement, with quantum states, with superposition, so on and so forth. So you can do many things. You can do this quantum simulation, which is a different form of quantum computing in which you aim to solve something called this is a picture of Schrodinger,
+
+[26:35] and I bought these lenses because of Schrodinger because he's my hero. And this is the Schrodinger equation. Okay? Which is fundamental to to understand nature, to understand the dynamics of electronic structure, for example, to develop a new pharma, new materials, and to to develop more efficient industrial processes, like, to understand better catalysis, for example.
+
+[27:02] This is this is not like an anecdote. For example, if we were able to to solve the Schrodinger equation, there are many processes that we could optimize. For example, in the production of ammonia. I think I I'm not a chemist chemistry. I'm a physicist.
+
+[27:25] But I think it is ammonia, which is widely used to as a fertilizer. Is it ammonia? Yes? Okay. Cool. To catalyze ammonia, we have something called the Haver Bosch process that is super energy consuming. It's categorized as the most consuming process in industry
+
+[27:49] in the world more than than aviation. Okay? If we had a way to understand how is the solution for molecules linked to ammonia production, then we would be able to solve this problem better, more efficient. Okay? So this is the relevance.
+
+[28:12] People in the past had to rely to approximations, and this is why computational chemistry is, so important. And we really achieved impressive results with in the past. Like, we I mean, I'm talking us, humanity. Idea is that we have a virtual laboratory. And with these approximations,
+
+[28:34] this laboratory is kind of blurred. Okay? It's pixelated. This gave rise to a lot of things, like better transistor design, better batteries in the classical regime. In the in the quantum regime, we don't have the pixelated, virtual laboratory anymore. Okay? We are really
+
+[28:59] simulating nature at the realistic level, And this is the the importance of quantum simulation. There are a lot of caveats I am not mentioning. We can discuss later. But, the the big picture is really this one, and I'm super confident to tell this having done a PhD and all these titles, whatever. We have more. We have more.
+
+[29:22] We have something called quantum sensing. Okay? So if we want to operate at the limits of sensitivity, it turns out that you can exploit quantum entanglement to reduce the variance or the error that you commit when measuring a signal. Okay? And this speed up is quadratic. It's not a speed up. It's
+
+[29:46] it's a gain, if you want. This has industrial applications that are currently being commercialized. For instance, you have Quantum Control QControl, which is, again, Australia is doing very well in Quantum. And they they commercialized recently a GPS free navigation system that, uses magnetometry. So
+
+[30:10] to so, essentially, they flag the magnetic, field of earth, and they they developed a quantum sensor that allows a vehicle that to navigate without a GPS. And this is very important because you can be jammed and, well, there are not only defense applications, but also GPS can have interference
+
+[30:36] and so on and so forth. If you want to measure very weak magnetic signals and to understand better the brain, which is actually very important to the scope of HCD, to understand better, what's happening inside our heads, and there are a lot of residences, touching this. Well, quantum sensors operate at the best resolution available now.
+
+[31:01] There is a company, for example, that is, use that is developing a resonance system that, that has the shape of a helmet. Okay? And this, for example, for practicality, it's useful if you want to to measure the brain activity of kids or in real time instead of being in a hospital. There are a lot of applications I am not commenting because otherwise, well, we want to go for dinner or whatever. No? We will need to finish.
+
+[31:31] If you want to know more about the impact of quantum sensing, there are reports by McKinsey or more in the the slides you can access. So maybe a few more and we are kind of finishing. Are we okay? Yes?
+
+[31:56] Quantum communications maybe is the in in the short term, it's like what we really need to act now and what people are acting now. Maybe we are not acting in Argentina, but, I I think worldwide, people are deploying secure net communication networks. For example, JPMorgan has its own communication system using quantum
+
+[32:22] QKD, something called quantum key distribution, to communicate between different data centers. Also, Toshiba. Well, many big companies are deploying these, secure quantum networks, which basically exploits the these these properties of quantum entanglement and this
+
+[32:45] collapse of the wave function, you know, when you measure the quantum state, you destroy it. Well, this can be used to detect that there is an spy, an eavesdropper. I think it is the the term technically. This is on the QKD side. Okay? But there is more. You can, in terms of information theory, and I don't think this in in the outreach landscape
+
+[33:10] of physicists or scientists trying to tell people the good things of quantum technology, You you you can can increase the capacity of a classical system. So how many information you can transmit if you send quantum entanglement
+
+[33:33] through it. Okay? And this is amazing. We have something one example is super dense coding, which in which using two bits, you can transmit four bits of information. Okay? And this can be scaled, and this is super cool. And, this can be scaled way more. And then finally, there is something called post quantum
+
+[33:56] cryptography, which is really relevant for blockchain protocols. I don't think I'm really a newbie to blockchain and all this. I did a little of research. I know that Bitcoin blockchain doesn't realize some part or at least in RSA, and this is vulnerable. Okay? Ethereum, on the other hand, it has elliptic curves.
+
+[34:19] Is it okay? No. No? Okay. A different protocol. Well, but it's not RSA, and it's not vulnerable for quantum. But there are a lot of, there are a lot of protocols that we currently use to encrypt data that are vulnerable to short algorithm. So post quantum cryptography
+
+[34:42] are a series of algorithms that secure against a quantum attacks. Okay? For example, this short algorithm. These are classical algorithms that can prove that if you have a quantum computer, you cannot break that. Okay? Yes. Yes. This is this is why I mentioned that we are in the transition,
+
+[35:12] and this is not a technological matter. It's actually social trans transformation that isn't like, the technology is going to be deployed and constructed. And nowadays, if you don't use post quantum cryptography, then, you are not secure. Then two more, and I will finish because otherwise it's a bit too dense. There is a like, we have current currently limitations on what we can do with
+
+[35:41] our technology. For instance, if you want to optimize a very complex problem that has a lot of variables, well, multivariate optimization, it struggles a lot. And here, like, the state of the art are heuristics, not only neural networks, but also, like, mixed integer optimization algorithms, so on solvers. Well, if you use
+
+[36:04] quantum computers as heuristic optimization algorithms, well, it turns out we have evidence that they are very good. Okay? Particularly good for combinatorial problems and also for multivariate optimization problems. IBM is, of course, on this and so on and so forth. This is a very, very, very nice review, quite
+
+[36:26] quite old by now, but 2023. The the field is moving very, very fast. This is very important. Everyone is on on this. I don't want to bother you more with that. And then, of course, the the most sensible, perhaps, right now, research topic, which is a research topic. It's not claiming it will happen. We really don't know, and that's why we need to do research.
+
+[36:52] Is can for example, in the optimization, this again, people don't mention this that much. They they they sell smoke like, I know you can train a neural network with a quantum computer, but you can you can have more efficient alternatives
+
+[37:18] to stochastic gradient descent using something called Hamiltonian gradient descent? Well, it is a sensible question, and, this is, maybe now a bit of a promotion. This is the the topic of my research group that I cofounded after I finished my PhD on quantum machine learning, which is in Barcelona. And then
+
+[37:42] to maybe to finish, again, like, but here, we are in Argentina. In Argentina, currently, we are lacking a quantum strategy. This is a bit, what I would really like to to to boost. We have a quantum strategy in the past. Now we are kind of weakened
+
+[38:07] due to many, many factors. So this is a bit my mission now. And then I hope I can I could tell you a bit why quantum technology is, relevant and why this should be and why it is a strategic line of development of each country and each big enough company?
+
+[38:30] So I really care about what is the social impact of technology, not only quantum. So, also another promotion. If, you care as well, I I will also host a session on mental health impact of AI tomorrow at nine in the morning. So it's very early, unfortunately, because I will go back to Buenos Aires on midday,
+
+[38:58] but, well, we can connect again in DevConnect or so on. You can drop me an email or a telegram or whatever. And that was my presentation. I hope you like it. The idea I'm super open
+
+[39:21] to questions and yes. There are hello? Hola. There are, blockchains that claim to be using post quantum cryptography already. How can unsophisticated users trust such claims? This is a super good question. I really don't know.
+
+[39:46] This is why, people gather in teams and this is why scientists and technical people need to be honest. I have no clue. I'm pretty sure there should be ways to verify that the protocol is quantum secure, but, I don't know. I don't know the answer. But that answer should exist. Maybe maybe one comment more. I am very bad answering questions because then I I dwell a lot on but it
+
+[40:20] is true that companies implement and now, like, in Argentina, there are companies that implement post quantum cryptography and protocols, but they acknowledge they have no idea what they are doing. So this is why it is so important, the role of highly technical people like, I don't know, PhDs or people that spend
+
+[40:45] the academia system is so fucked up, but PhDs in quantum technologies are really important here to be critical. It's very hard to be critical otherwise. I didn't answer, but I gave an opinion. Thank you. Yes. So, besides the optimization
+
+[41:09] use for the industries that you mentioned a lot, besides industrial uses, applications of this, What do you envision for, let's say, twenty years from now, practically speaking? What what do you imagine as an impact besides besides
+
+[41:32] all the optimization in in computing, in energy consumption for industries that was very present in in in your in your presentation? Right? But but if you had to exclude the industrial applications, what can we imagine, let's say, in twenty years from now? This is a super
+
+[41:57] super good question. Yes. I like it. I am not a photologist. I mean, I there are people that predict the future very well. I don't think I fall into that category. But there is this analogy with, like, this image that I I showed oh, this will be very long. But
+
+[42:20] with, you know, these IBM computers that were so big as big as a room. Well, I don't know where they are. But then they evolved and they turned into a smartphone. Okay? So if you want to do that analogy, maybe in the future, we will god knows what will happen and probably it will not happen, but it might happen
+
+[42:47] that as maybe AI or machine learning algorithms were not available massively, say, ten years ago, but JPMorgan or Google had its own, it might happen that we have a quantum computer accessible, in the very far away future
+
+[43:10] or maybe some device that is accurate enough to predict, I don't know, health, to monitor our health and body sensors. Again, this falls into a category which in which maybe a scientist with the this super technical background is not comfortable because we don't have enough data to predict I mean, I don't know. Nobody knows.
+
+[43:36] For sure, having an AI system on your phone changed, at least to me, changed a lot my my daily life and the way I do research. Yes. Of course. Something maybe one one one thing more. I am super interested in how all these very,
+
+[44:00] I mean, behind this, I made a very big effort to prepare this kind of presentations. I'm super interested in how can we develop a common sense as a society, of what not only quantum, but there are other disruptive technologies which are very, very hard to grasp. There is this, slogan that people say, democratize
+
+[44:25] knowledge and whatever, but I feel that advancing technology might help into that direction if you want to be futuristic. Mhmm. Hi. Thanks for the talk. I really enjoyed it. Who is there? Ah, Ola. Hi. I'm David. Thanks for the talk. I really enjoyed it. I had a question about the optimization. Obviously, it has a great implication on the humanities productivity increase
+
+[44:52] and economic impact thereof. But as you briefly mentioned, much of the optimization improvement supposedly is actually heuristic. We do not know that if quantum computer actually solves the KKT conditions for nonlinear optimization. So, therefore, where do we get this confidence that quantum computing will actually be good for optimization? I think this is where a lot of scientists, including myself, who actually does specialize in optimization,
+
+[45:19] have questions for quantum researchers and whether this is, 90% hype and 10% substance. Thank you. So that's super good. For some problems like this the stat satisfiability, I'm I'm very bad at the this C glass. We we have provable advantages, but these are very few very few.
+
+[45:45] I I'm also very critical on this because, my background is actually quantum information theory. And in my PhD and in a considerably big part of creating my group, I was quite far away from real problems on industry. If you talk and you move around,
+
+[46:10] which are and ask people, like, which are the methods they implement to optimize in, say, logistics. There is a big company here called Mercado Libre, which is kind of the the Amazon of South America or Latin America. But, in many, many branches, they use deep learning. Okay? Some sort of neural networks.
+
+[46:34] And we can argue on this, but it's very hard to prove things theoretically on the convergence of an algorithm reaching to a solution with this nonlinear optimization algorithms. Okay? So this is the first answer. People actually, like, heuristics is not a trial and error. It's a bit like an answer to inform the decision,
+
+[47:04] but it it it's important. It works, and it changed the world. And this is one thing, and so it's worthy to try. On the other hand, people do numerics with quantum computers and they they see which are the scaling loss of, like, reaching to a solution, how much how many instances you had, much time, how much power you consumed, and the scaling is quite favorable. So we have numerical evidence for some problems for some problems.
+
+[47:29] And then I wanted to mention something more, which is people in academia and also in industry, of course, but in academia, in particular, they follow a lot these complexity theory claims on NP hardness or, sharp p, and then you can generalize complexity classes to how
+
+[47:52] hard it is to solve with a quantum computer or not. And then there is something called QMA and BQP, etcetera. These are statements on worst case scenario. And it's very hard to prove what is the average case, for example. Okay? So this is really unexplored train. It's unexplored because it's very hard to to do mental experiments.
+
+[48:18] I'm not defending it. I'm just exposing evidence. You had a question. No? I did. I did. Okay. I did. I have a question regarding also blockchains. And have you heard about proof of work functions which are optimized specifically for quantum computations?
+
+[48:42] And if so, do you believe they can affect seriously this quantum race? And can we democratize quantum computations? Do you understand the question? No. I understand that. There is proof of works Yeah. Which some somehow, they implement a quantum algorithm on the bank?
+
+[49:07] Not quantum algorithm. I don't I am not familiar with them. But offer the challenge for, let's say, fighting for, like, winning with quantum computer. For example, we will factor in blockchain. They offer this factorization number challenge global and another is qubitcoin,
+
+[49:32] which actually was implemented by MIT professor. So, I mean, I am really not familiar, and I think this I arrived four days ago. This is my first interaction ever with the crypto blockchain decentralized world. What I am realizing is that mathematicians, physicists,
+
+[49:55] computer scientists, with a strong background can easily jump in and borrow protocols or ideas for and, I mean, this is super multidisciplinary, and it's quite interesting. This is an uninformed opinion just coming from information theory. I'm super sure there are a lot of algorithms that are implemented for quantum communications
+
+[50:20] that can easily be brought or bring or sorry. I don't know how to pronounce, to the blockchain protocols. And and this resonates a lot with me. But what I also would like to stress is that, because of the exponential growth
+
+[50:42] of, something called the Hilbert space, so if you have two qubits, then you have you you need four bits. But if you have n qubits, you need two to the n bits. So it grows exponentially. If you have something called qtrits, then it grows like three to the n. And if you have continuous whatever, it it goes very bad. I don't think people explore the capabilities of quantum computing
+
+[51:10] to model the behavior of, all this, crypto market at all. In the financial system, people, for sure, have explored this, and there are some there are stuff called Quantum Monte Carlo, which, which boost the the time that you need to compute certain quantities such as
+
+[51:38] such as the average of the cumulative of a given risk variable. Very technical. But they are very important. They are very costly. And with a quantum computer, you can implement them quadratically faster at least. There is something called quantum singular value transform, and this is like a toolkit to study probably distributions. So to
+
+[52:03] the take home message is I don't think people have studied enough or explored, maybe because it's very new, maybe because there is not enough quantum people in blockchain community or maybe I ignore it. The modeling power of quantum technologies or quantum computers for private distributions. We can talk about this later.
+
+[52:27] But yes. Thank you for the talk. And my question is, like, what do you think about if AI can leverage development of quantum computing engineering? If if AI is here like a catalyst, like, if you understand me. Totally. There are
+
+[52:54] well, whatever. I really need to train my my skills to move through the presentation. No? For whatever. Yes. This is Vital. I mean, it's Vital not only for quantum computing, but also to deploy quantum, networks for communications. Without machine learning, you cannot do it.
+
+[53:18] To to implement error correction protocols, this is so hard. So the the the the picture is like this. You need to process for a 1,000 qubit machine 10 times the amount of the data that Netflix has per second to correct for those errors. So that's a lot. And you need to automatize that, of course. Not to mention when you are fabricating
+
+[53:42] the qubits, you don't want to have a you need to automate, automatize. And here, there is a lot of machine learning. I think there is a very wrong conception that quantum machine learning is about beating machine learning algorithms or, like, I don't know, neural networks, whatever.
+
+[54:06] This is simply wrong. I mean, they do very well at certain tasks. At some other tasks, they don't do that well. For example, modeling quantum behavior, and this is why they should be useful. Then there is something called I mean, I can talk years about this because I did my PhD on that. But so maybe yes. To to do a bit of,
+
+[54:30] not propaganda or promotion, but we really have a lot of resources here. This is the group of quantum machine learning that I cofounded and I was leading until very recently, and then I came back to Argentina. Here, like, there there is a lot of material. This is a web page. One tool that we rely on a lot is something called quantum neural networks,
+
+[54:55] which are, again, exploratory. We can talk a lot about quantum neural networks. But the answer the short answer is, yes. It is, it is vital. How do you say vital? Vital? Vital. Off my English. It's vital for for a quantum computing. AI is vital. Yes. They are
+
+[55:22] retroactive. Okay. So then theoretically, if AI can leverage, like, quantum computing and then quantum computing can leverage like everything else, maybe it can be like a No. No. No. Okay. I mean, for every society and and this is something very nice and I will sell a bit smoke and then maybe we can now because it's a bit late. But but but, I mean, you need limits. Like, when you raise a child, you need to put limits.
+
+[55:51] These limits exist. Okay? So society has its own limits. Technology has its own limits. Machine learning has its own limits. Quantum computing has its own limits. Okay? One caveat, when I said there is a caveat here for the Schrodinger equation, This one, well, it it has its own limits, actually. You of course, you have this not blurred quantum laboratory with a quantum computer.
+
+[56:22] Oh, come on. But if you look this on the complexity theory eyes, finding the and this is very technical. Finding the ground state of a of a an k local Hamiltonian is actually QMA hard, which is analogous to NP hard for quantum computers.
+
+[56:45] Okay? So, this is, again, impossible for a quantum computer to find on the worst case scenario, the ground state. This doesn't mean that quantum computer are useless at all. It's like saying machine learning is useless. No. It's not use okay. Yeah. Thank you. Okay. I don't know. I feel yeah. Sorry.
+
+[57:13] How can we safely migrate migrate to post quantum cryptography since it's a new tech and there might be vulnerabilities. So it there's a kind of double edged sword where either you stay with the current crypto that's battle tested,
+
+[57:35] but in the future it's gonna be breakable or you adopt new tech, but you can get hacked or, be subject to a vulnerability? So, again, as, I was mentioning for AI and quantum computing, people also talk about layers of security when implementing q k QKD
+
+[57:57] and also PQC, which is post quantum cryptography. You need both. So they complement if one fails, you have the other, etcetera. I guess that there are many questions that one can answer, but then, practically, it's a whole different thing. So I don't know. We need to see also. Sorry if I cannot provide some more concrete answers, but I don't think we know the answer. What?
+
+[58:26] It depends in there. Like, it's, of all, defense. Yes. I don't know. I mean, again, I'm not a crypto guy in in the in the info theory aspect, but I'm not I I mean, for sure, there should be a trade off if you put too many protocols, then you are too slow or whatever. But, what people are saying and what I have heard on conferences and so on, whatever, is that, you already need both,
+
+[58:55] layers. I think the field is evolving so fast that when taking decisions on how to implement technology and so on, you need to be very dynamic. And this is the problem not only for AI, but for quantum is, like, potentiated. So I will extend this question. Like,
+
+[59:20] if I have a piece of data, whatever, string, and I will encrypt it by, like, basic cryptography Mhmm. This is not post quantum secure. And if I encrypt it by post quantum secure cryptography, it's not secure before, like, basic computers. So I need to
+
+[59:42] do the two types of encryption on one piece of data to be, like, secure before both types of machine? So what I can tell, from from this is that, there are certain, cryptographic protocols that rely on the hardness of, solving a given problem. For example,
+
+[01:00:05] factoring a number into its prime factors, it's, believed to be in NP. Okay? NP and yes. However, it is actually in VQP. Okay? So that means that you can solve it efficiently with a quantum computer, but you cannot solve it efficiently with a classical computer, which is what I said.
+
+[01:00:30] This is not the only problem that you can leverage to encrypt data. This is useful. This is my understanding on the matter. Okay? And this is useful because it's just too very, very hard. You cannot prove it, but it is very hard to, to decompose it with a classical computer. But there are problems that are not in BQP.
+
+[01:00:54] Okay? And that's the magic of post quantum cryptography. Again, all these relies on assumptions from complexity theory, which worked very well. I mean, we have protocols that work very well like HTTPS and so on. But I
+
+[01:01:17] think it is really here, it highlights the importance of doing research, and discovering new things. We don't know. It it might happen that there is a new quantum algorithm. Like, quantum computing is really burning. Okay? So, I don't know. It's bit late now. Let's go for dinner.
+
+[01:01:41] Okay. Thank you.
