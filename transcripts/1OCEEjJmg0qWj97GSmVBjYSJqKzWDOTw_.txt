@@ -1,0 +1,181 @@
+# How I Became a Blockchain Monk
+
+Date: 
+Source video: How I Became a Blockchain Monk
+Drive: https://drive.google.com/file/d/1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_/view
+Duration: 00:38:05
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:03] Hello, everyone. Thank you for coming. So today, we have Anush Das Gupta from Smart Transactions. He'll be presenting how I became a blockchain monk. So, yeah, it's a real treat to have him online with us today. He will tell us about his journey as a monk from Wall Street and then to blockchain. And then I think this is the best way for us to end our time at Edge and right before DevConnect.
+
+[00:30] So, yeah, please enjoy, and then we have some time for questions. Thank you. Thank you. I'm just uploading the file again. Somehow it didn't work.
+
+[00:54] Sorry about that. Okay. Wonderful. Yeah.
+
+[01:18] Thank you for this great opportunity. I'm, you know, always happy to talk about, you know, spirituality and crypto. Two things being, you know, for me, two sides of the same coin, and I hope as a result of this talk, could show that in many ways, of us are blockchain monks. It's not just me. I am I want to decentralize this idea that only I am a monk
+
+[01:43] or somebody is a monk by going to a monastery or whatever, but we all are in our own individual ways, of course. And it is in many ways inevitable. So so, initially, I'll talk about just personally where I've come to in my life through various experiences. But, eventually, I want to talk about that
+
+[02:06] that basically this is something it's not like something that happened once that I used to be a monk, but that I'm very much still a monk. So that's something I want to explore. So it all started this way, in the talk, I want to spend less time rehashing my past. I want to go quite, like, briefly.
+
+[02:29] But more importantly, I wanna talk about now, how now we still are very much monks. I am still very much monk, and the community is very much full of spiritual light, the crypto community. And so it all started as a kid. I grew up in India, in the Eastern Part of India, in a in a state called West Bengal. India is good federalists, so each state is you know, has quite a lot of freedom in terms of their
+
+[02:56] political economic arrangements. When I was growing up, my state, West Bengal, was communist. And it was communist, but in the Soviet style, kind of communist. So that meant, like, we had kind of an idea where we had public health. We had the kind of usual things of you had Russian
+
+[03:20] food and things like that. But the thing that was quite unique was our approach towards money, towards property. Because as you as you might have heard back in communism, earning money, it kinda looked down upon, like, making a profit. Right? Even having a private property, boasting about it, also kinda looked on upon. So that's not something, you know, really
+
+[03:45] people really value that much. So and also what did what people did value a lot, which is quite unique, was this ability to have free time. They were always obsessed with rather than hustling and making money. Let us have free time to read poetry, to go on walks, to look at the boards and plants and all that. So in that way, that was quite an interesting perspective. But what happened was, you know, growing up in that thing, I was kind of devoid of,
+
+[04:15] in many ways, the kind of spiritual religious traditions that you have in South Asia and India and and that those parts. Right? Because communism. But then when as I was entering my teens, I was introduced to programming, the wonderful world of computer programming. The first thing I did was, like, pass pass call and then then c and other things. But with that, I became completely
+
+[04:38] obsessed with logic. That is the geeky sum. Right? From communism to geeky sum. I was obsessed with logic. I realized it was, like, a superpower. I could just, like, you know, find the answers or so I thought to any problems in life. Like, don't we care about this in our society versus some other place? Why don't we have all the options that you have in markets and everywhere else in the world because of companies? So logic, logic, logic, logic all day every day.
+
+[05:05] But what I realized doing all that logic every day all day is it gave in me this kind of a obsession that I cannot just believe what people are telling me, even communism. I have to have the logic. And so early seeds of what came to be Buddhism came about because then finally, I I made an exit from that geeky communist childhood that I have. So when I started with young adult life, like, eight, 17, 18, I started university.
+
+[05:37] In India, I was studying computer science. Because I already was a geek for a long while, I realized that it wasn't much challenging for computer science course. So I can have it was structured in, like, every six months, you get an exam. We call them semesters. And every six months, I would just be for two months for the exam and study. And for the rest of three and a half months, I would go to a monastery. So I was in this monastery
+
+[06:03] in the Himalayas in the northern part of my state based Bengal. It was near there's a part called Bhutan. This is a next to that. It's in the border there. It's a Tibetan Tantra style of what we call Pajrayana Buddhism. And there, the whole structure, my more structured, they were very nice. It was three year, three month, three weeks, the course,
+
+[06:28] but it was structured in six months also. And every six months, we had a three month, three week, three day, three hour retreat. So, basically, that meant in six month, same time as my university course as well, for computer science. I had two months little less than two months not in the monastery, not in the retreat. So I could do both at the same time. And I did that, and it was a lot of fun. But, I mean, we had you know, we were secluded for a while. We used to live by ourselves. We used to do things together.
+
+[07:02] All the things that you do as a monk. But most importantly, that what really drilled into me being a monk was this obsession that that you cannot just take your time for granted. You have to make something out of it. Right? This is something I see still now. Again, I come back to the current moment, as I was saying. In crypto, very much people are building, people are shipping, people are creating people are challenging existing,
+
+[07:30] thousand year old systems of finance and property and all all of the the ways, our world works in crypto. Same thing you do as a monk. You you challenge the fundamentals of hundred thousand years of how the human mind works with all its, you know, good and bad and everything in between. Right? And as the monk like, you challenge it all. You do not trust. You verify every
+
+[07:55] state of your mind. You pause. You reflect. You practice. You verify. You see if it's the truth or not. If your mind is telling you stories or not. If it's really the case, same thing in cryptography, same thing in blockchains. Right? Same thing with incentives and economics. So, I mean, I wasn't, of course, aware of blockchain. It doesn't exist any of that, but now I see the connection so clearly. So
+
+[08:21] then finally, at the at the end of three and a half years, three years, three months of the monastery, my my teacher told me it's time for me to leave the monastery because well, you cannot get a degree in theology, what you get at the end of it, in kind of secular terms, if I want to say it. Theology is basically theo means god. So it's a kind of study of gods and divine things and that kind of stuff. But most importantly,
+
+[08:48] what you get is not a degree. The ultimate thing what you get is the lifestyle, the practice, the the the kind of effervescence, the the thing that never leaves your soul, never leaves your life. You know, that that was what I got. So even if I left, it never left me. And and then after that, I finished my computer science, then I did a drastic turn. I said, okay. I need to I cannot just live in the same place I grew up now now that I am, you know, you know, try to be a monk and just continue as if nothing changed. Right? So I needed a huge change. So there was another turning. And this is something
+
+[09:27] in Buddhism, we use this metaphor of the turning of the wheel, the wheel of dharma as we call it. Dharma is kind of you can think of it as religion, but not really as, like, way of life, a set of practices. It's like a set of rituals together. It's called a dharma. So the turning of the wheel, you know, and life is all about these circles. You know, you wake up and you sleep. You breathe in, you breathe out. It gives you circle circles. So this metaphor of circles, the metaphor of wheel is fundamental. And wheels are also one of the earliest technologies
+
+[10:00] that we invented that helped us move enormous distances. Same thing, dharma. It helps us move enormous distances in our life. So the wheel of dharma or turning of the wheel is the metaphor I will use. So the first turning of the wheel, as a kid, communism. Second turning of the wheel, figure like, discovering logic through programming, geekism.
+
+[10:23] Third turning of my wheel, Buddhism in the Himalayas. All about to verify and actually experience the truth. That's Buddhism one zero one. Fourth turning of the view, consumerism. The world out there enjoy all the greatest and the latest. I moved to New York City, the place to, you know, do the consumerism to hilt. Right?
+
+[10:46] And I I, you I used to go to concerts. Used to go to all kinds of places. Super fun, New York City. I used to work at Wall Street in finance. The interesting thing of working about there in Wall Street was in 2011, yes, the one of the most incredible turning happened. It was almost thrust on me, which was the occupied Wall Street. I was not the one occupying.
+
+[11:12] I was the one being occupied. I I had to go to work. I was working at Nasdaq, and I couldn't get to work. And and I talked to the people there occupying. I was like, wait a minute. I'm the bad guy now? I did not know I'm bad guy. Like, tell me what did I do wrong? They explained to me, okay, finance, centralization, all the problem. I said that's that's all good and all, but
+
+[11:39] what are we gonna do about it? We cannot just stop. Wall Street doesn't work that way. Right? It's more complicated. Is there an alternative that works? There's a day something called Bitcoin. 2011. I was introduced to Bitcoin. I did go home and I looked up Bitcoin white paper. To be honest, it didn't make much sense. I mean, I got the concept, but I didn't get the feel. I was like, okay. I don't see how finance could be changed by this Bitcoin thing. It's just some kind of a way to send something
+
+[12:11] that somebody's willing to trade for pizza or whatever, right, at that time or some other things on the Internet. But I don't see you placing finance. And then, you know, long story short, I ended up being responsible at Nasdaq to convince them to build the very first blockchain that was twenty four fifteen called LINK. We built LINK, I remember, at Nasdaq. And so and then finally, left it all.
+
+[12:38] In 2015, I left it all. I I completely you know, from, like, working in in big tech, trying to do crypto, was like, you know what? Exit the next turning of the wheel. It's full on full on startup life. I moved to Paris, and I and I started, you know, different things trying to trying to get deeper, trying to fall deeper into the rabbit hole, which is crypto.
+
+[13:03] And the interesting thing is through all these things is I mean, this is something that never left me. You know? This is the historical Buddha, Sakhalini Buddha. He once said in this one of these, you know, sutra. Sutra or Sutta is basically he's saying it's gospel. You can think of it like gospels in some ways. Do not go by what you have heard nor by what has been transmitted
+
+[13:31] by a tradition, nor by the general consensus, nor by what has been handed down in the collection of text, nor on the basis of logical reasoning, nor on the basis of inference, nor by reflection on appearances, nor by agreement after pondering views, nor by what seems probable, nor by the thought or thinking. You have to be there to know there.
+
+[13:57] Right? So what Buddha was trying to say, do not trust, verify. And we see this is the rallying cry of crypto. Do not trust, verify. Deep deep in Buddhism lies the very model behind all crypto. Do not trust, verify. And this is something I wanna explore. This is the entire talk. Like, there's still everybody. All you listeners right now and everybody who listen to this talk and everybody out there doing the the work of, you know, of the spirit. Everybody. Right?
+
+[14:29] Now think of our other perspective. On the perspective this, imagine the ideal protocol. The ideal protocol, crypto protocol. It would have the most trustworthy third party imaginable. A d d who is on everybody's side, takes no side, verifiable, non
+
+[14:53] non impartiality. Right? Neutrality. A deal is on everybody's side. All the parties would send their inputs to God. That is the the ultimate in this imagination. That is the ultimate credible neutral party of all parties. Right? God. God would reliably determine the results and return the outputs.
+
+[15:15] God being the ultimate in confessional discretion, no party would learn anything more about the other party's inputs that they could learn from their own inputs and output. Sounds a lot like confidential transactions. Right? And in our temporal world, we deal with humans rather than TVs.
+
+[15:39] Yet too often, we are forced to treat people in a nearly theological manner because we have to hand over so much of trust on people as if they are gods, as if they are credibly neutral because our infrastructure lacks the security needed to protect ourselves. If only there was the infra that existed. Now this was spoken by Nick Zabo,
+
+[16:02] instrumental in Bitcoin, as you know, called the god protocols 1997 in the Extravagan forum. This was instrumental in the Extravagan forum where Nakamoto also published his paper for the Bitcoin white paper on. And, you know, as you know, the influence that Hal Finney, Mnishab, and others had on the founding of Bitcoin and crypto. Right? So this was right there at the beginning. They were looking for the spirit. And so you realize no one is trustworthy because no one is deity.
+
+[16:31] This is from from, you know, Jabo's work. That means no gods, no security because god is the only ultimate security as for this imaginary problem. Right? Imagination. Security is thus a theological problem. Theo as in god. Right? A a problem to deal with gods. Security is thus a spiritual problem.
+
+[16:53] And that's what we are trying to solve have been solving for the last 18 now. Crypto is turning 18. We have all been solving a security problem. Because Buddhism is crypto. Crypto is Buddhism. I hope there is there is I was able to, you know, transmit this feeling. That that's what I feel every day, all day. Like and there's Sutra in Buddhism, we say something quite similar. Form is emptiness.
+
+[17:17] The Pali word for it is sunyata, which means zerowness. Form is emptiness. Emptiness is form. Buddhism is crypto. Crypto is Buddhism. And so Buddhism sorry. Bitcoin. So I I I sleep as a Buddhism. Bitcoin and all of crypto is not a purely objective science only. It's also theological.
+
+[17:40] It's also a spiritual practice. All of crypto is full of rituals. Now let me count the ways crypto and Buddhism are two sides of the same coin. So the first thing that you see in theology, in spiritual practices, in crypto is obsession with trust, with faith, with belief, with confidence.
+
+[18:02] You know? All religion, all the spiritual practice talks endlessly about, you know, do you believe in this and that? Do you believe in God? Do you have faith in the year of the faith and all that? And that's the whole world of trust. And crypto and Bitcoin has been insistent and then following Bitcoin every other chain of trustlessness. But you don't need to trust anything. This is nothing if not a theological,
+
+[18:26] spiritual, religious claim, the claim around the trustlessness. Thanks to cryptography. Thanks to mechanism design. Immutability, another very important aspect of all crypto. That is the idea that comes again, same idea you see in spirituality of the secret. The secret is something the past transactions are secret. You cannot tamper it. You cannot change it. You are we are all waiting for, like, six, ten, 20 confirmations to see to the point that
+
+[18:57] it's never will be reversed, never will be undone. That's that's completely spiritual. Cyber the whole I cyberpunk, I mean. I read cyberpunk. Cyberpunk. You know, the whole idea of privacy. Like, what is really if you think about it, just just take a moment and think what is the most private aspect of your life? Your soul.
+
+[19:21] The thing that you cannot bear. Even if you try your best, only moments of deep, deep connection does the soul come through. That deep connection, that is, you know, the kind of protocols we establish of trust, of faith. Right? Like, you handshaking protocols in crypto or in real life when you meet somebody, you develop a strong bond, and then finally, you reveal your soul. You're able to do that. You cannot do it instantly. Right?
+
+[19:46] Even the, you know, the disintermediation, non custodial aspect of crypto. Again, very spiritual. It's all about every mediation corrupts the soul. Moment you have a third party intermediary, it must be corrupting the transaction purity. That is the period of the soul. That is the transaction should not be intermediated. That's you know, all of crypto talks about it and that's right. And rightfully so, even the idea of turning zeros and ones that goes through fiber optics
+
+[20:16] into thanks to all kinds of mechanisms and in digital gold, digital gas. Thus, minting and staking is literally like alchemy. So all you do is crunch numbers, but what you get is enormous value. When you're able to send an ETH, you send the Solana, send Bitcoin, or run dApps. Right? So minting and staking is alchemy one zero one.
+
+[20:39] The similar you know, you find this sociology in in religious studies, in theology means theory of salvation. Every spiritual practice has something to do with they have some idea about salvation. How can you be saved? Saved from what? Right? In crypto, you have saved from the evil banks, saved from the Fed, saved from the
+
+[21:02] the the state that has the, you know, right to violence or whatever. One way to save yourself is Huddlism. You Huddl, and you will be saved. That's the idea. So these themes you see very much same things, eschatology. Eschatology in theology means a theory of end of times. Every like, in Buddhism, they have, like, Buddha's latest incarnation.
+
+[21:26] Kalki will come back, will save us all. In Christianity, you have the same thing with Jesus. Every religion, you have, you know, the stick the second, third coming off. Whoever is the one will come and finally set things right. So there is always a theory of exit. Bitcoin is the ultimate exit in Bitcoinification, for example. In every chain, you have that. Bitcoin, they're quite obsessed with it, but you have in different forms. So what we realized through that is every technical debate, and I really want everybody to realize that as we work as computer scientists,
+
+[21:57] as designers, and making up as whatever technical work we do, we are always doing spiritual work. Technical work is one of the most spiritual work you could do ever in your life. And so let me count the ways crypto is really just. You know, as you know, as you can realize, once a monk, always a monk, I have I've not stopped doing what I used to do. Right? And,
+
+[22:21] like, anytime you see anybody admonishing anybody from, you know, using the same public key twice, That's very similar to what you see religious people do, admonishing others for doing the wrong thing or evangelizing to noncoiners how evil banks out there are debating which fork is the true fork, the only fork. Right?
+
+[22:43] Or, you know, looking at the Nakamoto Bitcoin talk as the bible or some important person that their conversations as the bible. Every every community has their own set of bible, right, in crypto. And this could logic, as I was saying, data of USD or the genesis block, you know, the the mythical genesis block of, you know, Bitcoin or other chains for that matter. And you have key ceremonies. Cryptography,
+
+[23:06] of course, has key ceremonies, bootstrapping ceremonies, Forking is right of passage. All the all the drama that goes on when and forking happens sometimes. And then meme magic. I mean, I don't know if we tell you what, the level of meme magic that happens. Right? That is, you know, that is just like, you know, that is incredible craft that people do. So now let me count the ways crypto is a promised land
+
+[23:29] just like you see in all religions. Right? You have the scarcity promise that Bitcoin gives you, that it will never be more than 21,000,000. That's a promise of scarcity. You have your property promise that you're not your key, not your coin. If you have your key, you surely have your coin. It's your property. That's the promise. Right? Huddl promise will make you happy in the long run if you hold long enough. Right?
+
+[23:53] Proof of work promise. You get if you launch, you will get reward. You definitely will get reward if you have, you know, high enough hash power. Build promise. If you build it, they will come. Uptime promise. That's our shutdown proof. That's the idea of of crypto. Like, it cannot be shut down. Like, even if there's one node out there that can still keep the network going on, that's the decentralization.
+
+[24:18] Right? The Oracle promise. That Oracles, they promise to give you the most objective data by having, for example, Chainlink and others. They have multiple nodes that collect the data. There's some kind of a quasi consensus between them. They are trying to get to impartiality. That's the promise. Right? Stablecoin promise. We'll always be honest to one, and we all know, you know, what happens when that is not the case. And that has happened time and again that stablecoins
+
+[24:43] have not been able to keep their promise for a brief period, not the most important ones. And then, you know, all hell breaks too, as we know, like, fully liquidated and and wrecked. And so the promises are important. And so what we and this is something, you know, I want to leave everybody on with is this incredible line I saw from, you know, Mark Bess' true magic. In the beginning was a code,
+
+[25:06] and the code was hanging out with god. Soon enough, some came to the conclusion that the code was god. All of this happened thousands of years ago. Knowledge won, then lost, then rediscovered, like an Atlantean shale erupting from the crystal clear waters of some Caribbean island.
+
+[25:29] Now archaeologists deny its evidence, but a clever few have come to read its inscriptions. And these are the people among all of us reading the inscriptions every day, all day doing the work doing the work of the spirit. Right? So instead of just thinking or in addition to thinking code is law, what if we start thinking code is god? Not just code was god. Code is god, and we have to keep making it god every day. That is the responsibility we have
+
+[25:58] to do the right by the community, by the users, by each other. Right? Because the code is god. So design choices make or break the soul of software. That's that's fundamental, and this is why spirituality or theology is cryptos crypto. You know, the word crypto, Latin means secret. Right? That's what is hidden.
+
+[26:22] What is really hidden in the most technology that is all about hidden, the private keys and other kind of things, which is cryptocurrencies or crypto. What is hidden behind the hidden crypto is crypto. It's spirituality. It's theology. And this is why it's so hidden. We don't even talk about it in those terms. We cannot joke about it. Like, yes, you know, it's called like crypto is or AI or this and that that, but no. No. No. It's not a joke. And it's not
+
+[26:50] a fault. It's a feature if you do actual spirits work. It's a feature when we realize crypto is crypto is spirituality. Doesn't have to be a bad thing. Doesn't have to turn into a death cult. It could be beautiful, light giving, full of light source of energy. Right? That's it. That's that's that's where I will stop. And you can find me on X and Telegram, and I'll pause here. If anybody has any questions, I'm happy to answer.
+
+[27:42] Alright. I'll start here with the first question. How can we as artists, kind of express the feelings of, the values of Ethereum
+
+[28:09] just like in public, but as well as in our own actions. And do you think that like the eightfold path or any forms of enlightenment would help help that? Yeah. Definitely. I mean, I I like the question a lot. I'm sure. I'll okay. Thank you. Yes. Then, yes, definitely. I mean, as
+
+[28:32] you see in Buddhism, history of Buddhism, and and, in fact, all religions, artists have been instrumental in expressing what all the modalities of the religion. One of the challenging things that we have and, actually, to be honest, we have done quite a bad job at in crypto, is making the field crypto into so
+
+[28:55] strictly so called technical in a mathematical sense that it leaves most of the people of the world outside. They don't feel they're insiders. They feel they're looking outside, and they get wrecked often. So one of the great ways of doing that is, as artists, is to do the work of of education, of pedagogy,
+
+[29:17] of something that is instrumental in every religious tradition that when you are a monk, you're also teaching younger monks. You're teaching lay people. You're actually educating, not in a way that you know and they don't know, but that you learn together. And I think what is better the best way to teach anybody anything is by through art because that's the lived experience that you can provide. Right? So I really feel when, you know, put her I mean, the eightfold part talks about right speech or right thinking.
+
+[29:48] Right speech and right thinking, the best way to speak is to art, is to poetry, is to painting, is to, you know, have showing new ways of imaginings. And doing to the point that we could almost, I would say, disrupt this kind of a over that kind of a strict how do I put it? Like, it just like, it's super technical field and nontechnical people cannot as if as if
+
+[30:18] artists don't have techniques. Artists have enormously sophisticated techniques. Every artist has enormous it's not just the person who write can write code has all the technique, or the person who can do math has all the technique. And this is something that needs to happen where, you know, we need to decentralize the kind of disciplinary the kind of
+
+[30:41] coding as a discipline has become the main the master of crypto that or mathematicians that we have to decentralize and allow other modalities, artists, to have equally as much say, as much right speech, right thinking. And that that, you know, we definitely need where artists should imagine explaining
+
+[31:05] and expressing what is even if, like, I would love to see in the future in Wikipedia when somebody opens what is Ethereum, what is crypto. The first entry is not a super technical, like, coding oriented entry. They explain what is blockchain in a multidisciplinary holistic way. That could be beautiful. That can touch every person on the planet no matter what their background.
+
+[31:33] Thank you. That's a very beautiful description. We have another question coming up. Alrighty. Hello. Thank you so much for this talk. And I loved the focus specifically on Bitcoin, of course. But in the world we live in now, there are so many coins. There's so many protocols. There's so many communities and conferences, and it goes on and on. And it's exciting.
+
+[31:59] It's extremely exciting, but also overwhelming. And so I'd like to hear from you from a spiritual perspective when you encounter something new. And it could like I said, it could be anything. It could be a coin or a conference, edge city, whatever it is. How do you encounter that from a spiritual perspective? Is there a specific meditation you do? Is there a thought pattern? That would really help me because I I feel like mind. I'm not a monk, but I feel very like minded with you, I do feel overwhelmed at sometimes. So I hope that question makes sense.
+
+[32:29] Yes. Yes. Yes. Thank you very much. Thank you very much. I mean, I mean, being in the world, I feel I will give you a quick answer than a longer answer. The quick answer is Luo Jong practices. So they are these kinds of, like, little, like, sayings you can meditate on. These are very good just to do in a everyday basis
+
+[32:52] with all the you know, because one of the thing that that those are practices talk about is every waking state is also a dreaming state. And I think that's something, you know, I have to remind myself all the time because with more and more clients, more and more communities, more and more events, conferences, and all that, we can it's very exciting. But also,
+
+[33:16] it draws us in so many ways. Right? Like, we lose the source. Right? And challenge in crypto is, of course, that one, I would say, shallow way of centering ourselves is to centralize. Right? And centering and centralization, you know, comes near each other. That we don't want. We don't want that ego boosting, basically. Like, me, I am. This is my play. This is my home. I am used to this gung ho on this one coin, one event, one chain, and I'm not gonna look anywhere else. That's the way of centering. It does center in some ways, but in a very shallow way. So in the long run, we actually,
+
+[33:54] you know, are harmed by it. Right? The best way is, of course, to eventually find the good and the commonality in all of the many chains, you know, in all of the many events, in all of the many conferences that we have. And I think that I tried to do because at the end of the day, you know, every waking state is also a dreaming state. And to realize that and to see in all the different people that I meet,
+
+[34:21] in many ways, they are also looking for the same thing as I am looking. Like, what you said, you are also looking we're all looking the same we all have the same question as you had in spite of the fact we may look different, act different, not even say the same words, but we are. And we know that deep down. So sometimes I have to even remind myself not to listen not to hear the war not to listen to the individual words, but listen but hear deeply into what exactly is being
+
+[34:50] communicated. What is the ask, actually? And I think that's, of course, is an everyday practice. I I as a western, Lujan is quite powerful at that. I try to do that. Also, I mean, I try to just what I do in every conference, especially, which really personally helps me a lot, I interact a lot with the folks who are not there for crypto,
+
+[35:15] but they are in the event. So if it's a bar where inside events happens, I will make sure to talk a lot with the people working at the bar about crypto, about what they think, about what do they feel is intrusion of all these geeks and nerds coming in talking about this coin, that coin, and their weird lingos that we have in our communities. Right? And I really can really get them to be interested. Many of them think crypto is a scam. Rightfully so, they have they have good reasons.
+
+[35:43] And trying to understand, like, we are never inside the community. We are also outside every community as we're inside. The outside is the inside, and the inside is the outside. Right? And so doing that all the time in every community, in every place that I go, physically where I go, always gonna talk to the people who are there for other work or just lurking really ironically,
+
+[36:06] that's really stabilizing and grounding, I feel. Thank you so much. And just a quick comment. I know, I went to the Bitcoin conference earlier this year, and several of my friends, we were all talking about how we helped our Uber drivers set up their first wallet or gave them or, you know, orange peeled them literally on the ride to the airport and in a very positive, uplifting, spiritual way. Yeah. Yeah. So I love that you said that. Thank you so much.
+
+[36:31] Thank you. Thank you. That really touches my heart. That's that's very that's exactly exactly it. Yes. Otherwise, also, creates a kind of this class barrier of, you know, privilege and privilege. You don't want that. You want to decentralize all of the privileges. Right? So and I think that's that's beautiful. Thank you for sharing that. I will just add, I will be
+
+[37:13] sorry, Maria. Just last thing. I will be in urgent in Buenos Aires for the Ethereum DevConnect from this Saturday for a week. So if anybody wants to meet, wants to sit, just wants to sit and breathe and look at the trees and stars or walk or even do, you know, technical work or any other kind of artistic thing, I'm always happy
+
+[37:38] to meet people. So yeah. Yeah. Thank you, everyone. We do have an event on Monday in Buenos Aires. So if that's something that interests you, let me know, or you can also follow our socials and learn more. But, yeah, would love to see some familiar faces there. Thank you so much. Bye bye. Thank you. Bye bye. Bye bye.
