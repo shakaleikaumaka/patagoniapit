@@ -1802,13 +1802,14 @@
     "id": "1SM20FUJv_61A0mGLyoECllGvlq_eCc9A",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1SM20FUJv_61A0mGLyoECllGvlq_eCc9A",
+  "duration": "00:42:01",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A.jpg",
   "speakers": [
    "@nethan_eth (Devconnect Lead)"

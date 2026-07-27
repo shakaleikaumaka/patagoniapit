@@ -1,0 +1,197 @@
+# The Road to Devconnect: Fireside Chat
+
+Date: 
+Source video: The Road to Devconnect: Fireside Chat
+Drive: https://drive.google.com/file/d/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A/view
+Duration: 00:42:01
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Alright. Welcome, everybody. Welcome to Edge City Patagonia for those folks who are in person here in the physical space and also catching us online. So I'm very, very excited about this session. I'm it's a privilege to be joined by Nathan, who's the lead for DEFCON and DEF CONNECT. Thank you. Yeah. Round of applause, please, for Nathan.
+
+[00:24] So these events have played a very important part in my life personally and in the lives of, many of the folks I work with and many many of my friends in the space. They really are kind of the, you know, the star in the calendar for many of us in the Ethereum ecosystem, and we're extremely excited to,
+
+[00:47] be about nineteen days away, is that right, from DevConnect Buenos Aires. So we will be exploring a little bit about the event itself, the space that it holds in the Ethereum ecosystem, some of the things that will be coming up. But just to start, maybe, Nathan, you could start by just telling us, for those who don't know, maybe folks who do and want a refresher,
+
+[01:12] what is DevConnect and what is actually about to happen in Buenos Aires? Thank you so much for the intro, Timur. Thanks for having me. It's also it's also a pleasure to be here at HCD, which also now plays a a big part in creating the like, setting up the stage for for the DEF CON and DEF CONNECT to happen. Also, I attended the one in in Chiang Mai, and it was a a real a real vibe. It's amazing to be here also in Saint Martin.
+
+[01:38] So, yes, we are doing DevConnect, for those who don't know, in November. It's about eighteen days now, I believe. Thanks for reminding the pressure, you know, always on. Yeah. It's it's getting super close. I can't say a few words about about what is DevConnect. What is DevConnect as well? So it's the main Ethereum worldwide Ethereum event.
+
+[02:02] It it is organized by the Ethereum Foundation. So we are a team part of the foundation, and we organize this event on a yearly basis. So we go around the world, and we organize this this this big event once a year. Last year, it was in Bangkok. The year before, it was in Istanbul. And this year, it's in Argentina, and it holds a very special place. And I think we'll deep dive into that a bit later on.
+
+[02:26] This edition is a very special one. First of all, it's DevConnect. So historically, you had DevCon, the large conference, DevConnect, which is a little bit more of a decentralized and more, like, a different format of event. So I can tell also a little bit more about what is DEFCONNECT in the the high level, and then we can deep dive maybe. But in a few words, DevConnect is, once again, like, the biggest yearly Ethereum events worldwide,
+
+[02:53] and we're doing many things. So it will be an event that will last six days in Buenos Aires in Argentina, so next month. And we're doing a lot of things inside this big building that we have. We have about 40,000 square meters in the center of Palermo, which is a very up and coming district and very lively district. So we'll do different things. So as part of this main building, there will be 40 events.
+
+[03:22] Some of them we host, and a lot of them, most of them actually are hosted by community and by the community and community teams and and members of like, and teams as as well and projects. And I can tell maybe a bit about some of these events. We are doing a big kickoff event on the November 17. It's the Ethereum day.
+
+[03:45] It is the main event that we, as the dev con team, organized during this this this week. It's it acts as a as the kickoff event for the week. We we will have mostly keynotes by the key key ecosystem leaders from from EF, from the Ethereum ecosystem, and also from the local ecosystem from from Argentina that that that helped shape the you know, what Ethereum is in Argentina. So it's about a full day of programming from nine to nine to seven,
+
+[04:16] almost no break. We have all the leaders from l twos as well. And so, yes, it's a it's a massive day. We we we are very excited about it. So you should definitely attend the Ethereum Day on the November 17. We organized a few others as as per the tradition. We also organized a big event on November 18 with the local communities. So Ethereum, Argentina, Iskipu, Cresimiento,
+
+[04:41] all these local communities that we work very closely with. It's called Ithcon. It's Spanish. It will be an event in Spanish. We'll have speaker from Mercado Pago, like web two companies, web three companies. Chiquitapi, for those who know, will be here, and a lot of interesting Argentinian figures. And throughout the week, as I mentioned, we'll have more than 40 events around AI, around TFi, around
+
+[05:09] enterprises, builders, hackathons, conferences on on more like deep tech, whether or deep tech or more technical events like CK events, privacy oriented events as well. So many events and many different type of content. So that that was the first big aspect of what we do, the 40 events that we host as part of DevConnect.
+
+[05:32] And this year, we are doing, maybe most importantly, the the first ever Ethereum Worlds Fair where we host about a 100 applications of Ethereum. And it is the first time ever that we are doing this, and you'll be able to join and come into the venue and meet the teams and experiment with the projects that are making Ethereum
+
+[05:56] what it is. So you will be able, as an attendee, to come, set up a wallet, pay with crypto, and go play around all the apps inside the venue. So this is a big aspect of what we do. And then on top of the events and the Ethereum ones there, which is already pretty big, then we do a lot of activations. We have a music stage that Shaka here will obviously be part of. We have soccer
+
+[06:19] pitch. We have meeting rooms, discussion corners, more than 15 community hubs, which are community led programming that gets self organized during the week. And, well and also, last but not least, a massive co work. So you will be able to just join the venue, attend the events, go to the world's fair, and when you need to get some work done, then just sit sit around, and we'll have good WiFi that we're working very hard to get. It's not an easy thing. For those who know La Rural, it's pretty famous for or infamous for its Wi Fi.
+
+[06:55] And yeah. So that's that's about it. That's what DevConnect is. Amazing. Thank you so much for that overview. I mean, sounds like a very flourishing, decentralized, active event that kinda mirrors the ecosystem that it is representing, which I think is beautiful. I want to touch on the World's Fair a little bit more in in a bit, but maybe we can just start with you know, part of the work that you do is you decide where these events take place, and it's a very big deal. You're bringing, I think, fifteen, twenty thousand people at a time to a particular place. So maybe we can just ground into, you know, why are we here in Argentina, and how does this play into kind of the LatAm ecosystem more broadly? Right.
+
+[07:34] So the selection process of why we're going to a country or another is key in what we do. I think HCD is also very much involved with these types questions because you're even doing more events that we do. We're doing how many events are you doing a year? We do two flagships a year. Yeah. Two flagships and then many other pop ups. And then a few different yeah. I'd be curious to hear also about your criteria and how do you pick. We're interviewing you right now. So We'll do that.
+
+[08:02] But so we are taking into consideration many different items. First of all, we rotate our events. So last one as I've mentioned, last one was in in Thailand, in ACA, the one before in Istanbul, the one before, he was in Colombia, as a matter of fact, and before Amsterdam. And so we we rotate, and we make sure that we also go to places where,
+
+[08:26] well, other events not like, don't necessarily happen. So this is a first important criteria as well. Only we rotate, but we we try to go where, first of all, we haven't been, but also we where others would probably not naturally go. We take into account the accessibility of of the place in terms of visa, for example, first of all. And by the way, this is something that we've worked on very hard this year. We've
+
+[08:54] set up a streamlined process directly with the immigration office of Argentina, and we've been able to process almost a southern visa for people that don't necessarily get them. And so we've been able to bring people from all over the world that weren't normally excluded from these events. So accessibility in terms of visa, accessibility in terms of, well, like flights and transportation.
+
+[09:18] Argentina, it did not score the top of this scale. It's pretty far from many places in the world, and and many people had to fly from other countries to attend these events. So accessibility is one. Obviously, and maybe we will deep dive into this, but the strengths and the the depths of the community in terms of projects, entrepreneurs,
+
+[09:41] in terms of activity in the Ethereum space. And so this is obviously a very important criteria and the overall also growth potential of of an area. I would say that this is also one of the key differentiator between what we do, DEFCON, DEFCONNECT, and also maybe very very much actually is the the strong local impact that we're
+
+[10:06] that we're trying to have, and and we are putting a lot of efforts into this. So back to your question about why did we go to Argentina because he was scoring pretty high in in terms of accessibility, in terms of strength of the community, in terms of understanding of the of the tech, in terms of growth potential. The we've been able to set up this visa process that helped a lot of attendees and solve many barriers.
+
+[10:35] I haven't mentioned maybe one of the obvious the venue, obviously. We we organize large events, and we need venue that that host to the many, many attendees that we target, and we it's about ten ten to 15,000 attendees every year. So that's what we're looking at. And and yeah. So why Argentina? Because he was scoring very high because the community has been
+
+[11:00] asking for it for many years. It's not the main reason, but but there are good reasons why they've been asking for it. And the biggest reason is that also we want to show the world how Ethereum is being used in real life. In Argentina, it's probably one of the best example of how people use and need Ethereum and has been needing Ethereum for many, many years because,
+
+[11:26] basically, Ethereum brought accessibility also in terms of accessibility to foreign markets, accessibility to dollars because some of you know that or some of you even have lived through the Coralito crisis or the the time in history where Argentinians were blocked from withdrawing dollars from their bank account, and so they understand
+
+[11:51] the power of having a censorship resistant and twenty four seven accessible technology, which is Ethereum, which Ethereum provides, and also, obviously, the stability that can provide stable coins based on Ethereum, which which led basically to a very important adoption of the Ethereum technology in Argentina. So that's the short answer to why we're going to Argentina.
+
+[12:17] Yeah. I think that's very well said. My sense from having been in the space for a long time and being someone that has lived primarily in The US and Europe for the last couple of decades is that often when we talk about Ethereum in New York or in Berlin, it's it's obviously a beautiful idea, but it can be quite theoretical. We can talk about why, you know, it might be useful for us in the future or how we might get a bit more yield, etcetera. But when you come to places like Argentina and you spend time with the locals here, you understand
+
+[12:47] very quickly that this is not theoretical. It's not abstract. It's very much real on the ground. It's something that people use. It's something they want to use and want to solve, like, real problems with. We're here in Edge City Patagonia, and we've onboarded about 30 merchants in the town from restaurants to cafes, etcetera, to be using Ethereum, make it really easy to pay
+
+[13:11] for our attendees. And it's just amazing to see. So I think there's a lot that we can learn or the world can learn from the way that folks in Latin America, use crypto in the real world. And I think it's wonderful that right now, you know, there are so many people coming here from around the world to spend time together. So I wanna touch on maybe some of the different things that are getting built
+
+[13:39] at DevConnect. And one of the main things that I've I've heard only a small teaser about is something like a super app. So I wonder if you could maybe share a bit more detail about that to the extent that you can, you know, give us a bit of a spoiler. Right. So with the goal of facilitating payments and onboarding as many newcomers as possible to the to the space.
+
+[14:04] We've been working on building an app. We call it a super app, but it's basically the DevConnect app that will allow that will allow with partners to onboard people to to the space very easily. So as I've mentioned, newcomers or anyone can come into the venue, like, get a get the app. Or, actually, you'll be able from starting next week to start to try it as a beta tester. But
+
+[14:30] but, yeah, you'll be able to download the app, set up a wallet very easily, or connect your existing wallet. So we will we will use get para to for anyone with an email address to set up a wallet very easily, And we will provide ways for people to on ramp crypto as well. So you can, with an email, get crypto wallet started and then easily
+
+[14:55] transfer some crypto to this app and get some payments done. And so this is also within we integrating with partners, we allow people to get to pay in the venue using crypto, and so we want to showcase we want to showcase this Ethereum and the power of stablecoins and the power of payments and how seamless can that be. And we are very much aware of the onboarding friction that the the space have been facing the the last years, like the
+
+[15:24] the the pain of having to hold your private key, your seed phrase. Like, people don't really want to have to deal with this type of things, even though it's it's very important. So so, yes, we wanna onboard them with this app and allow people basically to to pay in the venue. And then we also use this app to, of course, give all the information you need to know about about the event.
+
+[15:48] You will have information about the venues and the classic event information, I guess. And then we we also want to gamify the experience a little bit. So you will have quest inside the app that you can that we that you will be able to to play with and interact with the what we call supporters, so the the apps that we will showcase. So that's about it, I think. I've mentioned that. And then, obviously, you'll find the calendar, the the tickets, and but, yeah, that's the DevConnect super app.
+
+[16:15] I think that's really cool because, again, I think for many folks, historically, crypto has been and Ethereum has been something quite abstract and theoretical, and now it's starting to become something that people are using maybe without even knowing. For example, at Edge City, everyone can pay for their tickets with Ethereum. They can log in with Ethereum. They can pay at the stores I mentioned with Ethereum. And for a lot of folks who come here who are not even part of the broader blockchain ecosystem,
+
+[16:45] they have no idea they're using crypto infrastructure. And often, we have you know, we inform them of that, and they're like, wait. What? I thought crypto was a scam, and and now it's actually solving real problems, which I think is exciting. And there's it it seems like the space in general has been moving from a focus in on infrastructure to a focus on applications
+
+[17:07] and actual use cases. And so maybe we can double click there a bit more on this kind of world fair concept and hear about, you know, what are some of the different areas of applications I imagine, obviously, DeFi and social, but also moving into AI, I imagine agents, etcetera. So, yeah, maybe just give us a bit more detail there. Right. I before that, I you mentioned something interesting is that, yes, we are moving towards a phase
+
+[17:33] with the technology, with Ethereum, where people are using the tech without even noticing. And, again, in Argentina, you have oftentimes, with payments, you have delays. Right? Like, when you pay your merchants, they often don't get the money until a few days, sometimes a week in their bank account. And with crypto, we can we have a better solution. We have a better technological solution that the entire world is using that allow merchants to receive
+
+[18:00] payments almost instantly. Right? And so there's not even need to market the solutions when you can clearly explain that. And when they understand that, they understand the power of the technology. And I think we hope that's showing that to thousands of people in Argentina and and onboarding merchants because we'll work with local merchants, with food trucks, with service providers, and we hope that they will witness the power of it.
+
+[18:26] About the showcase in the the Ethereum World's Fair, we so I've mentioned that we'll have about hundred hundred projects showcased organized into districts. So you've mentioned a few of them, actually. Obviously obviously, the biggest one will be DeFi. We have about, I think, 25 DeFi projects that will be there with which you'll be able to to play around. There will be some interesting activations. I think Morpho is working on the
+
+[18:51] am I am I putting some spoiler alerts here? Alright. Barbershop. Barbershop. Barbershop. We have some cool activations on the ground, and you'll be able to use the different applications and the likes. You've mentioned also AI. We'll have that in social. So Forecaster, ENS will be there as well, obviously. A few other very cool projects in social. We have a gaming area
+
+[19:17] where we'll showcase some merchant games, and I think this is also an interesting space where we'll have the community curating themselves the projects, the interesting gaming projects of the Ethereum space. What have we not mentioned? The collectibles we've announced that we'll be there. That'll be very nice. We have an artist cohort happening there. Important one as well, the privacy. So the privacy district,
+
+[19:43] which will be well, with a project like a zero x zero x privacy pools, Railgun, Xerox Bao. Can't remember all of them all, but, like, we we have about a a dozen of them. Obviously, also the l two districts, so you have the biggest l two of the space. Base will have a big space there. We have
+
+[20:10] well, the big ones. So, yeah, that's that's about it. So we have eight districts. I might have missed a bit some, but I think good. You're saving some for the for people to discover themselves, yeah, on purpose. Yeah. Yeah. Wonderful. I mean, look. I I really can't wait. I can't wait to be there in the space and and the energy. I think one thing that folks might be curious about is
+
+[20:35] how Ethereum almost organizes itself, how the Ethereum foundation functions, and I'd I'd love for your perspective. I'd say for someone who's been in this space for a while, I've noticed that the EF has has kind of shifted gears almost in the last twelve months, and it's been it was really cool to see. But I'd love to hear your perspective as someone that organizes kind of the main event
+
+[20:59] in the in the ecosystem. You know, how has that been? How has that changed the philosophy around DevConnect itself and, yeah, anything around that? Okay. So a lot happened in the foundation itself, and so that will be also my view of how it changed. I so DEFCON and DEFCONNECT has always been quite isolated or independent, I would say, rather,
+
+[21:23] and acting as a very independent team as part of the foundation itself. I think we were very close very closely we've always been very closely working with the with all the foundation on various item. Like, I was leading programming for DefCon last year, and many, many efforts helped with the review of the content and not only effort, but the community. So we're always working very closely with both EF and the community.
+
+[21:49] The I think despite the restructuring, we we remain very independent. We basically have a budget, have a team, and then we get approval on the critical the critical directions for the conference. But apart from that, we're acting very independently, but also very closely with all the different actors and teams, not only, again, at the EF and the ecosystem.
+
+[22:15] The way it's structured, basically, the EF is now split into two. You have the protocol on one side, the research and development, if you will, and then the ecosystem development branch of the foundation composed now of many, many teams. We have a digital studio. We have we have an enterprise team. We have a founder success team, and so we are supporting we're getting closer to the enterprise, closer to the founders. We're getting out there. We have a comms team now. So this is this has been a big change for us because we have been able to coordinate
+
+[22:49] a lot of the effort with the EF. And you might have noticed now the EF is doing a lot of comms itself. I mean, we used to be not doing comms two years ago, and now just today, we had a livestream clashing with another, you know, space, and we're and I'm here, and a lot of people are around. Right? So so, yes, the the EF shifted
+
+[23:12] very positively, I think, in in the the last year, and the dynamic changed a lot. We're we're able now as DEFCON and DEFCONNECT, we're able to coordinate with all the teams and have a focus on very specific area. You can also tell that the DevConnect, you'll see that many of these teams organize their own events. You have a, yeah, Founders Clinic. You have, again, the DeFi Today event
+
+[23:38] of DevConnect that will be led by a few teams at the UF. And yeah. So so, yeah, we collaborate very closely with with a lot of them, and the organization helped to, well, clarify some of the key projects that we're now working on. How has in your time in Ethereum and also being involved in these events, how has the focus of the events
+
+[24:02] themselves changed? I'm curious about that. Is that have you seen that evolve maybe philosophically, maybe actually tactically in the way that they're organized or the, you know, the the space that they take in the industry? Right. So first of all, that's my third edition and the first edition that I'm leading. So that's also a big change for me, personally. DevConnect changed a lot itself from
+
+[24:29] Amsterdam, which was basically the result of of the COVID where we figured that, okay, we will organize a decentralized event. We won't we we cannot physically legally organize an event for 20,000 people. So let's just signal towards a place. We do a co work, and then we'll let people organize their own event. That's that's what the story of Amsterdam was was.
+
+[24:51] And then Istanbul, we did the same, but we scaled it up a little bit. Right? So we had a a bigger like, we signaled towards Istanbul, then we we had a big co work, and we host like, we hosted a few community events, EF events mostly, as part of the main building. And, well, this year, as I've mentioned, is a completely different beast, which is more of a hybrid model between DEFCON and DEF and past DEFCONX with a, like, a completely new concept, which is the Ethereum World's Fair,
+
+[25:19] which, by the way, comes from the idea and statement that now Ethereum is ready to and applications based on Ethereum are ready to be showcased. Like, now we felt that now was the time to have an event where we will show Ethereum in production showcasing, like, the real projects of Ethereum into actions doing real thing on the ground. Right? So the focus of DEFCON, which is more of a developer focused event with highly technical talks,
+
+[25:47] not only technical, but quite technical talks. You'll never by the way, in DEFCON, DEFCONNECT, you'll never hear you'll never hear about token prices or trading or the if you do, it's from a technical perspective, and this is not about profit or never. Right? So it's about technical. It's about community building. It's about the values of Ethereum, censorship resistance, free and open source software,
+
+[26:11] decentralization, security, and all these type of things. So I think that remained very much, but I think we shifted the focus for this edition, at least. We shifted the focus away from a purely dev developer focused event to a more mainstream application focused event where, again, we'll showcase the application of Ethereum, and we thought that it was the year to at least experiment with that. We'll do that this year, and then we'll see how it goes.
+
+[26:39] Honestly, it's a it's a big challenge. It's the biggest event we've ever done by by margin and and in terms of complexity and and scale, but in terms of involvement of the local community, in terms of many many different factors. So we'll see if we will be able to replicate that because it's a it has a cost,
+
+[27:03] not only financially, but it's a it's a yeah. As I've mentioned before, people, I think, don't don't get the scale of what we're doing. It's it's a massive thing. And even at our event, you'll be able to live there for for a week. And you'll have food, we'll probably kick you out at some point. But I think you'll you'll come back knocking at the door to to do all the cool things we will get for you. Amazing.
+
+[27:31] One one of the things that you mentioned is that we're really building this for a global worldwide audience, and something I really respect that you mentioned earlier is that you actually went ahead and did the negotiations with the immigration ministry of Argentina and made it so that many folks could come and get thirty day visas. We've actually benefited a lot from this. We had
+
+[27:56] founders and attendees coming from various parts of the world, from Asia, from Africa, who were having a very difficult time getting visas. We actually have someone coming from Bhutan, from the Himalayas. He's arriving tomorrow, and he benefited from your program. So thank you so much for that. And you also have, I think, other programs that make sure that people from around the world can join. I think there's a scholar scholarship program,
+
+[28:21] and I just wanted to give you some space to touch on that because that's such key part of what you guys do. And, yeah, I would love to just hear about it more. Right. So I've mentioned the visa program already. That's one. The scholars program is something we've we always do where we basically give budget to between 20 and a 100 scholars, I think. I don't have the latest numbers, but it's slightly
+
+[28:44] below a like, a 100 scholars that we're inviting to come to to DevConnect, to attend our events. And they come from very different backgrounds. They're either scholars, like PhDs or students, but also interesting people from any different background. And I think that's also very much in line with the audience of HCD. You have people, by the way, that I've never heard about DevConnect. So I hope now you've heard about DevConnect, and you have people from a biotech and science background, and this is definitely the type of target of these callers that we're inviting. They're coming from all around the world, and and it's a way also for Ethereum to expand its horizons a little bit and to bring to to add even more to its diversity that already exist.
+
+[29:33] By the way, I haven't mentioned that we will have a DIAC event also during DevConnect. I think that's super relevant to all the science people, the biotech people, the people interested by also cybersecurity and not not necessarily the the Ethereum blockchain focused content that we usually see. So so, yes, because you're here, you should come to TEAC.
+
+[29:58] Absolutely. It's an event led initially by a movement led by Vitalik at at first, but you should definitely attend this event. It will be great. It is on the '20, I think, November 20 to be checked. But alright. But about yeah. But the scholars program or exclusivity, that's always something that we're putting a lot of efforts into. Not only that, the scholars program, but we also had
+
+[30:22] the Distino DevConnect, which used to be called the road to DevConnect, where we we help to support many communities leading up to DevConnect. And we, I think, sponsored up to 80 different community groups so that they could either come to DevConnect, organize their own meetup, or organize their own initiative, or promotion, or activation so that people that they could organize their event or and or come to to the event. So, yeah, it's again, it's the same line of making sure that the event is as accessible as possible in many different regards regards.
+
+[30:56] And, yeah, that's about it. Wonderful. Yeah. I I think it's just such an important aspect of the mission, and I'm really enjoying seeing people, again, who come from fields outside of our industry and who are starting to interact with the ideas and realizing, like, oh, wait. This idea of decentralization, this idea of this kind of world computer is actually incredibly relevant for the work that I'm doing in science or etcetera.
+
+[31:24] Cool. Yeah. And and we'll make sure the DEAC residency folks there's actually a picture here of that, will will come and join us in Buenos Aires. So last thing for me, and then we'll open it up to some audience questions. But I just wanna get a sense of for your perspective, what does success look like here? Let's say, imagine it's the end of the week. You're feeling amazing about how it all went.
+
+[31:48] What happened? How does that feel? Like, what kind of went on? And maybe secondly, to just touch on kind of the legacy that we're going to leave behind here after the event in Argentina and and LatAm more broadly. First of all, if we don't burn the whole place to the ground, there will be I will consider that a success. No. Seriously. So there is something hard about what we do is that we often don't see the ripple effects of what we do many, many years after.
+
+[32:18] It's amazing to see coming back to Argentina, coming back to South America, to see all the communities and the people that come to us saying, you know, Defcon Bogota was the first event, and thank you so much for coming back because otherwise, I could not have gone. And and only the projects, the people, the communities that are now joining and helping us to build this event is for us one of the biggest success,
+
+[32:41] but that we've been able to identify many years ago. Right? Even last year at DEFCON C, we've seen many community members coming from Bogota or from South America, thanks to the effort we've put into. So so that's the first thing. I think it's it's hard to to grasp the the impact that we have directly because well, because,
+
+[33:05] you know, it takes I mean, it generates a lot of investments, so people get hired to these companies. We companies hire people locally. We we create links with public officials, like enterprise, get interested into the tech and get to adopt this tech. But all all these effects often often appear many years later. Right? Last year, for example, we we invited all the central banks, the public officials from the government of Thailand, and we've seen that many months ago, Some months ago, many months after the event, well, they started to release a a Thai stablecoin,
+
+[33:42] a Thai Thai bats stablecoin. So we don't and we don't even know if we were the result of that, but probably it helped. Right? Probably, we planted some seeds that made these guys, like, understand and understand better, you know, what was the goal or the power of using a stable coin on on Ethereum. So it's a bit hard to evaluate again the the impact of these events, but,
+
+[34:06] well, we have a very then, I guess, metrics that we are tracking. Obviously, the number of attendees will be we're targeting more than 10,000 attendees. So if we do have more, and I think we will, then we it will be a small success even though well, you know, it's just vanity metrics at this point. Yeah. I think that's
+
+[34:29] it it's always hard to track. Right? Like, we we hope that, again, our event will generate hiring in this space, both from hiring Argentinians to, like like, in the worldwide projects, also generate investment. We hope that the local Argentina projects will be able to raise more money and get more financial resources to to do more.
+
+[34:54] We hope that the the worldwide project are generally not going to Argentina. We'll realize the power of just being there and setting up maybe an office in Argentina. As a matter of fact, I I I I know that many companies are looking into this. And so, yes, there are many, many items that we're looking into. And
+
+[35:17] yeah. Cool. Yeah. No. Very well said. We have the same thing, actually. You know, we organize these community month long events, and sometimes a year later, I'll meet someone, and they'll be like, oh, yeah. I met my cofounder at your thing, or I met my, you know, girlfriend, and now we've been together since then or something like that. So, yeah, it's very hard to track these things, but I think it's incredibly important and what you're doing for the space.
+
+[35:46] And so with that, you know, for folks in the audience, we have someone here who's leading kind of the main Ethereum ecosystem events and pushing the space forward. So in case folks have any questions for Nathan, yeah, we'll come with a microphone. Yeah. Maki. Hi, Nathan. Thanks for your talk. Through to obvious discussion, was very curious.
+
+[36:11] Timur mentioned, like, how the relevance of this technology is kind of different when you're in like New York or Berlin versus like emerging markets. Do you have some like statistics around like the adoption rate of the Ethereum or wallet in Argentina? And then how is it different
+
+[36:34] from the other like a mature market? Is it could be like difference comparison between the percentage, but it could be, adoption rate or the speed? Right. So the numbers we were looking at early in the year when we started to dig into the numbers, where that's about 5,000,000 of people in Argentina are using crypto on a daily basis. Right? So that's more than 10% of the population,
+
+[36:59] which is huge. Like, I think it has one of the biggest crypto penetration in the world. And you you can see and witness that in the real life when you're if you if you spend some time in Argentina, people will ask you by default to be paid in crypto. Maybe it's because we are Ethereum Foundation, and people assume that we that it's easier for us, which is the case. But
+
+[37:22] but still, people prefer to be paid in crypto because also something I've witnessed when I came in March, now there there has been a 67% increase or decrease of value of the pesos. Right? So this is also something that they they really understand. But getting back on the numbers, so it's about more than 10 of the population that use crypto on a daily basis, which is, I don't think, the case in many countries. As a matter of fact, it's one of the highest ranked country in terms of penetration.
+
+[37:53] And comparing to countries like Brazil, I think Argentina has more people using crypto daily than Brazil. Although Brazil is, like, I think six times the size in terms of population than than Argentina. So so it is definitely ahead for obvious reason, for economic and political reason. I mean, it's been
+
+[38:15] it's been hard for Argentinian for the last seventy years, and so they had to find solutions, and Ethereum and stablecoins were the obvious solutions for them or at least maybe the one alternative that they had going away from classic traditional banking services. I wanted to add something, and then it dropped. No. But those are some numbers.
+
+[38:42] Yeah. Oh, last thing. I I do believe that Argentina, though, could be a Trojan horse for the Latin American continent. I think that, again, like, hopefully, the whole LATAM continent can come to our event and see, okay. Well, I mean, they're doing it. Like, they it's real, and and it's cool. And, we can do the same. And so I I I mentioned Brazil. I think Brazil will explode in terms of adoption in the next years.
+
+[39:07] And hopefully so there will also be a Ifla time, an event happening, I think, the weekend before DevConnect or ten days before so soon. If you can travel there, it will be to be a good idea. But yeah. So so the adoption is is is is very high in Argentina for good reasons. I think it will increase globally in LatAm countries,
+
+[39:31] especially in countries where maybe they will skip a face the same way that, for example, many countries in Africa did not have a bank account or do not have a bank account, and they're using mobile money to pay for things. Right? They skip the they skip the step. They they they skip the bank. Right? So I I think they will be the first adopters of crypto, and it will soon be the the continent with the the biggest amount of of people on earth. So
+
+[40:02] I think that will that will be also a good place for adoption. Let's see how Europe and US also evolve. I think it's mostly institutional adoption for now, and retail is still a bit skeptical about skeptical about many usage of of crypto, unfortunately. People around me in France, like, don't really understand, but I think they don't need it
+
+[40:26] today, right, today. I think at some point, we'll see, but with the rise of nationalism in many countries and the rise of potentially censorship and other trends that are growing fast, maybe one day, people in the or countries in Europe will also better understand the the the the usefulness of having a censorship resistant technology. We I mean, anyways, I could talk about it more, but
+
+[40:52] anyway. Yeah. Anyone else? No? Alright. Well, we can wrap it up there. Nathan, thank you so, so much. We can't wait to be there in eighteen days with you. Thank you. Thank you so much.
