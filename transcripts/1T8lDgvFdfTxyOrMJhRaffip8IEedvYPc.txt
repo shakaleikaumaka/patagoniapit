@@ -1,0 +1,249 @@
+# Cyberia — Biome Engineering - one system that feeds itself — and you
+
+Date: 
+Source video: Cyberia — Biome Engineering - one system that feeds itself — and you
+Drive: https://drive.google.com/file/d/1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc/view
+Duration: 00:51:04
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Hello, folks. I am Maestra Saib, and today I want to give a talk on the beast I called bioengineering. What is bioengineering? I asked GPT, and he say that it is the art of designing living system in resonance with nature intelligence,
+
+[00:26] not against it. Okay? One moment I will find some. Okay? This talk is a part of a broader series of lectures on building autonomous communities from our residents at HCT. And we already gave a talk on the story of CyberValley, the pilot we are building on Bali. We explained
+
+[00:54] how we approach problematics around energy and water systems. We give a standalone attention to soil and heat. So heat and carbon topic, which we live as one of the most important in building self sustainable societies. And now with the next steps, we want to
+
+[01:20] discuss the creation of highly efficient and resilient gardens. Okay? The purpose of this talk is, you know, it's not to give you ready to use recipe. Recipe, it's kind of impossible. The topic is so broad that it
+
+[01:44] can you can take, like, months, years to research and understand it depending on the topic is extremely specific to the location you want to build your garden, different climates, climatic zones, different biome types. So
+
+[02:07] different different purpose of building. So actually, it's and and also soil soil is very different in different places of the world, something like 100 types of soils. So the complexity of building narrows down to the understanding that building biomes is extremely
+
+[02:31] a local cosmos, localized thing. So the purpose of this talk is more like give you a taste and inspire for you to give inspiration for you to build your own living thing. Someone has call call call it the garden. Someone call call it the forest.
+
+[02:57] But before diving deeper, I want to give you a perspective on our background, yeah, why we are talking about that. And actually, I'll give you a sense of the scale we did before talking about that. Okay? We moved off grid two and a half years ago, and
+
+[03:22] since when we identified something around 200 local species of plants, we make extensive soil research during which we was able to identify, like, key chemical structure, composition, most importantly, the safety of the soil. We did build build build research and identify more like almost 100 species.
+
+[03:48] We did several times water research to understand the chemical and biological composition of water. And also, tried to build our own incubator. I I will show you on the picture. It's it's something like thirty hours. It's this piece of land, which we use special specifically to experiment
+
+[04:15] with different species. I find something like 500 species from all around Indonesia. Like, we were focused mostly on the useful species, so, like, which can be useful in some sense, like food, cosmetics, energy, etcetera. And from these 500 species, 400
+
+[04:38] species were able to survive. 200 was kind of efficiently grow. And I think during this research, identified something like 100 productive species going to scale in our village for different purposes. Also, did experiment from ship ships.
+
+[05:03] We bought initially 10 ship, and the population started to decline very fast. Something like seven ships were dead in, like, three months. And the reasons are that, like, actually, we want we wanted to switch them from conventional agriculture to more free range
+
+[05:28] behavior, and we end up with some of them were ill from the worms and parasites, and some of them were, like and they did, like, actually didn't understand what to eat and some kind of toxins, like and afterward, we start to to, like we put them back into the stable.
+
+[05:53] So that is the basically the stable. It's not very weak. And slowly, we start to have growth and to ship and merge. So slowly, slowly, slowly, we start to learn how to work with them in a more natural
+
+[06:16] way. So another experience is, like, regarding chickens. And chickens also were kind of the same. Most of them was dead from predators. But eventually, slowly, after it, like, short this line, they start to adapt. And currently, we have already new generations. Soon, I think we will put it into more productivity
+
+[06:42] stage phase. Also, I just want to show you the scale. We have something like seven gigatars of productive foresters. It's like this type of land. Yeah? So it goes from one mountain.
+
+[07:04] It's 100 meters in width. Yeah. But it goes almost from one hill to another. Yeah. So on this seven gig tariff gardens, was settled by previous owners, it was mostly was mostly coffee plantations. And we go after two
+
+[07:28] seasons, are able to collect two tons of coffee, our own kosher, which full reserve for a year. We have continuous very stable yield of avocado, taro, batat, vegetable fern, and the chiyotas local alternative to Squash. Yeah. To squash.
+
+[07:53] Yeah. Very beautiful thing, by the way. Also, we identified serious problems with growing banana and the fruit, so we started to recover the way we cultivate them. And also, we were able to learn how to grow greens, salads, and aromatic cheese. In the end, we were able to produce something we called food box of cybervale.
+
+[08:18] It's complete food system, which consists of, like, fruits, herbs, several roots, then fruits, meat from our neighbor's goat, chickens also from with the help of neighbors, honey, ginger,
+
+[08:41] also roots, and fish from local lake. So basically here, we are talking about that we were able to collect, complete product thing in something around two years with the help of neighbors. Yeah?
+
+[09:05] Which we are very proud. Just several pictures. Yeah. So let's get down to biomegineering. We started to learn about the ideas something like three years ago and brings to different type of
+
+[09:30] school of thoughts, I call them, such as permaculture, horticulture, agroforestry, regenerative farming, syntropic growing, a lot of, like, different sources. Just to give you a sense on what kind of research we did, I will generate for something like one minute. I want to show you our knowledge graph we built.
+
+[09:57] But before while it's rendering, I want to ask you the like several questions to understand your, like, reason why you are here. Do like, who of you have gardens? Uh-huh. Who of you? You also. Mhmm.
+
+[10:20] And you have here. And South Africa. Mhmm. Uh-huh. Cool. Cool.
+
+[10:44] Cool. How long? How long? It's already. Mhmm. Interesting. How of you have plans to establish where gardens your own gardens?
+
+[11:10] One, two, three. Yeah. Okay. Four. Okay. Good luck. I seriously wish you, to succeed, and that's why actually, we are establishing this course. So, yeah, the research for more than 1,000 species, we touched something like 500 species. It's a huge knowledge graph. We were able to, you know,
+
+[11:38] to put and kind of understand what is important, what is not. So, yeah, it's a huge work. And I want to share, like, very dense very dense ideas from what I learned during this path. Okay? So we have a lot of school of thought,
+
+[12:03] but one really big difference. Yeah? In conventional agriculture system, you have, like, one output and many one output in permaculture system, you have in in in conventional agriculture, you have many inputs, one output. In permaculture, you have almost zero inputs, but many outputs. Yeah? And that's,
+
+[12:33] like, seriously affect how you work with nature, how you work with garden how you work with your garden. In agriculture, you mostly one of these most significant investments are fossil fuels, chemicals, waters. You would like you spend a lot of money,
+
+[12:56] actually. I think it's most significant part something up to 80% of the cost of conventional agriculture. And in the end, you have one crop where it fails, like actually your operation fails. Yeah? So it's not resilient. It's destroying the soil. In nature,
+
+[13:18] plants just can't grow alone. Okay? But conventional agriculture actually doesn't try to understand this important property, and that's the result why you actually need so many inputs to the process to give or to have only one output. In the system we are talking about,
+
+[13:41] it actually provides almost zero inputs, so the system is self sustainable. And in the end, you have you can have the amount of outputs you choose to. In our, like, gardens, we decide to scale. We put something like 50 species in production, which
+
+[14:04] actually we expect provide us with all the scale we need for the food system, oil, starch, herbs, teas, salads, vegetables. Also, a very important part is cosmetics and aromatics. One significant thing we rely on is
+
+[14:28] part of the energy system, so it's compost and by char and wood. So and also it provides a lot of fertilization because we kind of use we grow fertilizers, and I will explain you how right within
+
+[14:52] the system. Okay? So this picture is like the most important thing you must understand that makes significant change in understanding and shift from previous system to the future systems. Well, a lot of people talk about permaculture. Never actually trying
+
+[15:14] to give the idea why, how to make it, like, really profitable. Yeah? I don't believe that any technology is actually will succeed if you, not trying to understand how to move from just cool ideas and beliefs to something we call high margin stuff.
+
+[15:38] Yeah. Once you have the process that is high margin, it start to grow by itself. And I will give you, like, the most important idea I actually catch and will bet on during my research path. It was like for me, it was eyes opening thing that farmers produce coffee and sell it for less than $1 per kilogram.
+
+[16:05] But then when it goes to the coffee shop, actually, it costs 500 per kilogram. Guys, it's just unbelievable. I'm serious. I I'm serious. The margin is 600 times higher, and everything is lost by the wave, like, from the
+
+[16:27] actually, coffee tree to the mouth of the consumers. So remember, when you drink coffee, you mostly pay for the last mile in this supply chain, and, like, farmers almost get nothing. In our case, it's it's avocado. Yes. Our farmers sell avocado.
+
+[16:51] It grows like wheat, actually, in our region. We never understand that avocado can cost like $510 per kilogram in retail stores. It costs something like 70¢ locally. But if you sell it as guacamole, you have something like $50.60, $70 per kilogram of guacamole. So
+
+[17:19] I came to a very important understanding on how actually for what to build these biomes and permaculture gardens. The most important, I believe, thing is instead of selling the raw things, the industry must switch to the to sell already a full menu I showed you. Yeah? So it looks something like that. Yeah? You when you put the stuff on the table, it's become, like, two orders of magnitude
+
+[17:51] higher margin. Yeah? And this leads this leads to I start to understand the model of my village. And for example, if I have, like, the tourist who can pay $100 per night per stay, if I offer him full menu with food, he can pay $200 per night with food. So if you, like, analyze your
+
+[18:17] structure of costs wherever you are, it's kind of one to one housing comfort. So and if you assume that you are not selling the, actually, the raw products, if you assume that you are selling ready to use food on the table on the table in the plate.
+
+[18:40] The margin is where, and I am trying to learn how to I'm trying to learn how to embed this into business models of a village. For example, I can I I want to share you one story about how Balinese people actually work with Lend? We have this
+
+[19:04] default agreement we call Nandu. Nandu is when land owner share a land with farmer, and then they split revenue fifty fifty. So basically, farmer provide labor, owner provide land, and then we split fifty fifty once the yield come.
+
+[19:26] It require pretty deep trust within the farmer and land owner because it can take, like, three, five years while the garden takes off. But it works, and then according to our research in our region, something like 80% of land is managed under these non non dual agreements.
+
+[19:49] Yeah. But my idea to go further and put this kind of revenue share not on the, like, land level, but on the cafe level. If you take this idea further and allow the system to, like, allow to build cooperatives
+
+[20:15] that actually provide the food directly to local restaurants. Actually, that could make sense for farmers because they can significantly, like, increase their margin from their activities and also switch from these not very efficient old agriculture system that destroys soil to
+
+[20:43] multilayered, multispecies agroforestry systems. Okay? They like, according to my estimations, that could roughly increase the yield on land investments from like average 8%, which like I give examples, which is like average on Vale, yeah, to something like 16%
+
+[21:07] alone just because it provides better utilization for real estate, touristic it's ecotourism, real estate. It provides better vibe. You live literally in the garden. You can eat. And in the end, ends up in high retention for ecotourism businesses,
+
+[21:32] which is also one of the most important part of business modeling. So yeah, how to how to I will discuss here only, like, the first principles without going deep into details.
+
+[21:56] So in conventional system, you choose one crop. You choose, like, one way to handle about crops. In nature, you you see, like, you go to forest. It have all all things baked into one system. Yeah? And that's why I moved from agroforestry on that. I just think that it is biome, which is one thing that
+
+[22:21] have really complicated circular relations within the system. You cannot plant fungi, but fungi is the only way to decompose the remaining from your food production. You cannot put animals into the system, but you need manure to supply for trees.
+
+[22:44] You can not do aqua aqua systems like ponds. But actually, if you start to think about closed loop systems, the most efficient way is to put the fish in the system because it produces very efficiently a lot of NPK and other long tail elements
+
+[23:08] and can provide a significant can be significant source of minerals for your garden and also be the source of proteins for your restaurant. So actually, what I am saying here is that we must switch the thinking from like one species to the complete system, which include
+
+[23:31] everything, what is needed to mimic the nature. Because it's already worked, we don't need to invent. We just need to, learn how to replicate the system. And it can work pretty efficiently. The next component in this, I think, like, one of the, like, biggest
+
+[23:54] important things in this is by HR. I gave a standalone lecture on this. Yeah. It's here. I will not stop, but just want to remind you that it is probably the key component into making the system really not requiring external
+
+[24:17] inputs because it is a way to get continuous flows of elements from the rainy waters. Just filter it, place it, and put it into production for your garden. Another important property is that actually you try you must avoid digging in the garden. And the reason is the
+
+[24:39] fungi. That is the mushrooms everyone talking about, the big mushroom which live inside our planet. Everyone see under mushrooms and feel it. So this microhyzel network is everywhere in the soil, and it is the most powerful Internet which
+
+[25:04] exchange nutrients for anything that lives on Earth. Alfow, it's it's only occupy the lower, like, one to several meters off the surface. The scale and the amount of this mica hazel network is enormous. It was demonstrated
+
+[25:28] that thanks to this mica hazel network, actually, the plants in the forest are able to exchange nutrients on demand depending on their needs from mother trees to more like smaller plants and back. Don't confuse this mycahyseal network with mushrooms. Mushrooms are fruits and bodies of hazel network. Okay?
+
+[25:53] So actually, that is the most foundational thing in building efficient gardens. Once you dig the soil, you destroy micro hazel micro hazel network. And it regrows in several years. Once you destroy mica hazel network, it stops to provide nutrients within your system and basically
+
+[26:19] not allow you to build the system I'm talking about. Okay? This beautiful picture is just the illustration of what happens the soil. So it's the whole living world when you put some fertilization chemicals,
+
+[26:44] you mostly kill all that's beauty. When you not cover the soil, it's become dry. You the bacteria become dead in several hours after drying out the soil. So this upper layer of soil is probably the most important for fertility.
+
+[27:07] So common rules is not to dig, is not put chemicals, yeah, and let the microbiome of biome of salt soil to grow and on a continuous basis increase the fertility of your garden.
+
+[27:32] Okay. Another important pre principles I will say is pruning. I just forget to put it here, but it's interesting thing. Pruning is when you cut some part of the, like, tree, trap, doesn't matter. What happens during
+
+[27:55] this process is that actually the ratio between the body and root become lower. So actually, the plant is able to deliver more nutrient sphere cubic centimeter off the body and start to grow faster, okay, and become more healthier,
+
+[28:18] have better immunity, and so on. So it was experimentally proven that actually the gardens which are heavily pruned every, like, six, twelve months reach enormous productivity gains.
+
+[28:42] Okay? So actually, when you are pruning, you are not actually destroying the plant. It's release of Garmon vice versa. It increases the speed of its natural life cycle. It releases Garmin of growth and the garden just becomes healthier and more productive. Yeah, another important first principle
+
+[29:06] is building in layers. Yeah, so here, like, we described, like, the system of layers. And the layers moment. The layers is a way to use
+
+[29:31] the space more efficiently. Yes? So you commonly find that the soil, you have five layers, the plants which are small shrubs, when you have two meter shrubs, which you can like with small berries, when you have higher, like four meters, trees, which you can pick up with sticks or also with hands like avocado, for example.
+
+[29:56] When you have higher trees which can contain bigger stuff, for example, jackfruit in our case. Or and also you have like twenty, thirty meter trees which provide, for example, raisins or some aromatics or some function to your forest. So and also you have the most
+
+[30:19] lower level, which I call carpet, which covers 10 centimeters of the soil and contain mostly grasses, but is most aromatic grasses, but is likely the most productive layer. So you have five, six layers. On each layer, you can grow different plants which actually give you ability
+
+[30:42] to switch even the most simple simplistic systems from, like, three, five species to, like, 20 species easily because you can put two, three plants on each layer. And combining them, having 20 species without actually competing between any competition between between them. Moreover, it's absurd with high density plants, now it's, like, kind of become mainstream high density plants. And why? Because plants, when you put them in very competitive environment,
+
+[31:15] they start to compete. And that results in faster, better growth and more healthy plants. So you put them in layers. You think about stratification. Stratification is understanding that how natural system evolves from bare rocks to huge, abundant forest ecosystems. Yeah. So like it starts from mostly
+
+[31:41] herbal layer when herbs is herbal layer mostly overcome by pioneer species which can grow fast. But after that, they are mostly succeed by apex species, which replace them. So it's not but you are building the system that always becomes static. Yeah? You think how it evolved over
+
+[32:05] time and switch with years from simple pioneer species which provide more biomastical ecosystem to more productive central long term system. Okay? The most amazing thing about this permaculture and all that is
+
+[32:28] what plant have features. Yeah? Plant have features and can serve their specific role in the ecosystem. So I actually tried to identify the types of roles that plants can have, but it turns out something like 20 roles. But I will focus on on several of the most important. One, without which you would not be able to build the ecosystem I am talking about.
+
+[32:55] Those the first most important is nitrogen fixers, which provide which fix nitrogen from the atmosphere into the soil. If you if you try to I, like, put here almost all
+
+[33:19] nitrogen fixers which are working in my tropical, subtropical environment. I don't think I have here I don't think I have here something for temperate forests. But anyway, it's not very popular category of plants. So I was able to identify only something like 50 species which produce not a nitrogen and only like ten, fifteen which produce
+
+[33:45] nitrogen very efficiently. And out of this, like, ten, fifteen, only two or three can provide really important goods for the ecosystem. So I end up using, for example, Caliandra and Inga mostly for and Kazarina. Three trees I choose for my ecosystem
+
+[34:09] to fill out this important function of nitrogen fixing trees. Okay? Another important category is dynamic accumulators. They have these important properties like long roots which goes up to five meters to to the soil and suck
+
+[34:32] nutrients from lower layers of the soil. And when, after decomposition, these nutrients become available for the plants on top of on top layers of the soil. So we use Confreight mostly for this, and it's kind of universal dynamic the most efficient dynamic accumulator
+
+[34:57] which grows everywhere, I think. And yeah, it is a really important part of our ecosystem. Another category is attractor. Attractor, so you must put something that have flowers in your ecosystem because that attracts birds, that attracts bees, that attracts insects. So everything that applies actually can come visit it and pollinate it. Yeah. Without this category of plants, you will not be able to
+
+[35:29] pollinate your garden sufficiently. And the fourth most important probably category is the I call them gourds. They it's mostly aromatic plants which actually protects your plants from pests, from insects. You can think about
+
+[35:53] mint, lemongrass, rosemary, which have these strong aromatic properties that repeal. So they repel the undesired insects and their life forms from the plants. So you configure these four types of plants of role plants
+
+[36:17] too and add where where the actually plants you want to grow for your needs. And combined, we can form this extremely efficient ecosystem that don't need external supply, no fertilizer, no pesticides, and so on. Uh-huh.
+
+[36:40] So I start to think why so beautiful ideas was, like, wasn't able to actually to reach out broader masses. Why, like, permaculture is almost fifty years
+
+[37:03] known? Why we still don't have this on on the scale. And it turns out that this scalability problem, like in blockchain, doesn't make sense. Actually, it takes years for the farmer to build highly efficient permaculture forest around his house, but it it took years enormous effort and it's like kind of extremely specific
+
+[37:30] and customized things. You Joyce start to think how to teach people to manage gardens that contain more than, like, five 50 species, we wasn't able to find easy solution. Okay? And so so we are actually on the
+
+[37:54] and still we don't understand how to do it. Okay? But we have a serious view to do that. So we start after two years of research, we just started to build new generation of, like, our gardens. We had to use grids, had to use strict scheduling of maintenance, which we used, like, this requirement to log all operations they do
+
+[38:19] to to better analyze and optimize their behavior on the on the on the bed, yeah, in the garden. So hopefully, we will. I I have a serious feeling that it's certainly possible with proper engineering wheel to
+
+[38:42] find out how to build these, like, super productive gardens on a scale and maintain them on a scale without needing very, like, localized specific requirements so people can buy ready to use gardens and just maintain them, like, by living there. Because
+
+[39:06] it seems that the biggest bottleneck for people to adapt these is this requirement for, you know, to learn so much stuff Always in different places, new stuff. No one can give ready to use solution, but if you build in one region, you can actually scale it. Uh-huh. It's easy to scale within one region. And now I'm talking just how to scale it within the region, taking, like, these first principles,
+
+[39:34] you can go to different regions, spend, one, two years to learn how to do that and can scale within this region. Okay? So that is my belief that it's possible to scale. It's possible to make extremely high margin. And in summary, like my modeling shows that one simple family needs are something around
+
+[40:00] twenty, thirty hours in tropics and subtropics, and probably one gig in regions with winter. And it turns out that life, like the gardens, which, like, work all year around, are just extremely more productive.
+
+[40:24] So it could take three years to set up. After three years, like, we spent two and a half, it's become easier for us after this time. So after three years, it's become easier, yeah, to maintain, to work with it, like, I already can predict some stuff. And some short advice is that
+
+[40:52] the simple and the most important advice nobody ever listened to is that when you start to build your garden, don't try don't spend time on experiments. Go around. Look what is growing there. Take it. Find out how to grow it better. Yeah. Don't try to, you know, grow new stuff. First, grow the stuff which is already known to grow there. You will spend a lot of effort, a lot of money.
+
+[41:23] It's the most important thing. Second is that, like, do one small step at a time, and I hope you will succeed. We will succeed in recovering the soil, regenerate the ecosystem that was damaged right now on earth and erosion and degrading very fast.
+
+[41:46] So the hope is here. And, yeah, I think I'm done. Connect. Connect. We have this group. Siberia, they have this group in Telegram. If you want, scan it scan this and join. So, yeah, I'm ready to questions. You did this large research about everything, but what's your,
+
+[42:22] vision on monetization? I mean, you want to do this, like, kind of open source to let everyone to access this data, or you want to do this, like, white label to let people to open their own, like, cities worldwide? Like, what's your vision because You mean behind Siberia or this dataset or, like, what Yeah. Yeah. You did this research how to build your guarding and so on so Researchers will always become like
+
+[42:47] everything we generate, we will put in open source, share the knowledge graph, invite people to learn. We will certainly will run this kind of pop up cities which will, you know, require some payment to participate in building learning
+
+[43:10] how to build real gardens and houses. So it will be kind of training educational program. Also, we are going to provide frontiers for city builders around the world, so like it's kind of layered thing, but the information we would love to share so everyone without actually any limitation
+
+[43:33] can build and recover soil, which is the ultimate task of, what we do. Okay. Thank you. Hello. My question is around, soil recovery. So you started your project in a region where there was soil already, which was kind of healthy. Could you speak a little bit to, like, soil which is unhealthy
+
+[43:58] and, like, which has been contaminated? Uh-huh. Thank you. We out of 57 gigtars we acquired, something like seven gigtars, we find out, like, extremely damaged by conventional agriculture. I can for example,
+
+[44:24] I can show you lab results. Yeah. And I did here several several sites. One is this this one is so Kofi, Sinwood, and then three sites I analyzed. And for example, you see here mercury. Yeah. So in the sites that was with agriculture, you have this, like, seven and
+
+[44:47] thirteen ppm of mercury in the site that wasn't under agriculture. You have zero mercury there. So actually, we started this dam site, experimental site on the damaged soil without actually understanding that. Yeah. After what we
+
+[45:10] after analysis and, like, experiments, we just decide to now kind of scale the gardens on already, like, 29 gig tars we have damaged while building on the damaged stuff, something like recovery, like, not propagation system. So it's less about
+
+[45:34] it's less about the food system, but more about functional system for propagation or like show off and so on, because we find out that the growth rate on damaged soil significantly lower, the quality of grains are lower, and also I believe it did have problems when we start to eat these salads, okay? I mean, for cereals, I felt
+
+[46:02] intoxication symptoms, strong one, one where stopped to consume it. Right now we stopped actually to collect the food from the sites. We started initially and now moved in there, like, productive things into not damaged soil, so we are kind of happy that we have most of our soils undamaged.
+
+[46:27] But, yeah, that's, I think, the answer to your question. Hello. This is San. I you might have covered this in a previous talk that you gave, but I was wondering if you are planning on, like, capturing water specifically to build, like, your aquifer on your land. We already do it. I mentioned that that is part of the system.
+
+[46:55] You like, it's not a question on I repeat, it's not a question on, like, how much your water want to store. You must store, like, as much water as you can. So we are con on a continuous basis at ponds, store their water, put their different type of vegetation,
+
+[47:20] fish, and so on, and use it as water storage and as the way to feed our gardens if the dry, if the draft come in. So, yeah, kind of multi purpose system, are like build on continuous basis. Okay. Thank you. I was curious. Where
+
+[47:48] do you do you are you sharing this information somewhere publicly that Of course. This is a knowledge graph. You can go you can go to cv.cv.land and find out everything I showed you in the knowledge graph. It's public. We kind of update it. Well, like, consider it is just notes. We don't guarantee the quality of the information we are working. But for for example, here you go to HCT
+
+[48:13] residency, you will have this yeah. We've and this is about So this is to the lecture, biomedical. So yeah. Alright. Thank you. Uh-huh. And
+
+[48:36] this is knowledge graph of Siberia project. So like, it's it's continuously developing. So learn about the stuff and join us in developing the stuff. Yeah. Okay. If you you don't have any questions, I will list this my personal
+
+[49:04] x if you want to connect me not only regarding the biome engineering and sustainable city building, but also about weird stuff from, like, cryptography, privacy, weird decentralized AI, collective intelligence, like the most weird stuff, actually, you could find you probably you will find within my Twitter because I continuously researching cutting edge technologies for
+
+[49:30] decade already and kind of the edge review. Thank you.

@@ -1,0 +1,509 @@
+# Argentina Onchain Workshop
+
+Date: 
+Source video: Argentina Onchain Workshop
+Drive: https://drive.google.com/file/d/1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts/view
+Duration: 01:54:13
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:06] Hey. I'm glad you guys, brought some popcorn. I think it's plenty for all. Awesome. They do have generator for that. They should use it for coffee,
+
+[00:28] I think. Might be better use of inner energy. So, do we get should we get started? Awesome. So AutoPen. AutoPen, for those that don't that don't know, is a machine that it is used to automate signatures.
+
+[00:50] So it was actually used, first to issue checks. Right? And welcome those that have just arrived. Alright. So
+
+[01:20] thank you, everyone. My name is Santiago, Santi for short. We're gonna go through Autopen. AutoPen is what we imagine the future of signatures might be. And, AutoPen comes from a machine that is quite old that is utilized to automate signatures. So LB Espresley, for example, will utilize this in order to automate its signature, and this is where, its name came from.
+
+[01:44] So we're gonna go through Filmadescital, right, which is a legal construct, that it's applied within Argentina, LatAm, and, Europe mostly. So we're gonna go through what is a signature. We're gonna go, how it's composed and how it operates. We're gonna go through, its adoptions and, the limitations it has, and then how we can leap forward in the Argentinian context.
+
+[02:13] So first off, let's, have some grounding. So what is a signature? How can we think around signatures? We rather think signatures as as something more abstract. Is actually our manifestation of will or the way how we manifest a intention, either, to join onto an agreement or to attestate, something about ourselves or other people or to even sign
+
+[02:36] a transaction for the blockchain. Right? So briefly, some history about signatures. They were first invented around six thousand years ago by the Sumerians. They used clay and marks for them to keep track of supply of grain, for example. Then, eight hundred, years before Christ, we have the Romans in making the signum,
+
+[02:59] which is a little bit better than, you know, having things on clay. Then around in the nineties, we digitalized something that, was analog. Right? So we just grab the signature, and we're applying it to PDFs. Right? But, our thesis is that this is not intended for the digital age. This is something, it's mostly a patch, and we need to look forward and utilize web three and crypto technologies in order for us to modernize this, essential process, which is
+
+[03:29] us manifesting our will. So I'm pretty sure you guys must be familiar with this, but I'm just gonna go briefly through it for those that are not familiar. So asymmetric asymmetric encryption, you will have two keys. Right? One is a secret, which is private, and then you have a public key, which you share to the world, and they are both mathematically
+
+[03:53] associated between between one another. Right? So what will be a a signature within, web three? It will be some sort of, data that is hashed, and then we apply our secret onto the onto our data. This, generates the signature, Us with the signature and the original data, we're able to strike the public key.
+
+[04:17] So thereby, we can mathematically know who apply their private key. So, and then we can see, if it's valid or not. So this is pretty basic. I'm pretty sure everyone's familiar with this. So we can choose move forward. So digital signatures. This might be new for you guys. So okay. What is a a digital signature? A digital signature within,
+
+[04:41] the 25, 500 c law and EDAS. A digital signature in its instance, it's a signature from a private key that is legally binding as a handwritten signature. It has the properties of its integrity, nonreputability, and authority. So these sort of signatures, they have legal implications. Right? But for the web three private key to have these legal implications, we need a certificate.
+
+[05:08] Alright? The certificate is nothing more than an attribute associated to the public key. Right? So we're gonna have first work the the state, it's gonna have a wallet, and it's hold the root certificate. With that, it's gonna issue another certificate for a CA, which is a very regulated, institution. The CA has inside a bank a wallet,
+
+[05:32] and it's gonna use that wallet to issue in turn more certificates for end users. But this is the key. The key is that the CA is gonna validate people's identities through a KYC that is very, strict, and it's gonna then issue a certificate of identity to a wallet. This means that we have a public key associated with somebody's identity through a certificate that was issued by a regulated entity that in turn had it's issued by the state. So we have
+
+[06:05] a root of trust. Does this make sense? Any questions up to now? This comes from around the eighties. This is a PKI, public key infrastructure. It's been around for a long time. And even the the legal construct that make this, legally binding, it's also quite old. And you might say, okay. What are the benefit benefits of this? For example, for Argentina that we have such long, distances to cover, if you need to go somewhere else to perform,
+
+[06:33] an agreement, then that would mean you have to move yourself up to either Buenos Aires or a closest center to you. So this involves, is not time, money, risk of driving. You know? Driving for, less than 30 year olds is the first cause of death. It's environmental and friendly, and it's a hassle. Right? Okay. Cool. Cool. You can make, agreements
+
+[06:57] remotely, and, you can verify everything, digitally. So I'm I'm in love. I, we saw this, and we thought it was great. But, then if you look how it's actually, implemented in practice, this is the reality. Okay? This is how it looks if you try to get a digital signature in Argentina,
+
+[07:20] right now. So first off, it is a remote process, but you physically have to go to an office. Right? Then you're gonna get an a USB. The USB is gonna hold the private key. Then you're gonna get drivers for your PC for you to use the USB. If you have a Mac, you're out of luck. Right? Then, more likely, you're gonna go to Microcentro where the office office is at. I mean, nobody likes to go to to
+
+[07:46] to the micro center. It's horrible. And then, other alternatives are are these this is actually what you get from the. This is a procedure you get, and you have to zoom in for you to get the signature. This is this is now. This is today. This is horrible. So we can do much better. Much, much better. So there was a little promise, but, the results in practice have been lacking.
+
+[08:11] Alright? So why why is why is this? Okay. Just to iterate on the problem a little bit. So it's highly cost costly. To get one USB, it's gonna cost you here in Argentina a $100. If you go to Paraguay, it's gonna cost you 25. This is due to the fact that, CAs is very it's heavily centralized, and there is a pseudo monopoly in which, the regulations has the regulation barriers is so high that you need at least a million dollars to set up all the infrastructure,
+
+[08:41] and they go for a two year process for you to get the license. So there's regulatory capture that makes it that there are only three private institutions that issue these certificates. And then as we just saw, like, The US UX UIs is horrible from the 2 thousands. So, why? Most the the the why is mostly because monopolies, they are centralized. They don't have an incentive to innovate. They hope they they they they hold the market as as capture.
+
+[09:10] So they have no they have no problem charging, you know, a $100 when something should be a lot cheaper. So there is, there is no incentive for them to improve the processes, and no competition can go in because the barriers are enormous. Then, literacy. This is digital, literacy. So you may be able to go through the whole process for you to get a signal,
+
+[09:34] but then you sign. The the yeah. And then when you go up to the desk, with your naively, you go with your, digital proof, then you're gonna say, we don't take that. We only take, physical forms. So this is actually that that happens a lot when, a notary issues a permit for a parent to travel with its child, then they go to the, to the
+
+[09:57] to the airport, you know, to the customs office, and then they have a PDF. And, they know what? You gotta call your attorney, 2AM or whatever, and they have to issue a a paper for you. So there's truly truly a lot of lack of literacy. So how can we improve this from a institutional, perspective? First, we need to actually teach people how to validate and utilize the the result of the signature.
+
+[10:25] Right? And then we can either reduce the barrier of entry or or change the way things are are done in order to be SCA. So we're gonna go through briefly how we think, this can be improved. Right? So if you can scan that QR code, you're gonna get taken to the iOS Play Store, and you will be able to download our application.
+
+[10:49] Right? And then afterwards, you will get a credential. So where I recorded this, it'll be easier. So this is our platform, and this is on the other side. It's our wallet. We sell self sovereign identity infrastructure. We have to deploy yourselves. This also works with Quarkari, but at the moment, it's down. So we are, at the moment, issuing all credential for digital signatures.
+
+[11:15] This is what you would do after a remote KYC. So what would you start from our wallet, we scan the QR code, and we are having it added onto the the wallet. The wallet seems it's a wallet. It has a private key. Right? And we're gonna be using this briefly. So boom. There. We already have Orfirma Digital for production alongside our other credentials. The next step is gonna be to upload a PDF. It can be any PDF. We're gonna have to ask at this one. Right? And the process is pretty similar to adding it. We scan the QR code. We're gonna present our credential, in this case, as a architect
+
+[11:51] matriculado. Right? And what's gonna happen, we're we're gonna cryptographically sign the PDF, and the PDF is gonna get embedded with the signature and the credential. So then later on, you can share this with the customer, at the airport or with a lawyer or whatever it be, and they can verify the document, and they can see the credential used to sign and all the cryptographic,
+
+[12:15] information, within the PDF. So, yeah, this is, a lot easier than going through, you know, somewhere physically for sure. And instead of USBs, we use, crypto wallets, essentially. We also have a life cycle administrator for the credentials. So you can issue templates, issue the credentials, administer the credentials through its life cycle so that we issue revoke, see who holds the the credentials,
+
+[12:44] and so on. And you're able to create a verification points for an entry point, for example, in the oil gas industry. It also has an API. So to keep two one sec. It won't let me
+
+[13:12] go forward. So when it loads, I think I I can show you this. Right? So our solution, just to be brief, what it it is a self sovereign identity
+
+[13:38] that is holding a certificate immediate by the certificate, agency. Right? Then what we do with you guys see wallet to sign documents in this case, but they can also be transactions. Right? And then an attestation is gonna be created on chain as well to have a timestamp. The cool part about this is that you can sign anything, meaning you can also sign Ethereum transactions. If your wallet is associated with,
+
+[14:02] the credential, right, whatever you you you send onto the blockchain is gonna be associated to your identity. So you can have legally binding crypto transactions, which is I think it's pretty cool. Then the the market, it's quite large mostly due to the fact that everything is moving online. So there's an inherent need to have and perform signatures in additional digital manner.
+
+[14:30] Right? And then, just to conclude, you can go to AutoPay Inc, and then you can create your account, get the wallet, and also you may use the admin to play around with the with the, credential, generation. That's my Twitter. And then, yeah. I'm I'm not sure if you have any questions, but you may should.
+
+[14:59] Go ahead. You said it an attestation. What kind of an attestation, do you mean specifically that's submitted on chain? Yeah. So what you would do, legally, what you would need if to prove the existence of the document in a given time. Right? So when the document is signed, what goes on change is the following. You just create a hash of the document itself,
+
+[15:26] then you put that in a transaction, and then you you sign it and send it over to a network. Thereby, you can have the proof of existence in a given point, essentially. That's one way of making an attestation. Another way to create an attestation is through an NFT. So the safe transfer function allows you to pass in extra bytes so you can put that there. And, also, something I didn't mention, but I think it's pretty powerful.
+
+[15:53] So you're able to create signatures, associate them with your identity. And then this what it what it unlocks, it's programmable contracts. So you can embed the PDF with some logic, for example, and then that can be executed programmatically based on conditions. Hello?
+
+[16:49] Okay. Oh, this is a clicker. We're not gonna need this for now. So we're supposed to start a keynote panel now in around five minutes with Victoria Picchio, Milano Santa Maria, Diego Diaz, and I Augusto Adiles. If you wanna come to the front in the meantime Yes. Applause, please. So
+
+[17:16] we have two microphones. We're gonna make it work. We three? Okay. That's great. Yeah. In the meantime, while we wait for more people to arrive yes. Of course. Perfect.
+
+[17:43] No. No need. Do we need do we want to turn that off maybe? Okay. That's great. So for those who don't know me, my name is Sofia Cozzar. I am one of the co organizers of the Argentina on team residency alongside Livia, Ori, Lovisa, Andre, Ian, who is supposed to arrive soon. So we're very happy to have you,
+
+[18:08] and to have you, of course. This mic's formally the end of week one. So the the main goal of our residency is to think about how to bring blockchain solutions into the real world. So throughout these five days, we've explored everything from Argentinian historical context to what are the incentives that private, public, and third sector institutions have for the adoption of blockchain technology.
+
+[18:34] Then we looked into some sociopolitical experiments to date, then some commercial and financial experiments to date. And yesterday, we looked into what it means to build for impact. So what a better way to end this first week before we start building in week two than to have people who actually work in Argentinian institutions themselves to tell us in first person their experiences navigating this ecosystem.
+
+[18:58] So I want all of you to give a very big round of applause for the four representatives that we have here. So, yeah, I I would like for all of us to engage in a genuine and relaxed conversation. So I will be leading with very, very simple two questions so I give more space to to the questions questions that you may have to ask to them.
+
+[19:22] So first, a short introduction. So Diego Diaz is the head of payment and crypto at the Argentine Fintech Chamber. Milero Santa Maria is part you are a lawyer with him. Gustavo Ardiles, you're part of the government of the autonomous city of Buenos Aires. And Victoria Picchio, you're part of the National Ministry of Human Capital. Exactly. So I guess the first question I have for each one of you is what is your involvement with the blockchain ecosystem
+
+[19:52] or if not generally with digital technologies and what has been your experience bringing it into the real world? Well, first, thanks for the invitation. Well, I started my journey in crypto, in twenty twenty, twenty nineteen when I was part of the Central Bank of Argentina.
+
+[20:17] And at the time, crypto will be a payment method. Spoiler alert, they they didn't reach that. So one of the of the people in in in the bank said, hey. You have you have to learn about crypto, about blockchain, about Bitcoin because it's the future. And that's my entrance in the rabbit hole of crypto.
+
+[20:41] And then, well, I worked ten years in the bank, most mostly related with regulations of payments, well, the national payment system. And then when when the government changed and Mileti was elected president, Mariano, which is the executive director of the chamber, asked me to join the chamber as the head of crypto. And now we are helping the institutions,
+
+[21:06] banks, regulators, financial institutions, and fintechs to explore new regulatory frameworks for for crypto, for blockchains, for new payment methods. Sorry. Okay. So thank you everyone for having me as well for the invite from the on chain residency.
+
+[21:32] My name is Maria Milagros, Millie Zizier, and I am a lawyer by background. And, my family in Mendoza, I'm also Argentinian, has been doing private corporate real estate working with trust funds and VA commissas for the past thirty years. And funnily enough, it was not me who told my dad that he needed to learn about crypto and payments. It was actually himself, its a managing partner knocking on the door of my office one day going, like, you need to learn everything you can in tokenization and then closed it. And he was like, dad.
+
+[21:59] But that's actually my my road into the rabbit hole and then in Mendoza part of the, blockchain and Bitcoin community from some dear friends that got me to then move to Lisbon about four or five years ago as well and start working as legal department of different projects and specifically one company called Wutic that provide Silda's legal, financial, and tech solutions on Web three.
+
+[22:21] And, after doing that and also working managing the blockchain department at Lofin in Lisbon is that my involvement in the corporate restructuring and compliance for crypto projects becomes development even more. And, about a year and a half ago, I joined Cresimiento managing the regulatory department as well, where our focus from the regulatory department is helping the regulatory status of crypto in Argentina to be as fruitful and friendly as possible.
+
+[22:49] And, yeah, that's what I've been doing. And for about a year as well, working on architect systems, which both an investment firm and advisory. And now here having this conversation with all of you. Well, thanks, Sofia. Thank you for the invitation, and thanks to all of that to be here. As Sofia said, I'm Augusto Ardiles. I'm the undersecretary for investment of the city of Buenos Aires.
+
+[23:14] I know that we are in San Martin. That is a village of Argentina. But how many of you are from Argentina? Okay. Kind of. Okay. A lot. Well, so to that people who are not from Argentina, Buenos Aires is the capital city of Argentina and is one of the 24 estates in Buenos Aires and in the whole region of Buenos Aires, including the province and the city of Buenos Aires,
+
+[23:42] there are more or less 20,000,000 people. So when we are talking about the city of Buenos Aires and the metropolitan area of Buenos Aires, we are talking about maybe 40% of the population of Argentina. So all the things that we need to do in the city regarding to regulatory things
+
+[24:04] are so important to most of the people in Argentina. And the first time that I think Katan is still young because I'm 42 years old, but I'm more young when I listen the first time about Bitcoin, but it was during 2016. And I used to work, you know, on this day with the governor of the Central Bank, Federico Torzenegger. Federico Torzenegger now said I see one of the most important minister of president Mirai.
+
+[24:35] And I remember that when I told him about that, he said, so you are crazy. I don't know about this. We are the central bank. We have the monetary authority of the of the country, and all the central bank will be against it. But seven years after that, last year in Casa Rosada,
+
+[24:58] we were having a meeting discussing other things. And I remember that that meeting and he said, okay, you have a point and maybe the future move on that direction. So now today in the city of Buenos Aires or under my responsibility as under secretary of members are some regulatory things
+
+[25:20] regarding to different economy sectors. And this economy sector, our idea is try to to grow and to make regulation for the ecosystem crypto to grow with the ecosystem. And that's why two months ago, we we launched a program that is called BA crypto. Maybe we we could discuss about that during during this this meeting.
+
+[25:45] So well, that's I think that this this is a a short view and a short well, that's how I enter in this in this new world. Hi. Well, my name is Victoria. I am a total stranger here. I've been working for the past fifteen years in different national agencies
+
+[26:08] government agencies. I guess that the past fifteen years, was part of the educational planning office at the National Ministry of Education, which is now known as National Ministry of Human Capital. I worked at the National Ministry of Security, Culture, Health,
+
+[26:31] and many others. And I I have I always told people that I'm a total stranger here because I study science of education. So I'm really a stranger. I I came from a different world. But all the time in my professional career, I've been working with technology.
+
+[26:56] First, when we have the the, I guess, the boom of the in a distance education with the elearning. And then when I guess it was in 2015 or 2016, I changed with all my background in
+
+[27:20] distance education to educational planning, and I start working with different kind of databases trying to get to projections to cover many kind of jobs in the educational system at the national level and regional level and local level, for example, to cover all kind of positions for teachers in front of class,
+
+[27:49] which is a kind of mandatory things for both schools and governments because it's mandatory in our constitution for all people to get education and for to receive an quality education qualified education. Sorry. And I guess that's how I'm I'm related with this ecosystem.
+
+[28:12] But also I am a friendly user and a consumer of blockchain in in one way. And and then when I am also CEO of Chamro's small and medium enterprises in the knowledge industry in Argentina, I have many partners here like
+
+[28:37] Lucero Labs and Chem Labs there. So, well, that's a quick view. But, well, I quite a nerd, but in a different in a different area. Not not this one exactly. Hello? Okay.
+
+[29:05] So thank you so much for that introduction. I think it's fair to to say before we go into the second question for those who don't know it, part of the work we've done at the residency is to collect real problems or challenges from existing private, public, and third sector institutions, organizations across the country with the hope to solve them, at least partially or propose solutions in week two. And so
+
+[29:32] these representatives have helped us either submitting submitting some challenges or sharing their insights and ideas about modernizing current institutions. And so I have a question for the four of us. I would love for you to share your insights about not only the opportunities that we have ahead of in including blockchain to solve some of our institutional issues, But what are the main barriers today
+
+[29:58] from that to happen in the real world? Well, in my opinion, one of the main barriers is the education of the institutions. They don't know how to implement crypto in the best way. You know that you probably are the best people in this town
+
+[30:20] in in terms of the knowledge of crypto and blockchain, But we need to educate the regulators. We need to educate the financial institutions and to talk more about blockchain and less about crypto. Right? So this is a small difference. When we talk with the banker, you talk about blockchains and the benefits of used blockchains to cross border payments, to savings,
+
+[30:45] to issue a credit card or whatever. You don't talk about your token. You don't talk about crypto. You don't talk about communities. You talk about how financial institutions can grow in crypto. And a few months ago, I I watched a panel of Stani, the founder of Abe. The panel was
+
+[31:09] how can we scale DeFi? The growth of DeFi is not through their retail. It's through the institutions. So we need banks to allow the the the possibility to allow crypto to their clients. We need the possibility to banks and institutions to accept crypto in their wallets to educate about the custodial,
+
+[31:32] the the payments methods, the well, all the things that in banks are still hard to learn. We have the opportunity there to move into blockchain. And when the bankers know that you can send money from Argentina to Mexico in a few seconds by a 0.25 of dollar,
+
+[31:55] they probably think about that and think which is the best way to implement in the bank. So to resume and not to to speak by myself a lot, I think that we need to educate institutions. And when we talk with regulators and banks, we has we have to talk in the best way possible. So you know that you're talking with a bank, not with a community
+
+[32:18] builder. And I don't know how to say this in English in in the best way. Sorry if it's too hard to to listen. But the idea is that you need to understand how move the banks and the institutions and speak in the same language if you want to be sitting in the same table. So for me, that's the most important thing because they know that blockchain is the future,
+
+[32:44] and they need help to implement that. And you provide the help. So we need to speak in the same language. Well, that's what I have to say. Yes. If I may add, I'm very aligned with what Gil just said. What I would add is we want to speak in the same language and that means two things I believe, which is
+
+[33:08] and I'll start with an example. First, as a lawyer, I would be used to going congresses and conferences that are made for lawyers. So I would go to a congress and people would be wearing suits and shoes and everything would be very formal. And then I joined the Crypto and Blockchain ecosystem as a lawyer, and I was so shocked when I went to one of the conferences. It was like that if you were wearing a suit, you were most likely a fool if you are not not not so much to speak. But the way that people behave and interact and what they value when they speak with someone of knowledge, of power, or an important position is different.
+
+[33:39] And as an example, a couple of years ago, I got invited by the International Wine Organization to provide a workshop to the different countries that are part of that organization so they understand the use of blockchain in the world of wine. And when I went to the conference and the dinner after that, I also realized that the way the social norms that they have and the way that they speak and distress is also different. And the way that they understand information and value is also different.
+
+[34:05] Therefore, the importance between this intention of bridging the gap between crypto or blockchain and financial institutions or the public state has to do with also understanding what translators can help us put our words into their minds maybe and understand not only have them as, educating them, but also educating ourselves on how they think and the information that they already have. So I believe it's dual. It's let's find the translators and work with the translators and try to become translators
+
+[34:39] so they understand the value of it, But we also understand how they think, what they value, and what they fear. So that way we start this retroactive kind of dialogue back and forth and not so much this maybe idea of competition and rivalry. I think that those are the two things that I I would add. I only want to say one more thing is if yours a few years ago when when we were at maybe another
+
+[35:06] event, crypt events, no one wants to talk about the regulations. Right? I was working in the Central Bank during a conference four years ago, and they say, hey, I don't want to talk with you. You are in in the Central Bank. So why I need to talk with you? And now the same people are asking for, hey, you wanna invite some bankers to my event?
+
+[35:31] Because I need banks. I need institutions. So the business model of some blockchains and protocols shift, and now the institutions are required. So that's part of of Millie's sense that we need to speak in the same language. I totally agree with the the point that Diego mentioned before. We were discussing about that before before this panel.
+
+[35:57] I want to share you with you this. Javier Mille is more or less 56 or 55 years old. Patricia Woodruy is 70 years old. Frederico Torcenegra, 65. The mayor of Buenos Aires, 62. I think so. So we have politics that are in in the
+
+[36:22] the in the decision position that looks so far on the blockchain because they are all. So that's why because it's so important to try to make a bridge between the blockchain and the politician system. Because the politician system are part of the state and the state are part of the world too. So if you want to grow more, you will need to be under some kind of regulation that
+
+[36:52] this not mean a huge regulation. That mean some clear rules and some to to not have more taxing than the tax that you need to have. That, for example, why we we we spoke about Buenos Aires crypto because we want to to discuss about crypto. We want to discuss about blockchain.
+
+[37:18] We want to share to the old politician that now say they are the politician that are in the main position to decide that it's not so far blockchain and that there are a useful way to use blockchain. Correct me if I'm wrong, but I think that American Airlines have all the the cell system or or payment
+
+[37:42] by blockchain. I don't know if it's from Ethereum or Solana. So you have a concrete way to use blockchain. So that maybe will be the next step in our case in Buenos Aires. Try to understand which are two or three cases of useful from blockchain inside the government. Not only crypto. Because crypto, it's it's cool. I mean, you could pay by Ethereum. You could pay by Bitcoin.
+
+[38:08] And some years ago some years ago, if I want to to buy a Bitcoin, it's so difficult. I need to contact something that maybe have a hot wallet, maybe Coinomi, and I give the the dollars and and he transfer me the Bitcoin. Nowadays, thank God, it's more easier. I could buy Bitcoin or Ethereum by pesos. I put pesos on an account of finance.
+
+[38:35] Fence Vinyl or Fence Vinyl or other chain, I could buy a crypto. So, well, this is the first steps. Now the second step and and you can use this crypto in Buenos Aires. You can pay with no problem with the QR in any commerce, or you could pay tax with the QR too. But the next step is to discuss how to use blockchain inside the government. And
+
+[38:58] to be honest, I think that maybe I'm one of the person that most understand blockchain in the government. But I'm the person that maybe less understand about blockchain on this room. So that's why I I I will need your help to try to to have more blockchain in the government city of Buenos Aires. Well, I agree in most of the things that you all say.
+
+[39:31] Not sure about the thing related to the age. I don't think that if they are old because I'm old, close to you. I feel old. I'm 40. Sorry. I have almost your age and experience in education field, so I feel old. But I I agree in the other things, the importance of the
+
+[39:56] cultural institutional resistance to change is something that we need to to fight and and and we need to change really. It's really important and I think it could be really helpful for the national government or public administration to know more and better about blockchain and tokenization. I do like the idea. I don't know if it's correct that I'm saying, so please feel free, every one of you,
+
+[40:23] to correct me. But the the idea of have contract tokenized or tokenization of contracts, I don't know how do you say it, but it's really important and for the for the public administration, I think it's it's the way it's it's where we are going to go later or maybe later. But I I think it's it's
+
+[40:45] on the it's where we need to to protect the the public administration. I think that there are a lot of well, we have a lack. For example, I I I was taking notes about what my my colleagues were saying. And I would like to add the lack of continuity in public policies and the limited investment in digital infrastructure
+
+[41:10] in the national level, for example. And it could be important to maybe consider that in Argentina for all the people that are foreign, we have two different kind of governments,
+
+[41:33] maybe a centralized one, but we have a decentralization too at the public administration. So that's a big step that we need to to unite in the end because we have a lot of problems at that level. And I think we we have more challenges than achievements at this point and
+
+[41:55] maybe I don't know how how long is blockchain existing, but I guess that we could say that it's more than twenty years right now. I don't know. How long is it? Since 2000 since 02/1989? Yeah. Well, sixteen years. It's almost twenty years, and the public administration has
+
+[42:20] a lot more. And I guess it's really far away one from another. We have two different paths and we need to find a point of encounter and we need to solve all these tensions, these these challenges about centralization, decentralization, cultural and institutional resistance just to get into a good
+
+[42:44] scenario. And I guess we are going to have a big change in the the public administration since next year and the others because there are a lot of transformations about a lot of many system. For example, in the field of education, we are discussing now at the regional level in Latin America and The Caribbean,
+
+[43:08] the credit system for higher education and that's one big fight that I think that the blockchain world could move forward and took an advantage, for example. Yes. Thank you for bringing that up. I I know that I said I will only present two questions, but if you allow me, I just have one spicy take and then I give it all to you.
+
+[43:32] Because I I find what you share very interesting. So we talked about the lack of education or technical education in institutions as one of the barriers. We're also talking about some structural differences and then some some resistance in the internal culture of these institutions to change, but I want to double click on that structural difference. So as we all know, we here have in the audience many
+
+[43:57] OJ builders. So blockchain is a community is a technology and is a community that revolves around the concept of decentralization. And so whenever we talk about bringing into the real world and particularly institutions, the first question that comes into my mind is how do you make those combined? Because institutions as we know them today, most of the times are pretty centralized.
+
+[44:19] And so there seems to be an inherent incompatibility between the two of them. And so perhaps very succinctly, do you think there is one killer app for the sector that you're representing today, private, public, third, for blockchain that could be seen as a win win? And if not, well, you can just skip the question, obviously. I don't know.
+
+[44:46] All of the members of the chamber are regulated. Okay. Right. Well, I don't know because all of the members of the chambers are regulated companies. So they use blockchain, but they are not blockchains or or web three protocols. And well, that's funny. When when we talk with with MINI a year ago, I make the difference between
+
+[45:12] web three companies and web two companies. And in my opinion, web three companies are most most companies who are decentralized companies or with no local entity in Argentina. But no. I don't know. Part of the chamber? No. I don't think so. I think that my reply is gonna open the topic up a little bit more because with you, we had a conversation about a year and a half ago. And he was talking about web two companies and web three companies and so was I. But before we continued our conversation, we would not we did not do an exercise,
+
+[45:46] which is agreeing on the concept of web two and web three companies before understanding each other. So we were talking different languages when web two and web three. For him, web three was a decentralized company if you or entity if you are not a company. And for him, web two or web 2.5 would be like a regulated exchange. For me, on my understanding, web two would be a company that wouldn't work with blockchain, for example, and web three would be a company or an entity that would utilize blockchain or kind of service or product related to blockchain. Right? And on that case, I've used it as an example that you're talking about decentralization,
+
+[46:24] but I think that the only thing that we might agree on is not to use black or white of decentralized or not decentralized, but the spectrum of it. And then are we talking about decentralization on a technological level, economic level, governance level? Mhmm. So I struggle to give an answer before we touch this topic that's so controversial controversial. And I would also add, is it always that we talked about sufficient decentralization something positive
+
+[46:51] every time, which is another question that I may add? And then why does the win win depend solely or if in decentralization? So I think I just opened it up more as a as a debate than providing an answer, but agreeing first on what we mean by decentralization and which acts aspect would be maybe easier to find the answer on the killer app that would provide something beneficial on both sides.
+
+[47:16] Thank you. For me, it's more easy to answer. I don't know. But for for definition, governments are central license. So you have a mayor or you have a governor or a president and try to explain them that the centralized system could help maybe
+
+[47:41] in some parts of their government. It could be different, but I think that it's not impossible. So that's why I'm here, and that's why I want to listen to you. I I agree. I think that the real thing here, it's more like related to the politics
+
+[48:06] than to the technology itself. It's a it's a problem that we have and it's against politic parties and getting all on board on the same idea and just give continuity along the time. Mhmm. Thank you. I am going to open it to the floor for questions. Yeah. Should I bring it to you? Okay. See one there. One there.
+
+[48:31] Hello. Thank you very much for your answers. My name is Federico. I'm from Costa Rica. I had a question about digital native or Internet native institutions. So we live in a world that's increasingly becoming digital native. Right? Soon, we will have a digital identity. Money will be and already is kinda digital in the form of crypto. Digital assets will have their digital version.
+
+[48:56] Companies will exist digitally first in the form of some sort of DAO. And yet all of our government institutions or public institutions are paper based. Right? At best, we have they have a digital interface, but that's very much not a digital native institution. So my question for you is, what does a digital native public institution look like? What are its elements?
+
+[49:27] Okay. Governors need to be more digital because citizens are changes. Of course, my grandma will never use an app or or will never understand blockchain
+
+[49:49] or crypto. But we have a a big issue regarding the AI, for example, because some of our new apps in the one of the services in government, We are trying to to learn and trying to study some AI systems
+
+[50:13] to add this to our app or to our city chat for the people. So I don't know if we could have some bridge between this platform, this ad, and this process. Because on this app, you you could search your ID card or you could sell your ID line c.
+
+[50:37] And to be honest, I don't know if some of this back office program could happen, for example, by blockchain, helping with the AI system that we are going to add to our app. I don't know if I'm clear in in my answer. I would like to add that we have to digitalize or digitize a lot in the Ministry of Human Capital. In fact, we have a lot of problems
+
+[51:04] between the sources of information in education. We have, as you might know, we have the national government and then we have 23 provincial governments and the autonomous city of Buenos Aires, so which gives us 24 in total. So each province, each regional government
+
+[51:28] have their own way to work and their own processes and we have to work at the national level with all databases created in the regional governments. And for example, I have a case which is in Chaco that one
+
+[51:52] really important database that we use to project, use a system for planning the offers for teachers training across the country is ones we call which is something that you have to know about the background of a person that wants to get to start their career in the in a school
+
+[52:17] one from one year to another and they have that database on paper. So every year, we need to hire people to act like a data entry and we lost a lot of information and then we have the cases that people have weird letters. So maybe the information is wrong, is repeated, is lost and that happens a lot. And then we have another situation which is with another
+
+[52:46] really important database that is what we call PON, which is the planta organica nominal, which is the information about all jobs existing in the schools, in public schools from in kindergarten to basic education and secondary schools in the public sector in the whole country. And
+
+[53:11] we basically, we have the information of how many hours in each class, each school of the country have one teacher. And sometimes we receive that the information with 30 or 60 lines for each person. So we have no idea if that person has that kind of job that he
+
+[53:37] has. I don't know. Maybe 60 jobs or just it's it's a mistake in that database, for example. So in in the education field, it's really necessary. I worked many years for national hospital which has a lot of units across the country and they have the same issue.
+
+[54:01] So I think we need to to to change deeply the public administration here. Hello. This is, Nico from Altarmundi, from Cordova, Argentina. I I'm third sector in this, and I have been having an interesting experience here,
+
+[54:27] finding I'm of the part of the old generation, the great people, but I have been doing technology of my la all my life. So I'm bit a bit of a breach also. And I found that people here are organizing in decentralized autonomous organizations. No? DAOs. That's like what is happening with this generation trying to organize to do what they want to do.
+
+[54:58] My generation would fight to create an NGO like my NGO, fight with the government for two years to have your, thing approved so you can start working, etcetera. And I see now that, it would be very interesting if governments
+
+[55:20] started to pay attention to what is happening with this generation organizing the themselves to change the world because that's what's happening. And how do we find these bridges that are very to me, for example, the inspection of justice, no, in Argentina. That would be the people that need to know what a DAO is
+
+[55:48] and how does it work. Can a DAO come here to Argentina and say, I want to participate in this whatever that needs to have some accreditation. Like, I can go and say, am this civil association with this number, etcetera, and I'm I'm accepted to anything in the government. But if I'm a DAO, I don't know how that works and whom would they talk to if that's the,
+
+[56:18] same window of or there's no window. You know? How does this work? And how do we bring this intelligence, to our governments? I remember, like, a long time ago, the blockchain, people saying, we won't need any more notaries. No. We won't need any more. Yeah? Because everything
+
+[56:42] we want to move through, notary, we can do it on blockchain. But I haven't seen very much of this done at government level, for example, and there would be a lot to explore in that direction. There are the mines here. The problem is there because you know anything you need to do in that sense takes lots of time, lots of money, and it's
+
+[57:08] medieval. No? I agree 100% on the necessity of more public private articulation to bridge that gap. And specifically, when it comes to the inspector of justice of Ijikota, it was last year in the first half of the year that they issued a resolution that enables
+
+[57:35] companies in Argentina to incorporate with, crypto's treasury, if you will, with Bitcoin or SDC, which is already a good first step. And seeing that they are already starting to understand the value that this has, this kind of technology and how to use it. But as you mentioned, that is that is still not enough. And even part of the complaints of Vitalo, the person in charge, was like, hey. I made this change. No companies are incorporating. Like, what is it? And Only one. Only one. And about that, that makes us also make another difference when it comes to the legal framework that we have in Argentina, which is it's already possible for companies to incorporate online in different,
+
+[58:16] provinces in this in the country. But that's not the same as incorporating on chain. So that's a separate state that we need to look for. And, in Cressimiento, for about a year and a half, we've been hosting regulation days, which are public private events with regulators and private sector and also academia academia to be able to discuss this kind of things and its values.
+
+[58:38] And this year, we started adding regulatory roundtables. So the regulatory the relation days are, like, 200 to 500 people on a whole day with panels and conversations and keynotes, but the regulatory roundtables are between 15 to 30 people also from private, public private sector, law firms, academia, legislators talking about this kind of topics. The first one that we did I'll I'll get to a point. I promise. This is related. The the first one that we did, it was smaller. It was, like, ten, fifteen people maybe.
+
+[59:10] And the second one, it was, like, 35 people. And something curious happened, which was there were legislators, there were lawyers, there were people from exchanges, there were people from financial institutions, there were, teachers as well, part of the Crescendianto team. And what we realized was that we could not end up, like, agreeing, which was the thing that we wanted to fix or the thing that was actually broken.
+
+[59:35] So the fact of organizing ourselves as well on the right way to find the right language and the right problems to propose it to the right person could be a first step. And I think that is the public private articulation that we're looking for. Because going back to the regulation days and the different conferences that we've gone to, it was at the conference of Australia University in September this year that was also about blockchain and business
+
+[01:00:01] that Bitolo said out loud, and the next step is for DAOs to be able to incorporate. But the know how and the power force also comes from our side and coming to those events and organizing them and inviting them in the terms that they would feel comfortable for coming. So for me, it's a 100% agree in finding those or building those bridges. Thank you.
+
+[01:00:31] I have a related question that well, not only DAOs, but in blockchain, the field of governance have been very expanded on research, development, and experimentation. And I don't think great solutions came from there, but at least has been an experimental ground. And some of these implementations
+
+[01:00:53] have happened in other countries that were open in maybe smaller levels to experiment with new governance models. Do you think in Argentina there is an openness to potentially explore blockchain as a use case for participatory decision making or even for election
+
+[01:01:17] voting systems or how yeah. If if there is a regulatory openness and also a political social openness in inside of the state. Well, we need one hundred years to achieve our national voting system. So I need that probably using blockchain
+
+[01:01:42] will be better. But how is the question? How do you implement that? Well, well, that's that's the answer. Here's the answer. Here's the answer. You the chosen one. Well, that that's the most difficult part of of this is how do you implement that.
+
+[01:02:10] I think that there is a lot of things that we can make better using blockchain, but we probably don't know how to do that in the best way possible. We talk a lot about DAOs, for example. Right? And which is the difference between a DAO and a chamber? The chamber selects their own authorities
+
+[01:02:35] with one voting power per company. There are people who are working in the same industry and with the same people, and they know the the ecosystem. So which is the difference between a DAO and a chamber? That's one question for me for to to Jose, I don't know if you you know the the answer, but we don't need blockchain for everything.
+
+[01:03:00] We need blockchain for only the use cases that we have problems. One of the main things that I heard from crypto, it's, hey. We need blockchain to do that. We need blockchain to do that. Blockchain fix that. Crypto fix that. Well, crypto don't fix that. We're still using a paper to vote. We're still using
+
+[01:03:22] paper money. But blockchain probably adds value to institutions who need to create a new way of government. And, for example, thinking out loud. Right? We can use blockchain to to make more financial inclusion in Argentina when countries like Latin American countries or in in Africa.
+
+[01:03:49] But we need to focus in solve that tiny problems and not to fix the whole voting ecosystem or the the whole voting system of a country. We need to focus in the small things. And step by step, we can create a new way of government, a new way of payments, a new way of, I don't know, how people create bridges between institutions and and crypto. So we need to fix
+
+[01:04:15] the small things, and then we can go further, further, and further. So that's my opinion. I don't know if it's the best opinion, but I think that we need to use blockchain when and where we need to use blockchain, not in every spaces. Yeah.
+
+[01:04:43] Oh, no. Let's talk. Don't hate me, please. Don't hate me. Hey. I had two questions. What one is not related to crypto. I would like to know from your perspective, is the main pain point and, the priorities within your organizations. So it doesn't have to be crypto related, but, I think it will be worthwhile for all to understand what actually is, you important for you. It doesn't have to be crypto related. And then I would like to understand,
+
+[01:05:14] like, what is the etiquette for, like, talking with politicians or, like, is it, like, a secret handshake or anything of this sorts? I I start for only one thing. In my opinion, the the priorities are that allow people to use their own money where they want to use, when they want to use, and in the best way
+
+[01:05:41] possible. So we need more payment methods. We need more access to financial institutions. We need to connect DeFi into financial institutions in the best way. And I don't know the answer. Right? But in Argentina, which is my country, I really want to to include more people in the financial system. I hate the paper money. Right? So I hate that. So the last thirteen years of my professional
+
+[01:06:11] career, I was working to avoid pesos. Right? And to use digital pesos or or or dollars or to preserve the the economy of the of the people in Argentina. So we live in a country that we need to improve to survive. The Argentinian people needs improve, needs to learn blockchain, needs to learn
+
+[01:06:35] everything to survive and to preserve their their network. Right? So for me, there's an opportunity to to blockchain, to make the the next financial system better, transparent, and easier. So I I think so. So you asked us about our priorities as
+
+[01:07:03] as entities and as well what that was the priorities. Right? So
+
+[01:07:26] Cressimito's priorities have to do or the the main goal and vision is to help Argentina become that technological and crypto hub in the world. And for that, we prioritize a holistic approach or a dual approach. The first approach has to do with ecosystem development. So helping developers, entrepreneurs, and start up develop and giving them all the tools to be able to grow in a healthy way and for them to stay
+
+[01:07:51] and bring the talent back. And on the other side, which is related to convincing or making those that talent stay or come back is the public private articulation. So we can help the regulatory part of Web three or crypto technology be attractive enough for that talent to stay. From that, you've got the like, a little bit of a pyramid. You've got that main goal and vision and then the two pillars that we work in and then all the different activations and initiatives that have to do, like, with the pop ups, the hackathons,
+
+[01:08:23] the build the thins, the founder school, the mentorships, and on the other side, the regulation days, the roundtables, the policy papers, the specific regulatory proposals like the sandbox, and having all of those try to go to the same goal again. Because you can help a lot of entrepreneurs or developers or startups to grow, But then the moment that they need to solidify or incorporate
+
+[01:08:51] and they see that the the the current framework is not friendly enough for them to do it, then sadly they leave. And that's when we also want to have as a focus on, hey. Wait. Let's let's stay. Is someone recording this meeting at this time? Yeah. No? Yeah. Okay. Yeah.
+
+[01:09:15] Okay. It's it's it's tough. It's tough. Ten second. I want to be totally honest with all of you. It's okay? Win the next election. So that's the problem. Yeah. But but that's the problem. I want to be you ask for the priority of the organization and then mainly work with Eric Coster Senager who is trying to do that at the national level.
+
+[01:11:05] So at this day, I'm trying to copy some of these public policies that they are trying to to have in the national level in the city of Buenos Aires. And we need to understand how to Ijekota needs to regulate or not EDAU.
+
+[01:11:29] Actually, Jecota is national and is not from the city, but I got the point. So I think that my main objective is to try to build this bridge between the the blockchain and all of you and and the private and the public sector and the government sector. I
+
+[01:11:52] think in your case that maybe you need to try to move forward with implementation of the blockchain system for for example, elections as you proposed. But I don't think it's that important to tell people that you are using blockchain. And I think that's the main problem because for example, in the education field when you want to have, I don't know,
+
+[01:12:20] training program and you want to get this digitalized, you don't know if you are using Moodle, Educateva, Canvas. You just want to get the product in the end. So you have a technology team to build a solution and maybe it's not that important to tell the people that you are using blockchain.
+
+[01:12:43] So maybe you need to change the focus on what the way you are communicating and not the way you are producing, you know. Because in the end, when I went to the not not these these elections, but the the ones before were in an electronic system and I have no idea about that electronic system. I just went to vote because I am a citizen blah blah blah. So maybe
+
+[01:13:12] we need to to avoid give that much information to people that have no idea. So that that was my suggestion. Now I'm going to go to the point. So in my special case, I need for example in the prioritized list, bucket list maybe, I need databases
+
+[01:13:36] that are transparent, reliable, accurate, both in the regional and the national level. Nowadays, you have the same database in the national level and you have a number. For example, you have, I don't know, I'm gonna say 100 1,452 institutions
+
+[01:14:00] for teacher training in the whole country. But if you go to each regional administration and you count the number they have and then you put all together, you don't have the same name. And that happens with schools, with jobs, with the amount of kids, for example,
+
+[01:14:22] at school and that should be something really important for all, not just for the public administration, for all the people. May I have a question? Sorry, sir. May I have a question for some of you, I don't know who. Is someone have an an offer or something to say regarding to the election system? Because when the
+
+[01:14:47] guy from Cordoba said could you tell us about that? So well, that's a longer story. But My
+
+[01:15:13] political career is under your responsibility, so I'm so enthusiastic to listen to you. Okay. So I think the government fail a lot of times to the population. And I think that nowadays, we have been we have been interacting with banks with our mobile phone. We have all these fintech apps and so on, but we are still voting, like, two hundred years ago. New generations feel totally disconnected from the government
+
+[01:15:41] because of different things. And the government, as time passes, loses more legitimacy because the turnout in elections is super low. So I think one of the cool use cases that blockchain technology enables is to have elections that are fair, that are transparent, and in a way that since you cast your vote, since the tally of the election is done, you can trace cryptographically that your vote has been counted and have not been modified.
+
+[01:16:10] So I think that one way you could have more legitimacy on the decisions you make is by having more turnout and putting, like, a system that makes people more comfortable and and in an easy way to participate. I think it's a it's a really, really, really good way to empower democracy in different governments.
+
+[01:16:40] And, yeah, I built this system. You already have the system? Yeah. It's being it was being used well, a use case that is also related to to the government. So I'm from Catalonia, actually from Spain. Okay. You have some problems some years ago because of Yeah. Yeah. It's because of you and this season? No. No. No. Hopefully
+
+[01:17:05] not. There when we had, like, the last elections where Pedro Sanchez was elected president and so on, Ska Republicana is one of the biggest parties in Catalonia, and they had, like, the key votes for electing Pedro Sanchez as the president the next prime minister of Spain. So the politics at the Ska Republicana, the politicians,
+
+[01:17:29] didn't want to be accountable to the site. I mean, unilaterally, like, two, three people. So they used the system that we not just myself, but more people created to ask their member race if they wanted Pedro Sanchez to be the next prime minister of Spain. And I can proudly say that now nowadays, Pedro Sanchez is the prime minister because the member base of Scarepublicana
+
+[01:17:53] used decentralized and a truly democratic vote digital voting system for giving their support to to Pedro Sanchez. What's the name of the project? Vogdoni. It's written in Esperanto, and it means to give voice. We're gonna share link. Okay. I'm going to buy you a beer after this meeting and you share me the project? For sure. Okay. We have a deal. Yeah.
+
+[01:18:16] Thank you. Okay. Sure. I'll go.
+
+[01:18:52] My name is Mitch. I live in Mexico. And I was interested in your comments earlier about, like, the OGs in here and what do we care about and what are we here for. Do you think that the governments and banks are willing to give up a certain amount of bureaucracy or control in order to come into the digital age?
+
+[01:19:18] I think something that a lot of us fear or the reason that we're here is to get away from bureaucracy and have our financial sovereignty. So for us to come back to banks and institutions and give them solutions where they can kind of bring us back into the control, I think brings a lot of hesitant hesitancy to people. Okay.
+
+[01:19:48] It's working. Well, I I'm truly a believer that if you are a DeFi user, you probably continue use DeFi without the without banks. But if you need more crypto adoption, we need banks. It's a
+
+[01:20:12] it's a I don't know how to say this in English, but it's a fact. Sorry. It's a fact. We need institutions accepting crypto to create more adoption. So at the end of the day, if you want to operate or to move your money in a decentralized system, you can do it. But there are some people who don't know how to use blockchain and don't want to use blockchain,
+
+[01:20:40] but they want to continue using their own banks. And it's okay if you provide a solution using blockchain. So we have to understand both sides. People who want to operate in a decentralized mode using a decentralized wallet, and it's okay. But we have to help institutions
+
+[01:21:03] to offer crypto solutions to people who want to use their own bank app. They feel safe using that. And it's an election of the of the people. We don't need to make this white or or black. There is a gray. Right? So in my case, I use DeFi,
+
+[01:21:29] but I use banks too. So that's my opinion. We need to create a system who allows people to move their own money and to use their own money in the best way and way they want to use that. So if they want to use DeFi, okay. If you want to use in a centralized mode, okay. It's fine.
+
+[01:21:53] So I don't know if it's the best answer, but don't hate me, please. We have three more questions. Hi. I think this was a great example for my question, which is there's a lot of people building here that are trying out different things. They're looking for specific problems to solve and to build for. So
+
+[01:22:17] what are the for each one of you, what are the three things that they would need to tell you when they are presenting their projects so that you take it seriously and so that you'd be willing to not only listen to the idea, but say, let's have a longer conversation around how we can actually implement this in my organization. Three to five things. This is a problem that we find
+
+[01:22:42] and describe it in a short way. This is the way that we fix this using blockchain or or maybe cryptocurrency. I don't know. And this is the way that you could explain this to your mom. Because as politician, we need to explain to the society, to the citizen how to
+
+[01:23:05] use this new platform or or this blockchain system. Maybe I don't need to explain to to the citizen because it's back office. But in the case that it's not back office that maybe it have a UX experience, And I need to explain to to people in in a simple way. We're
+
+[01:23:31] not a public organization. So I think it's more like you guys need. Mila, please. No. Just to just to add one more thing that it's always impossible. It's always important if you have a static case real. Now if you can show, not just tell the solution, you know. Because in, for example, in the education field,
+
+[01:23:57] all of the important people at the National Public Administration are really old, not just 70. It's like seventy years of experience. So you need to show with an example with a a real case to prove that this actually works because for example, a lot of the a lot of the system that are
+
+[01:24:22] actually using at the Ministry of Human Capital are just like a black box. They have no idea. They just put something and get something in the end and nobody knows what happened there. So maybe you can show with a real case, something simple but real to that that I'm sure it it could make a difference.
+
+[01:24:48] So I have Jordi and Frans, those two more questions. And then I think we have to wrap up soon. Before everyone leaves, I would like to remind all of you and extend an invitation to week two, which will be our design sprint, where we'll try to address the problems that various organizations in Argentina have shared with us. So tell a friend whoever you think will want to join us. We're starting on Monday. Now, yes, back to the two last questions. So, France and
+
+[01:25:19] then Jordan. Okay. Thank you. Okay. My name is France. I wanted to ask to the public sector also. Sorry, guys. If there's any idea or research on progress to create any strategic policy that takes anything of this ecosystem, and I will give an example that blow my mind
+
+[01:25:44] when I think it was a few months ago when Bhutan said that they are mining Bitcoin with their electric energy. Okay? And using that to pay pensions, for instance. I said, That's very intelligent. Okay? And and I want to know if either in the national or in Buenos Aires,
+
+[01:26:06] is there any idea of anything like that? I I have no idea. I don't think that's a matter of the National Ministry of Human Capital. But I do like to know more about that situation. I I think it's awesome.
+
+[01:26:32] Well, the problem in the city of Buenos Aires is that we don't have river. We don't have great lands. Yeah. Yeah. Yeah. For sure. For sure. No. No. No. I I totally under your point. I'm just answer that we don't have this this thing that could have a lot, but we have talent And we have a really good human research in the city of Buenos Aires.
+
+[01:26:57] So the main idea when we launch BA Crypto, which is the program from crypto in the city of Buenos Aires, it to start to being close to the consistent to generate and to create thing that could help to to all the people who are living in Buenos Aires. So the first step was with BA crypto.
+
+[01:27:21] It's more focusing in tax accession and in QR QR payments. You you could pay the ABL and and other tax from the city of Buenos Aires, but a QR that maybe QR from an app like Pomelo or and I love Bello or Lemon could could use it. So maybe the second step is try to
+
+[01:27:45] understand which is the the best way to to create solution with the ecosystem. We have this umbrella. We have this program to to to grow together. Okay. So first of all, this is a disclaimer. This is not something, like, against you personally or something like that. Also, as when I say that I'm proud that Pedro Sanchez is the prime minister of Spain, I'm proud that they used the technology that we created.
+
+[01:28:19] Don't worry. Okay? So I created a a character, like, that we are in a theater to get I mean, to get your opinion on on a thing that I wrote. So do you know what bit why Bitcoin blockchain was invented? It was because central banks failed to do its democratic duty. Companies jeopardized all layers of the government, and the government nowadays is basically a worker for the capital.
+
+[01:28:44] In my country, some people have been accused of terrorism because they'll build they built a digital democratic voting system that the government is not able to shut down when they ask questions that they don't like. At the early days of crypto, the public message was that crypto was for terrorists and and for money laundering. This created a fear, a disconnection between this innovation and the institutions.
+
+[01:29:09] You say that, we should be working on creating these bridges, and I agree that we should be dressing well. We should be polite and try to talk with the government, banks, etcetera, with their language. I truly want to help governments, but at some point, I asked to myself, where do I have more odds to really make a change? Creating a parallel system that will inevitably
+
+[01:29:34] be adopted by governments or working with the government while putting my faith on a system that failed us, including you, so many times. I would like to know your personal opinion on this matter and what you have to say to the people, which are not me. And these people are not few that might think that way. Thank you. Okay.
+
+[01:29:57] I think that in life, not all the thing are black and white. Maybe you have something in the middle. There are different ways to create and to grow. Maybe
+
+[01:30:19] one way is okay. We we create something like in this wave and when this grow really big, governments are are coming to us. So my best friend is from the Peronyms. Peronyms is the opposite of my political party in Argentina.
+
+[01:30:42] My so I'm the the godfather of his son. This kind of relation I have with with you guys. So I always think that we have Greece in the middle. Greece, I mean. And not only life, it's about black and white. So it will depends. And
+
+[01:31:06] you choice you you choice your own adventure. And every adventure of each of each ones, it's okay. So that's my point. Thanks. I would like to add something, but is it okay if I answer in Spanish to him? Well, on that very
+
+[01:32:55] spicy note, thank you everyone. Thank you everyone so much. Before we close, as I said, I I received a request from many of you given the importance of and the recent news. You asked for a greater, like, format and time to be able to discuss about it, and there is nothing better than have Milie with us to explain a little bit about it. So I would like to give the microphone to Millie.
+
+[01:33:25] Thank you, Sophie. So I think this explanation is gonna be way more boring than many of you might have expected. Before that, on the initial question, what it has to do with the Austrail conference that happened in the first days of September. It was recorded. It's in YouTube. And you can see the video where I am moderating his panel where he talks about the modernization of the jijota and daus being part of it. And the second panelist, she's a Spanish lawyer called Incarnacional
+
+[01:33:58] for her kid name. And he proposed a regulatory framework that's slightly decentralized for DAOs that might be interested to choose as a small note. And then so, okay, I'll start with from the top about the proposal of the digital zone, and how things have developed. As I mentioned earlier, Cresimiento has the objective of helping Argentina become the tech and crypto capital of the world. And for that, beyond of working with
+
+[01:34:24] startups and entrepreneurs or developers, we also work trying to make the regulatory status of crypto or technology in Argentina to be as friendly as possible. One of the things that we realized was that if we want to have a regulatory framework that's more friendly than what we have today that's friendlier, then we need to have good dialogue with the different stakeholders
+
+[01:34:47] that make part and decide upon the framework. Therefore, that's public sector on a national level, on a province or state level, that's the regulators that relate to crypto like CMB, Central Bank, Weave, and that's also the other traditional kind of stakeholders like traditional markets and financial institutions. And that's when we started saying, okay, let's put a lot of effort or part of our focus into public affairs and institutional relations, and let's open the door for dialogue and the things that we want to propose and the why,
+
+[01:35:22] and let's bring these other stakeholders so they can also explain it and show what are their priorities. And beyond of knowing that we wanted to bridge that gap and open up that dialogue, we thought, okay. Specifically, what are the pain points of the startups and the projects that are in Argentina that we want to propose help to? And we realized that entrepreneurs and startups tend to have
+
+[01:35:45] two kinds of pain points. Pain points that relate directly to themselves as any kind of company and pain points that relate to them specifically to their industry. The pain points that have to do with any kind of company that has to do with the ease of business, it has to do with corporate tax, it has to do with how easy is it to open a bank account, it has to do with the risk of the country and the predictability into their development.
+
+[01:36:12] And the other kind of pain points are more industry related into what web three is. Things like, is there a regulatory framework for blockchain or for crypto? Is it clarity into the different kind of contingencies on the service or the product that I'm providing? Is it any kind of innovative framework in relationship to other kind of countries that would make that place more attractive than another one?
+
+[01:36:38] And this kind of pain points become clearer to me when I recalled working in Lisbon at the law firm in the blockchain department where I would have to do the corporate structuring of a crypto project, usually, they're international. And depending on the kind of stage that they would be in a company, whether they're fundraising or whether they would be about to they would be about to issue token or whether they would be in a moment of growth or just like wanting to regularize your operation
+
+[01:37:06] is that they would kinda have to do this salad of jurisdictions between Cayman Islands or BBI or Panama or Switzerland depending on their budget and maybe their IP in The UK or if Asia, their market, they would go to Singapore and whatnot. And the things that they would consider into this beyond the market where they wanna offer their product or their service is okay. What's the corporate tax? Is it easy to open a bank account? Is it gray listed into the other countries that we would need to interact? What is the crypto regulation into that jurisdiction?
+
+[01:37:38] And also things like, can I do things with the service or the product that I'm offering that in other places I wouldn't be able to? So, like, is there is tokenization regulated or do financial institutions get access to services with digital assets? So when we realized that all of these things, the kind of pain points that they would have here in Argentina could be solved or it could be they could be benefited by different kind of institutions, we thought, okay. Based on comparative law and other use cases in different countries,
+
+[01:38:11] we can see that those kind of pain points that are specific to the crypto or blockchain industry or technology can be partially benefited or fixed with regulatory sandboxes. And that's why part of our first proposals started with the multi agency regulatory sandbox proposed for the first time last year with the Argentine Fintech Chamber, considering that in Argentina, the different regulators that relate to blockchain or crypto are in the majority of it, Central Bank, CNB, and WIF.
+
+[01:38:42] And that's how we started putting a lot of focus into this public private collaboration onto the regulation days, the roundtables, policy papers, responding to the public consultations, being invited to private ones, and making itself at the disposal of the of the regulator in case of doubts. And then so that's how we've been working so far. Then there was the other kind of pain points where a company could say, okay, this is cool. I could apply to the regulatory sandbox and I could
+
+[01:39:10] help tokenize the financial instrument, but the other pain points remain. And that's where from comparative analysis with other countries in the world, we've seen that those countries that have been able to do a flip of 180 into their economies was through the institutions of special economic zones. And having heard governments, especially the Ministry of Deregulation in the past and how they don't really like special economic zones, but at least the traditionals that are physical,
+
+[01:39:39] they would be willing to hear about a proposal of a zone that's digital. And that's when we understood then if the institution that we want to propose so there's a legal framework that's more attractive for companies to stay or to come and could be through this kind of specific framework, we started thinking, okay. What is the regulatory proposal that we need to make? Through what kind of institution?
+
+[01:40:05] Is it through a bill that had to go through congress, or is it through a regulator that could make it feasible? Is it through a province that could, through their own framework, adopt it? And beyond of always having into consideration the possibility of a bill in congress with the fear of not having enough understanding maybe in congress for what it is or it losing state, which means never being treated or a
+
+[01:40:32] or a zebra coming out of the request of a horse, therefore, some kind of Frankenstein. We started analyzing the different kind of legal frameworks that are similar to the digital zones that we thought of with other ones already existing like you have one in Malaysia. And then in UAE, you have zones that are physical, but they have digital infrastructure. So they're also considered digital.
+
+[01:40:55] And everybody knows Estonia that is a little bit like a zone without the benefits because you get to incorporate a company and open your bank account and function from wherever you are. And we started speaking with different experts from here and outside. And we I invite you or from Cresimito, we invite you to see the different recordings, for example, from Regulation Day back in
+
+[01:41:19] August in 2024, where we speak about this and we invite Bob Haywood, which is one of the biggest experts in special economic zones in the world and helped create over 115, I think, or something like that. There's a video from this time last year at LabID Conf where we present the idea and the necessity of it. Then in November at DevCon, we do it again. And on each regulation day, we even had an interesting panel back in March with an expert on tax free zones and another one from Spain where we we talked about it. And one of the things that the experts told us,
+
+[01:41:54] especially Bob Hayward, who was actually at CD Chan HD Chan my last year was network states are fascinating, and the the values and the principles that their base are very noble. The complicated part about it, which had I believe has to do with every kind of use of blockchain and public sector is we think a lot about where we want to get, but we don't think so much about what's the real mode possible or what's possible today and to build from there. So it might be too hard to do a jump from zero to a 100, but how about we work with something that's already there and we scale from there?
+
+[01:42:31] And into that, they recommended the possibility of consider what's the current existing framework with zones in Argentina and how could that be used for for them to become little by little digital. And I'm getting to a point, I promise. And it's the following. And you can read that in in that note in I brought. In Argentina, you have a law, which is the tax rezone law. Usually, you have a law approved, you have sometimes
+
+[01:42:57] the regulator or you're the regulating authority that has to do the the reglementation of that law. Back in '94 when the the special the the tax free zone law was created, the regulator, which is the Ministry of Economy, whether sub secretaries or secretaries inside of it, never did that specific internal regulation, which gives a little bit more waste into their approval and creation of these zones. And these zones are created
+
+[01:43:25] per province. And the thing about so the province would have to create it and then to be approved through the ministry. And there's nothing in the law that says that zones or fee tax free zones cannot be digital or of services. So far, they're mostly for for hardware, for not not hardware, for goods. And therefore, we realized that because of the law that's already existing on tax free zones and also that we have the knowledge economy
+
+[01:43:51] law that provides different kind of incentives, especially in tax and labor law for knowledge economy companies, therefore, those that are related to software and that both of them could be combined as well. Therefore, if there's a company that's inside of a tax free zone, a physical one, that wants also to apply to the different kind of benefits that have to do with more incentives on tax and in labor, they can do it. So then we were like, okay. Maybe the proposal that we could do for the Ministry of Economy or an interesting province would be but in in the end, it's always the Ministry of Economy is the consideration of the regulation through resolution.
+
+[01:44:27] So the digital zones can be digital and also for services because there's everything related to software and and SaaS and, like, not only just blockchain. We're now talking about tech and innovation in general. So about that, what I'm trying to portray or explain is the following. Cresimiento, therefore, is a nonprofit that has the objective
+
+[01:44:52] of helping Argentina become the crypto hub of the world or land of America. And we work with startups and we work with entrepreneurs and hackers and developers. So they get to grow and meet the different stakeholders that help through that and the mentorships and and all that. And because of that, we also have the regulatory part where we try to do this public private articulation,
+
+[01:45:16] everything on top of the table like we've been doing and the I think Sandbox is the best example. So we get to propose these institutions that are pro innovation. And for that, even though we're trying to fix this thing on, okay, the specific pain points in the industry, like lack of clarity or uncertain consented contingencies or prohibitions or lack of flexibility and
+
+[01:45:40] licenses. Like for example, it wouldn't be possible to tokenize directly 100% digitally financial institutions if it wasn't for the Sandbox right now. We also make those proposals that we believe would be pro innovation, like digital zones being able to exist. So you have Cresimiento as a nonprofit that makes regulatory proposals, and then you have the proposal of digital zones that ends up being a public good. And the final decision maker whether zones can exist end up always being
+
+[01:46:10] the the state, the Ministry of Economy, for example. And then whatever province it is, within it it would be like, it would be the province. And so that's the first important difference. And going back to tax free zones, the way that they work or at least when it comes to to Argentina on the law is the following. Imagine that you have a chunk of land. Imagine that you have a chunk of land. That chunk of land is affected to a special regime, which is the one affected by the law and the province. It was like, this is a chunk of land.
+
+[01:46:42] And then you can have a company that incorporates in the chunk of land and can apply to the incentives of the the special regime. And then you have a specific entity which is an operator, and the operator is the one that can give you the license for the incentives because you are in the chunk of land and their, obligations or the things that they do is they make the development,
+
+[01:47:04] the real estate and infra development of the chunk of land and also for the services that those companies would need to survive. And they would report directly to a village a vigilance committee where there is like the IRS and customs and other regulators, and they also report to the Ministry of Economy. And this operator, if you will, or concessionaire,
+
+[01:47:27] what they do is, yeah, they they just make the development, the the real estate development of the chunk of land. And they do not create the rules and they do not do as they please outside of what the law and the province and the ruling of the province regarding that framework would enable. So the proposal or the regulatory proposal that would be a public good would to enable the operator
+
+[01:47:51] of the tax free zone to not have to develop through real estate and towers or just physical space, but that so that infrastructure that would be real estate. But to develop a digital infra as a platform, so there it is that the company can incorporate and from there, interact with the different regulators. So in the end, it's digital infra
+
+[01:48:16] and not the real estate infra. And the final decision maker for, the existence of the zone and the auditing or everything that would be happening is always the state. So that's a specific kind of proposal that ends up being a public good always under the surveillance and decision on the auditing of the state ministries, regulators, and provinces. And now
+
+[01:48:39] we have regulation day in about a little bit more than a week. And in regulation day, there was the intention of launching and presenting a new entity that has been paused because of the severance of certain allegations that we thought it was important to clarify and and to regroup as a team and take it seriously, that the intention is to be able to provide the digital infra for existing zones and similar regimes, and eventually, when if possible,
+
+[01:49:08] apply as an operator for the digital infra of a digital platform. And, yeah, we wanted we wanted to make most of regulation day to be able to have a better made speech than the one that I'm making and less boring, hopefully, explaining the difference between the institutions, which, again, it's Crescimiento as a nonprofit that beyond what they do with startups and entrepreneurs
+
+[01:49:32] makes regulatory proposals. The regulatory proposal specific of Zone as a public good always under the power and auditing of the of the state. And then that separate incubated entity that was looking to be able to develop digital infra from now on working with what's already existing, which is, for example, tax rezones and other regimes like, for example, I don't know, as an idea, that's already there and things like that.
+
+[01:50:00] And again, always the the same way that we've been working when it comes to sandbox, which is the public events and the policy papers and the propositions from different sectors on what could be. That was way longer than expected. I'm sorry. Leo, I know that you wanted to add something. I have only one thing to to say and it's related to to Millie.
+
+[01:50:31] And it's all of us, we probably earn more money in the private sector that in our organization. So if we are doing that, if because we truly believe that this is the change. So we made a lot of effort to do that. Probably, it's not the best way and it's not in the ideal way, But we really believe that we are making a change in Argentina,
+
+[01:50:57] and we will do that in a few years. So thanks again for the opportunity to to share our ideas here. I'm sorry if my words was very hard, but thanks again for for the invitation. Once again, thanks, Sofia, and thanks to all of you to be here. I agree with with Diego and with Melia, and that's why we are here.
+
+[01:51:24] So I think that this meeting is important, but always the networking space after that will be more important to discuss and to continue thinking about that. In my case, I'm going to have an MVP presentation from the guy from Catalonia. So I'm so excited about that. But thanks thanks for all of this. I I think most of you maybe
+
+[01:51:51] are in San Martin from one month. So to everyone who are not from Argentina, I hope that you are enjoying this incredible country too. So thanks again. Just just want to say thank you all. It's a pleasure to be here and to be part of this beautiful community, and hope to see you in the dinner.
+
+[01:52:14] Yes. Thank you so much. First of all, thank you. And, yes, please come to the community dinner at it starts now at 07:30 at Torino Bar and Bistro. We will all be there hanging out. 07:30? Okay. Come early to avoid the rush according to our so let's do that. Thank you so much, everyone. Thank you, guys.

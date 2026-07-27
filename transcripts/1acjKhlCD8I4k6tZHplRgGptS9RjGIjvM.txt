@@ -1,0 +1,119 @@
+# Digital School — K-12 Education with AI as a tutor
+
+Date: 
+Source video: Digital School — K-12 Education with AI as a tutor
+Drive: https://drive.google.com/file/d/1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM/view
+Duration: 00:23:37
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Well, thank you everyone for being here. I'm presenting FreeQuest Academy. It's a model of digital school and education. And it comes to a company, a change, well, that's happening in our societies that everything's changing, and education is an important issue to
+
+[00:24] to regard, because it's what our next generations will be participating in society. So we think that if we help the change in education, it's gonna be for a good result, at long term. My name is Dolores Smith. I'm founding I'm the founding
+
+[00:46] person of FreeQuest Academy. I have assisted in my young early years to a very good school, so I know what high quality education is. When I turned 18, I moved to a very small town in Patagonia, and, I had two children. My eldest son has Asperger's, so my education journey was a challenge.
+
+[01:11] It always I get emotional with it. Just move along. So, we ended up in this school system, which was homeschooling from United States. In Argentina, homeschooling is not an official, choice. So, we ended up with I ended up developing a school that's a digital school from Florida. It's accredited.
+
+[01:35] United United States recognizes digital education where no presenciality or no assistant to a brick and mortar school is, required. And so we build the system where we give all the content through digital tools, platforms, and software. Education in United States has an
+
+[02:01] interesting beginning because it was high. It was first adapted for religion and the founding fathers, so education was not at all, intervened by the government, and that's the way it grew. So in schools in in United States tend to have, a decision on their curricula,
+
+[02:25] which is very important because here in Argentina, we do not have that. The state regulates all the content. So in this school, which is request, we can adapt that content to each student, which makes it very good at, achieving or receiving the kind of education or the kind of content each student needs. It adapts to each student. We're designing right now a software which we're finishing and we're making
+
+[02:52] it public. That's called Questia. It's a software with its base in three important facts. One is the legal and administrative issue of it that, the students get with, with a official Florida degree. You can go to college or go back to the system in United States. And the other one the other base is the curricular
+
+[03:16] content we give to each student. And then the third base, which is a really new thing in education, I don't think there's a software like ours. It's the participation of the AI as a tutor or as a mentor. We do not have teachers. We do not have the special curricular design for a whole year, but each student receives and has a specific,
+
+[03:43] curricular for each student and and their own capacity. So if you like STEM, you will be developing STEM. If you like human or or technolog technological or art based education, you will have that as well. The AI not only involves is involved in just giving information, but is an agent that participates from the first moment. So when the student signs into a school,
+
+[04:10] the AI gets the analytics of what he likes, what he does, the time of the amount of time he spends with each subject, how long does it take for him, like, to learn fractions or percentages or whatever the the the the theme is. So it does that analytics, and it also suggest contents based on that analytics. We
+
+[04:33] provide a lot of content. We have lots of platforms. Suppose in maths, we engage with Khan Academy and different platforms. So you you do not only have, like, one platform which you're forced to do, but you can navigate or choose your own platform. And if you can show us as a school that you learned in Khan Academy or suppose we have also I Excel, which is a very good math platform.
+
+[05:01] If you can bring us deep accreditation that that took place, we just we will recognize your your learning and we can put in in in the transcript, whatever subject you can tell us that you learned. This really comes to change the way the students engage themselves with learning because what what's happening nowadays
+
+[05:25] is that students hate school. The most likely thing you will hear from a teenager is what is this good for me? What is the use of me learning about this? Which we as grown ups will just reply, I don't know. Just learn it and let's get done with it. So this is an opportunity to help our children get engaged with the learning for them to
+
+[05:51] be a participant, be an active participant of what they learn when they wake up in the morning instead of going to a school, sit sitting down and having a teacher come in and say, today, we're gonna learn this. The student from that time, he sits down and he says, what do I want to see today? So it's important, for them to choose if they're feeling, like, with high energy that perhaps they can do a subject that they don't like so much. And if they feel, like, creative, they can just play or say, draw or do whatever. And if they do not wish to to to do anything, perhaps they can take like half an hour and just
+
+[06:25] do recreation until then they have to sit down. They also have to doseify or they have to project how they will do all the subjects throughout the year. So they also take part in their in the responsibility, and they're responsible for their learn learning also, which is no not less important. I think it's very important for them to have to understand that it's important for them to learn and to and to and to grow and to be
+
+[06:51] fit future citizens that make good to the planet. So when they wake up, they will, choose the subject they would like to do. And they perhaps they can do two or three works one day and do seg six or seven the next day, or they can do they can work in the afternoons, in the mornings, on weekends. So that's very accessible. And they can also travel. You can do this education for from whatever part of the world you are.
+
+[07:18] We have two special curriculums right here that we can see. One is in English and the other one is in Spanish. We have children, students from 12 different countries from Mongolia to to look Latin America. So we we we accompany families all over the world. Our aim is to grow and to get to people to know about this education.
+
+[07:42] And we're already very well, we have presence in Latin America a lot and in United States. We're trying to grow in United States. And we're looking to grow to the countries of, Middle East, Asia, and, a part of Europe that we are looking this year to to expand. So, well, this is FreePost Academy. And, well, I have if you have any questions, I can answer them.
+
+[08:09] Yes. It's registered in Florida because they have, this it's one of the states that has digital education, and it recognizes, homeschooling also. So it's, I just chose it. There are plenty of states would do that. I just chose it because, I think there's a lot of,
+
+[08:32] world population there. There's different different people from all over the world. It's so I I thought it was just good for to to for us to settle there. But we can be settled anywhere in United States and the service would be the same. What's the interface for the for the kids? Is it is it an app? Or We have,
+
+[08:56] we're right now, we are working with different platforms. So you can go into Khan Academy. We have our own platform. But next year, we're presenting Questia, which is a a platform based with AI and a lot of content. So which we're currently just switching to our own platform which in includes lots of content for k to 12. So we have lots lots of options. Suppose if, the student would,
+
+[09:23] would like to sign up for a math in calculus and you want to excel in math, you can do lots of of of math subjects. We can also do subjects for college. Within The United States, it's it's very common to do subjects of college in in in high school as from year nine. Okay. Cool.
+
+[09:48] And the one more question. The the AI agent, that would, would it be like an an LLM setup so the the kid can interact with the AI? Okay. The idea, it's, I'm not a pro a a coding or programming person. I'm very well into education but not into into programming. So there's plenty of things I will not be able to answer. But the AI will participate with a student
+
+[10:15] as an avatar. So it's it's gonna have, the idea is the for you to set up your objectives with the education team, which will set a specific objectives for each student. And then those, contents will be navigated or will be learned through, videos, written content, and AI as to help,
+
+[10:38] suggest different content. Suppose it may suggest videos, it may suggest movies, it may suggest things that are previously filtered. It it's not like opens, but it's filtered for each, for each year of yeah. Growth year of the boy. If he's 15, he will be delivered or suggested content for 15 years old that's filtered previously. Okay. No.
+
+[11:03] It's okay. Any more questions? So you said there's no, core curriculum, but are there, like, tracks? So I don't know. You have your your your students all over the world and they're engaging with the platform and they say or you you start recognizing what their strengths are and what their interests are. And so
+
+[11:27] you your the platform starts recommending more and more content? Or Yes. When you sign up, you'll have standardized contents like for fifth, year five or fifth graders. Mhmm. But as from there, as as you begin to learn and to do the the the the different, tests, we we have a testing system that's on based on, quizzes.
+
+[11:50] So the parents also can check if the student understood what he what he learned. Those quizzes can be made as can be taken as if if you got a good grade in the first time, in the first try, you could you can just leave it. But if you got a three or a four, a very low grade, you can do them what as as many times you you want. Mhmm. We do not believe in just people punishing the student for not understanding, but we believe in him reading again and trying. And once the concept is understood, he can move on to the next stage.
+
+[12:22] So AI sees all this in the student and will suggest if if you will have people if you'll be able to move out of that subject or or you just repeat it. Suppose if I'm a year three student and I'm learning fractions and I threw three I and I do three exercises and I get the three of them okay, it will continue to, I don't know, divisions or whatever other other content they they they need. But if I, do not do that in the first in the first try or I take a lot, it will keep suggesting me to do different quizzes from fractions and dip more information and more videos or or or more information
+
+[13:02] about the subject that was hard that that it was harder for him to learn. So that's where AI interferes. It's not Tipo. Like, you have one video and one Tipo written exercise for fractions, but you will have as many as you need to understand it. How how many students do you have? We have 520
+
+[13:25] around the world. We've we've been working since July 2023. Okay. And we're current currently in a breakeven point. So we developed this year's a a structure, which is not only the platforms and the softwares, but we have a good team of people like giving because we don't have to have a school where families can go and knock on the door. Yeah. We have all that via WhatsApp or phone or mail. So we have a structure where,
+
+[13:54] we're very present for the families, to get our an answer a quick answer and not to wait. I'm always available as a head headmaster or or or founder. So people have all the students have my phone and then there's people administrative area, technology area, education area. So you can also do your questions or get in contact with whichever department you need. Mhmm. And this in your roadmap, do you see a future in which sorry. Do
+
+[14:23] you see a future in which you you know, I don't know. You have a 100 students in Buenos Aires or 300 in Buenos Aires, and so then you start creating physical spaces for them to meet and they're all working on their own stuff. But Yes. We we thought of that. The thing is that the good thing about this kind of education is that it's it has it's it's very low cost. Mhmm. And the main value I I see in it is that
+
+[14:49] I do not have have to pay for a building or so or teachers. So that's what makes it very affordable. And it's I'm always thinking if I do put a physical space, but I would need to build like 500 physical space because I have people all over the world. So what we got a solution in that is do what we do webinars on Saturdays. It's half an hour where the community gets together on one subject. That's the middle point we we we found.
+
+[15:21] And we speak about, I don't know, geology, finances, branding. We have subjects, very modern subjects as how to make your own m Empreza. How do you how to make your own business. So it's a subject which is a four month curricular subject which helps you, choose your your business.
+
+[15:44] What solutions are you giving through your business? What's your branding? What's the name? How to make the the web page, how to do the finance calculations. Mhmm. So that's one of the subjects. We have also how do you call La Volsa Embraciones? The stock market simulator for all the children that want to to participate in finances. Mhmm. So we have lots of different we have a special curricula for sports, for students in sports Mhmm. As how to suppose,
+
+[16:15] how finance for for sports guys that, they earn a lot of money in the first years and then they have to administrate it. Yeah. We have branding for for people in sports where we suggest that they do not only do the sports but to build their own brand so they can also, commercialize other so it's a it's a whole new view embracing all the new technologies and the new jobs because
+
+[16:39] the jobs have changed. Yeah. The tools children need have changed. So I think we're having children in school just to be like receptive for for the like parents to be able to go to work. That happened to me at least. And I think this education on the other side, you need to be people in smaller children, you need to be present. So it has it's easier for,
+
+[17:05] high school or middle school children. And in in smaller children, you need to be very present. So it's not for everyone. We are suggesting just an option for families that would need this kind. Or perhaps you will need them just one year because you're traveling around the world and then you can get into a a booster. Yeah. So it's just an option. I forgot to to I wanted to to share this with you. We're currently working with a foundation in India.
+
+[17:30] That's for educating women because in India, lots of women do not get education, because of cultural, things. So we're getting the hardware for women to get all the contents and we will be delivering all the contents. And so that's also one of a good use of this kind of technology is because it has very low marginal cost. We can give and deliver,
+
+[17:55] this kind of education anywhere in the world, rural areas or war places or people, I don't know, young young women that have children that get pregnant and they're put 15 or 16, they can continue with their education. So it has a very a good social aspect on it. And I think
+
+[18:18] this we should work on this as a society because as I told you, it's a good option. It gets people very to every part of the world where there's connection or whether whether there's WiFi, we can get this content deliver. So Yeah. I only had one question. If I wanna find out more, like, what is the the page or how may I look for it? The web page is freequestacademy.com.
+
+[18:46] And if you put that in Google, it will just pop up. Alright. And then, lastly, what would be the concept this would fall under? Like, if I wanted to see, like, different options, I'm gonna guess there there is competition. Right? Or this is Yeah. The thing is, there's not much, there's not many schools that are doing this.
+
+[19:09] It's I don't know. In Florida, I'm guessing there should be 10 schools. Look, in Florida, there are four four million students from k to 12. 250 are in digital, schooling. So they they do not go to a brick and mortar school. From 250, I'm guessing there should be eight or 10 schools that are digital, not not more than that. So I
+
+[19:32] think it's growing. We embracing AI because another thing that's happening nowadays is that with the presence of the AI, children that needs people when they have to do people, hand over homework and people or study for a test, they just do it with the AI. So people, I've been the a couple of months ago in a Stanford made a
+
+[19:55] questions for all directors of schools about how we managed the AI. So most of the of the the outcome was very funny because, what they ended up resolving was that it was okay for teachers and people personnel from the school to use AI, but it was not good for children. So it's good for people adults because it it makes them do the exercises or or or the homework faster
+
+[20:23] or whatever, but it's not good for children. So it was fun for me because if it's good, it's good for everybody or it's bad it's bad for everybody. If children have to study, then teachers should be able to do their themselves the the the homework. So nowadays, the AI is comes as a challenge for educators. And the only thing I can think of that will be saving the children from doing the homework and not learning is for them to get engaged in what they are learning. So if they're interested in what they're learning and they want to learn,
+
+[20:55] for me, that's the way and that's what what we're proposing here to make. We deliver a lot of, critical thinking projects. So they work a lot in suppose we have a one project that's we have biotechnology, physics. We have lots of different projects, but one is suppose of a trip to India. So you can learn not only geography and and its population or industry, but you can learn about architecture,
+
+[21:21] culture, food, yoga, the festivals. So, the projects are not forced to be finished, but you can do whatever you want. If you if you like the the the cooking part of the India, you can just hand in the cooking part. Or if you like the whole project, you can just work like two months on it and get people real to really know India without being there. So that's how we work in a complete freedom,
+
+[21:45] but we do need students to hand in a work. It's not like we believe in you. We believe in you, but let's hand in work because when you hand in the work, you have to think of of what you want to propose. You have to think of an idea, structure it, and then defend it. Back it up with whatever you learned.
+
+[22:08] We do not correct the homework. We just receive it and we make like positive comments over it. We do not say this is correct, this is not correct, but we really liked what you said about curry or, food or whatever. So, that's how we work, reinforcing the positive aspects. Well
+
+[22:32] Yes. Yes. They are physic I'm very familiar with Alpha. We have them as a an inspiration because it's very good what they do. They are a physical school though. So we're on the same road. They have been working already I think for twelve or thirteen years, something like that. Their people have a lot more path already
+
+[23:00] walked, yeah, traveled. But we're aiming in the same direction, but with the added value that it's cheap, it can access anywhere, and it gives equal opportunities, I think, to to lots of people that perhaps may not be able to access high quality education. Thank you so much. And well, whatever you need, I'll just be available.
+
+[23:25] You can write me. If you get to FreeQuest Academy, the phone that's there, it's my direct phone. So if you write over there, WhatsApp, it's me. Okay? Thank you.

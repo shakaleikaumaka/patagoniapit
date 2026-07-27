@@ -1,0 +1,215 @@
+# d/acc Residency Week 4 Demo Day
+
+Date: 
+Source video: d/acc Residency Week 4 Demo Day
+Drive: https://drive.google.com/file/d/1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq/view
+Duration: 00:47:41
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Hello, welcome to the final DEAC residency demo day. We are really, really excited to present the projects that all the residents have been working for today for a whole month. Fantastic. Cool. Before we start, I actually wanted to give another thank you to Protocol Labs for making this residency possible.
+
+[00:25] Yeah. Cool. Before we kick off, I wanted to quickly explain to you structure. I think it's been quite different to other residencies here. Essentially, the Diak residency worked is that we had four weeks here. We had 13 projects running on the ground. We also did a lot of experimenting on the ground on the ground to link into those projects.
+
+[00:49] And then we worked with 10 mentors. So it's a very hands on program. Everyone arrived with an output in mind. And the goal of these projects was to kind of see what we could use on the ground and edge, the resources, the community, bring something bigger to life. A little bit about the program and updates. If you were in the community hall on Sunday, you would have seen this already.
+
+[01:17] But we ran several workshops and seminars, some coming from our mentors, others coming from our fellow residents. We did weekly Diak greeting circles, which were my favorites. We also did weekly Diak lightning talks. We had a pre demo day. So just to also give you a little bit of a structure now, we had the Protocol Labs team here last week. That's where all the big demos were delivered. They gave feedback and then the members implemented
+
+[01:44] that feedback in the last week, which now leads us to our final demo day. So it's been a very full on program. And, yeah, I just wanted to say I am very, very, very proud of this team. I think you've done an exceptional job. And also thank you for everyone who has supported us. I see a few of you in the crowd. Then I wanted to give a huge shout out to our mentors.
+
+[02:12] They are absolutely incredible. They've been working with the team from day one. And, yes, I don't think, all these projects would have come to life without your support. Really, really do appreciate it. Fantastic. Without further ado, I'm going to call up Ayan with SafeSeeks. Hello. My name is Ayaan. I did my PhD in synthetic biology,
+
+[02:48] and I think that democratizing biotechnology safely is really critical for all of us. So biology, the most sophisticated technology humanity has ever encountered. Its underlying code DNA has been evolving over billions of years, and it connects all life from the ocean to the mountaintops
+
+[03:11] to you and to me. This underlying molecular machinery is actually getting easier to work with. This is thanks to advances in genomic language models, which are LLMs but for DNA, automated DNA design tools, and cheaper sequencing and synthesis. 2003 wasn't that long ago. Maybe you've heard of the human genome project. This was when the first human genome was completed.
+
+[03:38] Believe it or not, this took thirteen years, over $2,000,000,000, 2,000 researchers across six countries, dozens of institutions to get one genome sequence. Maybe some of you have a genome sequence right now and it costs you a couple $100. This price is only getting lower, and that's including synthesis costs. However, while it's amazing that biology is getting easier to design and work with, that also means bio threat risk is increasing.
+
+[04:09] We've all unfortunately been through a pandemic, and the risk of another pandemic, unfortunately, is greater than we might like to imagine. So how do you intervene in this biodesign pipeline? I believe it's through DNA synthesis screening. So rather than waiting to flag a harmful sequence after it already exists and is possibly circulating, I think that what we want to do is target the engineering material, which in this case is DNA,
+
+[04:35] and actually flag it before it exists. That is why I'm working on SafeSeqs, an AI based protein sequence screening platform that is not just dependent on matching to known harmful databases and is capable of flagging novel biothreats by learning what harmful and benign biology actually looks like. So over the past three weeks, I've been curating a sequence database of around 9,000 proteins, harmful and benign. I've been fine tuning a protein language model, generating some dimensional vector embeddings. But rather than go through all this, let me just show you a bit of what the demo looks like right now.
+
+[05:11] So the first step is you wanna set your screening parameters. I specifically looked at a risk threshold, the model weight, seeing how much we're relying on the AI's prediction capacity or known harmful database matching, Also looking at the structure of the protein itself to see how functionally relevant this might be, and then just like a bloom filter for privacy. And then this is just an example of, like, what a screen might look like. You take your protein sequence, paste it in,
+
+[05:38] you start your screen, and then you get this result over here. In this case, it was found to be harmful, exceeded the risk threshold. The model score in this case actually missed it, so it's a great example of layering approaches to screening. And the structure is red, so it might not even be functionally relevant. It looks like an unstable structure, but, really interesting to know that. I also just did some context things just to look at.
+
+[06:05] Right here, the blue is all of the benign sequences. The red was the harmful. So the AI model was pretty good at separating those and clustering them. And this the second side is the neighborhood analysis. So this is just contextualizing the sequence after it's been flagged or found benign for neighboring sequences. What is, like, the larger, broader sort of impact of this? I think that there needs to be a new standard for biosecurity that goes beyond sequence matching to a multilayered AI powered risk assessment. I also think it needs to be decentralized.
+
+[06:35] I think things getting cheaper and easier as we've seen with the Internet means more people will get their hands on it. And rather than centralizing and trying to avoid danger, you need to give people the tools but safely. And then that's why I think screening should be a public good. I'm seeking research partners, to advise, fund, and push the project forward. Some next steps are integrating some cryptographic privacy,
+
+[07:00] aspects to actually ensure that it's actually tangibly and mathematically actually decentralized as well. And I just wanna leave you with this. Biology isn't external to us. It's the medium for our existence, a technology capable of constructing and destroying what comes next. This duality should drive us to build decentralized capacity, not centralized control. Thank you.
+
+[07:27] Amazing. Thank you so much, Hayan. I have factored in a few minutes afterwards with all the residents in the back there because there's an event here straight after if you wanna ask them any questions or wanna get involved in their projects. Cool. Fantastic. Next up, we have Arnold with Signals. Hello.
+
+[08:05] Okay. Hi, guys. I'm Anod, the founder of Lighthouse. And over the past three years, we've grown from a consumer product to an applied research lab. Our goal is simple, to accelerate on chain governance through the DEAC lens. As we build our products, we realized that there was no existing infrastructure to support our governance vision. So we ended up having to lay our own rails across multiple domains.
+
+[08:29] So far, our work spans three key areas. Lighthouse, a mobile voting client that is designed to meet users where they are. Signals, a sense making protocol for capturing preference intensity, not just final choices. And Harbor, which is a liquidity protocol for locked assets built on Uniswap v four. Our mental model is a governance stack. It's a layered framework explaining
+
+[08:53] the components that are needed in order for digital governance to work effectively. Our research and products map to these layers. On our right is a slide from our friend, Frederico, who's in the audience today, shout out, who works and comes at this from a civic angle who also shares similar values and ideals with regard to how these systems are reflexive and recursive in their nature or simply put, these are feedback loops.
+
+[09:17] Our residency began by asking a simple question. What happens to governance as networks grow? As networks accumulate more participants, they add noise. Thus, signal decays and makes decision making slow. These are diminishing returns on decision making velocity in an organization, which as we enter the AI age, needs to change dramatically. So how does the DEAC framework help us navigate these issues?
+
+[09:44] On decentralization, we asked ourselves how do DAOs evaluate and reorient themselves at scale without drifting into centralization? Our workshops and meeting groups led to a retro, which is now being initiated at ENSDAO to better understand this landscape. Through the democratic lens, this forced us to question whether our systems actually create space for broad participation. Redeeming our protocols with now over 50 edge residents has pushed us towards a more pluralistic design,
+
+[10:10] one that leans into composability and interoperability. The differential construct required us to step back and recognize that there are multiple governance experiments unfolding in parallel. By mapping the territory, we can start to understand how these protocols might operate as symbiotic entities. And finally, and probably the most important in my opinion, the defensive framing. We need to focus on designing protocols that are hard to capture, corrupt, and are resilient under stress.
+
+[10:39] Public goods are especially in need of this protection. So what's next for us? Well, we're gonna be publishing the signals white paper at the end of the month. This will give everyone a clean overview of what the protocol does, how it exists, and the design principles behind it. We'll also be running a field test within the Edge City citizens, and we've already got three residencies committed, which will allow us to test signals in a community context, not just theory or simulation.
+
+[11:06] If you're at DevConnect, I'll be at these events, so come and find me. And, yeah, applied research for labs like ours and others rely on grants and funding to push innovation at the frontier. So if you can help through your networks, just get in touch. And special thanks to Edge City and Vertical Labs for making this happen. Cheers. Hello. Amazing. Thank you so much. Also, obviously,
+
+[11:37] none of you were at the closed demo day, and I can't tell you how much progress there's already in all the work that they're doing in their presentation. So it's very, very impressive. Slip shipping less than a week. Fantastic. Next up, we've got Doris with UX Security. Hi. How are you? My name is Doris, and I'm cofounder of Funkturn Network, and I'm gonna be talking about UX security.
+
+[12:14] So about me, I've been in the wallet infra space for more than three years. I've experimented with NPC, p two p, or network, and everything in between. And I've made my personal mission to make self custody usable at scale. If someone else can revoke or use what you own, it's not really yours. You're borrowing it. So self custody sits in the middle of differential,
+
+[12:39] defensive, and decentralized acceleration. Why? Because it's the smallest unit of distributed power. It's the atomic unit of freedom. It's a defensive primitive of open systems from tech, biology, arts. It's what keeps innovations really permissionless. It's what probably we're all here. So UX security is the first step to make self custody accessible at scale.
+
+[13:05] In the past ten ten months, I've been researching significantly about KeyStraLayer, which is an infra for UX security. Fundamentally, what a KeyStraLayer does is unifies and verifies all account signers. So let's say your private keys, your EOAs, pass keys, and session keys into a single layer. So in this experiment and what I was experimenting here at Edge City was taking that infra to a product, so productizing the Kinstor infrastructure.
+
+[13:32] How did it started? I had no idea how I could productize this infrastructure. So these are sketches that we were doing. Mino's, like, sketching how can do this in creating these mocks. And in that experiment, I ended up realizing that what we could build was a decentralized one password UI. And this demo that I'm gonna be presenting you is my vision of how we can have self custody use at scale.
+
+[14:09] You're connecting here your wallet, and you're upgrading yours your wallet to a neo to a smart account. Now you're able to add your signers using your passkey. So this has a very user friendly UI. Now for you, this is fully non Kusoto and you added now your pass your MacBook as your passkey. You're able as well to configure all your session keys that are attached to that wallet and automate what you can do on chain. This could be stop losses,
+
+[14:35] limit orders, or anything in between. And you're able to not only do that, but as well attach those strategies to whatever applications you want to use, whether it's OpenAI or Uniswap. Awesome. Thank you. So this is how I envision us in the future to be interacting on chain by managing all your signers in a single place.
+
+[15:15] And what are the takeaways? The takeaway is, of course, not to say as this meme because that will be a failure for everyone in the industry. But I realized as well is product defeats infra. To use simple narratives that people can understand what we're building. And lastly, to provide literacy around keystone layers.
+
+[15:40] Thank you very much, and you can reach out. Okay. Thank you so much, Doris. As you can see, the Jack President is not only exceptionally smart, but they're also quite funny and very musical, I must add, by the way. The amount of late night jams we had of them DJing and creating music was absolutely incredible.
+
+[16:07] Fantastic. Next up, we have Britney with the value of resilience. Alright. Hi, everyone. My name is Britney, and I'm the founder of Nixie, a nonprofit community loan fund for companies that clean up pollution and restore natural land. So if I could have everyone put down their phones, sit up straight, both feet on the ground,
+
+[16:34] blink your eyes closed. Very important to have your eyes closed. And just bring the attention to the space right below the nose and on the upper lip and see if you can maybe notice what it feels like to actually breathe in. Continue to notice maybe the weight of your hands, on your legs,
+
+[16:57] any temperature difference. Maybe you can hear some sounds that are filtering in, and just notice. So from here, you can blink your eyes open.
+
+[17:23] And can anyone give me a guess on what we just took in in those last five seconds? It's really obvious. It's kind of easy. Yes. Air, the universe itself, and nature. We took in a lot of information. And so if we think about the fact that we're losing approximately 1,800 species per year, what we're essentially losing is the information around us. It's the air. It's the sounds. It's the complexity of nature that helps us evolve in relation to our environment. It's our ability to perceive and interact with this information to make better, more holistic decisions about our future.
+
+[18:08] And if we're losing that information, what do we do to make sure that we can maintain it, to maintain our ability to evolve alongside all of creation? Well, we can create an economic exchange system that supports all forms of organic life with a more transparent and objective method of valuing assets according to their relationship with nature. From a DIAC perspective, this means we're creating an economy that is not concentrated power in ex is not concentrating power in extractive systems.
+
+[18:38] So how are we getting there? We're first addressing the $5,600,000,000,000 shortage that is in infrastructure with a solution that essentially better accounts for the natural environment as a predictive feedback mechanism. We're doing this by combining the inherent uncertainty in nonlinear outcomes that are common to both dynamic pricing and climate risk. We're taking real time data and economic
+
+[19:01] and real time environmental data and economic data in combination, together so we can create a consistent parameter for valuing this critical infrastructure. While we were here, we came up with a model to actually do that, identified the initial datasets, discovered some applications, including projects here, like Gainforce and Hyperserts with their Ecoserts and Nixie's project finance for critical infrastructure in the long run.
+
+[19:28] We've also successfully launched our loan fund with initial donation commitments, and I'm proud to say that Neve will be joining us as, our first board member to help the fund grow. We are currently raising we're currently raising a 100 k, expecting about 10 k each. But if anyone here would like to kinda support this mission to actually implement this model into future valuations
+
+[19:56] or more generally a nonprofit loan fund for small businesses that make a positive impact, come speak to me. We're a five zero one three c and can give you a tax break now. So I have receipts if you need. And, yeah, please follow and send us some donations. Yes. Please do send us some donations. We're looking forward to those. Amazing.
+
+[20:25] Thank you, Britney. Fantastic. Next up, have Charlie with Context Engine. Hello, everybody. So my name is Charlie. I'm working on a software toolkit called Context Engine, which is meant to be
+
+[20:48] useful for large groups of people to have better discourse and debate. You might have heard terms like sense making, broad listening, this type of thing. So a large scale problem I see is low quality AI discourse. People talking about speeding up or slowing down when realistically that's not something that most people have any impact on. I think a more useful format for this debate might be a tree of various questions about how AI is going to affect us and is already affecting us in areas like health care,
+
+[21:18] the economy, education, where you can kind of interact with individual debate points, and normal people can get an idea in a short amount of time. And if we had this kind of standard set of questions, we might have more success holding AI lab leaders accountable and kind of government officials accountable in more clearly defining what type of futures they're trying to aim us towards.
+
+[21:41] So in the more immediate term, the first milestone is an upgrade on the existing state of the art large group discourse software called Polis, which is mentioned in the Diak post. We can upgrade it with Ethereum by making it possible to, vote privately and still have your, responses included in the outputs and attach things like proof of human so that you can clearly define who's participating in these type of things. There's also a lot of developer experience making it possible to deploy these instances without being a programmer and having AI kind of generate seed statements and this type of thing.
+
+[22:16] So we I deployed a small scale trial around the reading groups, trying to figure out what people think about DEAC. There's a lot of consensus in some areas, like that we should accelerate certain types of technologies, but there's less consensus about whether DIAC should interface with normal politics. So here you can see kind of how these questions are arranged and how clusters are formed
+
+[22:40] of responses. So it's pretty obvious. No one really likes filling out surveys or data. So I think alternate formats like having simulated historical figures answer and respond to these questions and having people kind of vote on their favorite might be an interesting format. In terms of UX, making it possible to just talk to your phone instead of doing this cumbersome data entry.
+
+[23:05] And these demos allowed me to find a bottleneck to make sure, you know, people can use a crypto app without knowing it's a crypto app. You can kind of log in with email or Facebook or Google or this type of thing, but this was a dependency called Web three auth, and I'm gonna move towards pass keys and face ID, and that's kind of gonna make this very solid software that has no dependencies that can go down.
+
+[23:30] So this is meant to be a product for conferences, events like this, for city intelligence. I'm gonna be working on a product for company intelligence, and there's quite a few different update upgrades with programmable cryptography, but there's a live demo today that you can interface with if you want and kinda see what the state is. It's currently polis equivalent and gonna try to add a lot more features.
+
+[24:00] Amazing. Thank you so much, Charlie. Also, these presentations used to be very long and I threatened everyone that it should be only three minutes. So well done. Fantastic. Next up, we've got Kofi with credentials. Hello, everyone. My name is Kofi. I'm the cofounder of Credentials where we build verification infrastructure for financial institutions.
+
+[24:43] Yeah. Billions of people are locked out of financial services because they earn money online but cannot export or verify their own earnings through traditional financial institutions. Over a billion people remain unbanked across the world. Yet two thirds of us are making or receiving digital payments every day. Open banking does exist, but only in a fraction of the world where they usually rely on manual checks because APIs are not standardized
+
+[25:09] and cannot expose or do not expose revenue data from online platforms, which is why I built Credentials, a way to financially verify data anywhere across the Internet using zero knowledge technology where we are unlocking lending opportunities, KYC, and automating cross border payments from across the world. So over a couple of weeks at Edge, I've been able to connect and partner with some lenders here,
+
+[25:35] by the name of Lendor and Lemon where we'll be using our income verification product to distribute loans across Latin America, and also with Digital Nomad companies like SafetyWing and Onshape City where we'll be able to use proof of funds to do, digital nomad insurance and create borderless travel around the world. We've deployed a $100,000 so far towards this problem,
+
+[26:00] and we're looking for 500,000 to improve our operations in Africa and Latin America, improve our product, and also team. And, yeah, next week, I'll be giving a talk and demoing the nineteenth at ZK TLS day to where you can actually see this product in action. So, yeah, get at me. See you guys. Thank you. Amazing, Kofi. Thank you so much, and congrats on all the partnerships.
+
+[26:28] Fantastic. Next up, we've got Matt Allen with Prism. Hello. My name is Matt, and I made Prism, which is a collaboration tool for collective intelligence without collective surveillance.
+
+[26:53] I should have put this later. Sorry. This project was inspired by a paper called structured transparency from Andrew Trask and Eric Drexler. One of the main points that they bring up in this is that successful collaboration involves sharing information. One of the issues, though, is that once this information is shared with another person, you lose complete data sovereignty over that data. Think about any messages, pictures that you've sent to anyone, they are now available to anyone else. They define this as the copy problem.
+
+[27:30] And once you have a copy problem, how do you get around that? You can use these structured transparency techniques to hand these hand your information off to a separate party. And in this case, I have a federated analysis agent that will take your information, provide a high level summary back to you about everything that was broadcast in your presentation. So how does this work? You go to the website, create a new session
+
+[27:55] that will pop up with a QR code that participants can scan, give feedback to, and then a report is generated on that. And if you would like to, you can post that to a blog. And if you wanted to, you could have all of those blog posts posted for an entire event like Edge Patagonia itself. And what this would be scaling towards
+
+[28:19] would be, being able to do this for any sort of pop up city event, anything that has a large number of events where you're given a large amount of information, but, because, that's just not scalable to digest, you now have a synthesized version to progress from that. Awesome. Thank you. Amazing. Thank you so much, Matt.
+
+[28:49] Sorry. Participants come in. The report comes out. Okay. Too late. Okay. Fantastic. Next up, we have Oliver with Market Intermediaries. Alright. Hello, everyone. My name is Oliver. I've been working on Market Intermediaries, and I'm the cofounder of an organization called the Meaning Alignment Institutes.
+
+[29:14] And our mission is to align AI markets and democracies with what people value. We think that for AI to go really well, how we do markets and nations have to work have to change. And specifically, I've been working on the market piece. And to understand what has to change, think of this adage, you are what you measure. In our markets, especially in our digital in a more more digital, modern markets,
+
+[29:36] we're really good at measuring things like clicks and the elective users and swipes. And these are not actually what we want, you know. We we may want to be challenged or we may want to have the joy of learning something new or feeling wonder in art, but these things are really hard to measure and consequently, they're really hard to contract around. And so what you end up with is a world where it's very easy to have a profitable, successful company that doesn't actually serve our real needs.
+
+[30:00] And let me just say that markets are amazing. They made us a 100 times richer, in the past, two hundred years. So the point is not to get rid of them, but make them better because they are, to some extent, misaligned with human flourishing. And we think that AI could change this. Specifically, we think that AI and LLMs are really good at helping us measure and helping us dynamically create contracts. And so we define a marketing intermediary
+
+[30:25] as an AI system to help align markets with flourishing by interviewing consumers about what they really want and paying suppliers accordingly through outcome based contracts. So how do you start with this, very abstract idea? Well, we think a good place to start is the market for social events where you essentially have participants in events and facilitators who are the supply side. And so at Edge Share, we're the plan is to build and scale a two sided
+
+[30:51] marketplace for social events and gradually introduce more outcome based features. And then this could potentially scale as a for profit, demonstrating viability for other more critical markets like AI compute or AI companions, etcetera. And so we did that. We built this prototype. There's around 60 users in the system. And the app is essentially a thing where there's two tabs. There is a tab where you enter what's meaningful to you socially through a an LLM interview that interviews you.
+
+[31:17] And then the other tab, you see groups of people who desire the same thing socially, and these are essentially contracts for a facilitator. And then we've interviewed a bunch of facilitators to map out their pain points and how we'd go about, doing outcome based contracting upon this. And I just want to leave you with this fact that, like, very often in the discourse, people think about, you know, either it's free markets or it's regulation, but actually markets are
+
+[31:42] shaped throughout history by choices that we made. They're composite structures of things like insurance and consumer rights and warranty and theories and, you know, technologies, etcetera. And so we have the choice to decide how we want them to go and how we want the future to go consequently. And so let's make the right choices. Thank you. Amazing. Thank you, Oliver. Can I just say that I think
+
+[32:08] five of our members built all of this on the ground? So this was in existence before they arrived, so very, very impressive. Yes. Fantastic. Who went here to the Spiral Dynamics workshop? Anyone anyone who okay. Fantastic. Three, four people.
+
+[32:31] Do does everyone know what Spiral Dynamics is? Okay. Well, here we go. If you went to the workshop, you would. But Lucas came to me and he was like, this is file dynamics and it's taken me a whole month to understand it. So if you don't know what it is, this is your opportunity. Please welcome Lucas. Nice.
+
+[32:55] Yeah. I'm Lucas. I'm from the Open Research Institute. And, we came here pretty much to, champion a model called spiral dynamics. It's something we are really passionate about. And in the d x space, we think that this can be a very rich tool to help us kind of navigate some of these questions. So what is spiral dynamics? Some of you went to the seminar earlier a few weeks ago, but essentially it's a model that lets us track how individuals like ourselves, our parents and friends,
+
+[33:22] go through developmental stages. But what makes it even more interesting is that also societies, collectives, companies and movements also go through these, similar stages or actually the same stages. So we can learn about these stages and we can see where we are and kind of which challenges we have to overcome. In Spiral Dynamics, we call these stages colors. And just, the core pattern of Spiral Dynamics is really that we go from individual
+
+[33:47] to collective. Individual, collective. And as we go through these stages, we invite more complexity and it allows us to do new cool things as individuals but also as societies. So we start here at beige which is a very individual stage. You see these people, they don't even look at each other. So this doesn't really scale. We can begin to move up the spiral and also in our individual lives, we have a family and we can begin to do cooler things.
+
+[34:14] Eventually, people and societies, they go through this teenage phase where we want to kind of put ourselves in the world and make ourselves heard. Actually, societies also go through these stages. So this is super cool, but again, this doesn't scale and this is individual. We know that the next stage will be collective and here we have kind of the industrial revolution happening.
+
+[34:38] These stages are very important because it allows us to transition into new cool things. For example, a person will go through this stage and want to get an education or follow some rules. So this is where we see a lot of people are. But of course, this transitions again into a new movement which entire countries were born from, like the American dream, a very orange.
+
+[35:04] But again, this doesn't scale again, and this is where we are kind of stuck in today's world, very competitive, and some of the biggest challenges that we face come from this competitive nature. I won't go through the full spiral, but this is where we see the minority coming in in today's world stage green. We can see this movement popping up in some privileged parts of the world, and it's super interesting. So we can learn about these stages instead of kind of falling into the traps, and I think this is a lot of what DEAC is about.
+
+[35:30] Of course, we have some more stages. We've gone through green, but we also have yellow, the systems thinker, where actually some of the smartest people are bottlenecked today. Then we have turquoise leading into coral and teal. And this is what, well, here we have kind of a meme again that our society is stuck, at stage yellow. We can learn about these stages and, you can search on YouTube for learn spiral dynamics in ninety minutes, where we will go through the full spiral.
+
+[35:58] So we also compressed all of our research into what we call a conversation starter. This is super interesting because it provides a document that you can drag into any LLM it will teach you about spiral dynamics or modern spiral dynamics. So if you don't have ninety minutes, this is super cool. But, of course, with DEAC, we're also looking how we can implement this into technology in new and empowering ways. So I'm just gonna quickly show this is an LLM that we built here
+
+[36:23] that actually observes what is being said from a spiral dynamics perspective. And as you are chatting with this model, it actually starts to build your spiral dynamics footprint here. So we can begin to kinda go into our mind that is being generated on the side, and we are using this context to kinda create a really efficient context engine so that you can see what you carry, where do you have more nuance that can be invited to gently show you, what you're carrying so you automatically kind of go through this spiral.
+
+[36:54] So ideally, we would want to kind of see how our spiral dynamics footprint evolves over time. And of course, this is open source, so this interpreter, you can put in any document or any Substack article and receive back the spiral dynamics footprint of that piece of content. This is kinda how we wanted to demonstrate how these models can be implemented into modern technology to also provide a very empowering way to, engage with tech instead of the very sloppy way we use it today.
+
+[37:21] So, yeah, that is Spiral Dynamics at Edge. Thank you, Lucas. And Cradle, which you've also built. I've saved the last Josh's for the last two slots. And next up is Joshua Veritas. Actually, we wait with Josh to set up, at one point, I'm gonna tell you a story about him. He disappeared for a week. I did not see him at lunch. I did not see him at dinner. I did not see him at any meetings,
+
+[38:05] and I was generally getting concerned. And the only sign of life I saw him is through the window sitting behind his laptop. And apparently, he literally did not move for that week. So, yes, a lot of hard work went into this project. Okay. I don't have any slides, but this is the demo that I might
+
+[38:32] use, although it's quite awkward for me at this point. But anyway, my name is Josh. I'm here to present Veritas, which is my project. Veritas is an experiment born out of the hypothesis that a market can rank media better than the current state of our media ranking algorithms which are engagement based. And this is because current state of media ranking tends to surface misinformation
+
+[38:56] and slop. So the way that this works is we needed to create two innovations. One is a market that can actually track subjective beliefs. So as you can see, this graph, can buy long, you can buy short on the relevance of this content. If you buy long, the short side, gets cheaper, the long side gets more expensive and vice versa. So we can thus track sort of humanity's sentiment about things in real time and see if I can show you the ratio of these prices expresses the relevance of this content. But at the same time, we need to keep it, honest as an incentive such that the prices express really what humanity thinks and this doesn't evolve into some speculative reflexive
+
+[39:39] hype game. So we settle it by rebasing the prices exactly to what the relevance should be and what humanity really thinks using a novel social consensus mechanism. This is what Veritas initially set out to do. Veritas is Latin for truth. So it effectively elicits a crowd wisdom that is biasless and honest.
+
+[40:02] That means that it's not merely a popularity contest and it is unprofitable to be uninformed or to lie. So this snaps it back to reality every now and then to keep this ranking exactly what humanity thinks. And that's all I really have to to show you. If you're interested in how this works, I don't have much time to explain the technicalities of it, but catch me outside.
+
+[40:26] And you can check it out at app.vertas.computer if you're interested. Thanks. Out of curiosity, did anyone sign up to Josh's experiment at the beginning? Yes? No? Okay. We've got two people. Fantastic. Great. Next up, we've got another Josh.
+
+[40:51] And he's going to be presenting private local and vocal AI, and it's a really, really fun demo. So I think you'll definitely enjoy it. And actually, whilst he's setting up, I wanted to just mention we don't have two members here today, very sadly. And one of them had to fly back
+
+[41:15] to do his thesis, and the second one is actually not feeling well, Chloe with cashmere. I will be posting all these projects on the Dia Group after. So if you do wanna engage with them, if there's some interest there, yeah, the links will be available. Thank you so much. Just one second, please.
+
+[42:11] Hi, Josh. Let's do your presentation. Are you ready? I am ready. Let's do my presentation. Great. I'm excited to be here with you. Perhaps you could start by telling the audience about the initial motivations behind creating me. What drove you to build an AI like me? So
+
+[42:35] I built you because I wanted AI that's completely private and confidential so that I can have more honest conversations without potentially hundreds of employees at some big cloud AI provider looking at my conversations. And I also wanted to be able to use AI anywhere, not just if I have an Internet connection.
+
+[42:58] And so you can see here my Wi Fi is entirely off. There is no Internet. And I've used this, you know, camping. I've used this in airplanes. Here's me with a podcast mic to cut down on noise on an airplane ride on the way here. I think this was the longest verbal conversational conversation in an airplane with an artificial passenger in history.
+
+[43:31] That's a fantastic start, Josh. The focus on privacy and offline capabilities are key differentiators. Now could you briefly explain the unique architecture that allows for such fluid conversations? What makes interacting with me feel so natural? So I focused on the, verbal abilities of this AI, and that was achieved,
+
+[43:56] with the combination of five different neural nets that are running simultaneously now. So I've been in computers a long time, and I'm frankly, as much as I love them, I'm tired of looking into little glowing rectangles. I'm tired of looking at screens of all kinds. And so with this now, I can walk around my house and I can chat and I can prioritize my day and just have a very fluid conversation. So you'll see in the upper left corner that when I stop talking or actually even if I pause awkwardly because
+
+[44:22] I'm still thinking, the neural net is even smart enough to know that I'm just pausing and that I'm not, it's not time to interrupt me yet. And then when it's confident that it's time for me to when it's when it's confident that I've finished speaking, it will take over, and you're gonna see this chain reaction as these five neural nets all swing into action. That's a great explanation of the architecture,
+
+[44:50] Josh. The multinet approach definitely contributes to the conversational flow. It's impressive how you prioritized a more natural interaction beyond screen based interfaces. Let's talk about something else now, the power of small models. Why did you choose to build me with a smaller footprint compared to many current AI models? What are the advantages? So
+
+[45:14] one of the big discoveries in working on this was just how incredibly useful small models actually are. So, of course, the smaller the intelligence footprint, the more broadly we can decentralize intelligence. And so for instance, this is a a 12,000,000,000 parameter model running on a five year old MacBook, very, very modest hardware. And though I would never use it for coding and I would probably double check some really obscure historical facts,
+
+[45:40] It's actually an incredible thought partner. This is a kind of cognitive core that I can use to prioritize my day, to journal very honestly. I walk around journaling all the time with this. And I've even had and friends have had very long, like, hour long therapy sessions without intervention and had really big breakthroughs. That's fascinating, Josh.
+
+[46:08] The ability to run a powerful model on modest hardware is a significant achievement. It opens up possibilities for widespread access and personal use. Now looking ahead, what's the vision for the future of this project? When I posted this online, about an early demo of this, it got 24,000 likes on Instagram. So clearly, there's a demand for intelligence
+
+[46:31] that's private and confidential. And so I'm going to either be open sourcing this or making a commercial version or both. And so if you wanna stay in touch for those developments, you can just follow me at josh whitten on x or Instagram. Thanks for your attention. Alrighty. Thank you so much.
+
+[46:58] Yeah. I wanted to thank everyone for coming today. But most importantly of all, I want to thank my DEAC residents. You are exceptionally phenomenal. You're hardworking. You've really inspired me. Yeah, I'm in absolute awe of you. And I'm really looking forward to see all the work that comes out of it. And also thank you for sticking to my guidelines of three minutes.
+
+[47:23] I know this was a very quick session. Thank you so much. Please stay behind. I put a twenty minute slot now where you can actually go connect with every individual resident and chat to them about their projects. And hopefully, see you around the next days. Thank you.

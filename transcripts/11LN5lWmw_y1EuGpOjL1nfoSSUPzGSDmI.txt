@@ -1,0 +1,137 @@
+# Cryptography for Safe Biometrics with Human Keys
+
+Date: 
+Source video: Cryptography for Safe Biometrics with Human Keys
+Drive: https://drive.google.com/file/d/11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI/view
+Duration: 00:27:05
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Hello, everyone. Thank you for having me. I'm Louis. I'm working as lead cryptographer at, Ole Nim Foundation, building human tech. And my talk for today will be about, cryptography and how we build human network and how we applied it to, specific use cases,
+
+[00:24] which is quite related to the previous presentation from AJ biometric authentication. So first of all, I will quickly present you our network human network, how we build human keys, and this AVS and how how all of the nodes are operating together to do some multiparty computation
+
+[00:50] and how this could be used then to for one approach of biometric authentication. So first of all, one of our main idea at human tech was to being able to so we introduced this concept of human keys. So human keys are human
+
+[01:15] cryptographic keys that are being derived and generated from human attributes. So what is in human attributes could be anything that you, that you are, that you have, or that you know. And this private input from the user could then be, like, by some kind of function as masking
+
+[01:38] and then send away to a network, our human network, which is an AVS, and to be able to perform computation on this private input and to retrieve cryptographic keys back to the user. So what's an AVS? An AVS stands for autonomous verifiable service. It has been introduced by Eigenlayer a couple of years ago.
+
+[02:03] It is a type of network where operators are running nodes and they are there's a benefits from the economic security of restaking. So restaking is a bit similarly as staking, but just like in the fact that one delegator can can allocate funds and delegate to multiple
+
+[02:29] operators and can actually secure multiple AVSs at the same time. So our human network is an AVS live on Eigen layers in biotic. So it's what we offer here is multiparty computation, and it's a decentralized threshold network. So what does that mean? It means that
+
+[02:53] we have a set of nodes and n of these nodes are sharing a secret. The secret is the network secret. And it is called threshold because in a t out of n setup, that mean that you only need t of these n nodes
+
+[03:16] to come together and perform the computation to actually perform the the computation that you want. So that's why it's t out of n, n nodes are sharing the secret, but you need only t of them to perform the computation. And this secret, the network secret is shared among all of the nodes, all of the end nodes, and every day for security reason, we are performing a re sharing process.
+
+[03:44] That mean that the secret is then reshared, redivided, and reshared among n new nodes that are being elected every day. And this node are then the service that they offer is to perform a scalar multiplication. So what about the use cases for our human network? So
+
+[04:10] as I introduced, one of is like create and generate human keys. So deriving cryptographic keys from human attributes. And another one which is mainly used is how to generate nullifiers for credentials, and this is super important and useful in the
+
+[04:32] decentralized ID use cases, scenarios. And finally, we also have some use cases of provable encryption. It's where you can encrypt a data using a public key, which is here is the public key of the network. And then with certain condition, you can ask and require for the decryption.
+
+[04:58] So now let's let's dive into the biometric authentication use case, which is what is the the topic for today. So with biometric authentication, one main issue that we faced is what we call fuzziness. Right? So what is fuzziness in in this
+
+[05:24] in this case is okay. Let's let me just explain what is the classical password authentication. Right? So when you register to a service, to a platform, you are committing a password. Right? And this password is being hashed. Right? So it's being hashed with cryptographic hash function, which is a function that will transform your password into
+
+[05:49] some eligible string of characters. Right? And this hash function has one of the main characteristic of this function is that it is deterministic. Right? So that means that anytime you hash the same password, you will get the same hash value. But if you compute the hash of a password which is even really slightly different, you will get a totally different hash value. Right? So
+
+[06:17] this hash approach is quite straightforward to do equality test. Right? So for authentication, it's quite easy. You ask once you commit your password, it computes hash, And then if you want to authenticate and to, like, pretend to be the user, you just, provide the hash of the same password. And and if the ashes
+
+[06:41] matches, then, yeah, you are authenticated. But what about biometric based and and specifically, the face recognition? Right? So with face recognition, what you are committing is not a password. It is actually like a face, a picture of you. Right? And so this picture of you, the face
+
+[07:03] is first encoded. Right? Encoded into some what we call an embedding, which is a vector of fixed size vector. Right? And the thing is even if if if you are committing two pictures of the same person, the embeddings will be different and could be, like, highly different to
+
+[07:29] reach. So that's why it's not easy in that case to do a quality test. So that is actually what is fuzziness and the issue that we face. So what are the other challenges that we need? So privacy, obviously, since we are here talking about biometrics, biometric authentication,
+
+[07:52] we have to manipulate carefully all of the personal data and privacy is is one of the main requirements and then it's correctness. Right? So there's completeness. So you don't want any false positive or false negative. So here is our two steps protocol.
+
+[08:15] Right? So first of all, it's the enrollment. So enrollment is like when you are registering to a service. So you're providing your face. Right? Picture of your face which is encoded into an embedding and you want this embedding to be encrypted. Right? Because of of the privacy requirements and this embedding is then encrypted and then committed to the human network.
+
+[08:41] Then you have your authentication phase. So it's like you pretend to be the user that first enroll. So you provide your face. Right? Your picture of your face, which is, by definition, different than the previous one. And this encoding of your phase is embedding in the encrypted,
+
+[09:04] and so two encrypted value are needs then needed to be verified together by the by the network. Okay. So here are a couple of of concepts that we are using here in our approach. So the embedding, right, obviously is how how can we convert an image, a picture of you of your face into
+
+[09:32] a vector of a fixed size. And then we have, like, what what are we doing with these embeddings, with these vectors? Right? How can we regarding this fuzziness, how can we apply computation on it? How can we check that they are actually belonging to the same person?
+
+[09:55] And our approach goes with the the Euclidean distance, which is like a really famous formula that allows you to to compute the distance between two vectors. And finally, we have homomorphic encryption. So homomorphic encryption is maybe, like, the main idea of this approach. Homomorphic encryption is a type of encryption scheme
+
+[10:20] where you are actually able to perform computation directly on the ciphertext. Right? So that mean that even if you manipulate ciphertext, which are non, like, is eligible data, you can still compute additional multiplication on them, and then the decryption will be equivalent to the computation directly on the on the plaintext.
+
+[10:47] So there exist different kind of homomorphic encryption, partially, somewhat, fully. So partially means, like, you can only do one type of computation on that. So it could be additional multiplication, somewhat homomorphic encryption. That means that you can do, like, for example, an unlimited amount of addition, but only couple of multiplication. And then you have the fully homomorphic encryption, f a g, which is kind of the holy grail of homomorphic encryption. That means that you can now
+
+[11:19] perform an unlimited amount of addition and multiplication. So here, you just need to know that FHE is quite costly. Right? So even if, like, good progress have been made in the past couple of years, it's still quite costly in terms of computation, runtime, and stuff. So
+
+[11:43] the the the lighter the scheme that you use, the better it is. Right? So that's why partially homomorphic encryption are way more efficient if you if in your use case, you only need to perform addition, let's say, or only multiplications. So here's a little of mathematics,
+
+[12:05] but really simple. It's just like when you take the Euclidean distance formula and you just, like, develop it, you realize that when you take the the square of it, the Euclidean distance between two vectors is actually only, like, stream multiplications
+
+[12:28] and three additions. Right? So one trivial approach here for the biometric authentication is to encrypt the two vectors, the two embeddings, and to be able to perform the check on if like the authentication step, you will just need to perform stream stream multiplication
+
+[12:50] and three additions on the encrypted data. But what you can see also is that in case you don't just commit the encryption of the vector, but maybe the encryption of the square of the of the of the vector or, like, minus two times the vector, you can reduce it and optimize the computation on the ciphertext
+
+[13:16] up to one multiplication and two additions. But in either of these cases, you need both type of of operations. Right? You need both multiplication and addition. So that means that you need to do to use FHC or somewhat homomorphic encryption, which are quite costly encryption schemes.
+
+[13:40] So here is now we are now introducing, like, how a human network into this approach, and we realized that what we can also be done is as an authentication phase, instead of just committing the encryption of its its vector,
+
+[14:04] it's like performing this scalar multiplication with the plain text of the vector and the encryption of the enrollment. Right? So that means that by doing so, we will reduce it, again, even better to two additions. And since it's two additions, we are now using
+
+[14:30] partially homomorphic encryption scheme, which needs only to be able to perform addition on ciphertext. And this is actually there exists one, the El Gamal, the electric electric curves El Gamal encryption scheme, which is could be reduced and simplified to as the decryption to be a scalar multiplication.
+
+[14:54] And that is actually what our human network is doing. Yeah. So so so that's actually how we are solving this issue here is by using the human network as a third party where users are encrypting their
+
+[15:17] face and embeddings to the human network public key. And this human network will be able, right, to perform the additions on it and then to decrypt the result to see the occlusion distance between the two vectors and then to be able to see, okay, and to state if the people is then authenticated
+
+[15:40] or not. So just to recap a little bit our our approach. So we just showed that for the Euclidean distance computation for this biometric
+
+[16:03] with face recognition, it could be reduced and simplified to only use the El Gamal public encryption scheme. And this type of homomorphic encryption scheme needs to be able to perform computation on the ciphertext. You need to encrypt with the same public. Right? So that means that if different users would like to use this approach, they all need to encrypt with the same public key such that the ciphertext could be computed to together. Right? So that's why we say, okay. Now
+
+[16:38] we need to use a public key of the human network. Right? And but then okay. What about the privacy here? What about the human network privacy? Because the user will encrypt its data with the human network public key, which is okay, but then what about the human network? Concretely about the nodes and the operators are able to decrypt your
+
+[17:07] your personal data, your biometric data. And as I explained before, the human network is a threshold network, meaning that if so it's a t out of n network in the sense that, as I said, t n nodes are sharing the secrets.
+
+[17:30] And if you want to like, if an in if an attacker would like to get your personal data, your biometrics, he will need to corrupt at least t nodes to be able to retrieve enough key shares to decrypt your specific biometrics. Right? So
+
+[17:54] in a way, we can say that this network is secured because, like, if we take a sufficiently high value for t that it will it will need, too much power, too much effort for the for an attacker to corrupt all of the t nodes and then to retrieve the key shares and then to get your your biometric data.
+
+[18:20] Yep. That's okay. That's it for me. Thank you. Any questions? Thank you. Yeah. I I think the work that you're doing here is really important for bio like, just bio signal protection
+
+[18:54] and it's really fascinating. Thank you for the talk. I I was wondering if you could elaborate on what it would look like if you were dealing with, like, a Bluetooth device that maybe had the algorithm to create the embedding. Would the encryption start on the on the device, or would the embedding need to get sent over to the human network and then get encrypted
+
+[19:20] there? Like Yeah. I mean, if so your device will convert them into embeddings. Right? Mhmm. Yeah. So if I mean, if your device has the ability and the computation power to encrypt, which is not that much of computation, yeah. Yeah. It could be possible. Yeah. Okay. It just needs to
+
+[19:46] to it just needs the human network public key and then the encryption scheme is quite straightforward. Yes. Cool. And then I one more question. But you mentioned that the algorithm is based off of Euclidean distance, and because of that, you're able to make it like super efficient.
+
+[20:08] Are there other algorithms that can be used also or is it kind of a special property of Euclidean distance that it's able to be made this efficient? So a KlinD distance approach is related to the way you are generating the embeddings. Right? So it's depending on
+
+[20:34] yeah. It's it's depending on the on the type of, you know, like with for for example, with face tech, when you you are catching the the face of of the user, you can then choose the way you are generating the embeddings. And depending on that generation,
+
+[20:58] that neural network computation, it will give you okay. You can then do the matching based on occlusion distance, and it gives you a threshold like, okay, for this kind of embeddings computation, the Euclidean distance threshold will be, I don't know, like 20. So that means that if it's less than 20, that people are actually the same, but if it's more, it's they are not the same.
+
+[21:28] But, yeah, I know that there exist different way other other ways to to generate embeddings that are not using a collision distance, but other kind of metrics. But then yeah. I mean, our our approach, like, really match occlusion distance because
+
+[21:51] of all the operations, reduction that we made, but with other push, maybe. I don't know. We have to check if it's if it could work also. Cool. Super cool. Thank you. Hi, Louis. Thanks for the great talk. Could you explain a little bit about the trade offs of selecting a t that's too high versus a t that's too low?
+
+[22:15] Yeah. So this the main idea of having a threshold network is to be able to combine security and also, like, accessibility of of the service. Right? So if you have n out of n, so that mean that you need all of the nodes to be able, like, to do the computation
+
+[22:41] to get the final result. In case you have one, which is like, let's say, offline or corrupted, then it will it will fail the whole protocol and you cannot do anything. Right? So if you take a small t value, that means that you can allow to have like a lot, like n minus t, a lot of nodes are like which are failing. Right? So you can still be able to perform the service and to offer the service even if a large
+
+[23:13] amount of nodes are not working well. But if if if that t value is too low, then that mean that any attacker can just like corrupt this t amount of nodes and be able to retrieve the secret. Right? So it's kind of, as you say, like a trade off between you want to offer high availability of service,
+
+[23:39] so you don't want to have like too large t, but also you need some certain amount of security. So you don't want to have a too low t. So usually and what we do in practice is we take a t value, which is more or less two third of n value. Right? Yeah. That makes sense. How about, say,
+
+[24:05] incentive mechanisms like slashing for optimizing performance or availability? That something that could be used to have a larger node participation count? Yeah. So in in in our human network, in all of the protocols that are the key resharing or the scalar multiplication,
+
+[24:29] all of the multiparty computation protocols, we are able to identify in case one of the nodes is acting badly. So that's why at the moment, we don't really consider slashing because we can identify them and then we can just like blacklist them. But, yeah, I mean, slashing is is is quite common in the AVS
+
+[24:55] ecosystem and especially with this risk taking approach where the assets are being delegated multiple times so that needs some hard, yeah, requirements on the good behavior of the nodes. So yeah. Yeah. So you could have, like, tens of thousands of nodes that help people biometrically authenticate and create keys, something like that, as opposed to, like, a more centralized set.
+
+[25:26] And then have there been any conversations or thoughts on other types of biometrics, like, say, like, biosignals versus, like, maybe even, like, authentication related to, say, like, mRNA sequences or anything like that. It's pretty general approach. Right? Yeah. Yeah. Of course. I mean, for this presentation and for the, the first approach I took is face recognition,
+
+[25:51] I think it's one of the most trivial approach of biometrics. But, yeah, hopefully, it could be applied to lots of of different kind. And with AJ, yeah, I think we can maybe work together, yeah, to to apply to to the brain.
+
+[26:14] Yeah. And then how how can I how can I build if I wanted to, like, get started? You build you you mean to build on human network and this authentication? So just contact us. Contact human tech. Yeah. We are starting to to
+
+[26:38] to onboard projects to use human network. It's really straightforward and we are really, like, we are providing good good support for the devs to be able to query and to use human network. Thank you.

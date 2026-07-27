@@ -1,0 +1,683 @@
+# Cypherpunk Utopia — Demo Day & Epic Project Unveils!
+
+Date: 
+Source video: Cypherpunk Utopia — Demo Day & Epic Project Unveils!
+Drive: https://drive.google.com/file/d/1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT/view
+Duration: 02:33:23
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[02:04] We we, you know, we the people. An example I think about quite a quite a bit is, is longevity. Right? It would be great if people lived a lot longer and so on, But centralized power tend which I've studied a ridiculous amount, unfortunately, tends to view significant changes to society as societal destabilization.
+
+[02:29] And so, hey. People are living a lot longer, then, you know, you and I are like, okay. That's great. People are healthier. They can do what they want for longer. But, there's there's a lot of anti you know, there's the you know, between, you know, health insurance companies and and different, government agencies who start to worry about, okay. Wait a second. This is, you know, this is against the interests of some of our donors. And then, you know, like, health insurance is gonna be too expensive. It'd be people live too long, and they'll need it for too long. And so, know, maybe we should maybe we should undermine this. Maybe we maybe we should not allow for this to, to happen.
+
+[03:01] So, yeah, there there's some there's there's there's some more hardcore examples I I could give about the two two Boeing whistleblowers that were trying to make Boeing more, more safe and supposedly suddenly committed suicide, like, right before testifying. That's probably probably not what happened. But, but, anyway, let's let's talk about, I wanna redo a modified version of the
+
+[03:27] Cypherpunk Utopia manifesto that, got our residents here in the first place. We'll have this lead into to our specific solutions. Calling all cypherpunks. We predicted this world. In some sense, we've been preparing for it our entire lives. Mass surveillance,
+
+[03:49] mega corporations, government censorship, intelligence agencies run amok. The NSA's spying capabilities naturally increase with Moore's Law, and their budget only grows. The UK The UK jails thousands of its own citizens per year for very mean tweets. Tech giants and advertisers spend billions to data mine data mine and algorithmically
+
+[04:13] manipulate us into serving their ends. Their government's leaders or your government's leaders want you to believe that they can only keep you safe if they are able to store in their database every thought you have ever communicated to another mind. How can one possibly hope to protect the world from these escalating injustices?
+
+[04:37] Which community has the skills, the wit, the boldness to dare defend humanity against these tech enabled tyrants? After thirteen years of cypherpunk work, including a DEFCON talk, three international innovation awards in designing, building, and shipping real software that protects real people, I have reached a surprising conclusion about our would be permanent overlords.
+
+[05:00] They don't stand a chance. How could that be, you ask? Well, you see, the the our asymmetric advantages are extraordinary. Infinite digital surveillance can be defeated by a single mix net. That project is called cats and posts, by the way, and it does exist. All computing power on Earth is insufficient to break but one encrypted message.
+
+[05:24] As Julian Assange once said, encryption is an embodiment of the laws of physics, and it does not listen to the bluster of states, even transnational surveillance dystopias. It isn't obvious that the world had to work this way, but somehow the universe smiles on encryption. We learned from the Snowden revelations that even the supposedly all powerful NSA
+
+[05:52] has privately deemed TOR to be, quote, catastrophic to its surveillance efforts. That's its internal documents, its own, assessment. To defend the world from centralized control and achieve cyberpunk utopia, a surprisingly small number of additional tools and technologies must be built. And but they must be built correctly, simply, scalably, and with an eye toward anonymity and usability
+
+[06:18] and soon. So here are these these three weeks that, that brought us here to Edge City Patagonia, accelerating each other on these technologies. And so we are building the future we've always wanted, the future we deserve, a compelling future of freedom, ambition, decentralized power,
+
+[06:41] and confused, frustrated, wannabe tyrants. We're building a future where authoritarian whims are too slow, too shortsighted, and too localized to prevent the rise of cypherpunk utopia. And so this October and November, we have in building the following things.
+
+[07:05] One, an anonymous censorship resistant podcasting platform so the signal cannot be stopped and to allow anyone in the world to listen and learn without being spied upon or creepily psychologically profiled. Two, the greatest secure messaging app of all time, decentralized anonymous quantum resistant, optionally self hostable, the functionality of, like, signal and Discord and linear, but anonymous and or native.
+
+[07:28] There's an encryption app for organizing legions, the first Internet native organizational structure. It's a new mechanism for large scale human coordination that will allow the masses to peacefully organize against the elites and to create our own alternatives to the corrupt status quo, like creating new countries and so on. It's also a platform you can build upon, a scriptable any programming language. We also plan to build,
+
+[07:53] and are presenting today, of course, a decentralized, scalable platform for building unstoppable apps that combines the best of web two and web three. And I ask people, will you answer the call? If not now, when? If not us, who? If not encrypted, why? And here we are in Argentina.
+
+[08:16] People did answer the call, and oops. Here we go. Speak people didn't answer the call. And what are these projects that we are presenting today? I will, I will kick it off by talking about Relay, one of these messaging apps, as well as two other minor projects
+
+[08:39] that are for builders you could potentially incorporate into into things that you're building. Then we have, Cheeky Gorilla, the the the international man of mystery known as Cheeky Gorilla, I meant to say, of course. He'll be talking about GrapheneOS, the most secure, you know, mobile operating system. You know, it's like a variant of of Android, and therefore, it's compatible with Android apps. It's backed by a nonprofit
+
+[09:02] that an open source project. We'll have, Damir and Sebastian. After that, talking about, Masa and, and Gossip. Masa is this project that combines the best of web two and web three. You can run, you know, like, kinda unstoppable websites on it, which I'm about to to use. I think it's incredible technology. They can do, like, many thousands of transactions, per second, and it's an l one, you know, which is way more scalable than kinda traditional blockchains.
+
+[09:28] And they'll be talking about Gossip, which is, their, like, very decentralized, quantum resistant, messaging app. Then we'll have Jim Jim. He's gonna be talking about how we can have a privacy on Ethereum and with plausible deniability. So how awesome is it to have privacy on, like, the blockchains that we're already using and not have to pick between something that's popular and something that's private, but kinda be able to do both both at once. That's a big deal. ZK Wormholes enables that. And then we'll have, Javi or Javier.
+
+[09:58] He's doing really interesting things with, with LibreMesh, which is like a mesh networking protocol. But, yeah, they're adding, like, encryption and these privacy things on top of this, like, super, super resilient, mesh networking. And he'll be telling us about, Reticulum, which adds this, like, protocol layer and, I think, encryption layer on top of a network. So so you could be, you know, you know, talking to a a device that's, like, many hops away and talk to it over, like, Wi Fi and then Bluetooth and then some other medium of very, very interesting tech for, for resilient, networking.
+
+[10:34] So that that is the lineup. So alright. Let us talk about the, first app here, Relay Anonymous Messenger. This is my attempt to build the Alta Messaging app. What, for, you know, for, for messaging and also kind of amplifying democratic, power as one of the use cases that I sort of alluded to a moment ago.
+
+[10:57] What its advantages and I'll show you the demo in a second. But, we want you know, ideally, right, we want something that's, like, at least fairly decentralized. We should be able to send, files of unlimited size. You shouldn't require a phone number or email address to create an account. You should be able to create as many accounts as you want and have them be, like, very independent. You should be able to use it very anonymously. So, ideally, like, Tor or something like that would be, would be integrated.
+
+[11:22] You would want, like, super efficient, super scalable kind of a group, messaging. It's so scalable that you could use it for, like, for basically, like, anonymous, mailing lists, which is hard to to do right now or was was until now, I should say. Ideally, the messaging back end would also be be self hostable, so you could use it in, like, a totally independent way. Maybe you're maybe you're offline. Maybe you have a flaky Internet. Maybe you just want your local devices to be able to to communicate without needing permission from, from the broader Internet.
+
+[11:56] And, ideally, you could be you could use it kind of like a like a encrypted Discord or something like that where you can have a collection of rooms, and then we'll talk about the other, unique aspects. But let's see a demo. That's almost cool enough just to be a demo right there. Thank you. Thank you, the Matrix four. But that is not the app. This is the app. Here we go.
+
+[12:19] This is, this is Relay. You can see that, I am logged in to four different accounts here. You can, you know, like, collapse these different sections so you don't have to see all your, you know, contacts. You can, but but if one of the messages you, then it will pop up here so you don't, you don't miss it. One of the best things to start with is to see this kind of a top down view of what's going on with our device. So here's my device.
+
+[12:48] So I'm connected through two different relay servers right now. One is on the local network. This is actually on my local laptop. I use this to have all my virtual machines local devices on my local network all communicate with each other very seamlessly across all OSs. So you can use this kind of like, AirDrop or something like that. But, again, overall, arbitrary distances, and encrypted end to end, and
+
+[13:12] and it works over Tor, which I'll talk more about in a sec. But, yeah, there's that server. And then here is, the, the other server, public server. Really used to be called onion push. It's become a lot more ambitious than just, like, put push notifications over Tor, which is how it began. But but yeah. So so there's this server that I'm logged into. So so yeah. So it's
+
+[13:35] really cool to be able to log in be logged into multiple servers simultaneously just so that, like, yeah, like I said, so it's great that my, like, local devices can communicate very efficiently and just much more quickly without having to go over the Internet. And so that's kind of the local use case. And like I said, having your own VMs kind of communicate. You can see that I'm logged in to multiple accounts, simultaneously,
+
+[14:00] like, through the same, connection. So that's very, efficiently, efficiently done. Yeah. I mean, I'm about to add a feature so that if you want to have we wanna be logged into, like, several accounts, but you don't want them, like, kind of correlated with each other by having them, like, logged in through, like, the same connection. Right? That's a concern if you're trying to push for pretty serious anonymity.
+
+[14:23] It'll soon be a feature where you can, have certain, like, accounts that just, like, maybe once a day, they'll, like, check-in at a random time and see if there's new messages, and that would be through its own Tor connection and, uncorrelated with your other other connections and your other accounts. But yeah. But that's that's kind of the bird's eye view. When you create a new account,
+
+[14:47] you can just check this box and say always connect over Tor. So you get, like, really serious anonymity. The the the Tor daemon is actually embedded inside of this app, both on desktop and on mobile for, again, like, really serious anonymity. And then here, if you go to advanced, and if you don't want to so I should say, like, for, like, very nontechnical users, you can just create an account. You don't have to think about different servers, if you don't want to.
+
+[15:15] But if you but if you do want, more advanced configurations, you can open this up and say, you know what? I you know, here's, like, IP addresses of, like, my Raspberry Pi or my local laptop or whatever. And, hey. I want, you know, I want my phone to be able to communicate with other other devices through, you know, or your laptop communicate with other devices through, through other relay servers. So, you know, here's where you set that.
+
+[15:39] This, this passphrase feature, like, I added this, as a result of someone at Edge, requesting this feature. He's like, hey. You know, what I really want in a messaging app, if it's gonna be ultimate solution for me, is I wanna, like, not have any I wanna be able to not have anything on me, no keys, no files, no no hard drives, nothing, just memorize a pass phrase, and then, like, travel around and install, like, a a, you know, normal, like, empty version of,
+
+[16:04] of this app and then type in my passphrase and be able to recover my key. And then, ideally, you know, he's like, even if I can't, like, get my data back, I at least want my identity. Well, in this case, you can't get your your data back because it's just sitting on a server, but you can, anyway, have your passphrase deterministically generate your, your key pair, and so you get your your account back. So, yeah. So that's, that's new account stuff.
+
+[16:30] So, yeah. So those are kind of the basics. If you want to use this oh, actually, should say, think about how many steps it usually takes to get a file between, say raise your hand if if if you've ever had a pain, pushing just trying to get pictures from your phone to your laptop or your desktop. Does anyone notice that that's, like, bizarrely, ridiculously complicated? That should be the most trivial thing ever. There's obviously no technological reason why that can't be really simple.
+
+[16:59] Now it is really simple. How how simple is it, to to to get files, you know, not just to, like, quote, unquote, share a file with someone where, like, you know, you go to Google Drive and you, like, attach the file, and then you, you know, right click on it and you say who you wanna share it with, and then they receive an email, and then they check it, and then they, like, click through, and then they download it, and they decide where it should be downloaded, and then it ends up somewhere. Instead of that, what if you could just do
+
+[17:30] this? And it is sent. It's actually pushed to to you know, like, if you have kinda sufficient, yeah. Like, it actually pushes the file to, like, to a folder in this kind of you know, like, in your downloads folder, you know, if you received a file, there's, a Relay folder. Actually, I should just show you. Health report.
+
+[17:56] Here we go. Alright. Oh, actually, this is a good example. So a file with this file name was already, received, and Relay detected that, but it wants it to be, like, so, like, automatic for you to receive things and you not have to, like, manually rename something just because, another file has the same name. So it it appended this, this dash one. We can see today, this is just received. And so, yeah, here's this
+
+[18:21] here's this file that, that automatically shows up. Same thing on, on mobile and on desktop. But okay. So that's, you know, that's that's file sharing. That's one on one messaging. That's group messaging. You know, in here, you can create a a group chat just as easily as, like, you know, an account. You give it a name. You can just because you have many different accounts, if you'd like, you can decide which identity you want to use to join a certain room.
+
+[18:46] So yeah. So those are nice. What are some higher level features you can use Relay like encrypted Discord? So here's a collection of rooms. Right? Invited people into here. You can imagine, Harmony House being a plausible name of a community. Here's chat messages and and whatnot. And so so, yeah, like, I I have no idea why Signal hasn't added
+
+[19:12] these sorts of features. Seems really obvious. Everyone has copied Slack and Discord and Telegram, you know, where you can have a a collection of rooms, and you should be able to have that be encrypted and, like, as kinda safe and anonymous as you want. Nobody, nobody seems to have done that, which is, ridiculous, but here here we are. We've got it. We have the solution now. And then, the most unique feature is what are called legions. So instead of just a flat list of rooms, you can create an entire
+
+[19:40] hierarchy of rooms. And suppose there's some ambitious goal that you and other people are trying to achieve. Maybe you're trying to create a new country. Maybe you're trying to hold some entity accountable. Maybe you're fighting for a universal basic income for all because, just, you know, in theory, robots and AIs are wiping out all the jobs a million by the million, which is about to occur starting to occur. And so wouldn't it be cool if you could organize with, with other people in a, an action oriented way?
+
+[20:06] I will soon add sort of a task management to each particular room. So see each of these is a room. I can click on it, and it will, jump me there and, yeah, expand the rooms along the way. Let's see. But for people who creating new sorts of structures, new organizations and whatnot or or especially if it's like a new, you know, country or something like that, I would not want, like, the kind of, you know, entrenched power hierarchy problem to be recreated just with, like, cooler technology.
+
+[20:39] And so what can we do, you know, to to have, like, a more how can we get the advantages, to get the efficiencies of, like, a hierarchical structure without having people kind of necessarily permanently at the top? Or how can we kinda hold them accountable so that, they're not abusive. And so this is where the concept of forking a legion comes into play.
+
+[21:03] This is not, implemented yet, but, but, soon you'll be able to say, you know what? I and other people want to kind of exit, want to create our own legion, want or, you know, own, kind of fork of this, community. And, you'll at least have that as kind of like a plausible, move, so that so that whoever is in charge of this sort of thing can be held accountable. It'd be nice if our democracies right, you know, right now had it where you can click a button instead of having to, like, move your whole family across the world or something like that. This is a lot easier, much more plausible form of exit.
+
+[21:35] But, and then also, I I want these I want this new organization type to, kind of evolve over time to be more effective. So how could you do something like that? Well, everyone's everyone who's whatever joined a new company or worked on a group project or worked on a, you know, larger scale thing quickly sees
+
+[21:58] certain certain things that could be improved about about that organization, how it's structured, who's doing what. For example, you know, maybe you're like, okay. These two people I'm working with, they're very good. They should both be higher ranked, but they do not work well together. They should be in a part of different groups or, you know, or this person should be, you know, demoted. This person should be promoted, things like that. And so
+
+[22:22] within, within these legions, you'll be able to specify those sorts of kind of constraints and say, hey. I think a better version, a better structure, a better formation of this lesion would would have these sorts of changes. And then and then people will be able to, to click new formation. I'll try to have a really cool, animation where the structure of the legion kind of, transforms
+
+[22:46] into this this better structure that's more more effective based on those constraints, based on the signals that were provided by its participants. So, yeah, that is, that is, that is Relay. The desktop app, works well, as you can see. I have, like, a beta version of of an Android, APK that I I I got the first, first, beta tester who was badgering me to to beta test it, which was which was actually good. I, apparently, needed that. Thank you, Dimitri.
+
+[23:17] He he he has relay running on his, his, device. But if if you would like to be a beta tester, then oh. Very, very, very soon, you'll be able to scan this QR code and then add me over Relay. But you don't have Relay yet. Right? That's that's that's the one thing. But if you scan this QR code now, you will have my identity, and then I'll, I will, I'll send you the, send you an APK, but, messaging me on on signal to onboard
+
+[23:48] onto Relay. That's a that's a that's a good use case. Cool. Thanks for scanning that. Alright. Looks like you got it. And then oh, yeah. One more, one more thing. There is no blockchain involved with, with Relay. Maybe there will be a blockchain, you know, blockchain using,
+
+[24:10] you know, like, you know, maybe a reputation thing. Anyway, there's there's some there's potential use cases. But for you know, in almost all cases, unless you have, like, a very new kind of super scalable blockchain like the Masa guys do with gossip, I don't know why everyone's trying to build a messaging app on top of of a blockchain. The reason why ledgers and blockchains were created was so people could not double spend money. Are people gonna, like, double spend the chat message that they're sending? It's like there's people are just wrecking the throughput of their chat system for for for no good reason or for, you know, usually no good reason.
+
+[24:44] And yeah. Yeah. But but blockchains should probably be used for the things that are good at good at, but not everything. Controversial view in some quarters, but but yes. But, yeah, there's my contact info if you want to, ping me over, Signal or Telegram, to become a beta tester or any other purpose. Alright. Any, any quick questions about, Relay? And before we, I'm gonna mention two other little, projects for for builders, and then, we can move on to the other res CypherMonk Utopia residency projects.
+
+[25:18] Yes? Why is signal not enough? So, so so so as we learned, like, a couple weeks ago when, US East 1, went down, like, know, the AWS, you know, data center, and then, like, a third of the Internet went down including including signal. So so that's too centralized. Oh, yeah. I should have said so. When it comes to relay, I'm running, like there's, like, a default server. And so, again, like, nontechnical people can just use it, they don't have to think in terms of, you know, like the like the IRC clients and Jabber clients and stuff where people would new users would have to, like, type in a type in a domain name and port number and stuff. So there is a is a default server that is a kind of a point of, centralization.
+
+[25:57] But, it's about to be the case where if if that goes down, then depending upon the, you know, based upon your, like, account, ID, there's, like, a kind of, like, a secondary server, like, on, like, another continent that that that everyone will kinda fail over to. And so everyone will know based on your user ID, like, your client will automatically handle this and kinda message you through a a secondary server.
+
+[26:22] There's a couple partnerships, that we will do soon so that, like, other organizations are running, other Relay servers. Plus anyone can self host a server and say, don't even want to use any of the, you know, semi, centralized infrastructure. They can totally run their own. And so that's, that's a that's a significant piece of it compared to Signal. Having, like, a collection of rooms, like Discord or Slack style,
+
+[26:47] you know, that that feature set, that's important. And being able to send send and receive files to unlimited size, those are those are all advantages over over signal. The signal people okay. So there's, there's creators of other messaging apps that are trying to spread, you know, kind of false information about signal and saying that it's not, not secure. Signal security is extremely good, and their privacy is very good. The the the critique would be that that's, like, the only thing that that it's really good at. Right? Where's the where's the features? Where's, you know, where's decentralization?
+
+[27:17] Where's you know? I don't know. Like, Telegram is very fun. It's very colorful. There's all these animations, you know, so more of us should be integrating those aspects. But, yeah, but cryptographically, Relay is similar to to, to signal. Yep. Yes. Good question. So, yeah, what what does the tech stack look like? So
+
+[27:44] the so what are we looking at right here? So this is this is an electron app. This is a Svelte JS. Yes. Basically, web app. You know? But, of you know, but, course, not not loading remote content, but, you know, web technologies integrated into, into Electron. When this UI, starts up, it actually starts,
+
+[28:08] like this Go binary that acts as like a local kind of trusted daemon. And then there's authenticated calls, like, from this interface to, to this Go daemon. I did that for a number of reasons. So so all the cryptographic code is, is written in Go, like handling all the remote network connections and efficiently concurrently, doing all that. That's written in Go. The Tor daemon is embedded inside of Go. Go has something called c Go that makes it easy for Go code to wrap, c code, and, of course, the Tor daemon is written in c.
+
+[28:40] And so yeah. And so, like, this, this stack is is actually very interesting. Like, you know, I wanted, like, the the best, user experience on all platforms, but I didn't want to have to recreate from scratch, you know, like, five different apps for different platforms. And so, I came up with this design where, by having all the cryptographic and, like, network related stuff in, in Go and using it on desktop as described,
+
+[29:04] it's actually very easy to take take Go code and compile it to what what what behaves like a c shared library. And so on, like, Android and iOS, like, it's you know, everything is you know, all of our languages are built to, like, to call into c and c plus plus code. And so I can just have the cryptographic code written once, but but use it everywhere and and do all the network management everywhere.
+
+[29:29] And, I mean, mean, it's like the it's it's the vast majority of the functionality. So unlimited file size, encrypting, decrypting, you know, like like the UI layers don't ever have to touch private keys, which is kind of interesting from a security, you know, standpoint. Like, you you can you can imagine, like, somehow, you know, somebody injects, you know, JavaScript into, you know, into a into a UI and, like, it would not be able to see private keys, which is which is pretty cool.
+
+[29:54] And then, and then on mobile, I'm using a Kotlin Multiplatform, which seems like it's finally ready for for prime time. And so I'm able to to write, you know, the logic that's not in Go. There there's a bit that is in Kotlin, but that Kotlin code, can be used on Android and on iOS. And so that doesn't have to be written multiple times. But, but yeah. But I've so far, I've been very happy with the tech stack.
+
+[30:19] And thanks to and thanks to LLMs, you know, I could quickly make the electron app and then, like, like, converting, like, Svelte components into Kotlin components, Kotlin multi platform components, like, one by one, it's been it's been pretty efficient to, to to make those apps. And, of course, on you know, Android is the most popular, you know, operating system in the world, basically, that that's user facing, like, two and a half to 3,000,000,000 users.
+
+[30:43] Kotlin is the language that Google wants you to use, to make, like, an a plus experience, so I wanted to use that. So, anyway so so Kotlin Multiplatform makes it so you can nail Android and then get iOS almost for free. There's a thin UI layer, that you have to make, for for iOS, but then then that's fully native, and that works really well for the user. And then
+
+[31:06] yeah. So, anyway, a lot of a lot of advantages there, but very, very happy with that tech stack. I spent, like, many years trying to, you know, do everything in in JavaScript and have all your code trapped in a web view. And then on mobile, eventually, you need to access some native, you know, native API, and then it's hard to bridge. And then I knew I was gonna embed the TorDemon. I'm like, I need low level access to have full control over things, but, this has made it so it's not too, not too much work to do that.
+
+[31:31] But cool. I think, I think that's that's it for me. Thank you very much. Well, that's all for Relay. And then here's two, two two little two two smaller projects for, you may be interested in. I built, like, kind of leading up to Edge. This is this is, probably too too cute of a of a of an app name, but I I created a a secure note taking app called Ciphertext.
+
+[31:58] Oh. That's actually kinda confusing to call it Ciphertext. But, actually well, actually, I have a mini demo of that. Yeah. Okay. So so so many times I've wanted to to just have, like, encrypted, local, simple, but, like, very secure, note taking. And so I would, like, you know, you know, create a, you know, create a whole virtual machine and just install an operating system on there,
+
+[32:27] and then have, like, a Veracrypt volume and then be, like, kinda duck and then have, like, a, you know, note taking app that tries to persist the messages inside the Veracrypt volume. So I I'm, like, duct taping these huge pieces together. And I'm, like, all I actually need is, like, one file that is the like, a two e, you know, like, note taking app
+
+[32:49] and, like, a data file that just contains, like, a folder, like, an encrypted folder of files. Like, I literally need two files. I don't need a new operating system. I don't need a new virtual machine. I don't need a new universe. So I made made this app. And anyone familiar with, like, I don't know, like, Nano and some, like, Emacs keyboard shortcuts will find it pretty intuitive. You can anyway, there's a bunch of keyboard shortcuts. You can kinda very quickly preview files
+
+[33:17] by moving around. You can search. You can grep. Anyway, the the tech stack here is actually kind of interesting. It's it's like this encrypted file system. So as far as, like, Go almost thinks that it's writing to a normal file system, but it's all in one file. Anyway, that's a that's a that's a neat thing, for, secure note taking for those who need that. And then, in the last three weeks or so, I've gotten a lot of experience embedding the Tor daemon inside of mobile apps and on, desktop apps. And so I've tried to make that, really, really easy, for people, building on, like, a lot of other people's work, very much so. But, but there's people who are, like, not fully maintaining what they're doing,
+
+[33:56] and plus I wanted to be able to have, like, a statically compiled version of of Tor that's easy for Go to call into as well as it just being standalone without a Go layer. So, anyway, I made Tor static builder. So if you go to the URL, visible there, you can run a cup like, run a couple commands, and it will, like, pull down all these dependencies and, like, statically compile a TOR daemon. And then you can, and there's, like, example code for embedding TOR to add anonymity to your mobile app no matter, what it's what it's doing.
+
+[34:28] Yeah. Yeah. The tech stack is kind of interesting there too. And, like, whether you're use you're doing, like, fully native mobile or or React native, either one, it kind of creates the the laters for that. But, but, anyway, two more two more, two more interesting little ones, I wanted to show you here after after Relay, and we took, questions. And with that,
+
+[34:51] let's see. Cheeky gorilla, are you ready to go a bit early? Alright. Cool. Here's the next, next people. Thank you very much. So I'll unplug. I might get a recent microphone about a foot, but
+
+[35:26] All right. Quickly get set up here. If possible, I want to demo something to you on my phone. I don't actually know if it's going to work.
+
+[35:50] If it doesn't work, it's because my privacy and security is really good. But if it does work, then that's to your benefit, I suppose. You get to have a of a hands on demo, but I'm not super optimistic. My lack of optimism. Uh-oh. Oh my god, it might work.
+
+[36:17] Holy crap. That's terrible for my privacy. Okay. Let's unplug that real quick. Okay. Good to know. First, I'm going to do some stuff on my laptop. All right. Nope. Mirror. Did I fuck it up? Yes. Oops. And we're
+
+[36:45] back. Okay. So I guess to kick things off, first of all, you, Shaka, for hosting us and for spreading the word of the cypherpunks to everyone who can't be here. Thank you, Steve, for inviting me to talk about this. I I'm Cheeky Gorilla. You can call me Cheeky. What I'm about to present, I'm I'm not actually building. I'm not actually developing it.
+
+[37:11] But there is no one here from the Grapheneoise team, so I wanted to represent them. And I guess, in some ways, I'm one of their biggest evangelists. If you have met me before, odds are I have shield you GrapheneOS in one way or another. And if I didn't, perhaps I was one minute away from doing it. But taking a step back, so what is GrapheneOS? Well, it's the answer or rather the rebuttal to this statement
+
+[37:37] that you cannot have privacy if you have a smartphone. And the reality is that is actually true if you have a normal phone. Right? If you're running if you have an Apple device, if you have a normal Google phone or a Samsung phone that's running Android, it is absolutely true that your phone is a surveillance machine. And I mean, like,
+
+[38:00] no exaggeration. It is collecting all of the data that's possible on your device. Right? What you're looking at, your keystrokes, all this kind of stuff. You know, of course, this is information that is being taken by the Googles and the Apples of the world. They potentially are telling you that they're safeguarding it in x y zed ways, but, of course, you're also sharing a lot of this information with the various apps that are installed on your phone. And we know how, you know, private data can make its way out and the public can leak in one way or another either accidentally
+
+[38:33] or not. So really your smartphone is the biggest snitch that you have on you, the biggest invader of your privacy. But fortunately, there is one very clear and one very convenient solution to this issue. As I've alluded to, it's GrapheneOS. Okay? And so GrapheneOS,
+
+[38:56] I guess, who here has heard of Graphene OS before? Almost everyone. Mean, that's kind of surprising. Okay. Fantastic. Is it because you've all talked to me before maybe? How many of you have used or are using Graphene OS currently? Three, four including me. Okay. Okay. That's a good amount. How many of you are Android users? Not GrapheneOS, but Android users.
+
+[39:21] Half ish? Fantastic. You are my target market for the rest of this talk. Okay? Because what is GrapheneOS? It is, yeah, a private and and secure smartphone operating system, but that's not giving it enough credit. What GrapheneOS is is the Android experience almost one to one, but with all that Google garbage removed by default.
+
+[39:46] And without getting too emotional about the Google garbage, I'm talking about basically all of their privacy invasive stuff has been removed, but it's been removed in a way that gives you the ability as a consenting adult to selectively add those things back in a sandboxed way if you need them. And so essentially, what you can do is you can enjoy the Android experience
+
+[40:10] with basically none of the Google stuff and basically have a phone that has full smartphone functionality as you might expect from a feature phone. Right? But without any of the tracking stuff. And this is a Graphenewis is an open source project, has been audited. So all these claims have absolutely been verified. It's a project that's been around for for many different years. But so if you are currently an Android user and I were to show you my phone, which I will show later on,
+
+[40:38] you would not actually be able to tell the difference between my phone and your phone. The difference is because I talked about being able to selectively bring back some of these Google features, and so what am I actually talking about there? Well, I guess the most obvious is the Google Play Store, right, where you get your apps from. And so if you want the Google Apps, then yes, you need to basically invite Google into your phone. But again, in a sandbox way, is possible to do so with GrapheneOS
+
+[41:05] so that you can install all of the apps that you would ordinarily have, available to you on the Google Play Store, including, the Gmail app, Google Maps, all that stuff. But you don't have to do that if you don't want to. If you want those apps without going through Google Play Store, there are actually a bunch of kind of, let's call them, like, underground app stores that are essentially like private front ends for the Google Play Store to be able to get those things.
+
+[41:33] And so but the great thing is that, again, I've said that GrapheneOS is private by default. But what's great is that for someone like me who is absolutely a privacy maxi, I will refuse to enable any of those Google features. But my fiance, for example, I have onboarded her and actually her mom and dad onto Graphene OS. They, of course, have all the Google features enabled so that for them, they don't have to jump through some of these hoops of using a private front end to get the Google Play Play apps. And so I'll I'll show this to you later on just to see exactly how it works. But basically, being able to opt into these things makes GrapheneOS
+
+[42:09] a truly universal smartphone. And by that, I mean the only people who I wouldn't actually recommend this to are people who are diehard Apple users, people who have never used Android before. And the reality is if you were to go from Apple, from iOS to Android, you're going to have a bit of a culture shock. You're gonna be like, oh, man. This thing is is not so nice, not as polished.
+
+[42:32] But that's it. That's that's Android. That's not GrapheneOS. Right? GrapheneOS basically inherits all all all the jank that's prevalent with Android for better and worse. But so it is really the people who are currently on iOS who might have the biggest, as I described it, the culture shock when making a migration. And then the other sticking point is that GrapheneOS requires ironically
+
+[42:55] a very specific type of phone. There's only one model that it supports, and that is the Google Pixel line of phones. And of course, this, yeah, is very ironic, but at the end of the day, GraphingOS is a very small team. For them to support many different phones would require a much larger team, would balloon the scope, the complexity of the project by orders of magnitude. And so what they set out to do was basically to identify
+
+[43:22] what is the the phone, like the hardware that's, a, would allow us to install a custom operating system on it, and that already precludes Apple devices, Samsung devices. They don't have compatibility for this kind of thing. Like, the Apple device will literally, like, nuke itself if you try to do this. So what phones out there allow you to install a custom operating system? But then once you have that narrowed down,
+
+[43:46] what are the phones that on a hardware level have the highest kind of security guarantees baked into the hardware itself? And as it turns out, it really was the Google Pixel line of phones, that basically checked all of those boxes. So if you are an Android user and you already have a Google Pixel phone, you could migrate today. Right? If you don't have a Google Pixel phone, you would need to get one. And I would recommend getting one of the newest ones because they have seven years of guaranteed support.
+
+[44:15] But I've I've jumped around a little bit here. I think one thing that would be very good for us to look at, depending on how this is rendering, is the feature set. So if you really, really, really wanna dive into the the details, and I I don't know, maybe you have very good eyesight and you can see this, maybe you can't. But this is from a website. You can search for it right now. Islandberg.github.io/androidcomparison.
+
+[44:38] If you search for Android comparison, GrapheneOS, you will find this. This is the technical overview of how GrapheneOS differs from stock Android as well as other so called privacy operating systems that could be considered competitors to GrapheneOS. And spoiler alerts, they all take concessions in extremely meaningful ways,
+
+[45:02] which will either be the detriment to your privacy or to your security. And so if you are serious about your privacy and your security, then GrapheneOS is an absolute no brainer for you because while there is an initial hurdle just to get it set up, the thing that is probably the hardest with GrapheneOS is simply, yeah, getting it installed because it's not, you know, as easy as just like opening a zip file on the on the device. You need to kinda go through a process
+
+[45:28] where your phone will boot into this weird mode where it looks like it's broken. It's flashing red text, but that's just how you basically flash a custom ROM onto a device. But it can be very intimidating. But once you've done that, you really have this pure Android experience as it was originally intended. Oh, and by the way, the battery life is better than it would be on any Android phone because of all the Google stuff not constantly running in the background and surveilling what you're doing.
+
+[45:56] So, yeah, we're not gonna go through this list. I just put it here because I wanted you guys to see all this beautiful green in the column for GraphingOS and all that ugly red for I guess, as you go down towards the right. But the the summary of this is that we've already covered this in-depth. GraphingOS private by default has that improved battery. Alongside the hardware, it has this verified boot and anti persistence measures to basically make sure that when you're booting the phone, it really is the GrapheneOS operating system. It has sandbox Google Play, again, allowing you to basically invite Google into your home as much as you want to. But even when you invite them in the entire way, it's still sandboxed.
+
+[46:34] And so all they're collecting is the IP address, which can be mitigated by using a VPN. And of course, if you're using one of their apps like Gmail, like Google Maps, they get all the information that they would ordinarily. But other than that, they're getting nothing. They can't see your screen. They can't see your keyboard. They're not analyzing packet data with your Internet. It really is completely, completely sandboxed. You have fine tuned controls for for the permissions for apps, network controls, storage, contact scopes,
+
+[47:01] sensor controls. It has a really cool feature of MAC randomization. Whenever you connect to Wi Fi, you basically have this, like, this identifier for your device called the MAC address. It can randomize that on a per connection basis, so you always look like a brand new connection. Android has this as well, but per network randomization. It has features like auto reboot for locked devices. So basically, if a device has been locked for twelve hours,
+
+[47:29] will reboot itself because then basically everything on your device retains the strongest encryption. It has duress PIN. So basically, someone once it's trying to rob you, they tell you to unlock your phone. You can put in a PIN to nuke the phone. It has its own browser, which tries to emulate a lot of stuff TOR browser does in terms of anti fingerprint protection without
+
+[47:52] the TOR network itself. It has all these cool USB C protections, which is a big attack vector for phones generally. User profiles is a feature on Android, but they have improved it a lot. Meta automatic metadata stripping for screenshots and a bunch of very, very technical things, which I I could not really explain to you because I I don't understand them myself. But again, if that sounds interesting to you, please do check out this beautiful chart. It way, way more detail. And of course, can also go to the GrapheneOS website, which goes into these things in a lot more depth.
+
+[48:27] Oh, and I should say, there was one guy yesterday who was saying like, oh, all these features I hear about GrapheneOS, we have them in in in normal Android as well on my Samsung phone. And with GrapheneOS, a lot of the features that they've shipped for privacy security end up becoming part of normal Android because Google looks at it and says, holy shit, yeah, that's a no brainer. We definitely need that. Sorry that I keep on swearing on the stream.
+
+[48:53] And and but also they you you might say, oh, the network control that Android has at a well. This has it in a much more granular and fine tuned way. And also, it doesn't risk, you know, Google rugging you by they sometimes just enable or sorry, deactivate airplane mode if you've had it on for too long because they wanna get that data. How am I doing on time, by the way? You're fine. What does that mean? How much time do I have left?
+
+[49:22] Fantastic. We've already covered this requirements. So yeah, Google seven sorry, Google Pixel seven, eight, and nine. The 10 just came out. I don't know if you've heard. Google has been playing hide and seek with their code for the for the most recent updates. And for that reason, Google Pixel 10 is not yet supported. But they finally open sourced all the updates that they made, so you can expect that in a couple weeks. We've covered why not other phones.
+
+[49:49] Installation, we kind of covered that as well. So why don't I switch and just show you what I'm talking about? Watch it not work now because the curse of presenting. Here we go.
+
+[50:15] Is that I mean, if it's too small for you, come closer. There's lots of beanbags. Hey, GrapheneOS. Looks pretty normal. Right? That's the point. So the point is like this demo is actually kind of silly because I'm trying to show you that this is like a normal phone with apps. Right? What's different here specifically is that I have
+
+[50:38] all open source apps. So some of those icons you might not recognize except for that one Spotify one. Just can't I can't ditch Spotify. I've been able to ditch everything else, but not Spotify. But the look and feel is absolutely what you would expect from Android because surprise, surprise, it is Android. But what I can do, and I'm not sure if this is actually gonna screw up the I'm not sure if this is gonna screw up the HDMI connection. It might.
+
+[51:02] But I'm gonna show you the onboarding real quick. Nice. So this is basically if you have a fresh install of the phone. Right? You would open it up, and it would say, welcome to Graphene West. I guess usually that would say, welcome to Google, whatever. And
+
+[51:26] as you can see, it's asking you actually the same things that the Google install process has. Of course, don't want location services enabled. Set a PIN, we're gonna skip that for now, but never never skip that in real life. We're not gonna restore apps and data. We're all done. Usually, there would also be a Wi Fi toggle, but because this is a so called user profile, it's skipping that step. And we're in. And this is vanilla
+
+[51:48] Graphene OS. Right? And again, I'm just trying to show you that this is not for hackers. Right? Like the process we just went through together, anyone can do, and I have seen like mothers, people in their fifties do this. Okay? Now what you can do is if you decide, oh, I don't want to use one of these so the way I get my apps is I have this cool
+
+[52:11] app called Optaneum, which allows me to put in the GitHub link, which will get the APK for an app. And then it basically automates getting those also when they're updated. But there are other app stores like Aurora, F Droid, which allow you to get different types of apps. Unlock real quick. Here we go.
+
+[52:34] But if that's too customized for you, the way to get Google Play Store is well, look at that. They have a little app store here. So we open up the app store. What do we have in here? Lots of different stuff. Usually there's icons. Maybe there here we go. And at the bottom there, you have Android Auto and Google Play Store. And it really is as simple as Google Play Store, install.
+
+[53:00] And now this is gonna take a while. So that did not take a while. That was super quick. And so I'm going through the process of basically getting confirmation when I want to install these things. And I will. This might take a while then. So I'm going to really quickly move into a different profile where I've already installed it.
+
+[53:25] But again, you're not going be terribly surprised by what you see because now you see at the bottom there is the Play Store icon. And you click on that and you sign in with your Google account. And then you would immediately have access to everything that you ordinarily have in the Google Play Store. So missing permission. That's good. That's basically Graphing West trying to keep you safe a little bit. Yes, still trying to keep you safe.
+
+[53:49] But so hopefully now you can basically see that, again, this is incredibly intuitive in a way that's like, of course, all smartphones are. That's why they're so successful and being adopted by everyone. So if you have any hesitancy when it comes to trying to, I guess, reject the statement that you cannot have privacy if you have a smartphone,
+
+[54:13] then I hope I've just convinced you that you do have a very clear answer. And again, if you are already an Android user, your switching cost or your switching shock, let's call it, will be minimal. If you are an iPhone user, your switching shock will be limited to, I guess, seeing Android and the way that it's different from iOS. And so if you have other questions, feel free to find me. I'm here until
+
+[54:37] I guess I won't say it on the thing. I'm here for now. I'm very happy to show you more stuff on my phone, answer more questions. And if you don't ask me, I will probably shill it to you within five minutes. So, yeah. Thank you. And I think we have a question here. Yeah.
+
+[55:11] So I'm a big fan of sandboxing. So I've I've said the word sandboxing a bunch of times. I've I've been doing these privacy sessions. Sandboxing, sorry, not sandboxing, compartmentalization. Compartmentalization is basically the way that you can restrict your your sensitive information from just like being out there. Right? And compartmentalization
+
+[55:34] can be as simple as, having a work email account. Right? If you have to use Google Docs, for example, because your coworkers are using it, then you could create a Google account specifically for that. Right? And not also use it for all your personal stuff because then, you know, they're collecting both your personal and your work information and building a massive profile on you. So yeah, compartmentalization
+
+[56:00] to me is like one of the tricks to be able to like navigate like a normal person in this world while still limiting the amount that you can be profiled. And so long way of saying, why profiles? Well, because they help me with this. Right? But it could also be for security reasons. Right? And so one of the profiles that I have is for APKs. And so I mentioned that some of the ways that I get apps
+
+[56:24] are from directly from the GitHub repos, which I consider to be pretty safe. But every once in a while, there is an app that I need that is not on GitHub. For example, a banking app. Right? Like Wise or Revolut or these kind of things. And so since I refuse to install Google Play services, I will instead get that APK from a website,
+
+[56:47] and I will install it in a specific profile where if I screwed something up, it's not gonna contaminate the rest of my my system. And so it's kind of like sandbox and isolated in that way. But, yeah, you could have so you could imagine that you have a profile specifically for Google Play services where you wanna have apps like Uber, for example, if you don't wanna run Uber in a in a the web browser, which you can, and it works perfectly, by the way. So uninstall Uber at your earliest convenience.
+
+[57:16] And yeah. So yeah. It basically allows you to to to customize your compartmentalization and introduce more sandboxing if you would want to. What are all the red lines? So the first one here is Google Play compatible.
+
+[57:41] Google Play? No. Google Pay. That makes more sense. Yeah. So Google Pay is like the, I guess, using your phone for contactless payments. Yeah. It's not supported right now natively on GrapheneOS. But as is written there, that is something that's blocked by Google. There is one other app whose name escapes me because I live that cash only life in terms of payments. But there is one other app right now that apparently does work for contactless payments.
+
+[58:10] But, you know, I can't speak to it because I feel like introducing an intermediary in something that is already very sensitive like your banking is just a recipe for disaster. So, yeah, that's one thing. What does it say here? Factory reset protection for stolen devices, no. Whereas Android has yes, but requires a Google login. And so I think this is like, you know, the fact that you log in with your Google account normally,
+
+[58:34] and then you can remotely access that device and all the admin, the god powers that you have remotely from your device. Why is that available to you? Well, because Google themselves have it. Right? That doesn't exist on GrapheneOS. But you could install an app that emulates those features. Just bear in mind the security implications of such. What does it say here? Parental controls, no.
+
+[58:59] That is in their road map. I know the GrapheneOS team is working on parental controls. Option to enable screenshots in all apps? No. This is a privacy feature. You can selectively allow it or not. What else? Any other reds? There must be. Here's a red. Can auto disable NFC if unused? Right. So there's toggles to basically automatically disconnect Wi Fi Bluetooth
+
+[59:24] for some reason, not for NFC. But I'm sure there's either a technical reason for that or something that they're working on. And then the last one is supported devices. Well, we've already covered this. The one supported device, unfortunately or fortunately, depending on how you look on it is Google. Everything else, no bueno. Only works with Google Pixel. Pretty cool, right? But this might also be a little bit biased. This wasn't done by a GrapheneOS developer,
+
+[59:48] but it was done by someone who clearly believes as much as I do in GrapheneOS. But make your own decision. Have a look at it. And yeah, I guess let me know if you think it is fair or not. Yeah. If they did that, yeah, that would be awful.
+
+[01:00:16] So Android AOSP at its core is open source. Always has been. It's how Google acquired it, Android. And they've been building their services on top. If Google were to close source Android, it would probably be the death of GrapheneOS,
+
+[01:00:39] except for the fact that the beauty of open source is that you can fork it and maintain it yourself. However, think about how much staff Google has to basically update Android based on security issues and react to those quickly. This is not something that the GrapheneOS team could take on. They would need to have hundreds of employees to basically take over that kind of job.
+
+[01:01:05] So it is possible that Android could be forked, an open source version of it. But it would be touch and go, if not catastrophic for the project, yes. So support open source software wherever you can. Now I'm probably not so good on time anymore. Right? Is it time for me to Yeah. It's good. You're good. This is good. Is there one question or are you basically at time? Looks like we're are you are you stretching? Are you?
+
+[01:01:51] Yeah. It's all possible. It's all possible. So GrapheneOS is fortunate enough to have a really good reputation to people who know security. Google would hire all these engineers in a heartbeat. It has a really, really good reputation. It is getting inbound requests like you wouldn't believe from companies that serve the military,
+
+[01:02:19] businesses that have high security needs like hospitals and whatnot, governments. It has inbound requests that would shock you. But GrapheneOS is a bunch of engineers. They don't have a BD team, and so they handle these things like a bunch of engineers would. And so things are slow. But the point I'm trying to make is that GrapheneOS has the ability to one day offer more devices because it's possible that another OEM, a phone manufacturer,
+
+[01:02:48] could build devices specifically for GrapheneOS. And that would be a dream, but it's not the short term and probably not the medium term, but it's possible and discussions are happening. Thank you very much. Thank you, Cheeky. That was great. And then as, Damir and Sebastian come up, just wanted to to give a shout out to the iOS users and say there's something called lockdown mode, where if you're going into an especially sensitive situation,
+
+[01:03:24] it will disable some kind of niceties, you know, like like, previews of websites when someone sends you a link over iMessage or something like that. So it will kind of restrict kind of slightly nice features that are potent in order to shrink the attack surface of the phone so it's much harder to hack into your phone and things like that. So, yeah, lockdown mode. Just wanted to want the iOS people not feel too left out with this Android
+
+[01:03:47] Graphene OS best. Good.
+
+[01:04:15] Thank you. Hello, everyone. Thank you first for inviting us here. It's weirdly our first session of this type with actual cipherpunks. But we've been cipherpunks since 2020 where we founded the company. Actually, we started research in 2017 and we only founded our company in 2020.
+
+[01:04:37] So I'm gonna tell you a bit more about us. We are Massa. Sorry. There's a thingy here to climb on, I guess. Okay. I'm a bit small, so it's it's better. Okay. We started working on this project in 2017. Back then, it was mostly Bitcoin and Ethereum around,
+
+[01:05:00] and we really like the fact that Bitcoin and Ethereum were designed to be highly decentralized. There was no central authority. We could get away with the banks. But the issue was that they were, very slow. Bitcoin achieves about 10 transactions per second. It's quite slow. It doesn't allow for many other features than payments. So we thought it could be interesting to go a bit further and to create something that goes a bit faster, but that retains these properties of being highly decentralized.
+
+[01:05:28] So we started working in 2017. We had jobs, and in the evenings, weekends, we were working on this project. We were trying to create first a consensus algorithm that goes much faster, but that does not sacrifice decentralization. So in about 2020, we had something working. And by then, many other blockchains appeared on the market, and they all did exactly what we did not want to do. They completely sacrificed decentralization
+
+[01:05:53] to achieve very high throughputs, very high decentral very high can you hear better now? Okay. Very high throughputs and very slow confirmation times. So, yep. Thank you. I feel tall now. Okay. So we worked on this between 2017 and 2020.
+
+[01:06:19] In 2020, we were happy because we finally had a theoretical paper explaining a new kind of consensus algorithm that achieves very high decentralization and about a few thousand transactions per second in the network. We're very proud of this, but we did not want it to just remain a scientific paper. We wanted to make it a reality. So in 2020, we founded Masa Labs, which is the company I'm leading today.
+
+[01:06:43] And, since 2020, we've been operating to build this blockchain from scratch. And this blockchain is now in main net. It's called Massa. It actually functions in production. It's been audited. It operate it's it has already settled about a billion transactions nowadays. It runs at about a few thousand transactions per second, two blocks per second,
+
+[01:07:06] and it allows for some very cool stuff. First of all, any of you can just become a node, an active node of this network for less than a dollar equivalent of, stake in terms of coins and also, with very low hardware. Your laptop can be your node. So that's why we have many nodes and it mostly nodes run by people at home on small computers and that's really cool because that's the true spirit of decentralization.
+
+[01:07:32] So today, we have nodes all around the world. Out there's like about a thousand nodes. And out of this thousand nodes, we only run eight. So if tomorrow we disappears we disappear, the whole network still continues. And the cool thing about this network is that we have added two very cool features that are usually absent from other blockchains. One is we allow the smart contracts, so the programs running on the blockchain,
+
+[01:07:56] to evolve by themselves over time, to register calls for the future. So for example, they can say a smart contract on mass, I can say in five hours, I wanna call that function. This is not possible on other blockchains. And the way it is achieved usually is that, let's say on Ethereum, all the dApps almost depend on that stuff and yet the way they achieve it is that they pay some external service. Usually it's Chainlink automation or Gelato.
+
+[01:08:21] They pay this external service, they give them the private keys and these services call the smart contract on a regular basis to refresh it. That's literally how, it operates now. So this is something we have sold in Massa. Smart contracts are autonomous. So we get away with these central authorities that do these periodic calls. And the other point of centralization we found was websites.
+
+[01:08:46] What people call decentralized apps usually, it's nothing less than a smart contract that's on the blockchain. So the smart contract itself is quite decentralized, but the app itself is accessed by users through a website. And this website is usually just hosted on AWS. So, when a website gets hacked, corrupted, down, the app is either down or maybe even redirects people to the wrong smart contracts.
+
+[01:09:12] And that's how most of the funds in web three are stolen through literally front end hacks. It's kind of horrible. And we thought, okay, maybe we can find a solution to this. And our solution was why not host the websites the same way we host smart contracts? Exactly the same way. So the websites in Massa are fully replicated, fully copied on all the nodes of the network.
+
+[01:09:36] So this has negative consequences which is that it limits the amount you can store, obviously. But it's, cool because if you need something that's very sensitive like a front end to access some sensitive information, that's how you want to store it. You want to store it the same way the smart contract is stored. So that's what we built and you can already use it on the web.master network or on master.net you can find all the information.
+
+[01:10:00] Actually, the the website is hosted on the decentralized web, so the documentation is itself hosted on it. Anybody can become a proxy for testing so that people who don't want to install anything special can access it easily. But if you're in a country that blocks all the access points, you can always install a local proxy program that acts a bit like the Tor proxy. And from there, you can access it.
+
+[01:10:25] So feel free to try it out. That's something we have built and it costs essentially 0 to host a website there. Actually, to be precise, locking one byte of data on the network requires you to lock zero point zero point zero zero zero one MASA tokens. But if you free the space, you get the tokens back. It's just a way to prevent floods and filling up.
+
+[01:10:49] So that's the way it works. Feel free to try. Feel free to become a node. It's very cheap, very easy. And feel free to host your websites on the Massa d web. It's almost free and you get your money back if you remove it. And the interesting thing is that if you decide to create a smart website that you can update, you can always update it, but you can also decide to not make it updatable anymore ever, to make it immutable,
+
+[01:11:16] in which case you will lose control over it. You will never recover your coins. But the cool thing is that everybody will have the guarantee that this website will be there forever and nobody can take it down, not even us. So that's kind of the powerful aspect there. We're using the blockchain for what it's really good storing decentralized information, fully replicated and having this kind of economic incentive for the node runners to do it. So feel free to check it out. And if you have questions in the end, we can we can run through it.
+
+[01:11:45] But today, I wanted to enter into a bit more of a new venture we're starting on top of this blockchain, and I'll tell you why it makes sense. It's always around freedom of speech. And to be precise, it's about chats, how you communicate, how you, send messages through telegram signal, etcetera. The problem with, let's say, signal is that first,
+
+[01:12:09] as we heard before, it uses centralized infrastructure. So when Amazon went down, as you can see on the right, signal went down. As for telegram, well, it's not really decentralized. It requires a central server as well. And all of these apps, all of them, signal included leak metadata.
+
+[01:12:32] So the signal server knows which phone number is talking to which phone number. That's a not encrypted data. And on the top left right here, you have a literally the former CA director, proudly saying that, they kill people based on metadata. So I hope that won't be you. And for this to not be you, we need to somehow figure out a way to encrypt metadata.
+
+[01:12:56] On the bottom left here, you can see also that because all these services rely on central servers, many countries just decide to block these servers and the service is not available. Or you have to actually install some some things on the top to circumvent censorship. So we're trying to solve all of this. Of course, we just started working on this, so be patient with us. It's the very first iteration.
+
+[01:13:20] We're trying to create a new app for messaging that gets away with all these problems. First of all, here's a little comparison. We want to have end to end encryption, which means that the message is encrypted on my side before it leaves my device. And when you my contact receive my message, that's when you can decrypt it. And nobody in the middle can decrypt it. You might be surprised or not to discover that Instagram does not have end to end encryption, so they have all your messages.
+
+[01:13:48] But what's more surprising to some is that by default, Telegram does not encrypt end to end. By default, the Telegram servers know all your messages. You need to actually opt in and it's a bit of a hidden option to have, encrypted messages. Signal does have, end to end encryption by default and it happens that WhatsApp uses the library the signal has created, LibSignal,
+
+[01:14:16] for encryption. So by default on WhatsApp, it's also end to end encrypted, but WhatsApp has other ways to leak your information. Don't worry. Then in terms of phone numbers, if you look closely, you realize that on Telegram, they just added this paid option that allows you to not have a phone number. But on WhatsApp and Signal, you need to you need to log in with your phone number initially.
+
+[01:14:40] And that for us is a bit of a privacy problem because in many countries, it's becoming harder and harder to not get to get the phone number without going through a KYC process. And then decentralized back ends. I was telling you that all the services rely on central servers. That's something we want to get rid of. And finally, the sealed metadata. Remember, they kill people using this. We don't want that.
+
+[01:15:05] So how do we solve these problems? Well, there's lot of arrows. Forget about the arrows. But the idea is that first, we want to log in without a phone number. That's something we want. Second, we want the app to be available. Even if the app is censored on app stores, we still will provide a PWA, progressive web app, for people to just be able to load directly from Massa's decentralized web that I mentioned before,
+
+[01:15:31] and it's gonna stay up forever. Even if we disappear, it's gonna still be up. So you can still use the app. Then we don't want the back end at all because the back end usually means a central server. We want peer to peer gossiping only. So, we want this app to rely on Massa, but not on the blockchain itself, but only on the gossip layer of the blockchain because blockchains are very good at something. It's also
+
+[01:15:57] like propagating information inside the network. That's how transactions in the blockchain propagate. Here, we will be using Massa's propagation layer among all these nodes that are already there, and we're gonna be piggybacking on this not on the blockchain because as Steve said, it doesn't make sense to use the blockchain for that, but it makes sense to share this network layer with the blockchain for propagation. Then we
+
+[01:16:21] have post quantum double ratchet, which means that even if your keys are leaked tomorrow, nobody can read the messages that you have sent in the past. It also means that if somebody compromises your device today, they cannot read your future messages if you change device. It goes both ways. So that's something that's quite powerful and it works even against quantum computers the way we built it. Then there's something really cool. It's plausible deniability,
+
+[01:16:46] which means that if I have a conversation with one of you guys and somehow you are not trustworthy, and you decide to publish our conversation publicly or to the police or to the government or whatever, I can plausibly deny I ever sent any of the messages because for every one of the messages, the keys are gonna rotate and every time both of us are gonna have the private key.
+
+[01:17:10] So you could have forged everything, and I could plausibly deny that I ever wrote any of the messages you published. That's something we built on purpose. Then these are the baseline. These are the base things that we built. On top, this has many consequences. First of all, it means that no outsider can know who is talking to whom. That's not the case with signal. That's not the case with telegram.
+
+[01:17:33] Nobody can stop the system. Even us, if we disappear, it's still gonna run, and that's really cool. It's resistant to classical and quantum computers. That's nice. Nobody can see the content of your messages. That's that's kind of the base. And leaked conversations are not incriminating. And that's also something we're trying to build on and to achieve because it's important according to us.
+
+[01:17:56] And the consequences of this are privacy, censorship resistance, resilience, and safety. And these are the pillars of what we're building here. So just without entering into the details, I'm not gonna explain how this works, but we can discuss it later if you have questions. The idea is first, when you log in, you log in through a passphrase or through, you generate an account that's temporary on your device. You can, of course, back it up later,
+
+[01:18:23] but it doesn't require a phone number. You log in to a passphrase or to biometrics, and the idea is that, it derives all kinds of keys from this login, secret public keys that are static to you and the hash of all these public keys is your user ID. It's kind of your unique identifier and if tomorrow you wanna change ID, you can. You just drop this and you create a new one. But this is how people identify you in the network. It's a pseudonym that you have in the network.
+
+[01:18:53] Then I mentioned before, we also ship a progressive web app. So for people who just don't want to use app stores at all or if they're censored, you can still use the PWA that's hosted on mass as DWeb. So it's still gonna be available. And here's how the back end propagation works. So we have the Massas network that already exists and that's operating with about a thousand nodes around the world, people running computers at home.
+
+[01:19:18] And it happens that we're gonna piggyback this propagation directly on Massa's gossip layer. So not the blockchain layer, but just the network layer of it. And the nodes are gonna receive when user one wants to send, let's say, a message to user two, user one is gonna encrypt the message, send it to the nodes. The nodes are gonna propagate it the same way transactions propagate in the Bitcoin network, for example.
+
+[01:19:41] And very soon, user two will be able to read it from another node. This means that as long as user one and user two don't use the same node, it has the same, almost the same properties as TOR in the sense that you have a multi hop network here. I could almost say that you don't need TOR. The only reason why you would need Tor in this case is if you don't want anybody to know that you're using this service.
+
+[01:20:11] But then they would know that you're using Tor. So it's kind of a bit of a cat and mouse game, but here, technically, you don't need a Tor layer as the base. This works without Tor. And where are we where are we at right now? So we have built all the cryptography, double ratchet, quantum, everything. Feel free to take a look. Everything is open source. We'll share the links.
+
+[01:20:35] We have also a paper that describes all the tech that's behind it. We have tested everything, but we have not got it audited nor formally proven yet. So just be careful. Don't use it for very advanced stuff for now. We'll tell you when it's ready. We're finalizing the very first version of the user interface and I'm gonna show you a little demo of it. So
+
+[01:20:58] there's not much to say except that we want it to be as transparent as possible. I want it to operate exactly like signal or telegram to be as easy to use. So here, for example, I just have a small conversation with Sebastian who is there. And on his phone, yeah, come here. On his yeah, I need sorry. Let me connect to WiFi. Which one is it? This one? Okay. So Sebastian is there and on his phone, he also has a session. And now we have just
+
+[01:21:28] exchanged contacts and we have a little session here. So how are you? And it operates exactly like a normal chat. It's fully transparent. The idea is to make it as easy to use as possible. Eventually, people should not even know that there's a double ratchet or post quantum stuff there. It should be smooth just as
+
+[01:21:52] any other chat. This is so private. Yeah. Thank you. So there's not not much to say here except that for now, we don't have many features. For now, it's just a chat. We're going to be adding features on top of it. In the road map, the goal is to ease the exchange of contacts because for now, the it's post quantum, so the public keys are huge. They're 10 kilobytes. So we're trying to create some kind of on chain
+
+[01:22:18] storage for a temporary storage for the keys so you can be identified just by a simple username. And from there, we can exchange contacts with just like a QR code. That's cool. We're adding features such as stuff like, let's say, file transfers that that's gonna come a bit later, and all the features that you use to on this kind of systems. We're still trying to find how to figure out video calls. That's something that's tricky,
+
+[01:22:46] especially in this kind of context. I'm eager to hear any of your ideas on how to achieve video calls. It's it's complicated. We're looking into it and we're taking any ideas here. But for now, you have this post quantum double ratchet post compromised secure chat that already works. Yeah. So that's that's about it.
+
+[01:23:09] So if I get back to my thing here. Feel free to check it out. All the source code is available, of course. We always do that on masalabs./gossip if you want to take a look how it's implemented. The website is usegossip.com.
+
+[01:23:33] Actually, this is just a front end. It's gonna redirect you to the Massas decentralized web hosted one. There you will find all the information you want, the scientific paper, all the data on how it works, the roadmap, where we're at. You can follow our socials. Feel free to check it out. Follow us. Ask us questions. Challenge us if you see something that seems wrong because we're not perfect. We're make mistakes.
+
+[01:23:59] And if you want to know more about Massa as well, feel free to become a node. It's very cheap and available. Feel free to host your websites, as mirrors on the decentralized web, super cheap and super reliable. Feel free to check it out. It's already in production. So, yeah, that's that's about it. If you have any questions, feel free to to reach out.
+
+[01:24:35] Okay. So what is metadata? Metadata, it says typically who's talking to whom. Because we are lucky enough to have this gossip network here, we don't need any kind of routing because everything is propagated to everyone. And only the right person, the person that retrieves the data needs to know the key where it's gonna check it out of the system.
+
+[01:24:59] In signal, the routing is a bit different. It's based on some IDs that are also linked to your phone number. The metadata part of signal in the Libra in the signal library, which means who's talking to whom, which ID is sending a message to which ID is not encrypted. Signal knows which ID is sending to which ID. So, it's it can be seen as not an issue because the content of the message is still encrypted.
+
+[01:25:26] But for us, it was already too much because they know which phone number sends how much data at what exact date, to what other phone number. And this is not great according to us. Yes. So here's the thing.
+
+[01:26:33] Of course, you could run your own node, then you have all the data, and then nobody knows what you're actually looking at because you have it all in a way. But here, if you look closely, user one is talking to the node at the top. The data propagates everywhere, and user two queries another node. So this node on the top just knows that user one has sent
+
+[01:26:56] some kind of encrypted data. That's all it knows. And user the node here at the bottom knows where user two has queried some encrypted data at which data store key basically because user two doesn't want to receive all the data from everyone. They just want to carry the messages that are for them. So they're gonna query them for this node at the bottom. So this node at the bottom will know that
+
+[01:27:20] this IP address that's connected to them has queried this ciphertext. That's that's what it's gonna know. But so if the node on the top that user one talks to colludes with the node at the bottom, It's the same situation as if your Tor network hops collude together. If your entry guard and your exit node collude together, you have exactly the same issue. So we inherit of this same problem. But if you want extra privacy, nothing prevents you from adding
+
+[01:27:51] TOR layer here. And then nobody will even not even these nodes will know. And actually, Steve has been working on easily embedding TOR, so we might discuss to see if we can do that. That would be really cool to use your library. Yeah. Yeah. Go for it. So
+
+[01:28:33] I don't have the full expertise on each one of them. I we've run market study before we started working on this, and we have observed that there's there's always one thing missing. Typically, it's either the metadata is not sealed because they're just using MLS or they're using a signal library or something like this. Matrix also doesn't encrypt metadata by default. So if you use any of this library, you inherit of this issue already.
+
+[01:28:57] Then another issue is that some of them don't use a decentralized back end. They use the federated back end. For us, that's quite a difference. I think both are very good in different ways, but we happen to be lucky enough to have a decentralized network already that's operating with Maasa. So we thought that might as well go all the way with privacy and censorship resistance.
+
+[01:29:23] And instead of having something like Mastodon, let's say, that has a federated network, here we have a decentralized network like Bitcoin. Yes? Well, if there if if the gossip network
+
+[01:29:50] okay. I'm gonna answer in two parts here. First, the gossip network, the way it's designed, if you look at the source code, it's gonna it's gonna be quite evident. It does not assume much about the underlying gossip network. As long as it data is gossip, it's it's enough. So you can tomorrow plug a transport that's based on Bluetooth mesh or on other kind of things and it's gonna be
+
+[01:30:14] just working out of the box. We just need a glue on it. It doesn't assume almost anything about the underlying transport. So that's one thing. So it can scale very easily beyond the Massa network. Massa network is just one way to one way to have some nodes already available for gossiping. So now on Massa, we have about thousand nodes, maybe more because we cannot measure them all. They don't don't have all the ports open. They only connect locally. We don't have the full site of the whole network.
+
+[01:30:46] Now is that enough? I would say it's cool. If we have more nodes, it's better. If we have tens of thousands around the world, it's better, of course. But this network already exists. It's already a thousand nodes in and in many conflict zones like Russia and Ukraine, for example, we have nodes on both sides. And this is very precious. Actually, some people are already using the Massa network to escape censorship for for publishing and for chat front ends.
+
+[01:31:13] So I would say, when would it be a real success in terms of scalability? It's it's already scalable. It already can achieve quite a bit of throughput and it can already reach the whole world using this network. But the more there is, the better. The more usage there is, the more your traffic will be hidden because if there's only a few people, there's time correlations that can happen.
+
+[01:31:39] You can see that whenever I send the message, you end up reading a message afterwards. It's gonna kind of be obvious that, you know, it's us. And it's nice if there's a critical mass of people using this system. So for us, it's not that much the number of nodes. That's already pretty good. We would like more users on the system.
+
+[01:32:03] Yes? Actually, we are thinking about okay. There's two things here. One is we need a way to incentivize the node runners on the one hand, and this is already done by Massa, actually, the same way as other blockchains. It's the same principles. So there's incentive to run nodes. That's one thing. Second thing,
+
+[01:32:27] for people who want more power, it would be nice that they they use actually the DWeb to store stuff, all the messages, etcetera, instead of just gossiping it. That's one possibility that's gonna create demand for the token. That's gonna create value in our case. That's an incentive. But our main core thing here is to do a bit like telegram or signal did so that the base system remains free and accessible to everyone. We cannot have something that
+
+[01:32:53] accepts accepts people to pay. It's not gonna work. But if people want extra features, they could be able to to pay for them that and we would like them to pay not through the basic credit card, but through this stuff there, wallets directly in the app. So that's something that's being built right now, and our goal is to use the master network
+
+[01:33:20] to sustain stablecoins on Bitcoin, Ethereum. They already bridged. They're already available. So this wallet actually already works. And the goal would be to use these wallets to pay for some extra features that you might want. For example, if you want extra VPN services on top of it, if you want, I don't know, extra stickers or whatever Telegram
+
+[01:33:42] provides already as extra paid services, we would do approximately the same. And of course, we also have the signal model. If you guys are willing to help us in any way to grow this thing, for example, by contacting people who actually need these kind of features, this kind of privacy for their work, their daily lives, for their survival maybe. We're very eager to talk to them and to make sure that we integrate all the features they need now while it's still in development.
+
+[01:34:11] It's very easy to to do it. That's one thing. Second, if we enter into a model like signal, signal live off donations as well. Donations are also an option for us. Feel free to contact us if you wanna help. But the financial model on which the company runs right now is actually quite interesting. We have all these developers that have developed the blockchain. And what they're doing now is that we're working for other companies,
+
+[01:34:36] for Polygon, for StarkNet, for Maiden, and a few others. We build their systems in exchange of money. And this money doesn't make profits for our company. It's fully reinvested in the construction of these kind of things, which makes our company self sustained. We we have like more than 10 developers working full time and it's working and it's self sustained. We don't make profits, but
+
+[01:35:00] it's it's working already. And I think it's quite healthy. That's kind of the idea. Yep. That's something I would like to explore because for now, we have not voluntarily not
+
+[01:35:27] pinned any kind of assumptions on the underlying network. So if tomorrow we want to plug a reticulum transport, we should be able to. And I would like to discuss with anybody eager to explore this this side. I I know you you guys are. I don't know who was first. So if you user that's not running a node. Right? Right.
+
+[01:35:57] So right now, by default, you can connect to the nodes we provide. But if you don't trust them, you can set change the settings and aim for your own node. In the future, what we want is automatic node discovery with civil resistance. The problem with that with node discovery is that it's the case for everything. Let's say you install onion routers like Tor. You install Bitcoin. You install anything. The software already comes prepackaged with a list of first IP addresses that your system needs to know to connect to. You need to trust these guys.
+
+[01:36:30] If they're all corrupted, it's not it's gonna bring you to a different network. It's gonna I mean, here is still encrypted end to end, so they will not know what you're doing, but you will you will not connect to the right network. So that's a fundamental issue to who you connect. So the smart thing to do is to say, okay. You already trust these people you download the software from, and you already trust the list of nodes they put there because you have to connect somewhere initially.
+
+[01:36:58] So might as well connect to them as a first iteration. So we provide these nodes, but we also provide all the facilities for you to discover other nodes and to connect to them if you prefer. In the case of Gossip, we made sure that the system does not trust the nodes. In many of the apps, people trust the RPC and that's that's terrible.
+
+[01:37:21] Here, we don't trust the nodes. You can verify all the data if you if the data that's provided is lacking or if it's corrupted, you'll detect it and you'll be able to change nodes. So this is still in development, the automatic node switching. Yeah.
+
+[01:37:56] Yeah. You also need civil resistance because even if you don't know node discovery and somehow an attacker decides to create 1,000,000,000 nodes, suddenly, the likelihood of you randomly picking only his IP addresses becomes 100%. So this is true for Tor as well, by the way, guys. Be careful. Oh, and I I do have one last call is since we do contracting work to finance all these things, even if you cannot donate or help in any ways, and if you have contacts who need software development, advanced software development, we do ZK development, stuff like this, contact us. You get 10%.
+
+[01:38:37] We get the rest, and it's invested in this kind of stuff. We don't make profits. Yeah. We do a lot of Rust development. For example, we are, the main maintainers of StarkNet's,
+
+[01:39:01] core state machine, which is the Bonsai tree. We also are the maintainers of Maiden's, AirScript compiler, which is the compiler for stark arithmetic constraints for ZK proofs. That's the kind of stuff we do. We'll we'll we'll make a terrible website, but we will make an amazing ZK compiler. Thank you, guys.
+
+[01:40:35] Alright. The last few weeks, I've been touching up and finishing up my own implementation of a privacy protocol called ZK Wormals. So first question out there, who thinks I'm talking about a bridging solution? So there is this other project held out out there, the Wormhole Bridge.
+
+[01:41:01] This is not related at all to that. Just forget about bridges today. I'm here gonna talk about a privacy protocols called CK Wormholes, and this is to enable plausible deniability for privacy on Ethereum. Yeah. And also the meme privacy is good, but plausible deniability is better. So why why plausible deniability and what even is it? So here you can see, jimjim.eth,
+
+[01:41:31] a transaction I made, was depositing some ETH into Tornado cache. And I have personally experienced a lot of UIs didn't like this, especially during the OFAC sanctions era. So for those who are not familiar with Tornado cache, I guess that's a good question to ask. Who who knows what Tornado cache is?
+
+[01:41:55] Okay. That's pretty good. I'll keep it brief. Tornado Cache is one of the first privacy protocols built on Ethereum and ended up being used by North Korea. And because of that, the US government has sanctioned the contract address of Tornado Cache. A lot of user interfaces in DeFi responded by,
+
+[01:42:19] responded to this by blocking users who has used Tornado Cash before. This transaction was before the sanctions. Even then, I was still blocked from using the maker maker DAO UI to have a leveraged loan. And, of course, ETH was crashing. I was blocked from the UI, and I had to panic email people to get my,
+
+[01:42:45] address unblocked. Eventually, I got unblocked and saved my loan, which is really good. But, yeah, it was a very painful experience. But, yeah, if you're going from the public account on Ethereum to private, that transaction is visible to everyone. Everyone sees Jim Jim Noddyff deposits into Chain of Cash, and that's not great. But with plausible deniability,
+
+[01:43:11] such transaction will look like any other transaction. So it just looks like I'm sending tokens or ETH to a new address, and then no one knows what happened there. And this is what plausible plausible deniability is. You're able to say to anyone who asks, what is that address? You'll just answer with, oh, it's just a new address I made. And
+
+[01:43:36] you could even say, I lost a private key or I just have not made a transaction on it yet. Yeah. And how do we do that? So Zika Wormoz achieves this plausible deniability by basically burning the money, which is kind of crazy to think about. But,
+
+[01:43:59] the idea is, of the original, EIP, who Keevan made, which is not me, but someone else made. The original idea is to instead of having a private public key pair like on Ethereum, you just make your address a hash of a secret. And this is the incorrect way to make an address. Right? So So if you send money to
+
+[01:44:25] a incorrect billed address, it's gone. But the EIP proposes that if you do it in this specific way, you are able to prove that you know that secret. And if you know that secret, you're able to recover those funds, mint them again into a new address, and therefore having broken the link between your public address and the new private address.
+
+[01:44:54] Yes. And here you can see a little bit of the code to do that. You hash something. You slice the bytes to become the length of 20 because that's what the Ethereum address is, and then it looks like any other Ethereum address. Yeah. And now I wanna talk about the anonymity set. So you have plausible plausible
+
+[01:45:16] deniability, which is really great, but are other things about the anonymity set which is better. First of all, who here is familiar with the term anonymity set? Alright. So I assume all of you guys know. So in TornadoCache, the anonymity set is everyone who deposits into TornadoCache. And whenever someone withdraws to a new address,
+
+[01:45:39] that could have been anyone who deposited. But in Zika Warmos, it's anyone who has sent money to a burn address. And that is kind of interesting because you don't know if it's a burn address. On on chain, it just looks like Jim Jim. If sends you this address no one has ever seen before, and the funds will just kind of stay in there because remember, I I burned my funds. I do not have a private key of my address. It's a hash of a secret,
+
+[01:46:08] not a public private key pair. So, yeah, like, a burn address could also be a cold storage wallet because on chain, on Etherscan, what the chain analysis people will see is an address that never made a transaction. And this looks exactly the same as, let's say, a cold storage wallet that Coinbase makes. And Coinbase is never gonna do some privacy stuff. They don't need to. They don't want to. Maybe they do, but likely not. Right? They don't need to interact with privacy,
+
+[01:46:41] yet they're contributing to the anonymity set, yet they're may bootstrapping the anonymity set of this protocol, which I think is really, really cool. So what what what is it that I have been doing? I basically, use this idea as inspiration and have made a new version of this protocol that's has some better features.
+
+[01:47:06] So first of all, the original I EIP is for Ethereum, the base layer of Ethereum, and it's gonna take a while to get it in there because zero knowledge proofs are really scary. And if something goes wrong, it goes really wrong. So I've made it as an ERC 20 because we need this on the base layer, but as a a on the application layer as a contract, as a token as well.
+
+[01:47:33] No hardware wallet support. So if you remember, it's a a hash of a secret, and the secret is an input to the zero knowledge proof. So a hardware wallet would need to make a zero knowledge proof, and that's not reasonable. And this is one of the biggest pain points I identified. The burn addresses are not reusable. So if you burn a bunch of money and then spend it,
+
+[01:47:57] you cannot use it again. If you use use it again, your money is actually gone, and that really sucks. And it uses the, state tree of Ethereum, which is very slow to verify, in a inside a zero knowledge proof. So how did I improve that? It's on the application layer, but, of course, we can also do it on a base layer and we should.
+
+[01:48:21] The addresses are reusable. So I did an interesting trick here. So on the previous slide, this the original EIP would create a nullifier. And a nullifier what a nullifier is is a bit esoteric to explain, but the simplest way of explaining it, which way I would explain it is it's kind of like a deterministic
+
+[01:48:44] identifier that will always be created whenever you try to make a withdraw inside the zero knowledge proof. So here, the nullifier is the number one and a secret, and the secret is the same secret you use to generate your address. So if you wanna withdraw, you need to prove my secret
+
+[01:49:09] results to a burn address. That burn address has this much money. I'm now able to spend this much money, and the nullifier will be a secret and a number one hash together. And this will be the identifier that will always be emitted once you try to withdraw. If you try to withdraw again, there's no good way there's no way at all to create a nullifier that's different.
+
+[01:49:38] But, yeah, this nullifier basically nullifies your entire address, so you cannot ever use that address again, which sucks. The way I tackle that is instead of having one place where the balance is stored, the burn address, and nullifying that entire thing, I split it up. First, in the zero knowledge proof, we look up how much money is burnt,
+
+[01:50:02] and then, we also track how much is spent, and then we look at the difference. And, that difference will be the amount you're actually allowed to spend. So the way I do that, I basically track a hash that contains a number called the account nonce, and this is,
+
+[01:50:26] basically, a number that goes from zero to iterates up to one, two, three, and four, whatever, how many times you spend something. The viewing key, that is just a number to blind it and then the amount of you have spent. And then the nullifier is just a a hash of that nonce and a viewing key to say, hey. At transaction
+
+[01:50:48] zero, we have spent 1 ETH. At the neck the next transaction, we spend 2 ETH in total, and the previous transaction hash will nullify that instead. So what happens is that you basically, in public on a burner address, you, track how much money you've received in your account. And then in inside
+
+[01:51:12] loosely connected hashes, a kind of a UTXO node type system, we track how much money is spent. And every previous UTXO, we nullify. So we end up nullifying our amounts we our total amounts we have spent in a previous transaction instead of in the entire address. Yeah.
+
+[01:51:38] You can ask me more questions about that if that did didn't make sense. And you're allowed to spark partial amounts, which is nice. Another point is hardware wallet support. Again, like, if you need to input the secret in your circuit, you end up needing your hardware wallet to generate the zero knowledge proof. And hardware wallets are small little USB c's USBs, they cannot generate zero knowledge proofs. So instead, I verify your signature.
+
+[01:52:09] Another improvement or maybe not is the in contract Merkle tree. So I create a Merkle tree that is far more ZK friendly and easier to prove inside the contract. But the only downside is this costs a lot of gas, but it's easier to prove and your phone can actually do it. Alright. I have some demo. How much time do we have left?
+
+[01:52:37] A few more minutes. A few more minutes. I'll I'll do the video. So here's a quick demo of it working. So here you see me minting some free tokens and generating my private wallet. And here, I'm gonna make a regular transfer to burn my tokens. And now you'll see a regular ERC 20 oh, this does not pause.
+
+[01:53:12] You would have seen a regular ERC 20 transfer happen. Right? So this doesn't do any ZK. We're just throwing money to an address that will never have a private key. Yeah. And now it's time to make our private transfer. So now we're gonna switch accounts,
+
+[01:53:36] take the address of that account, and we're gonna generate a proof. And this will ask me to create a signature. So this is blind signing, which is bad, but this message we're signing is a hash, of the amount and the recipient and some extra data. We'll sign that, and then the zero knowledge proof will verify that signature,
+
+[01:54:00] and then that proof will be used to spend these funds. This not I think this is not sped up. So it does take a little bit to generate this proof. And now we're gonna switch to the other account to relay that proof. So
+
+[01:54:24] the final version should have, like, a relayer that does this for you, but for now, we do it manually. And now we're gonna put the zero knowledge zero knowledge proof on chain. And here you can see, the from is no one. So this is an ERC twenty event,
+
+[01:54:47] and it just means tokens out of thin air. And here you can see in this wallet, I have burned 420 tokens. So if you go to this address on the Etherscan, you'll still you'll still see a balance of $404,120,
+
+[01:55:10] but we have already spent $6.09 tokens of these. So other people do not know how much, tokens this guy has spent. They only see how much they've this guy has received, and he's able to spend 351 tokens after this. Alright. Yeah. That was my presentation.
+
+[01:55:37] You can scan this link, for trying out the demo. Are there any questions? Alright. You in front. Yeah. That that that is true with basically every privacy protocol.
+
+[01:56:22] That yeah. So the cool thing about this, you could wrap it a fully shielded protocol on top and just use this kind of protocol as deposits. So, like, are you familiar with Railgun? Mhmm. Yeah. So so the same is true for Zcash. Right? If you have a public address, you shield it and then unshield it. Yeah. You should not unshield the exact
+
+[01:56:52] amount. Right. Yeah. That's that's another problem. That's a plausible deniability.
+
+[01:57:15] Right? So if you want to do this with your new token, you could just use this. So if I create a new token and do pump dot fun or whatever, I should do this. But, you know, wrapping ETH sucks, so that's why we should do it on the base layer, but that's gonna take a long time before we can do that. Alright. Yeah. That's that's true. That's that that is just true. And but, you know, the same
+
+[01:58:02] that's that's the same answer again. Like, this should be on the base layer, so you can use ETH. But, yeah, then again, like, the entirety of the ETH protocol could be seen as a money laundering service, but, you know, the same can be said for Zcash, of course. Alright. You had a question? I like you in the back. Right.
+
+[01:58:29] That's a fun question. The answer is no. So but you do have to calculate it differently. So right now, you can go through every address on Ethereum, take their balances, add them up together, and you'll have the total supply. But if we include this EIP, then that's no longer true. But you can just still do that and then subtract the amount of tokens that are reminted in private transfers,
+
+[01:58:59] and then you'll have the real total supply again. I'm not familiar with that, but that sounds interesting.
+
+[01:59:25] Cool. Alright. That's it. Thank you, guys. So here we are. Thank you all for coming and
+
+[02:00:56] for being such a kind person. I I really enjoy the time that we have together. I'm pretty sad because this is coming to an end, but okay. Let's go ahead. We will work in this project. This is just something that we are starting to work on. But first of all, I want to tell you who we are, where do we come from.
+
+[02:01:20] Mainly Pablo and also me, we are developers and creators of LibreMesh. I am one of the main LibreMesh developers right now. I participated in LibreRouter project, which is a hardware project that enables open hardware, open source, and open protocols to create mesh networks.
+
+[02:01:43] It's really cool. It has really been challenging. It I think it's it was one of the first ones. Now we have other ones like OpenWRT one, which is a very cool hardware stuff. You can put almost anything on top of it. And I'm very excited to try to test these blockchains and how much space and network do we need. We also created with Pablo Libre Inco, which is a chicken egg incubator,
+
+[02:02:13] but with a point of view of Internet of Things, but not the classical one with amazing stuff. We use local first applications. We use network mesh networks to interact with the devices. We also have our own infrastructure. Most of the community networks host their own infrastructure with
+
+[02:02:36] very small resources, but they have their own servers. So in this context, we are also starting to work in a seed nursery automation process, which is the place where you put the seeds, then the plants start growing, then you take the plant into the field. We are really into
+
+[02:03:00] creating sustainable technology. We use the word of appropriate technology, which stands for technology that you can develop, you can appropriate, you can use, and it's developed in an ethical way, thinking always thinking about doing the best for people and the communities. So what are we up to? We want free hardware, free software, and self managing infrastructure.
+
+[02:03:29] We believe that this is the key for for strong anonymity, for sovereignty. Yeah. Thank you. By pairing open radios with strong cryptography, cooperatives can reject corporate clouds, and we can start building a really new way of relating to each other.
+
+[02:03:56] We are also looking to preserve cooperative privacy regarding to censorship, price selling and secrecy, censor data, crop calendars, and lots of stuff. So this is where we are heading to. We have our
+
+[02:04:20] our passage. We have our background. We know what to do. So just a couple of months ago, I started reading and I head up into reticulum. I haven't studied it a lot yet. I made some tests with remote consoles. I have a bootstrap node on my own. I have created some small networks, but it's very interesting.
+
+[02:04:47] One of the key points of reticulum is that it doesn't need to have an IP. Addresses are sort of hash. You don't use the sender address. You just know where to. So regarding to the routing protocol, it seems I really didn't study it a lot, but each node has some
+
+[02:05:11] table of input output, but the whole routing table is not spread along the whole network. You just made, like, local link trust chain of or chain of trust. And you can also put your own private reticulum network where no one else can join.
+
+[02:05:34] Reticulum always ensures end to end encryption and connectivity. It's like before the the sending of the package, the the link has to be established. If not, Reticulum will retain the the package for some time, and it will try to keep sending the the message. It seems that it was created by some Mark Biss
+
+[02:05:59] who seems to be, like, sort of a rural ISP. So it seems that he knows what we are dealing with. So that's why we pick this particular overlay network. And it's also very interesting because since it doesn't need I an IP network underlie,
+
+[02:06:23] you can use, for example, LoRa devices. This one just cost $50 and has a lot of futuritis inflation. But you can reach up to 500 meters with these devices. I tested them at home. It's a rural area place where you have a lot of vegetation,
+
+[02:06:45] which is really bad for Wi Fi, some houses in between, but these ones handle it very well. Also, with these small devices, this ESP 32, you can reach up to 50 meters using only Wi Fi. So I think that when we start building stuff
+
+[02:07:09] in the field, we need lots of diversity of communication channels so as to fulfill the needs of the whole community and the production model that we are starting to develop also. And we are also trying a very old protocol because it's resistant to RF interference,
+
+[02:07:31] which is RS four eighty five, which is a differential trans transmission line. It's a serial differential transmission line so that you can put it in very noisy environments so that you can also make transmissions in in places where lots of interference is going on.
+
+[02:07:55] So another interesting stuff is the the cryptographic primitives that this is using are these one that are listed in in in that piece of text. And also, there is some lightweight extensible message format that is used to sort of a chat. The official implementation
+
+[02:08:18] has for example, you can use it in your phone and you can use the network nodes, but you can also attach one of these devices to your phone using Bluetooth and you start messaging your staff over LoRa. It's all this is the official implementation, but we want more flexibility.
+
+[02:08:41] What we really want is this. This is the the idea that we have been thinking about during our road trip with Pablo. That's why it's kind of draft, but I wanted to share it this way because it's funny. It was in the travel to the edge city. So what you can see here, we are thinking about
+
+[02:09:05] being able to sense and have actuators all over the field. So one example of deploying this would be an ESP 32 connected over a wire in this serial R RS485 connection. Another ESP32 r s four eight five
+
+[02:09:29] sensors. You can also buy this kind of sensors. These are industrial sensors. They are more robust. They have better enclosing, and these are very interesting to interact with. You can also interact with PLCs, which stands for controllers for the industry. And then you can for example, this could be a
+
+[02:09:53] very big production facility that is sort of far away from the Wi Fi and the whole network infrastructure. So you can make a link using LoRa. The frequency that works better is four three three megahertz. Yeah. We tested the 900,
+
+[02:10:16] but it doesn't perform as well as four three three. Then you connect with another ESP, which can be connected to a Libre router over Wi Fi, and we can also use ESP now, which is a protocol developed by Expressive, the company that created ESP 32,
+
+[02:10:41] which is very interesting because you your node is an access point and a client at the same time. And they implemented it in hardware, a very low level. But we have an implementation of this same concept in Linux using host APD, which is very interesting to use
+
+[02:11:06] radios that do not have fully drive full driver implementation of mesh protocols. So you can sort of emulate mesh protocols using just AP concepts. What we try to do this after if you have Internet, I mean, all of this has to work on its own. Users should be able to get packages
+
+[02:11:30] and information from this infrastructure. But if you have Internet, this could also go to some infrastructure that we have hosted outside the network that has a Grafana, InfluxDB, and some pipelines for some large language models that we have. Also, we are planning we already have sorts of an ERP that works for cooperatives.
+
+[02:12:00] It's an adaptation of ODDO. So this is what the big idea looks like. This is what we managed to make it work in Cyberpunk Utopia. What we have here is one ESP 32 that can talk to another ESP 32 using ESP now
+
+[02:12:24] over a serial line that can be TTL or RS four eighty five. We connect to a PC. The PC is running is running a full reticulum node. These ESP 30 twos both run a very reduced version of the node. We also have a Grafana link tool that receive messages
+
+[02:12:47] from reticulum and push them to deliver router and then back to Grafana. This was kind of a really hard task because I thought that there was a nonofficial repository that already solved all of these. That was why was I was so confident, but it didn't work. Not at all. So I started piece by piece. The simplest thing that you can do is just transfer serial stuff.
+
+[02:13:14] This one is already working. It's it's using a interface type that is quite old that is called keys. Keep it simple and smart, I think. But but it really works. Nice. So this is what we are yeah. Regarding to reticulum now. Pablo, do you want to tell about this? I can try.
+
+[02:13:41] Hi. I'm a bit shorter. So we accomplished some task. We have a a base firmware with some features. Now we have developed a fancy UI that have some information
+
+[02:14:05] and the option to connect to WiFi and select the WiFi. And you can configure there the capability of SP now networking or sensors that just are preconfigured. And you may change the pin output or input output of the
+
+[02:14:31] microcontroller from there and many other things. Yes. Select sensors, pre pre configured set sensors. That's multi sensor integration. And the OTA with an continued integration of GitHub, that's heavy implementation. He make it.
+
+[02:14:54] And you have a a repository in GitHub, which when you make a new library, a new version of the library of the binary, the the little microcontrollers are requesting new versions. It it finds some. It flashes itself
+
+[02:15:18] with the new version of the binary. So we there, we need security too, I think. And captive portal for make it easy to a user to just join in the ESP network and be there without knowing any IP address or other information.
+
+[02:15:46] And now we need the integration from this hardware implementation with the reticulum that Javier says before. Sorry about my English. So far, what we have accomplished now is what we saw before, and we have made a reticulum
+
+[02:16:11] pull a pull request to the reticulum nonofficial package. Fixed the key serial keys, failure, improve the bugging messages, improve documentation, testing scripts so that if someone else wants to join in the party, it doesn't suffer so much. And we are working in a new pull request
+
+[02:16:35] to fix ESP now, which is not forwarding the packages. I haven't figured it out that out yet. In the next steps, we want to fully implement reticulum in the ESP 32, at least what we can fit into the the the memory. Remember that you only have 500
+
+[02:16:57] kilobytes of RAM, I think, and four megabytes, eight four or eight megabytes of flash depending on what you are trying to do. And if we want to keep the over the air upgrades, we need to split that in the half so that you can flash a part of the flash that is not being used. We are
+
+[02:17:22] working in the Wi Fi connections. We want to support LoRa using the Heltech v three, which is one of the most popular devices. Verify the routing and address. I need to check that. I really don't trust anymore this this repo. Verify the cryptography and the implementations that you that that the cryptographic implementations use hardware accelerators.
+
+[02:17:46] And, well, that's all. That's all. The first repository, which is in Pablo's account, is from the fancy UI and the sensor stuff. The other one that I I am hosting is the fork from the reticulum non official package. And that's our contact.
+
+[02:18:10] Thank you everyone, and thank you Steve for hosting this event. Amazing. You have been very, very generous guys, so I'm really appreciate about this. Thank you very much. Yeah. That's a very interesting question. Pablo and I recently
+
+[02:19:02] have our call signs. We are also radio materials, so we know about both worlds. And it's very interesting. This morning, I have just getting to know that there will be some satellites for IoT that use non LoRa devices. I mean, the radio stuff is sort of cheaper.
+
+[02:19:25] You can also have some I mean, Amateur radio have been around for almost, I don't know, fifty years, a lot. And they have developed a really powerful technology that you can use to communicate from around the world with, I don't know, a couple of bucks, like $1,000. And that's really powerful,
+
+[02:19:48] but I believe that we need to put that into digital mode. Radio materials really don't like that much digital modes. I like the way There are branches. There are some branches that are starting to split. I really like the thing that you can attach this over Bluetooth. But I think that if
+
+[02:20:11] because what you have, there are alternative for LoRa is the messtastic stuff, which is not so efficient because it flooded all the network with the messages, which for very small devices and with powerful with power reduction, you need to optimize the the algorithm for routing. So I hope that that can be solved using reticulum,
+
+[02:20:35] make a better mesh tastic version. Yeah. No. You can use symmetric encryption. In the latest version, I tried it and it uses symmetric encryption. Usually, if you are a ham radio, you need not to encrypt that. That's kind of complicated,
+
+[02:21:03] but that's part of the rules. So if you don't use those channels, you can use the the standard ones and you just can encrypt everything. That's an ethics agreement. Yeah. Yeah.
+
+[02:21:44] Yeah. Yes. Yes. The documentation is really minimal. There is only a website and it's that.
+
+[02:22:13] I really think that that needs to be improved. The user experience is really bad. It's just like in Mystastic. I tried Mystastic as an engineer and I really hate it. I don't know what real users do with that. And also, I think that the a good starting point is the documentation from the protocol is a PDF, like forty, fifty pages.
+
+[02:22:38] And it's quite good. And there is also a metrics channel, which has some activity from the reticular network. Yeah. Regarding to pure discovery, what I know is that you have you need a bootstrap node. You can host your own and you can add the ones from the test net. This is I consider it is in beta beta phase. It's not production
+
+[02:23:03] ready. Yeah. You use the test net. I host my own, and when you get to other node, it will tell you which other nodes he knows. So it's like a chain of that's all I know. Yeah.
+
+[02:23:33] For the pure discovery over Internet, you know, you need to know the IP and it has to be in a public address. Yes. Yes. But Are you are you concerned about civil resistance or do have any thoughts on that? No. Yeah. That's interesting. But I've been thinking about that, and I think that the fact that you have, like, a local chain of trust,
+
+[02:24:01] if you connect to a wrong node that is not sending your packages, you will just not be able to send the packages. You should change the node. But I believe that when you configure this, you need to establish this bootstrap node that has to be of trust. I mean, I wouldn't just connect to some public node. I don't know.
+
+[02:24:25] But I think that the the fact that there is no routing spread all over the network, just you just know where to go next, but you don't know the whole network. I think that it's not so bad if you have some bad guys inside of the network. I don't know. But let's figure out together. Nice.
+
+[02:25:04] Nice. Nice. Yeah.
+
+[02:25:44] Yeah. What I managed to understand is that if you want to publish some sort of a service, you just publish the
+
+[02:26:08] you need to announce in a broadcast way the hash of the of the service. You don't have an IP or a common name or something like that. It's just a hash. And then you send messages to the hash that you want to interact with. And it seems that everything is encrypted all over the channel. Since the connection is established,
+
+[02:26:33] is encrypted, at least from point to point with this sort of services. The nodes have an ID and each service in each node has another ID, but you can move the IDs around to another node and it's transparent for the protocol. It's not like like an IP or a URL that
+
+[02:26:55] you cannot move. Nice. Nice. Really nice cheat.
+
+[02:27:21] Oh, thank you very much. Oh, sure. Yes. Yes, please. Do you see it actually can plug in to a HDR DC? Thank you everyone for coming. Just wanna make a
+
+[02:27:45] couple a couple thank yous and, actually spend a few seconds. There's we have so many awesome projects floating around. There's one that I promised that I would show. I'll I'll show it for for two minutes, anonymous podcasting platform. But but the main thing is I wanna thank Edge. Thank thank the people who are helping to record. Thank you, Keith. Thank you, my friend James and Galanera, that helped make this financially
+
+[02:28:07] possible. But, yeah, incredible incredible projects. I'm very very happy with how things have turned out, the passion that people bring. Smart people who give a shit are the most amazing people in the world. I appreciate it so much. There's there's there's there's smart selfish people that are off making themselves richer and leaving the world to burn, just bothers me every single day. Thank you. Thank you so much for for
+
+[02:28:31] being you. And yeah. Clap clap for clap clap for yourselves. And thank you, Sasha, from, DEAC residency for helping, helping support this too. And with that, more tabs is always better.
+
+[02:29:02] I need a 192 gigs of RAM to browse the web. Okay? That's why that's why I got this hardware. Alright. Torcast. Now an anonymous podcasting platform, it embeds the Tor daemon, like, in the server. Wouldn't it be cool if you if, like, on your local machine, you can, like, host a podcast
+
+[02:29:26] over the Tor network. Wouldn't it be cool if people who listen to you don't even need accounts, but they can, like, subscribe in a meaningful way, which I'll show in a second? I don't know about you, like, but whenever I use, Spotify, I'm like there's, like, one central entity that knows everything I'm thinking, like, all these political podcasts and affiliations and whatnot. Things shouldn't work that way. So in three days flat, I made one of the better looking, websites
+
+[02:29:54] I've made in the seventeen years web dev I've been doing. Thank you, thank you, Claude Code, for, for for making a developer for making engineered websites look like they were designed and not just engineered. So here's a particular podcast. If you want the the RSS feed over ClearNet over, like, you know, non TOR, then you can, get that here, and then, like, you know, put that into, put that into an app.
+
+[02:30:20] Built in fairly slick, media player here. If you want to download this particular podcast episode over like a normal, again, like Clearnet link, you can click this, and it'll throw it into your clipboard. Or if you want the dot onion URL, it's built in. See, like like, when you build the Tor daemon into an app, there's all these things that that you can do that you wouldn't normally be able to.
+
+[02:30:47] And and just like giving people Tor links is one of those things. If you want the RSS feed link over Clearnet versus Tor, you can do that here. And then, so this is for this is looking at a particular podcast. You know, there's just one episode here, but that's, you know, they they will all show up in a in a feed. And then if someone's a listener, you know, you can imagine there being, whatever, a 100 podcasts that have been added to this particular instance of Torcast. I probably need to change the name Torcast. The Tor project, you know, wants you to say onion something, not Tor something, so I didn't think about that. But I'll I'll tweak it.
+
+[02:31:22] But I I I just open sourced this on GitHub. I'll talk about that in a second. But, but yeah. But as as a user, you could, like, you know, check and uncheck a bunch of boxes here. And then the URL that you the URL that you're at, like, is actually changing, and it's, like, creating this comma separated list of, like, the ID of the different podcasts. So you can just so you can click around and say what you wanna subscribe to, bookmark the the URL that you end up at, and then, and then come back to it over Tor browser or, you know, I'll I'll I'll probably make, like, a like, a simple, like, on a React Native something, like, a mobile, version of this that that also embeds the TOR daemon so you can listen, natively.
+
+[02:32:01] It's very, I don't know, responsive. It works great on, on mobile. And then if there's an unlisted podcast that's, like, you know, unlisted in the sense that, like, a YouTube video is unlisted. Right? If you have the direct URL, you can get it, but no one else knows it's there. If you if you have the URL to such a thing, then, you can, like, paste it in here, and click add, and then it'll show up, so you can, like, be subscribed to both, like, public and, like, kind of these semi private,
+
+[02:32:31] podcasts. So yeah. So if you go to github.com/relayanon/torcasts, I I open sourced this, like, five minutes ago. Built it in three days flat. Gotta love LLMs. That's definitely a huge advantage we have given that, like, we don't need to make huge number of pieces of software to make the future amazing. We do need adoption. That's, and then, we're using LLMs to do, you know, marketing and advertising as well. But, but, yes, Torcast,
+
+[02:32:58] everybody. That's that's what this is. And with that, let's help Kate move a bunch of chairs since our time is done here. Like a well, thank thank you. Thank you. So all those shares should just be stacked up over there. Is that right? Awesome. It's crowd crowdsourced. It's a we're decentralize the work. That's very good. Thank
+
+[02:33:21] you.

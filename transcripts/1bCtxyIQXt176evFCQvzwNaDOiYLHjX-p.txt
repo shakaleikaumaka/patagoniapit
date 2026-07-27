@@ -1,0 +1,193 @@
+# Cyberia — Token Engineering and Governance
+
+Date: 
+Source video: Cyberia — Token Engineering and Governance
+Drive: https://drive.google.com/file/d/1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p/view
+Duration: 00:38:47
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:04] Hello, everyone. A bit lower. A bit low. Hello, everyone. I am Dimost Raduca from Maestros Hype on the Internet. Today, I want to share with you my ideas on the on how to actually design an incentive system for something like a small village, city, and growing into the
+
+[00:32] country and state. Yeah. So the background is that we what is Siberia? For those who are, like, never heard about it, it's a idea of the network of future cities. We are building real thing on Bali in mountains. It's
+
+[00:56] pretty big development project on 37 gigatars of land. And we already achieved some small kind of the physical sustainability around energy, water, and food system. And now we start to discuss how we can move further. And of course, one of the part is
+
+[01:20] to understand how we can actually use this new kid in the the blockchain such as token engineering. Yeah? So in short, I will start to explain
+
+[01:44] in first, like, what like, in the most possible simple terms, what is token engineering. Okay? Basically, it's like a go to token engineering system have only three four methods using which anyone can design the economic model. Yeah? It's mean, burn, lock, and pay or or transfer. Yeah. So
+
+[02:11] the idea behind these four simple methods is basically that it's like the only methods you need to use to program any kind of behavior we use in any token system. Yeah. So, like, the mean, this happens when you add to the supply and allocate it to some balance. The burn is
+
+[02:37] vice versa. You remove some balance out of circulation from some particular address. Lock is when you actually making not available for some time in the future. And pay its usual transfer we use for tokens everywhere. And well, yeah, using this kind of methods, like, allow you to
+
+[03:01] be sure that, well, you did enough to, like, program the correct behavior. So there is a very cool idea in the wild as supply demand equilibrium. Yeah? Supply demand equilibrium. What does it mean? It's basically that you you are using
+
+[03:25] mint function for supplying some resource if you want to provide some utility for a protocol or you use burn for satisfied demand. And like the most smart protocols are being built with this idea of supply demand equilibrium. I don't think that our
+
+[03:47] case will be exception. So we will like, when we are speaking about token engineering, we always keep in mind this demand supply equilibrium idea, which is kind of fundamental and allow to balance out the price
+
+[04:10] as optimization function of supply and demand. Okay? Cool. Some disclaimer. This is the talk. It's not for, like, entry level people. I do not explain what these worlds are. Yes. It's quite quite complicated topic with a lot of new stuff. If, like, you want to
+
+[04:37] dive in, like, please watch several times, ask the PT some words. So it's not entry level discussion. And, yeah, I just want to like, the purpose, I want to share the ideas which we accumulate, like, during recent several years while trying to think, like, what actually are problems of society face,
+
+[05:03] right now, stabilization, and, like, when designing the community of the city from scratch, actually how we can use these ideas of Mint and Burn to program them for, like, behaving better. Yeah? And, yeah, I first want to analyze kind of the problems
+
+[05:25] we have. I will not dive deep into the problems. And trying to allocate, like, the decision we came to, like, address them. So I think one of the biggest problem within our current society is complex taxation. And, well, the public goods are really important taxation. It's
+
+[05:48] mostly needed. We will implement some form of taxation. Within our village. We want our local community to have some source of funds for public goods. But I think the biggest problem for current societies is complex taxation. I mean that, like, when we have this taxation system is, like, we really need to know what and why you are doing this and that, and that bring a lot of limitations, a lot of reporting requirements, and a lot of actual things
+
+[06:23] which are, like, don't necessarily add the value to this process. But what it does for sure, it's just reduce the, like, circulation of the money within the system. So, like, the more you must like like like, the more you text, the more you ask the question about, like, what is this operation about? Like, why you do it? Actually, less
+
+[06:51] revenue the local economy can generate. That's, like, just simple as that. And, like, we will try to do our best to work with localities, you know, with everywhere where we present to bring this idea that actually we can seriously increase turnaround of local economy,
+
+[07:13] like, actually increase the amount of the revenue local budgets have and federal budgets have just by switching from these complex several layers, like corporate and tax, where you edit tax, like tax on the salary, revenue tax, tax, etcetera, etcetera, etcetera. So
+
+[07:38] and if, like, the like, we would be able to switch from this complex system to something, like, really more simple, such as one person from turnaround. Yeah? Well, it could make life certainly more easier for businesses and entrepreneurship. Okay? Another problem I want to discuss
+
+[08:04] is local overpopulation. Yeah. The previous guys showed this slide that it's only 1% of land and but 80% of value produced and 80%, 70% of global pollution comes from the cities.
+
+[08:27] And that practically means that actually most of our activity, most of our population lives in a very extremely dense environment. I believe that this this is a problem which is quite easier to solve if you, like, have some political will.
+
+[08:56] The deal is that that overpopulation lead to a lot of society problems such as poverty, crime, modern types of slavery. It starts from the idea that, actually, you need some minimum amount of land to produce enough energy and food to be, like, more, like, self self sustainable and, like, free. Yeah? But if you have this density below
+
+[09:26] this threshold, in the end you will have the societies that just don't have personal resources. They must force to have some jobs, you know, and that leads to, like, all kinds of negative externalities such as poverty and crime. So simply by managing
+
+[09:50] this density idea, we can set up a system where it's actually, by design, protect the society from having at least some part of problems we face. Okay? So and it's quite easy if you speak for them.
+
+[10:18] It's quite easy to solve if you have some amount required to live in the area in the land, which is binded to this kind of fundamental limit which expressed as a relation of this amount to stake to relatively to supply. Yeah. So it's easy to program.
+
+[10:46] It's easy to understand. It's easy to reason. It's easy to adjust. And, like, the formula is pretty simple. So staking for some for residences. Staking for residences is very simple way to actually track the density within the society. Mhmm.
+
+[11:10] So another problem I want to discuss is that actually we don't have no collective insurance. Within the governments, a lot of people are talking about UBI, universal basic income. I researched for a little for a while. It's not a new idea. It's already educate
+
+[11:33] and discussion, and I think it's could create more problems than solutions because, like, you came to this free rider problem. You came to this low like, actually, you came to society if you enable this universal basic income on the scale.
+
+[11:58] There was a lot of experiments which showed, like, very mixed results. So I wouldn't rely on the UB per se. Yeah. What I would do is to enable to use the same staking actually system where we use to control density for generating some low passive income. Yeah? So, like, if you have this requirement
+
+[12:24] for every everyone, for any citizen to stake some capital, yeah, for being the citizen, it's pretty easy to funnel some part of revenue stream of these societies, like city, country, doesn't matter. The scale, it's pretty easy to funnel for guaranteeing this not universal basic income for nothing, but for universal basic income, which is based on capital. It's capital driven
+
+[12:53] income, which is like staking. We pretty almost everyone of us, like, already used to use to this thing. Okay? So I don't think that we are into the idea of free free lunch doesn't exist. Okay? Another problem I want to discuss is
+
+[13:18] this broken ecology. Yeah. Broken ecology basically means that any economic economics produce negative outputs in terms of noise, in terms of CO two, in terms of actually, like, the spectrum of pollution can be vast. Uh-huh.
+
+[13:45] But the simple idea we want to, like, at least try to implement is this idea of sensor network, and we start to build it. We measure some stuff in our village. The idea is very simple, but actually we can agree that, like, the this is a nice level we would love to have, like, within these days. Yeah? And if someone
+
+[14:10] not following this nice level, we are measuring each other, the system start to slash the staking of residents. Yeah? So the same stuff can be done for any kind of measurement. Yeah? So what we are trying to implement is this slashing mechanism, which, like, punish misbehavior
+
+[14:35] of what is generally accepted within the community. Like, the biggest problem for us is, like, noise and chemicals in the soil and probably some kind of the pollution caused by internal combustion engines. Yeah. But it's not only about that.
+
+[14:58] Actually, anything can be that can be measured, can be slashed and hence must be slashed. Okay? So I think it's pretty radical idea pretty radical idea, but it's quite easy to implement and automate. And, yeah, once actually, we will implement it, we will show results
+
+[15:20] once and when. Okay? So, yeah, local order population, no collective insurance, broken ecology. It's the problems we face. And you see, like, that pretty simple solutions within token engineering, which use only probably a lock
+
+[15:44] and transfer already can solve most of the problems like I we discussed. High cost of human production, it's very, like, different topic. I just want to mention that the mint function within the system, so like it's pretty easy to mint the new tokens for human production within society.
+
+[16:09] And, yeah, the I think it's a good idea to discover to just to to to discuss this kind of proof of birth idea for minting tokens of the community. Mhmm. Yeah. And probably the last thing which, like, actually
+
+[16:33] dedicated topic I want to discuss is decision making. We have a lack of freedoms, and the decision making within democratic system is mostly inefficient. So I want to switch to this topic, which is governance. Yeah? So previously, we decided more like token engineering things or how the token can be used
+
+[16:55] for solving basic like, the most fundamental cases. Well, decision making is about how using this token to decide on what to do, what to not to do, what what what is not to do. Okay? I will discuss only cases,
+
+[17:21] which doesn't, exceed the Doomberg scale. Yeah. It's really important to understand that governance system mostly doesn't scale. System, you design the governance system for seven people, for 10 people, for 100 people, for 1,000, for, like, 100,000 people, where like must be significantly different because like on each scale you have like very you you added to the complexity a lot of problems. Okay? And just for the example,
+
+[17:54] I want to I want to give an example that if you have seven people who make decisions, you can basically do very efficiently using simple multisignature scheme. Yeah. Like four of seven parties with maybe, like, different thresholding. Yeah. But when you go to 150 people, yeah, it's not it's not that big, but, yeah, it is the
+
+[18:18] number we are talking about. You have at least, like you came to at least in classical problems which are, like, really which I described in mathematical sense. And those are problems such as voting capacity. People don't like to vote or too lazy to vote majority and minority tyranny when some group override
+
+[18:45] the decisions of others. You have limited attention span, so people cannot follow actually the flow of decisions. You like, some say that everyone cannot be professional enough for, like, all the decision made. You have lack of incentives within the system to vote, actually. So votes are basically doesn't bring you immediate results.
+
+[19:09] There is a world world world buying problems when people pay for pushing their decisions further, collusions and the free riding problem when actually some do some job, others just don't do. So, like, they are this class of problematic we face when we go from seven people to 150 people. Okay? And, yeah,
+
+[19:34] observation from the crypto project actually demonstrate that this coin voting schemes, like, at the scale of 10,000 addresses, like, participants with the community mostly failed. They just don't work at such scale. So yeah. And you need in order to actually handle these problems where, like, people already invented
+
+[20:01] so many tools, such as coin weighting, quadratic measurement, Then you have conviction voting, which is kind of flexibly define the timing and different other parameters of voting time locks, dynamic threshold. So for example, you can have, like, different
+
+[20:24] amount of people needed to provide a decision for different amount of money involved. Yeah. You have decay voting, so it's not actually exhaustive list of tools people use to solve these problems. Yeah. And still, I don't believe that actually most of these tools are working and, like, I will try to explain you why. I here show you this quadrant of governance. Yeah. It's very simple
+
+[20:53] way to convey the idea that you have fundamentally four types of the decision making, the win, like, distributed environment. You have a lot of people involved. And one dimensional to look at this is that in some cases you have no personal incentives to vote. For example, like, it's a really good case like democracy.
+
+[21:19] You don't have, like, you push the button, say yes or no. You don't have immediate results, like, which measure actually your decision. Yeah. So down the it's it's by design doesn't provide necessary feedback for you to understand how you're, like, making decision. And, like, there are some schemes that involved personal incentive. For example, or,
+
+[21:43] like, prediction markets idea is the way we have to actually reward you if you are, like, making the decision that actually work in that. Okay? And this democracy versus prediction markets is long standing actually discussion, but this is only one type of decision making within
+
+[22:07] the decentralized environments we have. So I call it like discrete type of decisions. Yeah. What the discrete is but you actually have time bounded limits for making decision. You make one decision, like the words in past, like you need to make another decision to, like, within an hour time bound. So
+
+[22:32] the problem behind the discrete decision so, like, for some cases, discrete voting is, like, works better when, like, a lot of amount of money involved or, like, some, like, super strategic decision must be made on, like, all the community must actually decide on some stuff. Okay? Important. But for most tasks, the discrete
+
+[22:57] decision making process is actually not efficient because we live in a time when attention is super expensive and spending all, like, the attention of all community for all the decision we must make is kind like, it just doesn't scale it. I don't think it's it's already work. Yeah?
+
+[23:21] Within DAO, I am working and then, like, invest. So, like, we came to this idea of continuous decision making process and, like, two ways to to understand this continuous decision making process is to look on the curve, the like, this mechanism when people stake some tokens to vote for the distribution function. So it's continuously
+
+[23:47] funnel all the, like, tokens which are minted to according to some proportion. But the problems of these curve like systems are mostly goes from the same problems democracy actually goes. So the participant don't have intrinsic feedback
+
+[24:09] and don't have incentive to make this decision. Yeah? So we here come to this idea of shapely value. Yeah? And this is shapely value is super cool stuff from coordination game theory. BitTensor successfully capitalized this idea, creating this token mechanism for redistribution of the
+
+[24:39] mint. We've been there, validators who actually verify each other responses during distributed training process. And, yeah, well, idea, I think it's this idea is foundational because it's theoretically sound way to measure the
+
+[25:03] contribution in the system when there can be a lot of colluding parties. So a simple way to explain this, what the algorithm measures all potential coalitions within the group and find out the best rewarding solution to the output. So
+
+[25:29] it showed that it's working on a scale of 4,000 validators making decisions within BitTensor network. And actually, we make some development, the smart contracts on Cosmos that can be applied for smaller groups to solve the same problems. Yes? So for example, if you have a community of 150
+
+[25:53] people who want to alleviate each other and distribute some inflation or revenue flow according to some opinions, subjective opinions. Yeah, this is an algorithm worth to look at. I think it's not only about BitTensor. It's certainly some fundamental thing that can and must be used within communities who believe we have continuous
+
+[26:19] decision making driven by personal incentives does matter. Yeah? So it's actually what I think we build bet on. Yeah? So, like, we we we certainly not will bet on the systems which, by design, don't have this, like, personal incentive things such as democracy or gorge voting
+
+[26:42] and focus on more the system systems where use prediction markets or some cardination game theory mechanisms to actually allocate rewards more to people who make better decisions. And,
+
+[27:06] yeah, I think I want to discuss one more thing left is that, like, that is the most basic ideas about the future. I think the future is less about proactive decision making. It's more about inferences decision making. So like you can imagine that you have this communication layer of the community, like people talk
+
+[27:33] with each other, they like have chats, they are like discussing this stuff, and some execution layer within the community actually monitor everything, measure everything, and using like set of tools such as coordination graphs, it can kind of reason what decision must be made on these discussions.
+
+[27:56] And some decisions are just made in the background. Some decisions, like, will go to this community approval. So, yeah, I think it's kind of like more more like the future worth to look into. Yeah. So I don't believe in the governance system
+
+[28:20] that will require you know, pushing buttons proactively. That just don't it seems that that works not so good. It's slow. It's not precise enough. It doesn't work for genetic environments, etcetera. Yeah? So I'm more in the camp who thinks that
+
+[28:45] decision making, community decision making process must be automated, completely automated. And if it can be automated, it must be automated. Yeah? So what is the future? We are going. We are not here. We are not there at all. It'll take years to actually realize this potential. But yeah, research is ongoing, and I would
+
+[29:10] love to answer any questions regarding the actually stuff I am discussing here. Yeah. The last thing I want to mention is that we have these things, course, on autonomous village construction.
+
+[29:35] It was one, two, three, four, five. It's already six, seven lectures. And we've been in this course during HCT Patagonia. So if you're interested in this topic, follow-up and join our group in Telegram. I think it's gonna be it's it's kinda
+
+[29:59] sorry. I will find it here. Yeah. Join our group to discuss better Siberia future.
+
+[30:22] Thank you. Does anyone have some questions to discuss? Yeah. What can hello. Yes. Bitcoin.
+
+[30:49] Okay. What can we do to stop or avoid the modern times of modern types of slavery that you mentioned? What we can do to stop what? The modern time types of slavery. To more modern types of slavery If we if you could do anything
+
+[31:13] at government level or Well, I will like take I'll take is explicit. We think that actually it's likely that current civilization will face serious problems, some fundamental problems. So it's it takes time to for recovery.
+
+[31:36] So it's maybe better, like, to go in some kind of Zakafi, Azimov Azimov like foundation story when you need to start design something new from scratch. It's actually like very complicated topic because the slavery is like it turns out that this
+
+[32:01] is modern slavery. So it's really cross disciplinary stuff and economic slavery, like privacy things. And another view is that most people actually consciously accept this form of slavery. Yeah. So like it's maybe
+
+[32:26] a good idea to do something with slavery when everyone want to go out of slavery. But it turns out that actually it's not the case. Like, big portion of population consciously accept this kind of the status quo, like maybe something like 30, like it's just wildest guess, 40%
+
+[32:49] probably. Yeah. Some 40% maybe, like, don't understand that we are slaves, but only, like, small part of actually doing something and, like, But I think first question is, should we completely get rid of slavery? Because one of the like if you
+
+[33:13] try to think about broader perspective, for example, ANT's colony. Yeah? Well, we like, does ANT slaves? Yes or no. Yeah. We serve the purpose within the community. We are working hard for, like, some specific tasks. But that is all in the name of this whole colony success.
+
+[33:38] So it's not white and black, I think. Okay? It's not like that. But, yeah, privacy and the economic part of slavery are pretty fixable. I told that actually staking staking for the residency, So for the residency, like, the most basic way to remove
+
+[34:02] most problematic parts of slavery because, like, it solves so many problems with insurance, with, like, economic freedoms, etcetera. So yeah. I was curious. You mentioned Yuma consensus, the bit tensor. Mhmm. Would you mind elaborating a bit more how it works exactly and how you apply it in your case?
+
+[34:28] Yeah. For sure. Like, it works very simple. So you have some amount of participants. Yeah? For simplicity, let's take that like you have three participants. Yeah? And you need to allocate some reward. Yeah? Let's say it's like $100 per day. Yeah? And, like, how you resolve it? Everyone
+
+[34:53] from this group giving weights for each other. So, like, I am giving, like, say, like, you are working, like, five, you're, like, working, like, four, you are working, like, three. And all the people within the group do the same. So, we are giving weights to each other. Yeah. The algorithm aggregates this information
+
+[35:15] and as output produces this percent of the distribution, which consider it fair. And fair, like, not in the subjective sense, but with some proven properties, which actually demonstrated on the price chart of BitTensor. Yeah?
+
+[35:41] So it's quite hard to gain. It it it is, like, very hard to gain, and you don't have a lot of economics successful which based on this redistribution systems which didn't actually fall
+
+[36:04] except to this shapely value based algorithms. Like the like one big problem of this class of algorithms is like extreme complexity because the algorithm analyzed all collisions within this group. So for example, if you have three people, it's only like three possible, four possible coalitions. If you have four people, it's already like six. And like the amount of coalition is growing like with like extreme speed with amount of people.
+
+[36:34] It's complexities and for factorial. So it kind of doesn't scale at all, but, like, people find out how to work with this problem on, like, some scale such as, like, 1,000 validators. Yeah, it turns out it's working really cool. Yeah. And allow to, you know, to remove
+
+[36:59] some problems of governance systems. So it's not only about AI learning or like. It's just game theoretical thing that allow to distribute some value based on subjective measurement and contributions, which turns out works pretty fine.
+
+[37:24] Okay. Thank you. I was also curious. You mentioned that you have the Siberia project. How how far is it so far? You have built you said you built already some infrastructure there? Yeah. Of course. It's it's for village. Yeah. So just like to give you some sense of
+
+[38:03] the scale, this is a mountain and this is the land. We're actually developing some part of the land. We have, like, 800 square meters of constructions already. We have some energy system, water system, food system. We need our own food. Actually, we already discussed that in previous talks I managed.
+
+[38:27] Yeah. So if you are interested to come to this group in Telegram and find information. Mhmm. Okay. I will check it out. Thank you. Mhmm. Okay. Thank you, guys. Thank you for visiting. Yeah. See you. Thank you.

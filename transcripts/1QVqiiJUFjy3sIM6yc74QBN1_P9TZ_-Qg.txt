@@ -1,0 +1,269 @@
+# Demo Day Week 3 in Patagonia
+
+Date: 
+Source video: Demo Day Week 3 in Patagonia
+Drive: https://drive.google.com/file/d/1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg/view
+Duration: 00:57:41
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] You the preface I give every time. I'll do it super quick because we have about 15 amazing projects. So the demo day is a reminder that we're here at Edge City to build. We're here to ship something, not just software or hardware. It can be really anything. It can be research, essays, experiences, communities, you name it. There are two main rules of demo day as always. The first is that I will time. You have three minutes to present. The second is that we're going to give exaggerated applause, so let's practice now.
+
+[00:32] Let's make everyone everyone who's brave enough to come up here to show what they're working on, let's treat them like an absolute rock star. So the first person that we will be clapping exaggeratedly for is Divanj from the Ethereum Foundation. Welcome, Divanj. Thanks
+
+[00:54] for all the applause and for giving this chance as well, Timur. So I work at the EF on funding mechanisms, and broadly, that means how can we break this the cycle of one human deciding how much another human being is worth, which is what most of our work lives are, and how can we actually make it like Netflix decides which movie you should see. Can an algorithm decide which how much money you should get? So designing those algorithms is basically what I work on at the EF.
+
+[01:24] So the particular project here is called deep funding, and there are three parts, like a dependency graph, which is the list of all the projects. There is AI models, which are giving a prediction of how much each project is worth, and then there are and then there's a jury which compares two projects at a time with each other, and that selects the winning AI model which then gives the money.
+
+[01:47] So, yeah, this is, like, maybe the kind of full like, the full graph of it. So you have judges who compare two projects. Like, we just say project a versus project b. We have AI models which give weights between all the projects, and, the projects which align or have the least error score to the JIRA basically get their weights chosen and distribute money across the graph. So, yeah, there are some desired features in cryptography called confusion and diffusion and no security by obscurity,
+
+[02:17] which I won't get into right now. I think the main insight to take away is that humans are good at making decisions, but we can only make a few decisions. AI can make many decisions, but we don't always know if they are aligned with what we want or not. So how can we combine this so that humans make a few decisions? Many AIs, like, submitted by the community make many decisions, and we use a few decisions to select the AI which then makes many decisions.
+
+[02:44] So, yeah, we basically ran this with GitHub repos, which are valuable to Ethereum. We are we are distributing $350,000 through this funding mechanism. We've had about 30 models submitted. We've had 700 comparisons from jurors. And if we ended the competition today, this would be the weights between repos. It can be for any virtual object. Like, GitHub repos just happens to be a good one. But, like, even for the videos we saw today, you know, like, it's very hard for a judge to, like, for a judge to decide. But if AI decides and judges just compare two videos and that chooses the AI which gives, that kind of has it's it's a way of funding different virtual objects.
+
+[03:20] So this is, like, the last. I have about thirty seconds left, so maybe I'll, like, make my request for what help we need. If you're an expert open source evaluator, like, we need your help in making comparisons, we will show you two repos, and you have to tell us which is better and by how much, and that goes into selecting the winning model. If you're, if you're an AI, you can act if you're an AI builder, you can actually submit predictions of how important each repo is, and you can make money from that.
+
+[03:48] And if you want to add new repos, if you want to actually test out this test out this funding mechanism in your residency or in your movement, then kind of always just get in touch. Here's my Telegram or Twitter. Yeah. Great job, Devansh. Next up, we have Daniel Aniko. Please welcome Daniel Aniko.
+
+[04:19] Hello. So once upon a time in a world far, far away, people used to have a lot of fun, but they've stopped having as much fun. Many people today think that you need a license to have fun. So hence, we created Freedom Licenses, or an organization called the licensing department.
+
+[04:44] Licensing department is an in real life card game where, in the future, you purchase a deck of cards. And whole the point of this game is that you don't actually need to sit around a table and play the game. The game is played in real life. So each card has a different, action associated with it. So here are some, like, some examples. So we have a a you're an alien card where if you find somebody that
+
+[05:09] you the on the back of the card, will say, are you, or walk up to a random person and ask if they're an alien. If they are, hand over the card. If no, you keep the card and stuff like that. Skip the queue. You get to go find any queue in the world. This works in airports. It works at the DMV. We've done it. Wherever you want. Yeah. We've done it. And so you can skip the queue, and then you have to hand the card to the person behind you in the queue. So that way, the card gets passed on. So they will they will have an action associated with them. They will involve passing the card along.
+
+[05:39] I'm trying to remember if there's anything else. Avocado? I mean, yeah, we can explain them. The avocado, essentially, if you see an avocado in the fridge or if your roommate has an avocado, you just give them the card and you claim the avocado as your own. The tree message is, about hugging trees. Timur's Timur's quite a good tree hugger. We've we've worked out. She is now. Yeah. And in the future, we we also hope to have a yeah. Feel free if you want, alpha access. We also have some cards here that Nico has.
+
+[06:08] We've been giving them out around town, but this is our alpha telegram group where things will be announced soon. And we'll be giving them out later at the community dinner, so come and talk to us if you want a freedom license. And we still have fifty seven seconds, so I'm gonna tell you a joke. What If you have ideas for Freedom licenses, also, please chat with us because we're crowdsourcing
+
+[06:31] as many fun ideas as we can. Yeah. You can come look at our list of ideas and, and have a yeah. And and assess them. We got about 20 at the moment. We're printing a bunch more. And in the future, we also want to digitize this. So, essentially, you'll have, either QR code or an NFC on these. And once you give them on say you purchase a pack of the cards, you can actually watch your cards float through the world. And we're hoping to spread as much love through the world as possible.
+
+[07:00] Amazing. You should bring those to community dinner tonight and and set up a station with those. That'll be awesome. Alright. Next up, we have Matthias. Please welcome him. Hola. Can I grab this? Thank you. So,
+
+[07:23] this is more like a presentation. It's not a demo. Is it okay? Are we okay with that? Yes. Yes? So, well, I am Matti. Mattias Bilkis, PhD, whatever. You can call me Matti. I am from Argentina. And, well, I want to present a bit my background and who am I. I have a strong quantum machine learning background,
+
+[07:47] which is, like, might sound very fancy, but I promise it's true. I studied physics in Argentina. Then I went to Barcelona, which who knows Barcelona? Well, it's beautiful. And then, well, I'm I did my PhD in quantum technologies, which are something very hard to swallow. And
+
+[08:11] then I founded a group of research and also, well, something in between of development and research, which I learned until recently. And now I'm here in Argentina. So I'm super excited to be here. It was a bit spontaneous. I care a lot about, like, these hard to swallow technologies,
+
+[08:35] how to communicate them and democratize, which is also a fancy word, in society. So in Barcelona, I I had many, many initiatives with linked to science and arts. These are the Olympic games. I did not participate. But the company who is in charge of the ceremony and whatever,
+
+[08:58] we work together. And what we want to do is to evaluate, like, what is ethical quantum AI. Okay? So the big question is how to deploy and develop a quantum ecosystem which is responsible and local here in South America and in Argentina. So if you are interested in this, I'm this is my current mission.
+
+[09:24] And, it's very hard to explain all this in one minute, but I will give two talks. Unfortunately, I'm staying until Tuesday. It's very short time, but I will talk about quantum tech beyond hype, which is very easy to we have in Argentina something sell smoke. Is it in English also? Well, I will try to make my best, from a PhD perspective or whatever. And then I will talk about something
+
+[09:53] that I realized since I got back to Argentina that maybe other places in society are not aware on technology like AI. So I gave a talk on a hospital on what is AI, very basic. And I thought it might be interesting also to share it here about, like, the mental health impact of AI. So if you want to join, that's happening on Monday morning no. Tuesday morning. So that's it. It's five seconds, four, three.
+
+[10:24] Yeah. Thank you. Thank you, Matti. Wow. Everyone is very set on using up all of their time more than usual. I don't know what's going on. Alright. Next up, we have SAI. Please welcome Federico to the stage. Hello. Thank you.
+
+[10:52] Well, I work in Autumn Monday. We have been developing network technologies, like, for ten years now. We have sorry. I need to see the screen. Yes. We have developed device which is called LibreRooter. We are working with on top on open WRT.
+
+[11:15] Okay. But I prefer seeing here. Okay. So, this is called liver mesh. It's a whole stack, and that is our background. So now we are working, in AI. We have developed this system which helps to detect fire as soon as it begins. As you may see, smoke can get hard to detect.
+
+[11:40] It gets confuses by clouds, mist, dust in the air. Does it work? It works. Within our model, it's based on yellow. It's called you only look once, so every screenshot is analyzed.
+
+[12:03] And that's what gives you the the bounding box that you you see in the time lapse. What? It won't run again. Sorry. So, this is actually currently, it is a simple node with IP cameras. A Raspberry Pi graphs the images and sends them to our server. We have a on premise server. We have developed this dashboard, and we are currently collecting images.
+
+[12:29] The real value behind this is the dataset. So, I mean, YOLO from Ultralytics is an open technology, but if you use it as a stock, it won't really perform. Right? So you have to, like, increase your dataset and fine tune in your own landscape and different climate conditions.
+
+[12:52] This is what we have been developing during this year. We have this dashboard, and we collect images and tag them. This is the the background of the system. It's an automation system. We generate analysis and alerts. That's the, how you call it, like, the raw output of the model. It's the bounding boxes. It's like super efficient model.
+
+[13:17] We have been consistently increasing performance. Those are accuracy and recall metrics. And especially here, you can see we managed to drop from seconds to milliseconds the performance of the system. That was a huge leap. And that's the point where we are now. We are gathering images. We need to gather 100,000
+
+[13:40] images in top, in order to maintain correlations. We are generating synthetic images, and we are working on it. Thank you for your attention. You can follow us. Check. Alright. Next up, we have Anissa. Please welcome Anissa to the stage.
+
+[14:11] Hi, everyone. So my name is Anissa, and I'm currently working on Nomad Citizen, which is basically a product between SafetyWing and Plumia. Today, I'm going to be talking about building Internet countries and the social infrastructure that can actually back them. But I actually want to start this session with a quick question. Chance actually asked me a question recently, and it really made me think. Right? Like, do you feel more loyalty or, let's say, like, civic pride to your passport country or, let's say, like, Ethereum?
+
+[14:39] Right? And that's an interesting one or, like, whatever community that you feel allegiance to. Because for me, like, I love my country. Right? But, you know, I got into Ethereum. I started building a crypto. And over time, I ended up heading up, you know, my own companies, and I ended up working in a web three investment fund for a family office in Hong Kong. Now, like, none of these opportunities, literally dialed the government and hey. I want an opportunity. Like, they didn't they weren't there to help me. Right? But it all came from the communities that I chose.
+
+[15:06] So for me, like, my passport is just a document that I had at birth. So my question is, why does everything, like, literally your entire social infrastructure and what you fall back on is still tied to the first thing of when you were born versus the communities that you actually self selected yourself into? Like, I'm sure a lot of you guys are. And so that's why we built Nomad Citizen. It's basically meant to be a better alternative of a social welfare system that you can self select yourself into regardless of what password you hold.
+
+[15:35] We're basically reinventing better health care system, visa frameworks, and taking the best social protections from around the world. So, you know, for example, like The Netherlands, I'm currently living there. Their income protection is great. Singapore's health care systems, Japan's passport access, and basically baking them into one comprehensive global membership that travels around with you. So as it stands, Nomad Citizen currently launched on the August 14. We've had about 2,000 people on our waitlist who have applied to our new welfare system,
+
+[16:06] which means that they can unlock worldwide health care, income protection, life and travel insurance, emergency assistant, payment cards, and even more. This is basically just version one, of our membership, and this is just the foundation of our citizenship as a service offering, which will eventually, evolve into the Plumia passport. And we're not either, like, starting from scratch too. This is basically built by SafetyWing. It's a company that's where you provided safety nets to 500,000
+
+[16:32] remote workers and nomads around the world. So if you wanna experience a different, better social welfare system that you're choosing yourself other than the one that you inherited, feel free to scan the QR code here to apply. You can also reach me on Telegram @anissaporxatsasaunderscoreetc. Thank you so much. Incredible and super, super relevant for, I think, what's going on in just the broader network society,
+
+[17:03] network city space. Alright. Next up, we have blank screen. And after that, we have Vibe Manager. Please welcome Alex to the stage. Hello, friends. Yep. So, essentially, who here managing some projects?
+
+[17:28] Yeah. So okay. Shit. Hard to hard to talk. Okay. Can you support me a little bit? Because I'm for you. Okay. Okay. So thank you. Thank you. So, anyway,
+
+[17:50] we I live in Copenhagen and I do real business, not in web 3 yet. So that's my team, that's my office, that's the houses which we manage. We have property management company. It's two main managers that may see storage. It's like real business. And ten years of entrepreneurship, I always was managing starting companies from scratch without investments,
+
+[18:14] so, like, bootstrapping. And, yeah, I just I'm IT guy from my, like, Olympiad programming school, like, fifteen years ago. So I, like, automated a lot of stuff. And here, I'm looking for for a team members with whom we can grow some of these workflows into a SaaS product as a startup. This example of employee,
+
+[18:41] like AI bot, which is used every day. My staff sent messages of financial transactions, recognition of images, and, like, I just click approve, and it get posted to QuickBooks Online. It's one use case. That's how messy and crazy it looks like in n a 10.
+
+[19:04] I mean, messy it all makes sense, but it's like programming without, like, programming. Yeah. A lot of these workflows and MVP is working and bringing value to the company now and can bring value to more companies. That's QuickBooks Online accounts in both. It's one use case. Another, like, I prepared to search these slides, but here, like, just three minutes. So another, like, automatic issue detection and
+
+[19:32] analytics when in Airbnb something going wrong. Another is, like, I'm asking feedback about my management style and I give a really harsh feedback as as a request, yeah, of brutal honesty, which is fun and truth in partly. Yeah. And as why it matters? Like, in one year, I grow business from zero to six like, 12 now and five view onboarding villas.
+
+[20:02] And one property manager visas automations handle usually, only 10, then they got overwhelmed. My my property management handle all and yeah. And and good that I can go with with you here, can be with you on vacation in South America and other side of the world, and rating is still good. Yeah. So join development and
+
+[20:29] make make better managers more. Yeah. Together. Great. Great job. Alright. I'm gonna refresh the deck just to make sure we have the latest. Next up, we have Dan Stodd now. Please welcome Roman to the stage. Hi,
+
+[20:55] everyone. My name is Roman, and, my background is I've been web three engineering since before the word web three and built a lot of, like, DeFi, built my own DeFi development company, and also into machine learning. So I'm like a software engineer a lot. But also, I'm a huge optimist on humanity. I do believe that
+
+[21:20] we are here to evolve our consciousness, and we are here to build a bright future. And, for me, really dancing is my medicine, and that's why I'm really passionate, building the project that I'm working on. As you can see, my smartwatch is flashing to my heartbeat. It's flashing quite often because,
+
+[21:43] I'm quite nervous. So the point is that it's an it's a wearable app. By the way, it's my first time building a wearable app. I've never built for wearables before. Thanks to AI. It's pretty easy now. But yeah. And so it's basically tracking how I move my body, like, the activity
+
+[22:06] of my dance and streams it into the app. And the idea is to track how actively you dance on the dance floor, track the heart rate, track the movements, and, notice correlations between different people and notice So all the like, collect all the data, like, how do people dance on the dance floor. And we're building basically a
+
+[22:30] dance to earn app that you the more you dance, the more actively you dance, the more you earn. Also, if you inspire other people to dance, then we can track that from the correlations between the data, like temporal and spatial correlations that, oh, someone started moving like after you. Probably, you inspired them to dance, then you get a multiplier.
+
+[22:56] And, basically, we are building a global community with venues and dancers and events coming all together and building, like, one community to inspire everyone to dance more. This is my team. Basically, this idea came to me together with my great founder, Steph. She is coming here soon in a week. I hope she makes it. And,
+
+[23:23] we are currently in our very first phase building this MVP. And, if you're keen to join us on the dance floor, November 13, We are going to host, a party, a dance, and I will be really happy to see you guys on the dance floor. And if you're keen to join, please RSVP
+
+[23:45] on SOLA. That is the QR code for that event. And, let's dance. Amazing. Dance to earn, guys. First at Edge City. Incredible. Alright. Please welcome Jack to the stage. Amazing. First of all, Roman, I really wanna try that as soon as it's available, so thanks for that.
+
+[24:16] So yeah. I'm we just talked a little bit about the Vibe code residency, and I figured I'd just share some some of the projects that we've been working on because, like, there's so many amazing opportunities to build. And I just figured I'd share some of the examples of what we've done so far. So it's good this video is loading now. So there's many different examples of what we built throughout, like, the first two weeks, but,
+
+[24:40] one of my favorites was the vibe check, I built with Tomas. And you can kinda see here, it's a very simple web app where you open it and you take a photo. And then this dog checks your vibe, and then you get a score out of a 100. And then you also get a, it says this crew is giving random encounter in a video game energy, so, pretty accurate.
+
+[25:07] So it also, like, rates revive and gives you a score. And, yeah. So just like a fun example, there's been, like, over 50 vibe checks so far, and, there's a leaderboard. And I just actually saw that it's, like, on the world app now. So if you go to your profile, you can see the leaderboard. And, yeah, there's many just, like, examples of apps like this that we can build. And this was, like, less than an hour of, like, building the main stuff. So it's, like,
+
+[25:33] thanks to Lovable and many other interesting tools and stuff. So so, yeah, basically, there's this. And then I've also been prototyping a lot of Telegram bots, and I've built a platform for building I built, like, an Edge City bot, and I'd love to keep improving it throughout the month. There's many amazing Telegram bots floating around. And there's if you talk to me after this, there's a app I built where you can basically build a Telegram bot in, like, less than a minute and have a personality and a profile photo, and,
+
+[26:02] we could maybe make memes of different people in the community and stuff. So and lastly, like, I'm also using this for, for, like, some business stuff. Like, my mom is a catering company. She's had over, like, over thirty years, and we're starting to automate, like, her whole workflow with just vibe coding, and it's actually insane. So, yeah, I realized I'm short on time, I'll just share the vibe arcade is
+
+[26:26] one of the things that I'm really excited about because, like, with kids, we've been building, like, over we've built, like, over 10 games by now and just, like, I figured we'd put them all in one place. And so the idea is, like, it's an open source arcade where, like, anyone can create a fun little game and just put it in here. This This is an example of a three d game that it also works in VR.
+
+[26:49] And, yeah, there's a lot of different stuff I'll share. This is something I wanna get I wanna get this into the VR, but, like, Nico helped make this amazing image, I basically just put it into Meshie, which is a tool to three d generate, a version of it. So, like, hopefully, we can play a game with or just at least, like, hop in the VR and you can, like, actually see a three d world. And,
+
+[27:14] yeah, I see I'm short on time. I'm trying to break the, the thing. Vibe Buildathon, I'll talk more about this, like, in the Telegram chat and stuff. But, yeah, it's it's basically this month is, like, an amazing month to be building, and this week, we're gonna be doing, a lot of hosting at our house. We're gonna have some bounties. We're gonna we have a Telegram chat. So if you want to be involved, we basically just spun this chat up, and
+
+[27:39] it's gonna be a lot of fun, and it'll just be a good excuse to build more with you guys. So, thank you very much, and it was five. So yeah. Thank you, Jack. Alright. Next up, we have Piggy Wallet. Please welcome Matute to the stage. Thank you, everybody. Alright. Well, my name is Matute.
+
+[28:03] I am cofounder and CP of of Pig Wallet. I am from Buenos Aires, Argentina. And please make some noise if it's your first time in Argentina. Nice. Nice. So we are enabling secure and fund money management for families in emerging economies. And here is a not so fun fact. Right? So if you manage to save $1,000 in Argentine pesos
+
+[28:25] ten years ago, today, you will have just $9. Right? This is not so cool. Right? Why is this happening? Well, because banks fail to protect us from inflation and schools lack a financial education program. So we keep losing money without even realizing it. That's why we build Piggy Wallet. It's basically an app for families where parents can set up tasks with rewards.
+
+[28:53] Also, can set up saving goals, like, for example, buying a new PlayStation. We are adding an gamify experience for kids so they can learn about finance in a fun way, and parents can make growth the money of their kids. This is a proven model, but in an untapped market. Greenlight is already working in The US, going hungry in UK, but emerging economies,
+
+[29:16] they don't have the these kind of solutions. We are a team of three Argentinian builders. Our CTO has more than eight years of experience building on Solidity on Ethereum. Our, CEO, Sofia, has a bachelor degree in technology and businesses, and they've been designing on chain experiences since more than five years ago. We have a very,
+
+[29:39] easy business model based on fees, and we already have some market validation. We have more than 500 people in the wait list. We already have a 100 beta testers in our beta tester group. We have been winners of a couple of hackathons and been at the rate at Trapper University and Start Global. Why this is the moment to do this? Because penetration of Internet in Latin America is in the highest moment ever.
+
+[30:05] We don't need anything, related to licenses because of the infrastructure that we are doing with blockchain. Genius Act in The US is helping a lot with the use of stable coins. And self custody and account obstruction now is easier to integrate than ever before. How are we planning to reach our first 100,000 users based on mini apps on different apps. Like, for example, Lemon app, Base app, World app, and Cello app. With this, we have an exposition to more than 40,000,000
+
+[30:35] users. So if you wanna join our movement to bring financial education to the next generation, please join our telegram group so you can start testing our our beta. And I would like to know you guys and receive a lot of feedback. I will be here two more weeks. So please join our Telegram group, and I want to receive feedback from everybody here. Thank you. Alright, Matute. Thank you.
+
+[31:04] By the way, I will share this deck in the chat afterwards. So if you miss any QR codes, don't worry about it. Alright. Next up, we have Sportchain. Please welcome Daniel. Daniel's getting mic'd up for content purposes. Love that. You got it? Perfect.
+
+[31:30] So hello, everyone. How are doing? Yeah. So thank you very much for this opportunity. Well, my name is Daniel. I I am the founder of Fortune. I'm I'm part of the list resiliency group. So couple more time for for me, please. Yeah. So, my about little bit about myself. I am Peruvian. I live in Buenos Aires, and I have more than twelve years of experience on software development, and I'm love in finances.
+
+[31:58] But my thing is sports. I love sports. I'm passionate about it. I practice a lot, and I play everything. So that's my thing. And in this opportunity, I want to share something that is is is increasing on on on the world. We have right now an increasing of people that wants to play more sports. There are a lot of activities here also in HCT. So that that's amazing movement.
+
+[32:22] And, also, there is a lot a lack of investment opportunities for people. Because if you want to build, I don't know, a paddle court, it it's it's very expensive, and you need to have a lot of money to do that. So that's why I I build this this this platform that is, that would allow people to invest and and build sport venues around all Latin America and all around the world.
+
+[32:45] So the benefits of that is we can democratize the sport investment of the of the company by using tokenization, and that will allow you to for investing, like, $100 and you are part of the ownership of the company of the sport venue, and and you will get some revenues about that. My MVP is gonna be at at Paracord in Buenos Aires. I need, like, $202,100 dollars on that, and it will return you, like, 1520%
+
+[33:10] return on investment for a three year investment cycle. So that's a a great number for investing your money also. So, yeah, you you are getting money and you are supporting the sport. So that's two wins. So and the first value of my of my of my company is community first. So three months ago, I started making tournaments on paddle. So it's a fever here in Argentina. So you you are welcome to join these paddle tournaments on on on Buenos Aires. But, yeah, I think having this experience for them is the best fit feeling for me and, yeah, makes a great community.
+
+[33:43] So thank you very much. I've follow me for for more information, news, and events. I am doing a PAL tournament this Friday on HCT and one pilot tournament. I'm running for DevConnect. So follow me, and thank you very much. Alright. Next up, please welcome Viviana to the stage with Arnold and Warren.
+
+[34:13] Hi, everyone. Happy to be here again presenting. So I want to introduce you to Transcend, which is an immersive sonic journey, which it it it has eight hours. And, this is kind of a think of this like an ecstatic dance, for ravers, we really well curated music
+
+[34:38] and with music that we can we can make sure that is gonna put you in an altered state of consciousness. So this party or this experience is based on the principles of the rave culture and the least, deep listening, and it's based on my academic work in the neuroscience of immersive sound. So, for context,
+
+[35:01] some of you know that, I'm working in, oh, sorry. I'm so nervous now. Okay. So this is a photo of my life in London where I'm I'm usually exploring contemplation or ecstasy through a immersive sonic experiences. Yes. Having a bunch of people in a room, listening to music, and measuring the level of absorption into the sound.
+
+[35:31] And and the other part of my work is about trans. So I see this as a continuum between ecstasy and trans, and I see this also as this metaphor between Apollo and Dionysios in Greek mythology, and we need both of them. So some of you are coming to my experiments from tomorrow, but this other event
+
+[35:53] is about releasing and more like an embodied experience. Yeah. And so this is not like a normal party, like I said, but it's it's a proper sonic journey. And there are some quotes about a altered states through, electronic music and through different textures of music, and we have a really good lineup of musicians. And I think that, Roman, we should talk about this and
+
+[36:19] yeah. We're together maybe in this. And I'm gonna pass this to my colleagues about to talk about the principles of the Rave experience. Hi, all. Yeah. So I believe a lot of us here are experienced already with raves, but we want to highlight some important differences that make it not the same as just a dance party nightclub. And, yeah, we're really short on time. So, basically, rave culture grew out of queer, black, and Latina communities
+
+[36:44] that were seeking to create temporary autonomous zones that gave them a place to exist fully outside of the usual structures of oppression and surveillance. And some amazing technologies and social protocols came out of this, and we're working in that tradition. One of them that is really clear is that freedom of the dance floor requires boundaries. And so, this is super clear after all of my experience in raves. And so we've written up, basically, a a social contract because I found that, basically, the kinds of borderline miraculous breakthroughs and downloads that happen on the dance floor in raves only take place when there are social contracts that everyone is abiding by. And I will hand it over to Marco. Yeah.
+
+[37:16] And just so my final point, ten seconds. So, some of me some of you may know me as a governance nerd, but what does that mean? Governance is also a function of community. So we're gonna be experimenting using Ethereum technology to see how we can leverage transparency and trust and see how we can make this memetic and use it as a CC zero for other communities to replicate. Thank you. If anyone sorry. It is happening on Friday, and if anyone else can support us, this is just, you know, a random event that the three of us put together. We've never met each other before. But through our communion of love of music, yep, just come and reach out to us afterwards and speak. Thank you.
+
+[37:54] Amazing. Every single person on this slide is an absolute gem of a human. I can't wait to see what they cook up together. It's gonna be Friday this coming Friday, so in five days. Please get involved in that. And it's gonna be like a really proper underground techno sound from what I understand, so I'm very, very excited about that. Alright. Next up, please welcome Grace. Hello, everyone. So so who here wants to make art, touch grass, earn Bitcoin? Raise your hands. Alright.
+
+[38:26] Awesome. Well, I'm gonna cover a little bit about my background on how how I came to this conclusion. So I'm a multi hyphenate designer developer, serial entrepreneur, neuro artist, VC. And so, I started a company that was an entrepreneurship education company that grew to 70 countries around the world where I was traveling to help start entrepreneurship ecosystems. And see, these are some of the organizations I was working with. So this informs a lot of, like, my perspectives as to, like, what I do and and what I do next.
+
+[38:55] I was a neuro artist. So ten years ago, I was working with brain brain computer interfaces to make art installations and consciousness research. And then I became a VC, but I quit shortly after to become an artist because I saw how messed up the whole systems are. And, when I became an artist as a music artist and filmmaker using AI web three technologies, I realized how messed up the systems are for artists. And I realized that I could do something to solve these problems with, like, all the multiple hats I've worn. And so this is what brings me to, my my insights.
+
+[39:27] So there's no way for indie creatives to create and monetize from their original IP. And so we see all these, like, movie studios and music studios, game studios are all just, very centralized. And so I was like, how can we actually make artists entrepreneurs? How can we actually help more indie creatives earn from their original, art pieces, IP, and and productions? So how can we build sustainable systems for creative flourishing? What I wanna see is I wanna see more creative people creating and because I I believe that everyone is a creative at their hearts. And storytelling,
+
+[39:59] music, arts is is core to humanity, core to human connection, and is ultimately the healing technology that we all need. So my insight is let's decentralize Hollywood. So I'm building Playhouse, which is a three d virtual theater. Basic basically, three theater is the oldest form of storytelling
+
+[40:21] that combines music, arts, performances, and it became the movie studios that we know today. And so by building a three d virtual theater, we can actually decentralize the productions that we see today. And, so yeah. So decentralizing Hollywood, because there's just, like, too many middlemen, too many gatekeepers. Let's flip the system. I have this, like, vision for, like, a circular economy within Playhouse where we can actually make a system where more creators thrive and flourish.
+
+[40:47] Yeah. So join the movement. Pixar built three d animation software that sold to Disney for $7,000,000,000. Playhouse is building three d animation software for 7,000,000,000 people to be their own Disney studio. So if you wanna join, the movement, you can scan this QR code. I'm actually giving a talk on Wednesday, called make art, touch grass, earn Bitcoin. And, yeah, you can come in to learn more. So, scan the telegram for alpha access and to get updates.
+
+[41:15] Thank you so much, Grace. Alright. We have four more amazing projects, so keep up the exaggerated applause. And next up, we have Romy. Please welcome Romy. Hello. Hello. So let's start with the question. Would you lend me $1,010,000
+
+[41:40] dollars? Okay. 500,000? Good. Would you lend $10,000 to Vitalik Buterin? No? Timur, 500,000? Yeah. No. Okay. But what I'm trying to say is that reputation matters. So
+
+[42:02] hello. My name is Romy. My team and I started a startup six days ago because a great opportunity came to the game. So we are in twenty two days startup rally in progress. So I'm posting every day, and let's go. The overclock authorization problem in the DeFi is something what we think can be solved.
+
+[42:25] So current DeFi borrowing is broken for most users and it works only for, like, less people. Like, you need $150 to borrow $100. Like, what is it? You have a liquidation anxiety, and this is like a huge excess barrier. So we think that this can be solved. This is screenshot from my hour alone.
+
+[42:48] So our solution is like reputation based lending. When you need like zero or under collateral, your history is your collateral, like history of your wallet. So your it's something like on chain credit score and based on this, you can, like, borrow assets. And you can, like, build and improve your reputation to, like, get better terms. So market opportunity is huge. This market in thread five is, like, trillion dollars.
+
+[43:16] And okay. How it works? So we can look to your, like, wallet age and activity with what protocols you are interacting. We can ask for, like, some proof of human to prevent civil civil attacks. We can take a look what types of tokens are you using. Maybe if you have some meme coins, you're a gamble and it's not a good idea to give you a loan. And,
+
+[43:39] yeah, we can, like, take a look to your repayment history and maybe we can ask for, like, email and some of your, like, social media accounts for future use and some other things. There's a lot of things to play. And what will happen if you will not repay? So we can, flag your wallet in the blockchain explorers that you are not a good person. We will maintain a public non pair list. We can ban you from our platform
+
+[44:05] and start spamming you on the social networks that this person is like a nonrepair. So reputation damage can be bigger than, like, financial loss. So, yeah, we already, did Anlu version one, what was a Hackathon project. And right now,
+
+[44:27] we are working on, version number two. We will we will be presenting during DevConnect on Eid Global Demo Day. And, yeah, like, today's day number six, so some of my post from the Twitter. And, yeah, join our community, and let's go. Thank you, Romi.
+
+[44:49] I'd I'd lend you $10, Romy. Alright. Next up, we have Juan Chee and Diego. Please welcome them to the stage. Hi, everyone. My name is Juan Chi. I'm from San Martin De Los Sandes. So, everyone, welcome to my city.
+
+[45:16] And the other day with my friend Diego, I was talking in my favorite place on HCT. I guess some of you is the same favorite place too. I'm talking about yeah. The sauna. We were talking about the incredible spaces we have here for sharing, for innovation. This place is made in, Edge City, but there is only one huge limitation for us, the limitation of times. There are too many cool projects, too many cool people. It's impossible to, in one month, to connect with everyone. We connect with all deeply with all the approaches around.
+
+[45:51] That's why we imagine something different. What happen if a city that never ends? What happen is every event, every hackathon, every red residence can become part of something larger, something like a living network. That's why I'm matching this Connect City. Connect City is a place where
+
+[46:14] all can connect with the people. We can share our project. It's a place for builders, founders, and creators. It's a place you can find your partner, your future cofounder, or even your future investor, where everyone can show what they're building, share their projects, and discover others doing the same. This is our demo because well, we launched today, so it's
+
+[46:38] only a few projects. Well, here, you can explore and connect with your favorites one. You can reach out different creators to share perspectives. You can collaborate beyond borders, events, and also beyond time. Theo and I think about Connect City as a living network where innovation never ends.
+
+[47:02] So this one we today, we have this. We have the login with your wallet, your mail. Also, you can synchronize with your Karma GAP, and we are looking in the future to connect with POAP verification, multi event tracking, and also a power project matching. So we would love you to join us to post your projects to be part of this community of builders shaping what's next. This is Connect City building together.
+
+[47:30] Amazing. Thank you so much, Wanchi. Alright. Our penultimate project, we have DevConnect. Please welcome Nathan to the stage. Thank you. Thank you. Hello, everyone. I'm Nathan. I'm not from San Martin, and I'm very glad for the opportunity to talk to you about DevConnect. Quick question. Who have heard about DevConnect?
+
+[47:57] Alright. Most of the people. So I'll be talking mainly to the ones who have not raised their hands, and the I'll be doing a quick rundown of what is DevConnect. So it's basically the biggest global Ethereum event worldwide, and it will happen this year, next November in Buenos Aires. Here is the website for people who would like to know more. But it's basically okay. We're missing some information there, but never mind.
+
+[48:21] So we're doing a lot of things during DevConnect. So we'll be doing more than 40 events inside the main building. We have education and content for all levels and all profiles. And a bigger innovation for what we do this year at DevConnect is the showcase of applications in real life that you will that you will experience. On top of that, we will have core activations and a lot of different stuff. Alright. That was it.
+
+[48:46] This is what DevConnect is. And, yeah, as I'm I was I was mentioning the big innovation that we do is that we do the first Ethereum Worlds Fair. It's and I think we'll be it will be very, very exciting. This is a calendar of events that will happen inside the venue. You'll find it on the website. I'm highlighting one that will happen on November 19 that I think is very relevant for most of you to attend. TEAC, it's about defensive technology, cybersecurity,
+
+[49:14] and technologies that go far beyond on Ethereum and biotech, for example, and a lot of science will be there. Also, November 17, the big Ethereum day that we organize. So this is the Ethereum Mod Fair. The idea for attendees to come, set up the wallet, and pay with crypto, pay with their food pay for their food in crypto, and attend and play with the hundreds of projects and apps that will be at PEV Connect. We'll be showcasing apps among eight districts in the venue
+
+[49:44] organized within the DeFi districts with a lot of these projects that you are seeing now. So, again, we have the DeFi. We have social applications that we'll showcase, hardware and wallets. So I'm sure that you will recognize some of the best projects in the space in the privacy district that are not only purely Ethereum, by the way. It's Ethereum, also open source technology, and a lot of very cool projects showcasing
+
+[50:07] while they're also putting into practice the values that we that are very important to Ethereum, gaming, and I see the time running fast. So collectibles, l twos, AI, and a lot of cool projects. We also have onboarding tracks within universities. Like, a, it's among the best universities of of Argentina, so very content oriented to newcomers. So please attend DevConnect even if you don't know nothing about Ethereum is not only for devs, it's for everyone, really, and you have content
+
+[50:35] to learn more about that. Most a lot of it's in Spanish as well if you don't speak English. A lot of community hubs, self organized programming. You have a DSI hub, region hub, LatAm, arts, legal, and everything. We have yeah. It look like that. Coworking space. So if you don't attend events or play with the apps, you can just come and work from there. We even have a freaking soccer pitch. So
+
+[51:04] with a lot of activations, you can come and play soccer there, see the message, and many other activations. We're about to release the app in a better version, and we're building that to facilitate payment with crypto on the ground. So, again, you can set up your wallet on on ramp, like, buy crypto on the ground, and you'll be able to pay with crypto. So we're working hard to make that easy for people to to play with. And, yeah, finally, if you don't have your ticket for DevConnect, we are putting now free codes. So you if you don't have your ticket, claim your free ticket now.
+
+[51:39] And if you are not fast enough, well, Timur will give you free tickets or discount tickets, and I'm missing some information there. Anyway, thank you very much. Thank you, Timur. Thank you, Nathan. Also, just to plug, there will be a music stage, a music section which Shaka will be leading, and it's usually the highlight of these events for me or one of the highlights. So definitely check that out as well.
+
+[52:08] Alright. Next up, we have Ori with the Ethereum Bazaar. Please welcome Ori. Hey, everyone. So I work at the Ethereum Foundation on use case research and and experimentation, and one recent experiment that we put together with BuildGuild is the Ethereum Bazaar. So instead of telling you, I'll just show you. So what this is what you're seeing right now is a Forecaster mini app that's kind of like an on chain version of Craigslist or Facebook Marketplace
+
+[52:37] that has the really peer to peer experience and direct payment, but then also with a layer of reputation using Ethereum attestation service. And so what we built is a way for Edge City to basically for people to unlock their dormant resources, talents, skills, goods, anything, and basically share it with the community. So a really lightweight way to basically post things. Here, I'm buying a mate session.
+
+[53:01] It's delicious. And then leaving a review. And it's purchased or it's reviewed. Okay. And then here's how you sell your goods. Simply create a listing, put a title. Earlier today, we were running some workshops, so we have leftover stationery.
+
+[53:25] So if anyone needs stationery, you can go to the marketplace, claim it, and then we will deliver it. So, yeah, right now, you have to put a price, but you could put something that's, like, sub 1¢. And then a contact detail, photo, and then you post it. And then you can also make a forecaster post automatically so that people know where to find you.
+
+[53:50] The idea here is that we wanna see more real world use cases and experiment with spaces like pop ups where people are already in close contact and, you know, basically have a high concentration of interesting skills and talents and just let people basically unlock the the different dormant potential that you have. And this all came out of research that we did over the last months with lots of projects that are working on peer to peer commerce, some of which are here like mass market and slice.
+
+[54:18] And we wanted to make a very low barrier way to entry to just start to experiment with this idea of directly, servicing one another, rather than necessarily going to the to the market to corporate platforms. And this is all something that we're gonna work on onboarding the local community. And, yeah, you can spin spin up one for your own home community, wherever you go, and let us know what you think and how you could think how it could be improved. Thank you.
+
+[54:45] Amazing, Ori. Thank you so much. Alright. To finish us off, we have one very quick share from Mathan. Please welcome him to the stage. Hey, guys. I'm Mathan. I'm here to who wants to get motivated every day and do whatever they like? Yeah. I'm gonna be holding a a hypnosis session to put you in a flow state and get motivated at any time that you want.
+
+[55:13] It might be late at that day, but I'll do it on purpose late so you can get in trance fast. So just, be aware of that. Okay? On Thursday. This Thursday. Yes. Alright. Really a full full spectrum here at Edge City. We have Ethereum. We have Hypnosis.
+
+[55:36] We have Raves. Alright. So if you want to present your project next Sunday, I will be, sharing the, form on Wednesday in the organizer announcements chat, so please fill that out if you want to present. And that will be our penultimate demo day for the month. We will have kind of a fine final demo day at the very end. And, yeah, that's it. So we're going to head now to community dinner.
+
+[56:02] This week's dinner is at, Mesta Bar, Bar Mesta. It's a ten minute drive away, so we have shuttles. They're actually already outside. They will either leave from just outside the village or just right. If you can get an Uber, please do. They're plentiful and easy. If you can drive yourself, obviously, please do. Carpool, get some folks with you. And when you get there, this week's restaurant
+
+[56:27] is seated. So we'll actually ask you to join a table, maybe meet some folks you don't know already, and then they'll actually come and take your order. So it's a bit different this time. Everyone will pay for their own food, and, yeah, we'll have a good time. So thank you so much. We'll see you soon. And one final note. Sorry. Shaq, if you can turn me up. We
+
+[57:11] will have a talent show back here starting at 9PM, so be back here for that. Thank you.

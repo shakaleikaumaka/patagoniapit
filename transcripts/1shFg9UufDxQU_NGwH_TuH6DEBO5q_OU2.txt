@@ -1,0 +1,151 @@
+# Consciousness Residency Demo Day
+
+Date: 
+Source video: Consciousness Residency Demo Day
+Drive: https://drive.google.com/file/d/1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2/view
+Duration: 00:36:11
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:03] Hello, everyone. Welcome to the consciousness residency demo day, midway demo day halfway through the month. Really excited to be here. And for everyone to share a little bit about what they've been working on throughout the month, different experiments, super exciting, we can get right into it starting with Christine who
+
+[00:27] came very prepared. Hello. I'm Christine. I'm gonna talk about two things. I'm gonna mention event that an event that I had and then the reason why I'm wearing all of this stuff.
+
+[00:53] So, we just had an event yesterday called, Vibe Science and Love Science where we had an algorithm where, it takes people's answers to psychometric surveys and predicts how much, they'll be they'll get along with someone else. We, you know, we've done several iterations, and now we did one at Edge Patagonia.
+
+[01:19] One of the things that you get, by email is your top five, matches of your of platonic. And if you want to opt in, then people who match your romantic preferences. You also get a cluster color. We cluster everybody to maximize the chance that, you'll be more compatible with people in your cluster, so it's something to talk about. For example, I was blue. And we use, an app, obviously, to show people the information.
+
+[01:46] We also had, I think, very fun thing where we had match codes and generated, we could take a QR code, like, as you see there, get someone else's, match code, and then we run it through Claude. And, after extracting personality traits from everybody's answers, we get, how they're similar, how they're different, and how they might get along.
+
+[02:09] So it's just a fun conversation starter, and people seem to seem to like it. So that, was a pretty fun little event. Now I'm gonna talk about, the work that I've been doing and I'm going to keep doing during this, EDGE Patagonia, starting with the the main thing, is the dynamic health project involved with the consciousness athletes, which you'll see more about the experiments that they're taking part in, after I finish my presentation.
+
+[02:39] Just to recap, the consciousness athletes are a group of 20 people who I've get we've given Fitbits to and polar chest straps, which measure your heart rate so that we can compare them and get a a scalable thing on the Fitbit. We also had optional tagging when people were doing things such as cold plunges, breath work, exercising so we could analyze,
+
+[03:03] differences in their, heart rate when they're doing, certain exercises, and that can give us insight into the rest of their body. So that's a a fun addition. So we got the instruments and distributed them. So now people have them. They're currently wearing the Fitbit the entire time and polars for twenty four hour periods.
+
+[03:27] I'm gonna skip this. This was okay. Coming up now is the resilience protocol, which is why I'm wearing all of this. This is a chat GPT image. You don't put things on your shirt, but I liked this picture. So there's an EEG, which is the brain. There's a respiration belt, which is breathing. There's an ECG, which is your heart, and then there's a galvanic skin response, which is your skin. And we're gonna look at how they all, are connected to each other during different tasks.
+
+[03:55] This is, where it's set up. You can either see it in these pictures or on me. There are 10 electrodes in in total. And while people are wearing this, I'm gonna have them do several tasks. For example, deep breathing, putting their hand in ice water, which is like a mild stressor, and looking at the shape of the curve of their response. And they're going to do several, cognitive exercise like puzzles and looking at if you look at this cube, it, long enough, it starts switching front and back
+
+[04:24] and then rating how they felt during that experience in certain dimensions. This is just a video of what I'm about to show you live. So let's do that because that's the fun part. So this is a live feed of what we will be measuring. The analysis will, have different metrics on every single time series as well as how they interact with each other.
+
+[04:53] I'll just I wanna be able to point at the screen. No. Okay. So the top one, if I stop moving, it looks like a heart rate. Right? That's the ECG. The number two and number three are the EEGs coming from my brain. Number four is coming from my skin response. Number five is a ground, and number six is my breathing. So if I go
+
+[05:20] you know, you you can see it. So that's so that's kind of fun. This will be what we're looking at during the resilience protocol. And, yeah, that's, all I'm doing right now, and we will talk more about the rest of the experiments when everybody else comes up. K. Oh, okay. Yay. Alright.
+
+[06:30] Hi. Hi, everyone. In this demo presentation, first, I wanted to give a little bit big picture because Madison wanted me to do so. And I wanted to, I guess, yeah, give a little bit, like, update what we have done and what are the next steps. Because for me, I think the first two weeks was more like, oh, start a lot of things, collect data,
+
+[06:55] and then reframe and then continue with it. Let's see what's gonna come. And this is the presentation that I'm gonna do first time in this way about some research talking about synchronicities and telepathy. So it's gonna be a different, I guess, paradigm of presenting. But, basically, what I'm trying to do here in consciousness residency, I'm trying to measure if human connection
+
+[07:20] could be measured or designed or trained, and I do it in different ways. So I have this company that I'm building. I don't know what it is gonna be exactly yet, but what we are trying to do is making invisible connections visible. All those deep meditators, psychedelic users, Buddhist, they say that we are all connected,
+
+[07:44] but my analytical mind keeps asking, do we really, really connected? And I think one of my mission here is to show that by measuring, designing new ways for humans to connect. One of my main project before coming here was another science of human connection just because it's the most grounded and database ones. But just because I was coming to consciousness residency,
+
+[08:08] I brought two of my other, let's say, dream projects here to see how they are gonna come up. First one was synchronicities. They are my healthy obsessions. Since I started learning about the term, like how Carl Jung brought it, how it defined, how it has this analytical side rather than on the spiritual.
+
+[08:31] I keep following them, tracking them, trying to find patterns, and see if they lead me to somewhere. So here at Consciousness Residency, first week, Syncora was born, and I really want some applause for this. This was one of my dream project to build some AI knowledge graph behind synchronicities
+
+[08:54] and not only individual synchronicities, but collecting collective synchronisties and see if there's any emerging pattern behind them. I'm super grateful for Josh and Bonfire team here. First week, they came and then made it so easy to integrate this tool into our project. One of my main goals is here to show
+
+[09:21] individual patterns in the global pattern so that it can be maybe first time showing empirically the collective unconscious exist, and it does some arrangement in our network. A couple of just new discoveries in this network. So what you see here is actually the synchronicity network that is building from the manual entries that everyone enters.
+
+[09:48] It's so amazing to watch it growing and and making those connections that wasn't there before. A cup like, we need more data. My first understanding from this project is, first of all, for really, really meaningful patterns to emerge, we need more data, of course. And I realized that some people, including me, some synchronicities are actually becoming a bit weird and entering them in a public space. That is, I think, one challenge that I need to we need to think about, like, you know, how to make it more maybe private and secure. That is one learning that I got out of this. But the things that we can actually show with the data here for the first time is
+
+[10:32] I'm grateful that Synchora found me as a bridging knot as I'm an emerging a bridging knot now collecting different I guess, connecting different synchronistic clusters that wouldn't exist before. So there are those people, consciously or unconsciously, apparently, doing this network organizers. Temporal patterns are showing up. We see it in the data.
+
+[10:56] There are probability attractor places, which already intuitively, we knew it. But first for the first time, we can actually see it in the data. For the data that is entered here, it was Agarta House. I would expect Consciousness Residency House more to be a probable detractor, but more Agarta House people are, I think, entering their synchronicities, and so many synchronicities are happening there. And a little bit also. Congrats to them. There
+
+[11:23] are statistical impossibilities are also showing up when people enter their synchronicities. And one insight that I got, which I hadn't thought before because I was tracking synchronicities thinking that they are correlated with the some level of consciousness and awareness. But it's maybe not the frequency, but also complexity of the synchronicities
+
+[11:46] now because we see a pattern even in the HCT, complexity of the synchronicities are slowly increasing. We also organized the we did a couple of workshops telling people what is synchronicity, how can they see it. But another something new was with the support from Nico from Agarta House again. We organized the synchronous to Safari.
+
+[12:10] I don't know. It was at eleven one. Was it coincidence or not? But it just came that day. This time, we I'm not I'm not gonna give into details of the game, but it came again a little bit me collecting data from my synchronous to talk. We learn I I hadn't heard about Chaos Magic before. Apparently, there is this belief system that you can modify your beliefs to induce more synchronous. Like, I was until now, at least personally,
+
+[12:39] I was observing and I believe that we could create and I was trying to reverse engineer them to how to create, but I learned also some new frameworks. So we are integrating those things into now a new game, I guess, a real life game that you can be the agent and the player and then go out and and look for the synchronous. Okay. So the second one is telepathy that I just started here. The question here was
+
+[13:09] so if if more synchrony, at least the more connection, the more connection can it lead to telepathy? And I think one thing that I wanted to bring to consciousness residency and HCT is a less stop questioning if telepathy is real or not, but let's go all in and try like, accept that it's a human skill that is a necessary step in the human evolution, and let's try to accelerate it.
+
+[13:38] So what we've done is so I was kinda a little bit, I guess, exploring different kinds of like, how to make it more game because everything is in consciousness as, you know, game fun, flow. How to make it more game? How can we look at between pairs or groups? So we designed I'd like, I designed a couple of games,
+
+[14:01] which I was thinking of maybe doing a little demo here playing, but I'm gonna skip that. Pair like, we we designed the pair game and wipe coded it so people can actually, like, play and then increase their accuracy and if they wanna practice daily. We organized a group game, which is, again, I think for the first time in that game, some we used the field message
+
+[14:26] to understand how resonant people are. In that game, we got a couple of interesting results. There was a like, I think 50 people were in our first talk, which was quite an interest. Like, one fifth of the village came to listen telepathic talks, which was interesting. But in that first group game demo, we even captured one pair, right, which was perfectly a match. And then we captured a couple of
+
+[14:56] pairs that are already close friends or couples. So that was the first time that actually that we might be capturing something from the field with our telepathic abilities. So this is something that needs to be iterated a little bit more. Maybe also to like, next week, we are gonna try with another big group. And I tried a couple of new measurement and transmission system using this energy centers and emotions and colors together. Like, if we can
+
+[15:24] if we can create a new measurement system, we also get a couple of feedback on this to iterate on it later. The colors and colors and emotions together was a little bit confusing for people, but we learned that. So next next in this telephoto games, so this is the part a little bit that I'm I don't know how to present. Because the the way that I was collecting data on telephoto games, yeah, like designing games and then also a lot of my synchronicities
+
+[15:54] were happening here today related to telepathic. So I was also observing what's gonna happen, if something is gonna happen, you know, being more aware. And I had a lot of synchronicities related to telepathic, which you can see all of them in the Synchora chat box if you are curious. And looking at them, I decided to focus on one pair by myself,
+
+[16:16] which I call it a triple j protocol because it's with Jana, States, and two people having the first name starting with j. One of them is here. And I think, you know, sometimes, like, you need to focus on one problem that might actually result in 10 x result.
+
+[16:40] So I believe this is one of them. So I wanna focus on this one more for the next next weeks. Hopefully, we can do it maybe in one and a half week, but might not. But I feel like something just started here as it and last one, click connect. I just wanna show this because there was a little bit of hiccup on this one related to hardware that the hardware that we borrowed before coming here.
+
+[17:05] So the project the the main goal of this project is basically, can we also make those invisible connection visible by just looking at people's frequencies? And mainly, we are focusing here, like, brain and heart frequencies just because there are a lot of papers showing that entire brain synchronization and heart synchronization is an indication of a connection. What I wanted to to do here is the first time,
+
+[17:31] I guess, running that experiment and collecting data in real time in a city outside of the lab. But as I said, just a little bit of hiccups, like, the hardware that we wanted to get here, they were a little bit old. And then I made a strategic decision not to go with them and not waste time with them. And then last week, we were trying to set up other two hardwares, which are now they are up and running, which is because Kristen is demoing with other stuff. I didn't wanna demo. But,
+
+[18:03] honestly, I'm not sure if I'm gonna call continue collect data with those things or not. That's why I think I wanted to say here maybe I'm gonna look for collaborators for this special project, teammates and investors. And but one reason that I'm thinking is also because, yeah, that we are single and to find people. And I just want to show you that I made an AI video, what if loss of frequency out of an article that I wrote all about this entire brain synchronization,
+
+[18:33] hard synchronization, how it can actually uh-huh. Should I play? Uh-huh. So this is literally so first, I wrote this article and then I converted to song lyrics and then I made the AI video. All of them are designed and brought together by me.
+
+[19:03] And I I'm I think I'm playing in the end a little bit, but what the hell is the frequency? You like it?
+
+[20:24] It's gonna be my opening song about me and this image making company, guys. Maybe the future is our words or minds alone.
+
+[20:55] The synchronicities when we feel like home. Surprise and icon. Thank you. Thank you, guys. Yeah.
+
+[21:19] We'll continue. Maybe here, maybe not, but we'll continue to that project too. Thank you. Settings?
+
+[23:40] Sorry. Hello, everyone.
+
+[24:10] Thank you so much for coming to this presentation of the consciousness residency. My name is Viviana, and I'm a doctoral researcher in altered states of consciousness in the context of immersive sound. So usually what I do is, trying to understand how people can get absorbed into something, and I I'm using music for that,
+
+[24:35] goal. I go to this conclusion after many experiences that I had myself, like, going to festivals or just being in my house listening to music and I was feeling that I was leaving my body or with certain music. I was having, like, psychedelic experiences
+
+[24:58] or I was, having weird visions or precognitive visions as well. So here at Edge, I'm having four different sessions based on my work. I'm trying to understand if electronic music,
+
+[25:24] which are these four different type of independent variables for in for electronic music, influence the way that people achieve these alter states and can get really absorbed into the music. But another interesting variable that I'm trying to observe to see if it has a lot of influence on people's behaviors and alter states is the sound system.
+
+[25:50] So for me, in my in my normal job in London, I work in surround systems. So I have a lab with multiple speakers. I should have put the photo here and I forgot. Sorry. But here, it's interesting for me to see how people react only in two with two speakers in stereo.
+
+[26:13] Because I think, based on the data that I have gathered so far here, that is more about the priming and it's more about how you present and the context and how, other people put the same intention into the session rather than the speakers. But also with the speakers, we have a different effect that even if you are not into the sounds and you can't get into the music, your body starts floating because it's like, it's impossible. It's something that is physical.
+
+[26:42] So, basically, I'm super interested to see, like, why some people are more sensitive to these experiences than others. What type of music? Like I said, I work only with electronic music because I I think that there are a lot of, like, sound healing practitioners already there, like, using gongs and bolts, I love them. But in my case, my brain doesn't work like that. So I need different textures and layers into the music. And I think that
+
+[27:10] many people I have ADHD and some other neurodivergent people need that level of, kind of details to get into these mindfulness practices. So this is a new paradigm to explore. Also, how collective intention change the way that we also get absorbed into something. And active what type of active
+
+[27:34] imagination techniques enhance this absorption as well. So I work with a lot of active imagination techniques from Carl Jung and another person that is called Itzak Bentov. That is the fire of consciousness and all the kind of things that we know right now into that realm of the of the weirdness and the connection with something bigger. And Pauline Oliveros, which is the one of the most kind
+
+[28:01] of influential people in the electronic scene. But as she was, woman and a queer person, she's not as famous as other men that we know right now. Like because yeah. So, like, because of Pauline Oliveros, you enjoy electronic music as you enjoy that nowadays. So she should be more recognized. And
+
+[28:24] so so far, I have done only two sessions and then many people have sent me so many messages. And also after the sessions, they come to talk to me and they have, like, very strong emotions, really strong imagery and visions. And this is very, like, inspiring and insightful to see how it's, like it's not much about the sound system. It's more about different variables.
+
+[28:51] Yesterday, a person came with some brain kind of it it it's not EEGs. It's another thing that measure different brain waves. And then he only has two of these devices, but he saw how in specific moments of the of the track, of the music,
+
+[29:14] the two people get the same amount of synchronization in the in the specific brain waves. So this is very there is a lot of potential here to explore. I can't wait to get back to my house and start exploring more with the EEGs that I'm gonna have from December, January. Many people also told me that,
+
+[29:42] for them was super new to experience music in this kind of settings. So deep listening has a lot of potential also for create communities and for a showing how a different types of electronic music can can be like a vehicles for healing and for, like, creating, like, yeah, different value,
+
+[30:05] so more harmonics harmonic societies. Also, this is super interesting for me because I got to know many people here. So I'm creating amazing collaborations for my future work in real life like Jess and, like, Jess, yesterday, this, person, I don't remember his name, but he came to help me with the breath
+
+[30:28] work and it was very impact shame. Yeah. So it was very impactful. Also, some other people that, yeah, we are gonna start doing things after this experience. And yeah. So, basically, I have two more sessions, and I hope to see some of you there. And I have another project that is called Transcend,
+
+[30:50] which is also part of my PhD and is the second part because, everything that I have showed you so far is about deep listening experiences in this in this setting, like contemplation and instillness. And this is great, but I think that this is very cognitive and this is very much in the mind. So it's like how we can we can create something that is more embodied and is more primitive and we can make it like like this.
+
+[31:19] We can make with this kind of sounds and with with this kind of insight something that is more balanced. And instead of just having these peak experiences all the time, how we can integrate these processes as well in our daily lives. And that happens only when you embody that for real into your into into your gaps. And that happens when you rave and when you move your body. So the second part of my my my work is understanding
+
+[31:44] how we can create these transcendental journeys where combining contemplative contemplative practices with also a, like, more trans like movement and experiences, people can have this level of realization or mystical experience. So, tomorrow, we are going to create the first pilot for this, because Helene doesn't have to be boring. So we are gonna be, like, dancing for many hours.
+
+[32:11] And, Jess is, like, we are, like, 1% to secure the funding for the party for tomorrow. So, yeah, thanks to Jess. So if that happens, it's because of her magic. And we need, yeah, we need if that happens, we are gonna send all the information to all of you, and we need, you to join the party and maybe have a bit of, like, donation
+
+[32:36] for to pay the the rest of the fees that that we need to cover. So, yeah, basically, it's that. We need support. We need more volunteers. And also for my personal project, I need support with anal analyzing the data. It's been a lot. So I have a lot of data that I just need someone to take this data and perform some,
+
+[33:03] statistical analysis so we can have something ready before I leave or we leave. So yeah. Thank you. Oh, I forgot. I forgot something. Yeah.
+
+[33:31] You I have also a company in London that is called New Romance. I completely forgot that I I I do these things in my real life because I have ADHD, so I have really bad memory. So my company is called newromance.net. If you want to, like, know more about what I do in, like, commercial stuff outside of my, academic practice or artistic, like, practice as well apart from my, performances.
+
+[33:55] Yeah. So you can see my things there on my inside. Yeah. Thank you. Is it still rolling? Thank
+
+[34:33] you everyone so much for coming. That was super enlightening and very interesting. And, yeah, it wouldn't be possible without all of you. Thank you everyone.

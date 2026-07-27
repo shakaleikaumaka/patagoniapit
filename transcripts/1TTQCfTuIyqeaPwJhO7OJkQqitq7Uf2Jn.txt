@@ -1,0 +1,315 @@
+# Cyberia kickoff — cyber valley story
+
+Date: 
+Source video: Cyberia kickoff — cyber valley story
+Drive: https://drive.google.com/file/d/1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn/view
+Duration: 01:07:02
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Hello, everyone. First, thanks for coming for joining this event. My name is Dmitry Dmitry Straduksov, and friends call me master, master Saipe. And today, I want to to tell me to tell you the story and the story of the village we built with Joy. Joy,
+
+[00:24] she's my partner. She's sitting here. Yes. And our common family story, I want to share with you. And this is a story, is a part of a bigger course bigger course. This is the course on I think, like,
+
+[00:51] it's more course about the autonomous city construction. Yeah. So you you have a lot of topics related to building this civilization from scratch. And today, I want to announce that during HCT Patagonia, I will do this course. It's nine
+
+[01:15] lectures, four workshops, several parties. One maybe one of you was on the first opening party. We didn't tell you what this was party about, but like, what's the can you raise your hand who was on this part? One, two. Okay. Two, three, four. Super cool. So yeah. We do also, the part of the course is a morning hike
+
+[01:41] program from 7AM, you know, like, when you are talking about establishing the, like, city or, like, the like, actually, in the end, we want to establish a country. And, well, you must be pirate and, like, you must have, like, intrinsic skill to discover space
+
+[02:05] around. So here in Patagonia, we will discover the mountains every morning at 7AM near the letters of San Martin De Los Andes. I invite everyone to join morning hikes. One, two hours of beautiful morning time. So, yeah, that's the introduction introduction to the course.
+
+[02:31] And but before telling you, like, the huge part of this village is actually my story, my own story. And the first question, like, actually, I got when I start to tell about the village. Yes. I we build is actually, like, how did you get into this idea? Like, how does it started? Yeah?
+
+[02:59] And I start to think actually, but when I start to prepare this talk, I start to think where it has started and why it started. Yeah? And it turns out that it started in my motherland. It's like a city called Kaliningrad. It's former Konigsberg city. It's all the, like, Prussian city in the middle of Europe between Poland and Lithuania.
+
+[03:25] And in very early childhood, I learned about this seven bridges problem, which Ehler brought into the actually, the scientific world, which actually was the source of, like, kind of the inception of the idea I want to build. And, like, slowly, slowly, I will reveal.
+
+[03:53] So it's more like a teaser. But one two important things I realized were actually from this. Tell me about who knows about the seven building let me slowly, shortly, like, explain you what is this problem about. It's like graph theoretic problem, and you have seven bridges. And like, Ehler asked how you can pass through all the bridges and don't pass through
+
+[04:26] each of it twice. So basically, after realizing that it's impossible, he proved it. The graph theory graph theory have been born. But more relevant part of the story is that actually this Konigsberg thing already like the country in which Konigsberg have been does not exist.
+
+[04:51] And from seven bridges, you have only two. And that that is, like, more important and more relevant to this building new country thing because, like, it, you know, put me, like, very early the idea how dynamic our world is and how the change is possible. Yeah? So, like, when you like, we we start to talk with people about building new countries.
+
+[05:19] Like, we think it's, like, just unfeasible and impossible. Nobody will give you do that. But if you look on, like, more, like, broad perspective, you will look into, like, decades and centuries. It's it turns out it's, the things that just happens. Every time it happens and happens again and again. And this this time is not an exception. We will have a lot of countries will be born in
+
+[05:46] the following years. After, like, I've been born in the city and grew up there, started to travel a lot by hitchhike and I realized how not easy, you know, to move the money across the borders. And, also, I did do like, I I really understand how, like, legal system works, how accounting works,
+
+[06:10] and I never like it, actually. System would allow account money directly on the common database, and it was kind of, for me, the moment, the moment, but, like, completely changed my life. And this is on this photo. This is a money of 29 GPUs. And then it was April 2011 when these 29 GPUs got
+
+[06:36] half percent of Bitcoin hash rate. On the kitchen in Moscow, it was very hot, like, spring and well, it wasn't easy to mine Bitcoin on the kitchen at this scale. But when so actually, like, it ended up in two, three months, like, because it, like, become just impossible to live in the
+
+[07:01] this apartment. We cook, you know, without heat, you know, because we didn't have enough electricity. And, you know, it was like the first hype of Bitcoin, and after that, Bitcoin become, like, cheaper, like, some of value, and we decide just remove
+
+[07:25] our mining rigs, like, let the Bitcoin sit for a while. And, actually, forget about it for, like, for, like, several years. And, you know, like, thinking about, like, what should I do next? Some friends invited me to work for Moscow City government. It was
+
+[07:52] a really, like, interesting project. Like, there was a target to reform or make a, like, huge reform in Moscow City. And I did have a lot of experience background in automating and launching stuff. And they invited me to this department of science to work on this huge reform of bringing innovation
+
+[08:15] to the city. And it was almost three year development, like, in life for me to really first understand how to build innovative zones in the, like, megapolar scale. I put a lot of effort to write a law for, like, supporting innovation and, you know, bringing, like, anchor investors in the city.
+
+[08:40] And this is the Technopolis Moscow. It is one of the big like, when I prepared this presentation, I actually asked GPT, like, okay. Well, I did this thing, like, back then. Like, how it's end up? And he like, GPT answered me that that was actually the core development of innovation
+
+[09:04] in the whole country because it become the biggest clusters of innovative productions, including clean rooms and the mic and chips and carbon stuff, etcetera. So it was one of the my like, not one of the, like, the biggest industrial innovation development in in country, which I was, like, directly participating and as one of executive in Moscow city government.
+
+[09:33] And it was fun because I already mined Bitcoin. It's like and, like, one of the reason actually when I realized that I just stuck, like it wasn't it wasn't easy time for me to work because people were like it's like, the system, all the system. I understood that you like, during this time, this was amazing experience, but in the end, I understood that you just can't change the system from inside of it. You must kind of, like, have some external force
+
+[10:04] because, like, if you start to change the system from inside, it start to crush you. And actually, that's what happens with, like, some members of my team. And, like, in the end, I just decided that this environment, these people not for me, I quit. And Bitcoin helped me because it was 2015 when the next hype came, and I realized that I have some,
+
+[10:30] you know, space time to find something meaningful in my life. I went to Thailand, start to travel through the Asian Asian blockchain conferences. And in 2015, I met Vitalik on Gancon on one Gancon conference. And in 2014, we launched Ethereum. I was in the of Ethereum.
+
+[10:54] You see, this is six minutes before Ethereum. One of, like, the before Genesis launch. And it was, like, super exciting moment because, you know, like, it's very like, it's become obvious very fast that, you know, Bitcoin, you'll just cannot program it easily. And it's kind of, you know, like, very primitive. Later, you cannot
+
+[11:17] do this cool stuff on it. And we start to experiment on Ethereum. We, like, with friends, build some examples. So, like, what is possible? We build first prototypes of the the decentralized autonomous organizations, like, framework for those. We build the keys on how, like, vending machine
+
+[11:40] can interact with energy socket, and we also build the drone that was managed and controlled directly from production for Ethereum blockchain. It was super cool. It inspired us a lot. And after that, we start, you know, to experiment with different stuff and dream about the stuff. Yeah. But
+
+[12:06] I think these dreams was ended when the Dow the Dow hack came. It was a kinda like I think it was the moment when the community become kind of less united. Yes. It was, you know, cyberpunk idea, code is law, and, like, everything will be, like like it was, like, power movement. And after that, it just disappear.
+
+[12:30] It's, like, started to erode. It's just my opinion. Yeah? But, you know, I I think I I was a bit lost in this blockchain space because, like, well, I still looked for the different project. I established it. I was founded the Cyber Fund company company, which currently is, like, 1,000,000,000 plus
+
+[12:56] investment company in the space and the founder of LIDA protocol. But it's not it's it it it was already after when I quit this company. We've of course, they are of course, they are is running this company right now. We write with with one of the first reports in the blockchain economy. We call it the cybernetic economy report for, like, people in the area. It was, like, reported before, like, Horowitz came with something, like, before, like, Paradigm and all that stuff. And,
+
+[13:28] actually, it helped a lot of people in the field to grasp first smile of blockchain stuff. You know? And even even right now, the cybernetic economy is still in the area. And soon, like, I think become more popular with legal d dows, like, they're like some Borgs idea in the like, who are, like, pushing this cybernetic organization further.
+
+[13:55] So all that cyber stuff, it was kind of interesting for us. That's why we dive deep and, you know, started to move the money further file like funding the stuff like Tezas, Cosmos, Decentraland, Solana, and probably like more like the most protocols you know now. So it was very obvious that something like serial cool stuff appearing, you just need to throw the money, experiment with the stuff, iterate a bit, and, like, in five, seven years, you have some
+
+[14:27] really productive industry which can start to disrupt the stuff. And but in 2017, I decided to quit CyberFund, and you know, like, I realized that the things goes wrong in the industry. And, like, right now after eight years, I was right. I was right because, like, well,
+
+[14:51] the industry have been grown grown. Yes. But it lost some, you know, this sense of belonging. It lost this, you know, feeling of change due to several reasons. Now so, like, at the in 2017, I start I asked the question, okay. Do you have this blockchain technology? What can we do with it, like, really, really cool? And, like, I analyze all
+
+[15:21] web all web applications, all web companies, and came to this idea that actually the most important thing to to to build using blockchain stuff is decentralized Google. It turns out it it like like, I realized that it wasn't easy task. Yeah. But probably in the same year, like like,
+
+[15:46] slowly during the course, you will understand how, like, these two ideas connected. Yeah? Also, like, we we my friends, we'd start to looking for the countries to to establish. This is a photo, for example, from Bir Tavil. It is the can't it is like Terra Nulles, the land which isn't claimed by any country between Sudan and Egypt.
+
+[16:13] And, like, we made an expedition where only 20 people was able to get there. And, you know, like, this is really important part of the story because, like, okay. The the the rise in your hands who knows about this. No. No. Google it. Interesting stuff. So it's it's 200 square kilometers between, like, in the Sahara, basically, which, like, officially, like, doesn't claim by anyone
+
+[16:43] still right now. And, like, okay. Let's go put where the flag and here here here it is. We have a country. Not that easy. We met there, these guys who actually it's like kind of the tradition for them to like, we met them, like, full of like, they were in the blood. You know? They cut the goat. It wasn't easy, like, to but also they have, like, very big guns. Like, it turns out that this family of people who actually
+
+[17:15] have tradition on this land to hunt the goat, the sacred goat, and we are kind of the family who supply guns to Sudanese army. So that's why Egypt never came there. That's actually nobody was able to claim the territory. And, like, that was for me a moment when I realized that you don't have the free land on the planet anymore.
+
+[17:41] You must find some other solution to give the country. And, like, starting to think about it, You know, I realized that maybe maybe, like, you must not start from the country itself. Maybe you can start from yourself,
+
+[18:05] from, like so the question is, like, how, like, you can be self reliant and self autonomous and, like, the most simple stuff, like energy, food, and water. And with these ideas, decide what I just will, you know, start to have a village. I must build the village and try to learn how to live more, like, independently and, like, starting from small things,
+
+[18:35] starting from water, energy, and food. And in twenty first, I launched it to the Bostrom blockchain. It was the first decentralized knowledge graph with GPUs baked in, which also relevant to further discussion. And that was the time when COVID hit COVID hit and we with joy, we realized that we are stuck stuck in Bali.
+
+[19:03] And, you know, like, I like, I thought that I will choose the country, you know, but it was just the matter of the fact that we stuck in Bali and we need like, I realized, okay, I must do something. Okay? And I start to fly through the island to looking for a land and find this guy. This is San Quayank Volcano.
+
+[19:26] It is the fourth volcano in Bali. The heat of it is, like, 2,100 something. And I was able to structure, like, the whole slope lower part of lower part of it or something like that something like that. Yeah. Which is actually
+
+[19:48] have, like, all the access needed to, like, the the the the this mountain. Yeah. Then that is how the story is that we was gauged by beautiful sunset. We were gauged by beautiful star stargazing stuff, you know. And we start to we start to
+
+[20:14] structure of the land, which is, like, very stand alone topic. But in '23 like, in '23, we moved there, and can you imagine what was the first object we built in the village? It was, like, this permac culture toilet. We're like, we have the kind of monument monument. It becomes a monument in our village because
+
+[20:38] after we moved, we used, like, almost two months. It's, like, was 200 meters from the our house. And, yeah, the deal is that starting autonomous stuff is very hard. It was two months when we use the storage. It was one month when our electricity almost didn't work. It was two months when we didn't have the Internet five months without the water in at home,
+
+[21:07] six months without having hot water, maybe one year without showers. So, like, steady, like, stable working shower and so on. So, yeah, this is we we enjoy. And this is, like, the start of the story. Yeah? So I want to make this short intro to give you a grasp on, like, my background and, like, why that happens on, like
+
+[21:38] why that happens. Yeah? And here is the next thing is, like, actually what happens. I want to give you a grasp on, like, CyberValley stat statistics. What is it now? Population of the CyberValley is for people. We produced where we draw it to humans,
+
+[22:02] which is like very good indicators of growth. Slow, steady growth. Yes. We have 57 gigatars of land. We have power generation of 50 kilowatts of energy and the power storage, something like 50 kilowatts. Yeah? We have enormous water generation capacity because we live in this
+
+[22:29] cloud forest place where you have just rain coming and, like, in five months, you you have something like five cubic meters on one square meters of land. It's like water capability is enormous. You just must store it, and we already stored two two two hundred cubic meters of water. We built 800 square meters of different buildings. I will show them to you.
+
+[22:58] Well, people people people people. We was able to, you know, to structure and, like, make friends with locals and the future two peoples are working for us, but, like, they are for us more like become more like family. And we have five ships, two chickens, not so much. We did just didn't scale the
+
+[23:22] we didn't scale the animal thing. It turns out that, you know, running animals in a permaculture way without all the chemicals and antibiotics is extremely hard. We decided to first learn how to actually do small things. And we have 200 productive species of different plants. And, yeah, we have a lot of food reserves. Most of these food reserves are in the soil. So for example, we have something like Batata and Taroa, which grows a lot in our land, and we know that we can take it in any time.
+
+[23:59] Yeah. So that is our statistics. I want to show you some buildings. It's like our parking. It's our villa. Carthouse is probably the most high villa on the whole Bali Island. It's more than 1,500 meters above the sea level.
+
+[24:23] Yes. When this is organic, our restaurant where we kind of trying to create a local food system local food system distribution. So we take stuff what we grow. We take stuff what we've been produced by our neighbors,
+
+[24:46] like high quality stuff and put on the shelves. That is Vitalik. It's a kind of gym. Yeah? Soft is a coworking space and more like lecture space. Luana is the sustainability center. It's the most important building in our village. You can see that it is actually there. It all started with this
+
+[25:14] solar panel stuff, but it in the end, it become a center of all the operation. You actually usually not need it if you're not building autonomous stuff. So this Elona building is actually the example, the first building you need if you're building autonomous village because it contain all the functions
+
+[25:38] needed for this village. It's an energy hub. It's a soil hub. It's nursery. It's a kitchen. It's dryer. It's a place for animal, for for treating animals, and all that stuff. So it's 100 square meters which allocated specifically for, like, the most important operations in your village. So,
+
+[26:03] also, we have Satoshi. It's our kind of kindergarten. Yeah. It was our experiment. You see this construction is built using local wood. It was like we build it in one week. We needed the space, and we used just the fallen trees. So it's very good experiment that will help us later to build really fast and cheap.
+
+[26:30] Kindergarten, Bania Bania, we are working on Bania, and we have also this site with facility for production. So it's more like the storage and laboratory where we can cut things, you know, noisy stuff, dirty stuff, woodwork, metalwork, and so on. So not so many buildings, something like eight, but
+
+[26:55] you you see that actually it's the pretty the same buildings you have here in the edge city. Yeah. So, basically, they came to the same infrastructure as pop up city, temporary pop up city, like what we have and that what temporary city don't have, pop up cities don't have is this sustainability center and laboratory
+
+[27:19] kind of, like, carpent carpentry and, like, warehouse. So, yeah, we are preparing for, you know, launching we are preparing to pre pre preparing for launching village. And, you know, we already start to have some magic.
+
+[27:43] This is our like, this was our first product we showed for our friends who have restaurant. And this is full blown food set which is produced in the village. Meat, fish, eggs, tea, coffee, greens, fruit, fruits, snacks, like, all that stuff is locally grown.
+
+[28:06] Just, like, give you some example on how it looks like. This is the shelves with fruits. Yeah. And, like, I think it's magic because, like, one part of the story is with food, nontoxicity of food. You know, this, like, everyone talking about organic food. You have organic
+
+[28:29] food stores. Yes. And it was, like, very deep realization where actually you don't have nontoxic food. So you have organic food, but you don't have nontoxic food. And that is serious stuff because several peoples I talked to, like, serious people. For example, Brian Johnson, he spent, like, $2,000,000 on finding nontoxic food in US and, like, he failed to do so.
+
+[28:57] He just didn't find nontoxic food and, like, this is a serious problem. And then that was our problem. Why is also we wanted to, you know, to start this village is I wasn't able to have a food system which I trust. And we are ensuring that the actually, the produce
+
+[29:22] is nontoxic. Just as one example, when I restarted to analyze the soil, we find mercury there. 15 PPM of mercury is there. And it turns out that all all farmers in on Bali, actually using these chemicals, spraying it, and, like, they sell it as organic food, but it's fucking mercury where. Yes. When laboratory when when laboratory showed us result, we say, okay. Like, do you have 15 PPM of mercury in the soil? And this is normal because, like, everyone on Bali had this 15 PPM of mercury.
+
+[29:57] So even, like, the the the biggest university on Bali just don't, like, conscious enough to understand that it is not normal thing. We're just looking on the average and like this. Yeah. So we started, you know, to move our growing growing for, like, the places which wasn't the chemicals wasn't introduced. We was happy enough that actually we have only, like, five gigatars of length from 57 which are attached by chemicals.
+
+[30:29] We also, like, talked with our neighbors who actually more in the camp of not using chemicals. So all all here you have is that actually very pure stuff, like guaranteed pure stuff. It's very actually, we think that we are proud of because you like, the money cannot buy you that. Practically,
+
+[30:53] I don't know the situation here in Argentina. Yeah. I just don't know. But, like, in the place we was curated and in my home city, Kaliningrad, like, the situation was the same with toxicity. So I I consider this as a as a major. Yeah? And another major, I believe, is kids. Yeah. Because they have
+
+[31:19] super amazing place for growing up where they are living and growing basically in nature. Me, me, three years old girl, she was able to climb the first, like, our parking and the where the house, the difference is 100 meters by heat. 100 meters. So it's basically forty year 44
+
+[31:43] building. And, like, she was able to climb first on the mountain when when she was two, which is super cool. She got really cool body with good core and, like, it's also help her to develop faster. She already understand four languages, local languages, which is super cool. I think it's, like, really good product of cyber value.
+
+[32:09] Kids, peoples. We have very identified 100 more bird species. We find very lot of shrooms. Something like well, local local I I think something around 200 species of plants, and I brought there something like 500 species so to experiment just to experiment and play with.
+
+[32:34] We have an animal species, something like 20 animal species, including various weird stuff, like, for example, barking deer vampire. We have this vampire deer vampire who barking every night near our house, Very strange stuff. And one of the, like, the most most cool magic is this glowing this glowing forest during the year.
+
+[32:58] Find these glowing, you know, the game roots of different plants. And in addition, what we have fireflies, it, like, appears that we have some really unique thing, which is, like, Avatar like forest, but for real, it's bioluminance. Devout chemicals and electric
+
+[33:24] engineering, actually, which is super cool. So we we we we we've got a lot of magic. And, you know, like, that is where I finish my, like, introduction and presentation. One several words I want to say
+
+[33:47] about, you know, specifics of designing for autonomy. Like, just in case you want to establish your own thing somewhere or some sometimes somewhere. So, like, one of like, very big very big parts of the staff is choosing country and land.
+
+[34:13] In fact, in our case, we didn't do we didn't do it. Yeah. We just, like, did in the place we we did. Like, where is the story when shit hits the fan? Like, you cannot come further than 30 or 50 kilometers from where, like, the the shit hit the fan. It's actually what happened to us. And
+
+[34:37] but, currently, we don't have this situation. So choosing the country and choosing the piece of land land is, like, very important thing. It's dedicated topic. It's dedicated topic. I will not touch it during this course as dedicated topic, but I, like, will do, you know, answer the questions if you need it. But
+
+[35:02] one thing is important, like, is just spend as much time as possible for, like, just going there, living there, seeing there, feeling there. And once they're, like, it's, like, kind of clicking, like, by the length and structure the stuff. So very important part of the process is understanding the resources. What resources, like, I'm talking about?
+
+[35:26] The most important resources are, like, capital. Start from capital. Without capital, just don't don't do it. Geographic location, like, people. People are, like, one of the most fundamental resources, and we spend a lot of time just because we didn't understand how to attract people, you know. Like, in our case, like like understanding
+
+[35:50] problems, I will touch this. So landscape is important where, like, sun is there is the morning sun. There is, like, the evening sun, sunset, sunrise stuff. Yes. Three, the most important things is solar drop, water gain, and wind flow. So, basically, that is kind of basic
+
+[36:13] generative ability of the land you are looking for. Like, the more these things, like, the more resources, natural resources you have, like, don't look into, you know, this proxy don't look into this proximity stuff. The truth is that the most cheap land is the best. Yeah. The further the land, the cheaper it and, like, the more resources,
+
+[36:37] like, the better ecology, more natural resources. It have look into the, like, ability of your land to produce the sun because it is the most fundamental energy resource, like, you have, like, easy access to. Water is super important, and the wind is also because it was a story when, like, we will touch on energy on
+
+[37:04] the next lecture about energy, but actually you'd, like, can't have access only to one energy source. You must diversify. So wind I I believe wind is also important. And, of course, the soil. The soil is the source of, like, your health. The soil is is the source of prosperity. And
+
+[37:28] analyze the soil before you buy the land, understand the structure, understand its capability. So also, like, species on the land is super important because that will define what you eat, what you breathe, what you see, and so on. And, of course, understand your problems. And I and, like, the problems the problems when you build autonomous militia are, like, extremely
+
+[37:57] place specific. You, like, you just cannot predict predict what shit you will catch, you know, when you decide to build somewhere. And in our case, we got this zero infrastructure problem kind of chicken and egg when we build in the ground up, like, it was the hardest part when you don't have workers to build the the staff to live in to build, you know, like, something like that. When
+
+[38:25] when we catch very specific and interesting problem, which I call the gap between local physical force and foreign intellectual force. So you have these locals guys who are, like, have very good hands and can physically work, and you have all the foreigners who actually forget how to use their hands but can only think. And actually
+
+[38:51] and that, like, it turns out that when you build real stuff, these mental capability are not very important if we are not connected to, like, ability to physically do some stuff because locals need literally what you show them by hands how to do. So that was for us a serious
+
+[39:17] bottleneck. We spent a lot of money, time, and resources on just trying to figure out how to bootstrap locals for, like, actually doing the stuff we need. Yeah. We did have some lack of internal capital because I more I bet more on, like, acquiring the land when it was, like I created a game for us. We
+
+[39:40] have a land, but don't have actually a lot of capital to build. So, like, we wasn't able to contract, like, some construction company for, like, several million dollars. We did have some kind of, like, one mill for, like, doing the basic stuff, but trust me, it's not the money if you are, like, we are talking about building something
+
+[40:05] like a village. So also we did have some local you always have local features in our case as, like, aggressive dogs, this poisonous soil I mentioned, and these, like, loud motor motorcycles. We are, like we was able to fight a bit. So, yeah, like, the idea here is simple. You discover
+
+[40:30] you discover the space around you want to build, live there for a while, and then decide to buy. Okay? It's better even to give a deposit for small deposit, like, if you want to make a reserve for a land. Wait a bit, live there, lose deposit, and choose another place. It will be cheaper for you. Advices.
+
+[40:54] First advice is capital reserves, guys. It's was extremely like, it was extremely lucky, but we did have some capital reserves. It's like, if we wouldn't like, it was failed 100%. Like, you just need some level of, like, you know, like, reserves to for, like, different unpredictable things.
+
+[41:18] Build energy and water in connection. Three things. Build energy, water, and connection first, like, the most basic stuff. Buy what you're gonna grow. Yes? Simple advice. So you just start to buy local stuff, and you learn to cook it, try to take like, learn to taste it. And that is how, like, it will be easier for you to grow.
+
+[41:43] Don't build big stuff. Like, our mistake is that we build a house, big house, which in the way hand become, like, very hard to maintain and, like, it's still not finished yet, to be honest. So now, like, we want to switch to these tiny houses ideas, like 16 square meters, something like that.
+
+[42:08] And, yeah, if we would, you know, follow these advice, simple advice, by the way, I do think what we would already bootstrap the village and maybe this HCT already was there, but we build a big house. So yeah. And also several advice regarding the, like, outline of development.
+
+[42:34] Try the try to not decompose the stuff. Like like, I learned, like, during software management, you decompose as much as possible to and features and all that stuff. Just don't work with this madness when, like, real real life happens. You just outline bigger goals. And, like, every day, we can work consistent consistently on these goals,
+
+[42:59] like, two hours a day you spend for, like, providing step of food or, like, gaining five kilowatt of energy. And, yeah, basically, that's it. First, like, when you build autonomous village, first three years are cool and hard. Yeah. But it turns out that for us, it's already almost three year years and, like, it's become progressively easier
+
+[43:27] and, like, more wide. Yeah. So, like, if you, like, ever will want to do that, just prepare, like, as for the baby. Yeah. You have this screaming thing, you know, which, like, can scream all all all the time, in the night, in the day, and you nourish it unless it stops. Starts screaming less.
+
+[43:50] So three years, I think it's, like, reasonable time to, you know, to align the processes to, you know, fine tune the stuff. And, like, for us, it's already start to become easy and easy easy. Like, maybe one, two months we realized that, like
+
+[44:13] yeah. That's it's actually we start to enjoy this thing. And even I was able to go here for a city to in Patagonia. The reason actually why we come here to tell because we feel, okay. It's like it's kind of already have some shape. It's working by can can work by itself. Let's check how it will be if you will go out for the for two months
+
+[44:40] from it. So, basically, that is all the intra. And I want to finish this lecture by inviting you to join this Siberia stuff. What is Siberia? CyberValley is the pilot project of Siberia. Siberia is the network of future cities, which, like, we believe could evolve into the
+
+[45:07] country state, network state, like nation state, whatever you call it. Doesn't matter. Something pretty cool. And this course about Siberia. So, like, we touch during this course, we touch not only the stuff which is physical, yeah, such as food, energy, and water system. The course is unique because it's also touch, like, my serious experience in understanding cryptographic,
+
+[45:36] blockchain system, games theory, collective intelligence stuff, and so on. So I believe which is super cool. And by combining all that soft and hard stuff into one thing, we can actually achieve something very beautiful and achieve, like, which, like, was just impossible to achieve before. Also, I want to invite you
+
+[45:59] we will start the pop up city. It will be in March, like, starting in February and March, and it will end only per day. So, like, the pop up city I'm talking about is will be more like pop up but more permanent. So it's kind of the mix between
+
+[46:21] one and other. Yeah? Mhmm. On your property? Bali. Bali. Yes. In Bali. Yeah. And also I want to like, our, like, purpose currently is to format the government. And so, like, if you are interested to joining them, this is, project idea movement. I will visit our course. Let's talk how we could
+
+[46:46] how you could be involved into this thing. And, yeah, my my contact are, like, here, MaestroSiP almost everywhere, and CyberValueLand is in X and Telegram group. So yep. Yeah. Questions.
+
+[47:30] Certain things are collapsing anyway, then there needs to be a separate community that's Mhmm. Doing really important things and, like, saw oh, thank you. There's a mic. Yes. I you know, so so are you more on the on the I was gonna say on the spectrum. On the on the where on the spectrum of, you know, trying to, you know, do things that are, good for the existing world versus just creating a separate world and is and is this a separate society trying to help the other existing societies, or is it just creating a totally new thing? What are you optimizing for?
+
+[48:02] Well, like, the roots are actually was also in the fact that I, you know, did have some realization that exist in civilization start to fall. Yeah. Like, it's just in the beginning of the, like, really huge slope of fall. And, you know, it was kind of depression for me, and I end up in more positive and, like, in understanding that only, like, treating this as a positive process
+
+[48:32] is, like, the good way to go. So, like like, you don't, like, do it for the fear that something will crash. No. You do it because it's, like, any way better way to live. So, actually, that also means that
+
+[48:55] while this like, the old civilization civilization is crashing, you can start build more like a theme of story when you need to send someone to build new civilization before it's this is crashing. You know? So I'm into the camp that you must build civilization from scratch without, you know, replicating mistakes, understanding, like, deeper mistakes of, like, previous civilization.
+
+[49:21] And you must not be binded to all that, you know, bells and whistles of existing civilization. You must have some kind of, like, the flexibility and freedom to, like, to break the things, to try the things, and that's why I also do not hurrying to give, you know, attracting capital to this project. I'm, like, financing it completely myself. Like, I'm happy guy, but I can do that.
+
+[49:46] And, like but, like, answering your question, what I am optimizing for, I think it's, like, very simple. You have this Kardashev scale stuff and, like, the only thing you must optimize for is, like, I started starts from energy system, you know, like, you optimize for energy consumption. You like, the more consumption you have, actually, the
+
+[50:10] faster you can reach another scale. And reaching, like, the, like, first level is the ultimate goal for, like, everyone. Like, so it's, like, very simple trailing point. We we everyone, like, agree, like so if we are, like, a sub stabilization want to outgrow the previous stabilization,
+
+[50:34] so we must pass for this level of energy production. So I am optimizing for energy efficiency in all the layers. Can I build off your question? Yeah. I think, the way that I heard the question is more around, are you optimizing for personal autonomy and autonomy for your small subgroup,
+
+[50:58] or are you optimizing for creating pathways by which masses of people can start to transition to a regenerative place based autonomous community way of living? Another way of asking this question is, what is the pathway that you are proposing for people that don't have access to wealth by which they can acquire land through private property? Uh-huh. Got the that's two questions.
+
+[51:22] Well, the answer is that we are building open sourcing and, like, want to share the knowledge as much as possible. So, like, it's easy to replicate the stuff. But also means that we are building software that will allow everyone to not, you know, repeat our our self and having some kind of franchise to starting
+
+[51:49] this thing everywhere. So so yeah. How far away is the the nearest airport and the nearest Walmart or whatever Indonesia's equivalent of Walmart is? So it's basically the Bali Island. Yeah? Mhmm.
+
+[52:32] This is Chengdu, this is Soboot, and this is Viyar. So, like, there, like, there is idea that no no no northern airport in Bali will appear here. It will be forty minutes from our place. After, like, after if northern airport will appear on Bali, we will become in the center between two airports. Okay. Basically, the most productive
+
+[52:57] area, most, like, low density areas. So, like, we more considering it as high end. Well, like, really important realization for for this project, I want to be honest. Yes? Like, in the beginning, I thought that we will settle there. Yeah? It turns out that Indonesia is not the best place for settling, like, it's given these immigration rules, like, lot of reasons why not. What it could be and will become is a kind of, like, the place, the camp where it's very convenient to run education stuff, to showcase the stuff because
+
+[53:33] Bali is, like, very affordable people for nomads and, like, all the nomads touching this island anyway. So it's, like, very good place to demonstrate how it could be, you know, together the stuff. And that's basically why I want to establish where this burn city. So the idea about burn cities that it's kind of evolution of burning man.
+
+[53:57] Yeah. But for, like, more permanent, I I to be honest, I think that this idea of burning the man to ashes and building temporary stuff is very toxic for our civilization. It just doesn't make sense given that carbon and climate change thing. So, like, I want to
+
+[54:21] about both the tradition by burning to biochar and building for permanence. So, like, every festival, every year, you can grow, like, more and more and more. And also, burning man, for example, it's like complete I I would say it's more American festival because 80% of participants
+
+[54:43] are American and there's strong demand for something like that in the Asia, which is like bigger audience. It can be bigger and more affordable thing and multi like, multinational thing. So, yeah, establishing this tradition and running there this pop up city on a scale. I think that is a way like, so that is where this cyber
+
+[55:11] value thing is evolving. And we will test their technologies, ideas, you know, all that stuff building their community. But here in in Patagonia, we are also looking for a land to start something where we also want to live, you know, to settle because we now have some experience and, you know, like, anyway, we want to have some two, three places to live, like, where we want to live and we will build it for us anyway.
+
+[55:42] And one of these places will be in South America, 100%. We didn't decide yet where it will be exactly, Panama, Argentina, whatever. Yeah? But one will be in South America and but Bali, I is super cool where, like, the we can, you know, make a root of the move movement
+
+[56:07] to exchange and experiment. But we've, of course, with some permanence because, like, we have eighty something like eighty years rent terms, and we can pass this for, like, at least several generations. Any questions?
+
+[56:42] Me again. So what are your plans over the next, I don't know, three to five years? You mentioned, like, you know, in general, like, Kardashev scale or whatnot, but, like, what does that path look like? Are you, you know, are you building more buildings next? Do you need more people first? Well, like, I will split the problem into, like, the three parts. Yeah. Like, the first part is, like, how to scale the village. Yeah. The second part is how to scale the villages.
+
+[57:12] Yeah. Scale the what? Scale villages. So to add in more villages. Yeah? And the third part is how to build the software which will underlie all the stuff. So, like, regarding the first part is, like, I think I will start with pop up city every month.
+
+[57:38] We currently don't have a lot of facility to live. Yeah? So it was just, you know, we learn how to live ourself. Yeah? And but one huge insight from this is actually I find a very cheap and fast way to to to construct. So actually, the part one of the tracks in this pop up city I will or we will offer
+
+[58:04] is will be, like, building your house stuff. So, like, you the village will build complete stuff with garden, like, completely autonomous as home, tiny home with garden in one month with the help of locals of k of course. Yeah. So it will be kind of, like, demonstration how to build for, like, very cheap, like, with very minimal resources.
+
+[58:29] I think it could be something like $1,020,000 dollars. Yeah? So you can build complete stuff for autonomy. And with this idea, I think it will be possible to grow fast because if you able to build cheap cooling fast, which is more for our construction department
+
+[58:51] ministry. So, like, scaling these villages will be easier. Yeah. 10,010 thousand dollars is extremely affordable for most nomads. You have to throw and land. And the that is the target I'm like, from a product perspective, I'm, like, I'm really obsessed with. Because, like, if I will offer to the market this, like, $2,030,000
+
+[59:19] thing that will guarantee that if shit hits the fan, you will, like, be okay. And, like, the environment is cool. I think it's like Google like, it will reach eventually product market fit, and that's how you like, I will be able to scale the village fast and the villages fast also. So other villages also.
+
+[59:43] Regarding these villages thing, yes, I think we need to form some team, like, to expand our team because, like, it's just nonsensical to manage two villages by me and Jay. Yeah. Regarding this software, think we are currently focused on the two things is the first one is event protocol, so something like social layer, but we pull on chain payments and NFTF tickets.
+
+[01:00:14] We already developed it to the software because it's kind of foundational. This event thing is foundational for the pop up movement we are talking about and, like like, for any stuff we are talking about. And this is a freedom protocol we have in this net. And second thing we are developing is a land land land protocol which allow to, you know, to trade
+
+[01:00:37] to trade land rights easier because, like, well, several layers of development in the village, like, the most important is land trading land rights. So yeah. So that that is two things we are currently, like, seriously focused. I I think we will dedicate to this, like, year or more because that is,
+
+[01:01:01] obviously, the things that enable the business model of the the villages, of autonomous villages. And, yeah, so that's kind of the outline, of our plans. Cool. Makes sense. And one more question. When I picture these, like, autonomous, villages, autonomous, cities, I always I've always imagined, like, physical security being just totally top of mind so that as soon as you make something valuable, you know, you can't have, like, five guys with guns or swords or whatever come by and easily take whatever's there.
+
+[01:01:35] I'm sure you know, I mean, robotics is developing quickly. There's drones and stuff. I don't know how much you're thinking about physical security, especially when the shit really hits the fan and people are, like, desperately looking for resources, and then maybe you get invaded and there's a very hard to defend yourself. So how do how do think about physical security? Super cool question. Thank you. Yeah. I got I I I got something in my mind. Yeah. Some
+
+[01:01:57] of it, I will some of the answer, I will share. Some of it, I will not. So the first thing, yes, I was looking for a territory where you can easily cut off from them, like, from from other territories. So, like, this place in the in in in the mountains have only, like, three roads coming, which are, like, easy easy to cut. So, like, physically, I'm talking about
+
+[01:02:21] position, like, what are, like, significantly easier to go after. Yes. In case something happens. Like, that is the first thing. Yeah. Another, like, I think very like, so, like, maybe the security things, like, needs very dedicated, you know, lecture and discussion of workshop or panel. Yeah? Because very interesting topic, extremely interesting, I will share some ideas.
+
+[01:02:50] Another thing is that, like, the Bali also which always came to Bali because we realized how peaceful the people are. So, like, the assumption here is that if shit hits the fun, like, you have different cultures which could react very differently. And when Khalid came, Bali was very, like, responsive, but we cut these banjars, we split it into, like, localities,
+
+[01:03:17] and we cut access by themselves. No. No. No. No. One, like, save them. Okay. Like, is isolate. They did it by themselves. And the culture is very peaceful. So, like, I think that could be also, like, part of a solution. So, like, minimizing, like, the probability with the place you're settling will be not secure.
+
+[01:03:43] I'd like my understanding of previous, like, collapses and conflicts, it's always like anyway, it's localized. So you don't have, like, bed sheet which happens, like, everywhere, completely everywhere. No. You have, like, these localizations where something somewhere is better and somewhere is worse. So, like, choosing these
+
+[01:04:05] strategically is, like, really important. You're like, you might you can save on security more by just choosing the place where you don't need this margin of security. Yeah. Because, like, I don't have resources currently for, like, building an army. Yeah? And I'm, like, looking for the solutions that actually allow me to feel secure. Yeah? And our feeling in feeling security is in our case, like, and how we did solve that because we hired the village
+
+[01:04:35] and build really good relationships with village. We have this margin of security. For example, when we come here, I announced that I will where we'll before the village will be a reward of $1,000 if nothing happens. Yeah. So we are self organizing during,
+
+[01:04:58] like, day and night to secure this stuff because they have this Pichalank. They have Pichalanks as kind of local volunteers for security. Yeah. And this PitcherLANK will help us to secure the land while we are not there. So basically, we have some we had some conversation recently in Indonesia where where was protestant,
+
+[01:05:22] like like, the sources of instability. Maybe you have heard that where was in Indonesia recently. So, basically, we discussed with our villagers, like, what happens with, like, a freeze and that. And we came to kind of common understanding that we are in the same boat and we'll protect each other. Okay? We all have guns. Like, they're awesome.
+
+[01:05:49] So, like, not like serious guns, but, like, small guns, which are not fire. You know? But, anyway, we, like, must think, like, what we actually can do. Yeah? With, small scale solutions. So, also, I think very important is to build the the, you know, these logistic
+
+[01:06:13] drones thing. Yeah. Because, like, this is multipurpose technology. If you have logistic drones, your, like, margin of security is significantly higher. So, like, strategically, logistic drones are, like, the, like, key to security. Ultrasound stuff is very cheap, which is, super important, I think, in protection
+
+[01:06:38] from the modern threats. Yeah? Like, just like some thoughts. If will demand, I think we will organize, like, dedicate a session to this discussion because it's super interesting stuff. So that's it. One hour and ten. Okay. Thank you, guys.

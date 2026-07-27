@@ -1,0 +1,267 @@
+# Q&A with the Author: Neomedievalism and Transnational Nobility
+
+Date: 
+Source video: Q&A with the Author: Neomedievalism and Transnational Nobility
+Drive: https://drive.google.com/file/d/1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN/view
+Duration: 00:56:04
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Am I introducing myself? Okay. Alright. Thank you for everyone for coming. Let's do a quick overview of what we are going to talk about today. So the format for today is going to be q and a with Maz who we, did we actually read Maz's article that we're gonna be discussing on Friday. We or we discussed it. We had a discussion session on Friday for it.
+
+[00:23] And it'll be pretty informal. People can have questions. We help people here. The you can't see them, Maz, but we have people from the citizenship protocols residency here, both in person, and there's a few online and a couple sea bunkers, hanging around. And yeah. So that's kind of how it'll work. So I'll just do a little introduction here. So we're here at Edge City Patagonia for various reasons, the people here in in person.
+
+[00:49] And the essay we'll discuss today gets some of the larger backdrop that I think enables Edge City to exist in the first place and as well as gives us a lens to think about where experience like this fit in a larger context. I think it's particularly, relevant for this group and then what we're talking about in citizen part citizenship protocols as well. So the the paper, the essay aims to give a sense of where we've been and the conditions that led to that and to help understand the present and attempt to intuit what is emerging.
+
+[01:20] People here will know that I particularly like looking at history to better understand the present. So this is, yeah, there's no coincidence. So I, this one is on the study list, we'll say. So I'll read the essay so everybody can hear what it is full. It is neomedievalism and transnational nobility, state formation and national decline, competitors to sovereign authority, new cultures in the Internet age.
+
+[01:46] And it's, I think it's hard to to have a sense of how big the bucket of is of people who are fascinated in this particular topic. But I will say that for the people that are, it is people are very interested in it. This is probably the the the most article I've sent in the last year, and I've received it from multiple people all through DMs kind of flowing through this sort of small community that are very, interested in these topics.
+
+[02:16] And I'd say it's it's a wonderfully sprawling essay that does a sort of salsa dance between history and what is or could be emerging now. I'll list the section headlines in the essay, which gives a sense, and then I'll also add a little cheeky caveman too long didn't read that I do when I, read through things. So we have the first section, political authority and state power, and the caveman too long didn't read for that is big king weak,
+
+[02:41] small king's back. And we have social cohesion and national identity. No love king, follow tribe that feeds soul. Next one, we have mass media and consensus reality. Too many talkers, tribes make own truth. And our last one is transnational culture. Tribe now online.
+
+[03:05] Follow code, not flag. Now we can get into, that. So I say, if you properly dive in, we can introduce our guest, Maz. And I think this is a scenario that, people here will be familiar with and that I actually don't know much about Maz. I know that Maz is a person on the Internet in the larger tech culture,
+
+[03:30] and that Maz created something very interesting and put it online. And so here we are. So with that, I will pass it off to Maz to give a brief introduction as you wish and then to dive into a bit of a summary, on your piece. Hello, everyone. So I'm Maoz, also known as Alice Maoz. I come from a programming background,
+
+[03:53] but I also have been writing for, I guess online for about ten years now. I like to write about history and historical trends, but I guess especially the intersection of history and technology, you might wanna say. I write about Chinese philosophy a lot too. There's a particular Chinese philosopher named who I'm going through and trying to go through methodically
+
+[04:21] because a lot of my writing can be very all over the place. I'd say as an intro to the piece, my perspective is that I generally follow a cyclical view of history. There are different, like, meta structures of history that people will talk about, the progressive view of history where things are always getting better. I see
+
+[04:43] history as basically cyclical. Human nature is the same throughout history. We repeat the same kind of patterns. So as the canard goes, like, history doesn't repeat but it rhymes. Combining with the cyclical view of history, the exception to that is technology. Technology changes the nature of reality. Technology changes what is possible.
+
+[05:09] So when I say, I guess, a fusion of history and technology, that is the way that I look at it. History is this endlessly repeating drama of human will and technology changes the stage that we're all acting on. So in neo medievalism, the the first thing that I would say is that I'm not trying to predict the future in any way. I don't think such a thing is
+
+[05:37] possible. Definitely a much smarter people than me try and sometimes succeed and also fail. There's a great quote that I saw recently in an interview with Lloyd Blankfein, the head of Goldman during the financial crisis, where he's talking about the society and he says, at Goldman, we don't even try to predict history. Like, we're not trying to predict what happens next. We just manage risk.
+
+[06:01] And I think that is the best way to think about it, having multiple contingent possible views of what could happen, taking in new information and seeing which direction we're going, which one seems more or less likely, and maybe they're all wrong and maybe something completely different happens. So the essay itself, I open with two quotes, and I would say that those are my main, like, key sources for the way that I think about these
+
+[06:28] broad set of topics. One of them is by a philosopher named, well, a quirky and interesting guy named Bertrand de Jovenal who was writing in the thirties and forties in France. He was kind of like a weird esoteric right winger, and he wrote a book called On Power that attempt to summarize basically all of European history.
+
+[06:52] De Jovenal is a fun guy because he gets ahead of himself a lot. You can't always trust him on the facts, but he has this like grand sweep that he likes to tell. So if you're aware of like where he's kind of playing fast and loose, some of the points can be quite interesting. De Jovenal's basic view is that contrary
+
+[07:15] to a standard liberal history of we have these kings, they were bad, we overthrew them, and now we're free, we run the government, he sees the shift from monarchy to republicanism as a progression of the same historical trend of the elimination of localized small sources of power that act as a check on centralized power
+
+[07:41] and basically opening the Pandora's box that allows unlimited centralization. And he was writing I forget when he was writing this book, but it was either before or during World War II. So it's easy to see why he would believe it to be unlimited. In his view, there was a long process through
+
+[08:03] European history where the, specifically the French king, but he contrasts with Holy Roman and English examples, centralizes more and more power, overthrowing him and creating the idea of popular sovereignty and government by the people allows the state to marshal enormously more resources. You see this in the beginning of the coalition wars with Levy en masse where France can mobilize
+
+[08:30] vast swathes of the citizenry that no king could ever hope to do, and then all the other states emulate it. And then we get this long nineteenth century from the French Revolution up until the World Wars that is, brings this to its ultimate conclusion. The other main source is a Rand paper that is very interesting and from which I took the neomedialism
+
+[08:55] term, although obviously we've all heard it before, which talks about why they believe the present day United States China conflict cannot become another World War II. If there is a World War III, it would be much different, potentially lower in I wanna say lower in intensity because there's
+
+[09:18] the potential for more disruption on the home front, but definitely not draft, huge pitch battles and all of that. And they argue this from several different angles. Basically that nationalism peaked with this long ninth nineteenth century process and you can't bring up those kind of resources anymore.
+
+[09:42] So originally, what I was writing was gonna be a more straight take on that paper. And then I brought in a lot more of my own sources to it and things that I've been writing about for a while in the past. A lot of the media stuff, I write in a more expansive, but also I think more immature form in 2017, an article I wrote called Priesthood and Programmers,
+
+[10:08] and basically taking McLuhan's idea of the four stages of media evolution and talking about, like, in the wake of Trump and the social media fury that happened over fake news and Facebook and all that, like, where that's going. So
+
+[10:31] I think in the essay, I'm trying to make three main points. One of them I've talked a bit about already with the Jeuvenel and the Rand paper that nationalism probably already peaked. Like, the world wars were probably the most nationalistic we're likely to see in quite a while, barring unforeseeable developments,
+
+[10:56] which means technology. I think that the rise of nationalism, it didn't start in the nineteenth century. It, I think, was perfected in the nineteenth and early twentieth century. You see the beginnings of it in Northern Italy
+
+[11:19] where people are very, like, aligned to their, like, city states. You see it kind of in the Dutch revolts that led to the Eighty Years' War where Protestant Netherlands broke away from Habsburg domination. But really with the French Revolution and the thinkers that preceded it like Rousseau and Montesquieu, you get this ideology that can be
+
+[11:45] leveraged for that kind of, like, loyalty and that kind of, like, resource marshaling. So that ideological landscape plus rapid industrialization that drastically changed people's lives, like created, as we've all seen, the the GDP charts and all of that,
+
+[12:10] just was a real dislocating event in the way that people live their lives and the way that people experienced reality. All of a sudden, especially in the late nineteenth century with electrification, all all kind of new medicine, trains, telegraph. People are
+
+[12:33] more connected than ever. People are living at much higher standards of living than ever. The early industrial period, like, was a time of, like, a lot of deprivation as people abandoned those farms, but people did. And eventually, it there were there were major changes in how individual people lived their lives. That and high birth rates that allowed a draft to be practical.
+
+[12:58] And that's one of the main points the Rand paper makes that no one is sending their kids to die for war when they have one or two. Even with Iraq, like, was a real attempt to confine the impact of war to a small subset of the population that chose to participate in it. And you see the same kind of thing in the Russia and Ukraine war where
+
+[13:23] large numbers of people leave the countries and it's very hard to sustain that kind of thing and is is unsustainable. So this combination of rapid change in life and also these new social technologies about how people control their governments, about how the government is an expression of the will of the people,
+
+[13:48] allows you to just leverage the population. And the leverage that states got over the people from the French Revolution until the World Wars got more and more until you had total warfare, and you see, like, all this propaganda and all these initiatives even on the home front. Everyone has to sacrifice everything for
+
+[14:13] the war effort. People, I think, are not going to be willing to make those kind of trade offs anymore. It's just people are not homogeneously, but a large subset of the population is kind of checked out, distrusts their governments. The Rand paper has a lot more
+
+[14:38] I don't know how much to trust Rand on China, but Rand argues that it's the same situation in China as The United States. I'm not sure I believe that to some extent. But that maybe a majority or the largest minority of the population is just thinking about themselves, their families, their own lives. They don't wanna get involved in all this stuff. And then you have
+
+[15:04] smaller contingents who maybe are hyper loyal to the government, and you see this with like a certain sub debt subset of very patriotic Chinese and a certain subset of very, like, patriotic Americans, especially on the pro Trump side since that power is in power, that party is in power. But they are a vocal minority. And then you have
+
+[15:31] another notable minority of people who are opposed to the ruling order and want it to change whether in some way or another, whether they're against their country on like moral grounds or whether they have a different kind of political economy that they would try to construct. So it's just really hard to
+
+[15:54] unite a people in the way that it was very doable in the nineteenth and early twentieth century. The second point was this media technology narrative. McLuhan's framework is that there's four periods in media history, which is orality, manuscript,
+
+[16:17] print, and digital. And looking specifically at print, everyone likes to talk about how the printing press, like, was an extremely disruptive invention. It created a hundred years of warfare in Europe. It led to the French and American revolutions in a very important way. But when you get to the industrial revolution, there are a lot of changes that happen. All of a sudden, you need a lot of capital to be able to do the mass scale kind of printing that
+
+[16:48] industrialization enabled. And this is when you really see, like, the working classes begin to get literate in large numbers. The middle classes became more literate with the printing press, but, like, mass like, universal literacy really began with the industrial revolution. And here you see the opposite effect, a consolidation where because you need to have access to capital, because you have these, like, large you can't hide, like,
+
+[17:15] a huge drum press that depends on, like, coal power electricity or, like, all these, like, complicated, expensive machines in, like, a little workshop that the authorities just come in and break up with hammers, and then you go rebuild it somewhere else like you could in the eighteenth century. So media becomes much more
+
+[17:39] tied in with the state and tied in with the ruling class overall, like economic elites, political elites. So the digital the the change to digital with the Internet and the web is similar to the early stages in
+
+[18:01] the print revolution in that it is disruptive of the existing order, and this probably won't last forever eventually and probably faster than the print era. The powers that be will figure out how to use technologies as a mechanism of control rather than a mechanism of disruption. But right now, we are still very much in the disruption era. And all of the
+
+[18:27] crosstalk conflict, new mechanisms of propaganda that people aren't adapted to in the way that they are adapted to twentieth century propaganda enables it makes it harder to coordinate rather than easier. And then the third point is on transnational culture. This one is the one that I've fleshed out the least and the one that I would probably write about in the future.
+
+[18:53] But the two ideas under transnational culture, one is that elite groups seek each other out on the basis of affinity and on protecting their shared interests. Elite is kind of a loaded word, but it just means individuals who hold some kind of cultural or religious or political, military, economic power. They generally want the same things, and they also have a cultural affinity toward each other. So they seek each other out. They form
+
+[19:22] networks on the basis of their shared interests and affinities and try to use the tools that they have and their relationships to reinforce the sources of power and to expand them, maybe in even into other areas. For instance, in France,
+
+[19:45] when nobles of the robe, the king had all these nobles who got their land during warfare. They're very troublesome because they control land and people and are a legitimate military threat. He starts selling titles of nobility to merchants, bourgeois people who can, like, afford them. And then once they get into the sage structure, then they start thinking, how can we consolidate? How can we protect our power? How can we pass it down to our children? And they become this new
+
+[20:16] organ themselves. This kind of thing happens all the time in history. The other idea in transnational culture is this kind of evolution of state formation that comes from these elite groups. A lot of times what you see, I definitely model the formation of France out of the Frankish tribes and
+
+[20:41] Rome and the evolution of, like, the Roman Republic in this way. You have these individual people who have some source of material power and maybe they have conflict between each other. They start gathering together to try to coordinate with each other in lieu of conflict. Early Frankish law is very much like this. They say, okay, instead of, oh, you killed my son. Instead of me killing two of your sons, pay this money. And it becomes a way of diffusing this blood feud cycle.
+
+[21:12] In Rome, it was also the paterfamilias who in the beginning had total authority over their, like, families and all the way down the line. In Rome, they started coming together in the senate, which comes from Senatus, and it was just the gathering of the old men. It's the same route as senescence. And this just becomes the place where they hang out and settle disputes
+
+[21:39] As more mechanisms for coordination and mechanisms for coercion against noncompliant parties evolve, this body takes on a character of all its own and eventually the guess, the polarity flips where all of a sudden you go well, not all of a sudden. It's everything's gradual. But you go from I represent
+
+[22:03] the Julian clan or whatever, and I'm just here to represent our interests. You get people who are there to advance this body as a whole. It becomes this new source from which I think Sama would probably say mint legitimacy. And then that's when it goes from this organization that just coordinates these individual clans to this institution that tries to suborn the clans to it and take away their power and accumulate it into itself.
+
+[22:37] So whether this happens at the village scale or the state scale or the global scale depends a lot on social and communications technologies. It comes down to the ability to coordinate. There have been a couple attempts at something like the earliest form of a regional or world government.
+
+[23:03] The two examples that I really like are the Metternet system after Napoleon for trying to basically put down any kind of Republican revolts in the future which failed in '48. And the UN which was originally envisioned as the beginning of a global government, but the Cold War kind of derailed that. The Cold War and the death of FDR
+
+[23:28] who was very ideologically committed to this idea of like global coordination whereas Truman was very much not. And as much as I hate to say it, Truman was probably right considering FDR badly misread Stalin. But computer technology and the Internet and these various things will eventually give us the ability to coordinate on the scale of billions. And at that point,
+
+[23:56] it's kind of global coordination becomes feasible, I don't think, in our lifetimes, but someday. But we already see the beginnings of global elite cultures. In the business sector, you see a lot of coordination between tech leaders. In
+
+[24:22] certain regions, there's definitely well, okay. I'll wrap up here. But the basic idea is that are we the leaders of nation states or anything? No. But there is a certain affinity that pulls people in this weird Internet circle together. A lot of us do have access to some level of class resources because a lot of us are connected to tech money either directly or indirectly.
+
+[24:50] And there is a lot more mobility, a lot more shared interests. Like, I know Edge City because I went to Edge Esmeralda in California. The other week, I randomly ran into a guy here who I met at Esmeralda. And then I went to an event in Bangalore in India that was organized by people that I met in Edge Esmeralda. And
+
+[25:17] these these connections, these transnational connections where we feel more affinity toward our chosen compatriots than we might with, like, random people across the street, I think is the beginning of the emergence of one of what will be many globalized cultures.
+
+[25:39] And then who knows? A hundred years. Something like that. Yeah. I'll give it back to you, Chance. Cheers. Thanks a lot, Maz. That was fascinating and very intriguing end there as well. Okay. We're going to shift into q and a aspects. So this is both online and in person. So we will start with,
+
+[26:03] in person. Anybody have any questions to jump in on? Yep. Actually, if you're open to come, it would be easier than Maz can see people. Hey. How's it going? That was a amazing synopsis of the history. I'm I'm kind of curious about
+
+[26:27] the individual and the collective interests. I've been listening to a lot of information and and podcasts about, how does one plan for the coming, world and rise and fall of trends of nationalism and globalism. I'm kinda curious, what is your opinion at the individual level
+
+[26:52] from like a risk point of view? So particularly when we think through this problem, we usually think through our identity first, either as an American or whatever nationality or, you know, groups you are a part of. I think there's kind of a lot of, like, doomerism or, I don't know, like this, apocalyptic
+
+[27:16] viewpoint, like, the world is kind of going down and there's gonna be a massive, you know, crisis or conflict, right, between, like, China and The US. Yeah. Have you thought through this, like, on a personal level and, like, how to almost, like, derisk yourself? Like, one way to as an example would be to, like, obtain multiple passports or to change location.
+
+[27:39] But I I guess, does this all seem a little, paranoid to you? Or kind of is this quite realistic? I definitely think about these topics. I think that I I think that the doomers would call me complacent and the complacent people would call me a doomer.
+
+[28:04] Not that I'm like a paragon of balanced centrism or anything, but on an individual level, well so I'm based in Bangkok. One of the reasons that I'm in Southeast Asia is kind of this negative view on the future trajectory of The United States
+
+[28:26] and positive attitude toward Southeast Asia and you're not looking to derisk. The thing is so especially in like a major market downturn, like if something like the Great Depression happened, then you have to think about correlated versus uncorrelated risks. Right? Like, if you have like an awesome tech job and you have all of your money in
+
+[28:53] like SPX or the Standard and Poor 500 index fund, Those are those are heavily correlated and this is what like killed a lot not well, literally killed a few, but this is what damaged a lot of people's situations in the Great Depression is that like, oh, you lose your job at the same time as you lose your savings. And definitely
+
+[29:16] hoarding cash is a questionable proposition given I'm sure that we all know about, oh, money printing, all this and that. So definitely like not I don't think any risk is like fully uncorrelated. The thing is The United States effectively runs most of the global economy.
+
+[29:39] And if The United States goes down, then everything goes down. Like there is, unless you're like farming beets in like the middle of nowhere, then you're going, well, even if you're farming beets in the middle of nowhere because like fertilizer depends on oil infrastructure nowadays. But the the idea here is that because The United States is such a necessary
+
+[30:04] component of the global economy as basically the consumer last resort resort, it hurts everyone. It even hurts China. Like, there is no refuge, I think, in terms of financial assets. Although gold might be pretty nice. Gold I mean, I don't know. Like, gold has been a pretty good trade this year. Will it last? Who knows? Like, the future is mysterious and opaque to us.
+
+[30:30] But I think that on the other hand, a lot of the doom or fears are a bit extreme. I don't think that like the collapse of the Roman Empire kind of situation will happen. And I don't even really think that a great depression will happen. The thing is that, how would I frame this?
+
+[30:59] I think the most likely scenario if The United States can't get its acts together is flat. Like, you see people sitting in assets that are, like, gradually bleeding in real terms while still
+
+[31:22] maybe being flat or slightly up in nominal terms. There isn't any willingness in the political establishment to allow a crash to happen. And I don't know, I don't even think it'll be that bad. Like, the thing is The United States is a vast land with very industrious people and enormous amounts of natural resources. I don't really see,
+
+[31:47] like, mass starvation and devastation or anything happening because, I don't know, food is so cheap. Like, the energy the our ability to produce energy as a society is incredible compared to where it was a hundred years ago. I think that my, like, default case for United States assuming
+
+[32:11] continued political dysfunction and eventual devaluation or default is that, like, it kind of sucks, but like it's not going to be like civil war or anything like that. Yeah. That's very interesting. Is there any particular Internet native paradigms or inventions that fundamentally change,
+
+[32:35] the way that such transitions happen on, like, an individual level. It it's kind of an idea that, you know, the Internet gives us certain abilities, and certainly that's aligned with like the network state to to move to work. Right? Our, capital formation is dependent on like, it's not bound by geolocation anymore. But I guess, you know, is it like the the phrase, like, this time is different,
+
+[33:02] is like, is that actually is there any merit to that statement with Internet technology as we go into a new you know, as we're switching paradigms. Right? I I don't know if it will be different, but it's always the individual that suffers usually. Right? Like, it's the the lowest class that usually ends up taking the highest cost. But the baseline is so high. What's
+
+[33:26] that? Middle class is who they go for because Yeah. The lowest class, they have nothing to take away. The middle class, they have plenty of stuff to take away and no real ability to defend it. Yeah. Well, is this time different I guess is the actual kind of a I don't know. Like it's hard for me to say. This is a question I think about a lot and I don't have a good answer. Mhmm. Because
+
+[33:52] on the one hand, we do have all these new technologies for communication, for automating any kind of work that can be turned into a digital form. The AI people are trying to get to a point where it can even automate some amount of physical work. Well, I guess even like
+
+[34:15] automated factories are sort of a form of that, although it's very capital intensive. I think the biggest thing about software that affects us is that it is very capital light. Like, I couldn't, with my own personal resources, build a factory that makes light bulbs, but I can build a factory that makes, I don't know,
+
+[34:40] web servers. Right. So on the one hand, I do believe in individuals having more leverage who are capable of using these technologies, like the in its, like, glory days in, like, the mid to late two thousands, I think don't quote me on this. I think Google had, like, a tenth of the workforce that IBM had during its like
+
+[35:12] glory days, I guess, the seventies or eighties. It's much larger now, but a lot of this is just because it makes so much money, can get away with And with, like, AI stuff, maybe you can cut that another order of magnitude. Like, you don't need, like, all these and not just AI, but, like, everything that came before and is coming.
+
+[35:35] Like, you don't really need HR to manage a lot of paperwork stuff if you use one of these like cloud platforms. You don't need to manage your own server deployments anymore. You just go on AWS and you pay a premium for that, but you get to offload all of the organizational risk and cut your workforce drastically. So it does allow a lot more leverage on the individual side.
+
+[36:00] The deeper question though that you're asking is if there's a huge market failure, does it all just go away? And that is something I think a lot a lot and do not have a good answer for. Because on the one hand, I do believe that the ability of software to organize information, organize the world, create automated you can even say automated bureaucracies.
+
+[36:24] You can obviate a lot of routine rote work using software and capture a fraction of that value while eliminating some of the costs and thus create value. But, you know, like in software, like a lot of it, it seems like fake and lame. I don't feel that we're using computers anywhere near their
+
+[36:47] potential yet, even just regular programming, not even AI. And if all of a sudden all the capital gets pulled out of the market, like, is anyone gonna be buying b to b SaaS, and anyone gonna be buying all of our cute little things that we make? I don't know. Yeah. Alright. I'll I'll give some time to some other questions, but thanks again. Imaz, thank you so much for such a great talk.
+
+[37:25] Right at the end there, you started talking about how things like Edge City can potentially start to be these networks of kinship and affinity that eventually maybe in a hundred years could start to have some role in this, you know, unfolding future. I would love for you to maybe double click on how you see that happening over the next five, ten years, how we can maybe,
+
+[37:48] you know, like, if if you are on the leadership team and you wanted to steer this in a direction that's kind of interesting and, like, a historical perspective, what would be some of the things you'd be interested in seeing and, yeah, seeing unfold? So I've only been to a couple events, I guess, in this there's a word that people on Twitter use SIM cluster for groups of people who get aggregated together
+
+[38:15] by social clustering algorithms, but it's a good word for things in real life too. So I've only been to a couple of events in like what you might call the edge city SIM cluster. So I would speak first more about teapot and five camp and that whole scene, which for people I I don't have any idea if everyone in the room already knows what I'm talking about. But
+
+[38:42] it's basically like a group of people on Twitter who sort of emerged out of it's like a fork of a fork of Internet rationalism, the whole like AI West wrong sphere where you have the rationalists who have their whole, like, utilitarian decision theory AI thing. And then you have a group of people called the post rationalists
+
+[39:05] in the mid twenty tens who are blogging more about like, okay, this overly mechanical view of the world isn't workable. We need and they start talking about rituals and feelings and like spirit and these kind of more wooey sort of topics, but trying to do it in a historically aware way. And that is kind of like where I came in to this
+
+[39:32] world. And then Teapot is kind of like a branch of that where some of the original people in that are still around, but it also expanded to a lot more people. And now well, they don't really blog anymore. They mostly talk about, like, dating discourse and how they wanna get married and stuff like that. But they also have a very much more offline culture now,
+
+[39:59] really starting with VODcamp. Like, before VODcamp, there were definitely, like, teapot city meetups. Like, I was living in Seattle a few years ago and, like, I got added to, like, the Seattle teapot, like, Twitter DM group. And then we get together in the park, every month or something and just, hang out. So from there, people who are already in the same place hanging out and you get vibe camp where people are coming together for this event and they're having all kind of feelings. It's very like a, you know, meditation yoga
+
+[40:31] improv kind of culture. And then other places in the world start I don't wanna say copying, but being inspired by. It's not copying because a lot of them are doing their own thing, trying to figure it out. It doesn't have any kind of like formal organization or anything. I just went to one like couple weeks ago in Bali, which was like,
+
+[40:54] I believe yeah. The organizers I don't think I've ever been to Vibe Camp or any of the American events a lot because of visa issues. It's very difficult in most of these countries to get an American visa, but they see it online and they emulate it and they create their own, like, little thing. And these people and the American people and there's a bunch of them in Europe and all over have this, like, natural shared culture. A lot of it comes from online
+
+[41:20] and gets diffused out through their social circles offline. Like, I went to the same thing in Bali the year before, and there was, like, a local girl who like someone there knew and was like, hey. You should come by. She never heard of any of this. And then this year, she's one of the organizers of it and she put a lot of effort into putting it together. So it's a kind of thing that like among a certain personality type can diffuse outwards.
+
+[41:47] So to go back to Edge City, what if I sort of get to leadership? I have no idea. I really like how it seems this is evolving though. Actually, I was trying to describe Edge City to someone because I was gonna go to Lana, but then I didn't end up making it. But everyone on Sam's side, a lot of them, like, got introduced to c punk, his thing in Edge City Lana.
+
+[42:15] And so I I find cause to explain Edge City to people who haven't heard about it before. And the woman I always go to is and a lot of these like similar cultures basis where it feels like it's going from, oh, we get together. My my impression is that Edge City kind of emerged out of maybe the conference circuit, but it goes from like people get together for like a week
+
+[42:40] for an event to we have our own event now, people get together for like a month and we have our own like village kind of experience. And it feels like it's going toward like having villages in different places like maybe every month in the future. I just there's a there's a line. I don't remember where the hell I read this, but I was trying to describe
+
+[43:06] no. I this is Spangler. He was describing the social form of Alexander's roving army. And he says that, like, the Greek mind organized everything in the basis of the polis. And Alexander's, like, whimsical adventures, he was just a mobile polis. So I guess that's kind of how I think of, like, where Edge City could go is a mobile polis
+
+[43:31] where maybe everyone doesn't go to all of them, but it has this, like, continuity. So I guess yeah. See, this a lot of times when I'm faced with a novel question, I just start talking and then think through it. I think maybe the first thing that I would say is continuity is very important. Like and you see this with people who are trying to do more like communal living or intentional community type things. Like,
+
+[43:56] oh, let's 10 of us like go buy houses in the same neighborhood or even worse, let's all live in the same house. This is always like a recipe for like horrible drama and also misalignment. Like you even see this with offline groups like the free staters. There's a it's like maybe they're starting to get some uptake now, at least for a very long time, it was like no one moved there because they have this compact where we're all gonna move there together.
+
+[44:23] But, like, everyone's like, I have a job. I got shit to do. What am I gonna do in New Hampshire? At the moment. What whichever. New Hampshire, I think, because they have no they have no sales tax. But it's really it's really hard to do that kind of coordination thing. And the reality is a lot of people who want this kind of like intentional community living experience
+
+[44:49] really want someone else to run it. Like, I see this with a lot of like because they're like, oh, let's get a compound. Let's get a group house. Like, all the stuff like everyone everyone says this nowadays. I think it's like I have a line that I've used a couple of times in essays that like the organizing principle of the twentieth century is the mass movement. The organizing principle of the twenty first is the cult. And I don't necessarily mean a,
+
+[45:13] like, cult pejorative or even necessarily religion, but, like, some kind of shared belief structure, some kind of small cell culture where you're coordinating more on an individual and small group basis rather than having this top down hierarchical, like, cadre sort of system. There's no marching orders. People kind of, like, come and go as they please,
+
+[45:38] but if the thing is attractive enough, then it brings people in and they have this inner world that is different from the outside world. Everyone wants that nowadays, but a lot of them never get off the ground because everyone wants someone else to do it and they wanna spend like three or six months out of the year there. So I would think that for Edge City in the next few years, continuity
+
+[46:01] is, I think, good. If you have a core group of people who are, like, part of the polis, then people will join people will join more and more, and eventually, maybe it develops its own kind of, like, economy that can support people. I don't mean, like, in, like, our mobile factories or anything, but, like, some kind of support system that allows people to exist more within its confines.
+
+[46:28] Start to see the same kind of thing in tech where, like, ten years ago, if you wanna get tech money, go get a tech job. Nowadays, you can start like there's there's like yoga people, there's meditation people, and all the life coaches. And then there's like people are starting to stand up like baby little think tanks and all that stuff. And all that is getting second order tech money. Having this kind of like value that can support
+
+[46:52] mission aligned people and having this like continuity that allows people to be drawn into it, I think are good pointers. Cool. Thank you so much. Thank you. Thanks, Maz. Are you okay for one more question? Male Absolutely.
+
+[47:15] Male Okay. We have quite a bit of play and maybe if it's fast, we might be able to do another one or two if that's okay. Hey, Maez. Nice to meet you. Thank you for being here today with us. I had a couple of questions. I think the first one was kind of already answered by everything that you were just saying.
+
+[47:40] I'm gonna read anyways to kinda start, getting on the point of my second question. So you were saying, you don't think it's really feasible for us to, like, maybe in a hundred years, to see a change in governance institutions in society. But
+
+[48:04] maybe I would shift it to why do you think is it so far fetched for us to be able to come up with this new forms of governance? And also in the journey to to these future forms of society,
+
+[48:29] what do you think are like the greatest difficulties or obstacles that people like us here at Edge City that are trying to move towards that? What do you think are like the greater greatest obstacles that we can find
+
+[48:52] when we're trying to build future governance institutions built with technology, AI, blockchain, and well, that's that's pretty much. I think I would say
+
+[49:17] the why I think it's well, one of the reasons why I think it's farfetched is because I just think historical processes take a long time. Like, even the American Revolution, which was maybe the greatest, like, sea change event that's a lot of people think of us coming out of nowhere came out of, like, a hundred and fifty years of people doing local small scale governance.
+
+[49:43] Like, the guys who wrote the constitution, a lot of them had written constitutions for their state, and they were drawing from this, like, long culture of just managing small scale things on their own, like settling disputes between neighbors over farmland and, like, making sure that people make it through the winter and things like that. I think that there's a certain kind of
+
+[50:12] implicit knowledge that needs to be developed through practice and this kind of thing necessarily takes time. The the other thing that I struggle with with a lot of the very online governance type initiatives is that I think that there are a lot of very smart people who put together a lot of very interesting
+
+[50:37] structures. And there's definitely, like, economic resources, but there is a lack of political or if not directly tied into politics, military resources. At the end of the day, you look at this is why I soured on seasteading for instance. There was one in, like, the seventies or whatever where they found this, like, loophole, international law, where there is, like, an island that was claimed by no one. So they're, great. We're playing by the rules. We found our island. They go there. They set up on the island. And then
+
+[51:10] I think Australia just randomly awarded it to one of these, like, pollination countries and then went in with soldiers and got rid of everyone. The thing is that, like, not to get too extreme, I guess, but at the end of the day, if you're trying to build new power structures that are in direct
+
+[51:33] conflict with existing ones, then you need a way to defend yourself because they will extinguish you unless they are so distracted or disinterested or misunderstanding or unless they're aligned with you. You see the same exact thing with Prospera in Honduras where there was like one
+
+[51:58] government says, hey, come build a city here. You can have all these like new rules and we'll set things up so it's very nice for you. And then a different comes in and says, actually, we hate these guys. Get out of here. And the only reason that the people have not been gotten out of there is because of United States law. And there are there are complicated like geopolitical actually, no. My favorite example of this, my favorite, and this is one of those like,
+
+[52:25] why is The United States like this kind of things, is that there is this guys, they're Americans and they invent this like new like submersible because they're gonna go gold hunting. They're going to the bottom of the ocean and trying to get gold up from these old sunken like Spanish galleons. So they go, they got some gold out of this, like, Spanish galleon in international waters, and they're like, wow. Great. We made a few million dollars. This is a brilliant idea.
+
+[52:54] And then Spain sues them and says, actually, that's our gold. Yeah. It was international waters. Yeah. There was no way for us to ever get it, but, like, actually, it's ours. You have to give it back to us. And this goes through the American court system. And eventually, the Supreme Court says, yep. You have to give it back to Spain. Also, you owe them a million in damages. And
+
+[53:18] this was like some there was something in the the Assange, like, WikiLeaks cables that this was like some kind of quid pro quo for quid pro quo deal. I forgot the exact details, but this is what you have to deal with. Like, I am a great lover of software. I love building wonderful software things, and I do hope that, like, we can have digital money and, like, digital law and all these wonderful things. But at the end of the day, you've gotta be able to defend it one way or another. And that could come in the form of finding
+
+[53:52] state patrons. It could come in the form of having some sort of authority that they can't take away. Thank you. Okay. Thanks a lot, Matt. I think we're at time. And coincidentally, the Spanish galleons, I actually have a
+
+[54:16] coin from there. This is a Chinese pop marked version. It's a funny coincidence. Okay. I wanna say thanks a lot for everyone for coming, and thanks a lot, Maz, for all your time and the very interesting conversation. And, yeah. Alright. Have a good one. Yeah. Thank you for having me. Ciao.
+
+[54:41] Bye.

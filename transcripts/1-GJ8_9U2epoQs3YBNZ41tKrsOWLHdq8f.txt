@@ -1,0 +1,311 @@
+# Cyberia — Sustainable Energy and Water System
+
+Date: 
+Source video: Cyberia — Sustainable Energy and Water System
+Drive: https://drive.google.com/file/d/1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f/view
+Duration: 01:03:51
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Hello, everyone. Mister Saipas here, today. I want to start, this course on autonomy living. It's a part of pilot work state's residence, which is, like, not official residency,
+
+[00:26] but our residency is about you know, we have a huge belief that network states will not require permissions to be created. That's why I residency is kind of independent. And, yeah, this course like, the purpose of the course is,
+
+[00:50] you know, we cannot give you all the answers we need in order to create autonomous villages. What we can do is to share our experience during the recent several years of creating such as village on a small scale,
+
+[01:13] understanding real problems behind it, share the experience which is all about our unique situation. Autonomy is actually extremely locality specific thing. So in all different places, the solutions are, like, actually require a very different approach.
+
+[01:39] But, anyway, sharing this experience, we believe we'll start spur the discussion on autonomous city buildings and living more independent lives, more happy lives, more healthy lives. That is where why we are actually doing that. And we will try to cover all the topics.
+
+[02:05] Well, like, if you take all the problematic of autonomous village building, all the topics are kind of covered. Yeah? But none and we wasn't able to find anyone who actually condensed it into the kind of complete set of problematics. Which
+
+[02:32] are in concern of of autonomous city buildings. So today, we will speak about energy and water system. Like, the topics are quite big. Both energy and water, were super related. I wanted first to split them into
+
+[02:54] two lectures, then I just realized that it could be, like, too much for, like, the course. So I will try to condense condense these topics into one lecture. So let me start. Some perspective on the energy.
+
+[03:17] Well, global power consumption is something around 2,000 terawatts per hour, terawatt hours and three terawatts per hour. Yeah. But, actually, we can narrow down it to one very simple number to understand. I will make it kind of, like, bigger. Yeah? Or better.
+
+[03:41] Very simple number to understand is how kilowatt per hour per human, globally. Yeah. That's basically the need we are currently, have here on the planet on average to sustain all industry, all logistics. That is not included, the heat energy. It's only electric energy. Yeah? But,
+
+[04:08] anyway, computing is there. AI is there. Bitcoin mining is there. All that weird stuff is there. Yeah? And for sanity of presentation, I want to, give perspective on our internal, state, yeah, of consumption. It's four time less. Yeah?
+
+[04:32] Well, maybe it's good, maybe it's not. Yeah? I think it's more like like it is. So we have four times less consumption than overall civilization have per per capita. Yeah. And then, like, I I say, like, population 40. You see, I include here, like, here we have four people of our family who live there, like, all the day and night and actually,
+
+[04:59] 55 people who are work during day. So well, we try to, like, understand the consumption of the these resources among, like, residents, like, who who live there and who work, and it spreads, like, the same. So we can save it, like, for like, when you think about planning to build for autonomy,
+
+[05:25] always think not only about who will live there but, who will work there also. And the consumption and, like, needs will be pretty the same. So you can compare it almost one to one. Okay? So, we have four times less, consumption per capita. Why we do have the the four time less consumption per capita? First,
+
+[05:49] the reason is that we don't have any industrial applications. Yeah. So we don't have, like, cement production. We don't have, heavy industry like, melting iron and so on. Yeah. We also, in terms of logistics, in the beginning because we only charge one motorbike with the our energy system, which allow us to
+
+[06:13] actually move, very efficiently stuff within the village and silently, which is, like, super important. But, anyway, we use the energy. We we we actually don't save, trying to save energy. Yes. We we like, we started when we install the system, our 50 kilowatt system. We, like, just thought it would be enough. And
+
+[06:42] okay. Step by step. In terms of Kardashev scale, raise me your hand. Who understand what is Kardashev scale is? None of you. Okay? Kardashev scale is the idea where you can measure the development of civilization by amount of energy consumed. Okay? So you have this, amount of energy which is produced by the planet, by the star, by the galaxy. So you have three types of scales of civilization,
+
+[07:12] and, you can you basically can understand on which stage of your, civilization on which stage your civilization is, yeah, by just trying to wrap your head around the number of energy cons consumed. You see 10 per 16 is actually the amount
+
+[07:41] of, watts needed to pass through this, threshold of Kardashev fund scale. And, currently, the planet is something around, like, need three orders of like, on average, three order of magnitudes more energy consumption to pass through this Kardashev one scale. But in our case of our cyber well, it's, like, 10 per nine,
+
+[08:08] so nine order of of magnitudes more. We will see how it goes. So I will always when I will touch energy, topic within our village, I will always try to track the progress in terms of kar Kardashev scale, which is kind of cool. Okay? So this is the picture that sure. Okay. Understanding,
+
+[08:33] like, energy and the its energy cycle is very important while building for autonomy. Okay? Overall, like, according to this picture, which actually represent how energy flows, like, on our planet, like, you can see that the biggest and, like, most abundant energy source is solar. Okay? So sun is shining and bringing us,
+
+[08:57] several order order of magnitude, more, energy than anything on the planet. And this also result in, heat, which result from solar irradiation. Yeah. And this also include evaporation, which actually went funnel back to water and hydropower.
+
+[09:20] Okay? So the sun is everything for us. On the second place, we can see that actually this hydra energy because of the sun, this hydra, I think, is by capacity is the most important. So, like, here, we discussed the capacity of potential energy sources of sustainable energy sources. And second place is, for sure, is these
+
+[09:48] flows created by operations and flowing, like rivers, hydro energy. Yes. And the fourth place, we have I think we have we have wind energy. Yeah. And we see here, like, it's some like, wind waves and currents. Yeah? Winds. So third place is winds, but it's already significantly
+
+[10:12] less significantly less. Two orders of magnitude less when sun and hydra. Okay? And on the third place, we have the energy of our planet, the earth, like the soil, heat, which comes from the core. And the fifth place is bio
+
+[10:35] bio, like, life energy, yeah, which we can express as photosynthesis, which is, from one side, not super efficient process, but from the other side, it's super reliable and affordable and ubiquitous. So yeah. So we have these five sources of sustainable energy which exist here and circulating always.
+
+[11:01] You cannot see here the nuclear energy because I don't like the topic of sustainable energy sources is we just don't have the sustainable nuclear energy here on the planet, and that's that's why I'm not discussing it. Okay? Very important part of this picture is this violet 16 terawatt current human extraction of fossil fuels. Yeah? So from this picture, you can see how stupid our civilization is,
+
+[11:30] obviously. So we have a lot of abundance of all that energy sources, but we we suck in oil and gas from the land, which will finish soon. It starts as already finished where oil peak tell me the rest of the hands who have heard about oil peak. Yeah. So, like, in seventeenth,
+
+[11:54] it was fifty four sixty years ago when the actually, when profitability of oil extraction started to fall, and the the extraction volumes also because, like, you well, you can extract indefinitely, almost almost indefinitely, but you cannot extract profitably.
+
+[12:17] Yeah. So when there were at once, like, at at one point, you just have this problem that the like, the more you're extracting, the less profitable it become. And that's why actually everyone is concerned currently about more sustainable energy energy sources. Yes. But the deal is that we are kind of like,
+
+[12:41] it seems that if, like, you think in Kardashev sense, yeah, that is demonstrate how childish our civilization is. Yeah. So we are just find, like, the small source of energy trying to burn it. Yeah. Yeah. Without actually understanding how much energy flow around.
+
+[13:03] So so much. Yeah. And when you design for your autonomy, I just ask for you you to always, like, when you make decision, you go to this picture and trying to, you know, evaluate what your decisions against this picture. Okay?
+
+[13:27] So on this picture, you can read also between the lines the most important energy rule for sustainability, which is actually diversification. Yeah? I will tell you the story when we build this our solar system, and the huge fork came huge fog came for eight, almost nine days.
+
+[13:52] No sun. One centimeter of wet, you know, over, like, wrap around all our house. Wet, cold, no light, no Internet. It was very heavy experience. Yeah. But we learned that when you do energy, when you don't don't have, yeah, diversify
+
+[14:16] energy sources. So the most important message to you, don't ever think, like, choose this or that. Yeah? Choose both. Like, just balance out the capacity. Yeah. You all yeah. Well, we deal at is that actually solar solar solar system so solar electric energy. Yeah? It's
+
+[14:40] kind of very, like, very most simple way to to get. Yeah? But it's not that like like like you think. Yeah. I will when I will talk about it, will explain you why it's, first, not sustainable. And second, it can work for in all the situations. Yeah?
+
+[15:08] But the interesting also thing that while photosynthesis is kind of like small, minor energy, yeah, it seems like I will start to stop it from the water because obviously, what we can live without electricity, we can't live without water. So when you go to the field to put this tent, you know,
+
+[15:31] yeah, the first thing you must solve is water. Okay? And water is the most fundamental resource in our state currently in the village is that we have this huge flow. We live in I I remind you, we live in Bali. It's the tropical climate. Also, we live in the place of cloud forest. It's high in the mountains, so we have even more when tropical rains. I I I think we we we have something like four or five cubic of meters
+
+[16:02] per one square meter per rainy season. So it's, like, just enormous amount of water which pass through our land. Yeah? And it's I tried to estimate it's something like 1,000,000 cubic meters was passed through our through our land. And, yeah, I will wish everyone to have so many water. Yeah?
+
+[16:28] But the deal is that even with a small amount of water, you can handle well, okay, your system. So we was able to reach 200 cubic meters of water, And it's just the state. Yeah? And the, like, questions, how to?
+
+[16:54] First question we usually have is, like, how much water you need. Yeah. There is only one correct answer to this. How like, as much as possible. The water is not like the success of your civilization or your village or your city depends on just an amount of water you can store. Water is the most fundamental resource.
+
+[17:20] It's in the end, that's very cheap to store. So never you know, it's not like I build this pond or water storage system and it's enough. Yeah? No. Always continue to improve your water storage capacity, find the ways to store more water, and never stop. It's our strategy for building civilization
+
+[17:44] for sure, and we use it as, like, the key metrics in our operational and strategic activities, amount of water stored. Okay? But in reality, we consume something like our village consume one ton per day minimum. So it's something like 25 liters per person,
+
+[18:08] like including workers. Well, I don't know what's much or not if you take this. You know. Seems like we are quite lean on this. Yeah. I I think that you will need more. Okay? So could I consider that you need something
+
+[18:32] like 100 liters per day, but the deal is, like, water access. So I will in this talk, I will talk about rainwater collection. Okay? Why? Well, you have rivers, you have lakes, you have a lot of stuff, but anyway, rainwater is kind of available everywhere. So if you like, in our case, we live high in the mountains. We don't have lakes. We don't have steady
+
+[19:00] flows of water. Yeah. In some for example, in some desert areas, can have this rain only comes once a year, but yeah. So here is the deal. You the rain water collection, like, idea I want to give you is, like, the most basic super cool thing you can do. Yeah. In many ways, if you want to organize, I will later talk in the building biome and gardens
+
+[19:26] that it's not only about drinking. Yeah? Water is everything. Water is for environment, for plants, for and so this is, learning how to take what the sky gives us is kind of essential thing to abundance. So
+
+[19:50] I will not talk about drilling. Yeah? I will not because it's, like, usually involve more heavy costs. Yeah? So I'm, like, I forget to say that the whole point of this course also, I but but through through through our experience, we spent we did have some reserve of money and we would spend, you know, extra money to experiments and trying to stuff and break the things
+
+[20:15] and throw money. But the deal is that affordability is, I believe, one of the most important bottlenecks in this whole upgrade leaving thing. Okay? And finding solutions that are cost effective,
+
+[20:40] I think is the most important for enabling this kind of living for not for just geeks like we are. Yeah? But for broader perspective, we are currently coming to the age of AI. No one knows who will work, somehow will work, how we will get paid, and so on. And it
+
+[21:02] turns out that this cost effectiveness thing is just essential for people being able to organize and sustain themselves during any times, AI revolution, which will take out all our jobs. Maybe. Maybe not. So this cost base, and it turns out that when
+
+[21:29] you drill, it's the cost base is pretty high. Yeah. When you try to extract from the air, which we also try to the cost are pretty high, especially energy cost. But when you just say that I need some soil that doesn't allow water to go away, it's become progressively cheaper.
+
+[21:52] And here I want to give you two ideas. The first idea is that we first try to build our water reserve system using open or closed containers from concrete, from plastics, and it like, when we measure it, the water quality, like, all the parameters was the same in open and close it. Yeah. So if you are collecting from the rain,
+
+[22:19] it doesn't like, if you don't have some, like, serious source of dust and pollution such as, like, erode, so so if if you're basically in the remote area, clean area. Yeah? Because, like, this this whole lecture course is about remote, more like building in remote areas. So you must not need to bother yourself with closing your water reservoirs
+
+[22:42] because it's just more, like, expensive. It's slow. And you will go in, like, in parallel in two ways, like how we did. We did this fast cheap thing which is about geomembrane, which cost something around $13 per one
+
+[23:04] square meters of bottom. Mhmm. And what it does allow, it allow you to build your system in the in in in in two in one, two days. Okay? And you can build it also in very remote areas because it's very easy to bring the stuff. Even if you have problem with logistics and mountains, it just doesn't matter. You bring one roll,
+
+[23:27] you roll it out. It's more like usually four meter with it's enough to store, like, twenty, twenty five, 30 tons of water. You lose two, three points, you're fine. You start in several days. You spend you spend very, like, within the range of $1,000.
+
+[23:51] And you also must remember that it take time to fill. Yeah? So in our case, we decide to go plastic. We actually hate plastic. We know all that stuff about microplastic. I just want to let you know that we are not in the plastic company. Yeah? Strong advice is so back but when you, you know, the goal there and decide to leave, you actually
+
+[24:16] must you you have all the three dots. You have possibility to do basic stuff and, you know, your your your beliefs about microplastics. And so the actually, the idea is that you can enroll with several things fast, yeah, without spending so much,
+
+[24:41] but slowly start to construct more Pyramanian ponds using stone clay. Like, if you have so it's very dependent on the soil type you have. Yeah. In our cases, undissolved volcanic soil, it's just like water goes in four hours, it's gone. Yeah. You have some not so many clay in the need. Well, we have some clay on-site, but it was for us, it's just more expensive to collect the clay, which already we have
+
+[25:09] to organize. Yeah. And clay is mostly not a cheap thing if you buy it. Yeah. So I think, anyway, we we will build from clay from some kind of Roman concrete and stone, like these ponds slowly, and we'll start to change these ponds and build a new one. But, yeah, when you need water, you need it fast.
+
+[25:38] So that's my advice for you. Start from that. Just by you spend several days, you will save a lot of nerves and the money, and you will have the first train, you will have some water. I will not stop here how and, like, where to build. So, yeah, you can go it's like you take in any during any rain, you go and see how water flows.
+
+[26:02] You know on your side perfectly where the water flows. Okay? So you just kick like a good find the best place to catch it, organize whereupon. Yeah? So I think it's very interesting topics, standalone topic about land organization, yeah, which I didn't include into this whole course.
+
+[26:27] I will touch it, like, during different topics. Yeah? But I think it's very important in this autonomy building idea is to not plan in advance. Yeah? Why? How we used to build? You come to the land, you draw in after cut these beautiful pictures. Yeah?
+
+[26:56] That ends up in very inefficient decisions. Yeah. You start to understand how the sun's shining, how the water flowing, how the wind is blowing, where is the soil is better for which these plants, etcetera, after, like, you live for a while. Yeah? And, like, if you have some experience, you will likely will be able to define this, like, structural
+
+[27:21] positioning within your site, within your land in, like, week or so if you have experience. But if you know that it will take, like, years, maybe two. So and you will likely be the first time. So, like, try to not plan in advance. Yes. Start, build small things,
+
+[27:44] cheap, which are the most important. Yeah. You can do what you can do basically in four hours and eight hours, which will be, like, huge huge returns, low low low low low investments, huge return. So this thing is, like, low investments, huge return thing. You put it, you spend, like, for this German brand,
+
+[28:07] you dig the stuff, like, it's manual, can can be labor or automated, doesn't matter. And, yeah, it's done. It's working for a while. So that is about water collection. Yeah? About water filtration. So it turns out that photo filtration is not very
+
+[28:32] complicated thing. Yeah? Here AI drawn kind of bio filter. Overcomplicated. The purification system of water is overcomplicated because you put just several layers of natural materials.
+
+[28:55] Most of them you can get on-site, and in the end, you have quality of water which is better than in the bottles. They measure that. Okay? It's not just like the idea. The the you put the gravel, you put the sand, it's called slow sand biofilter. You put the sand, you put charcoal, like biochar.
+
+[29:18] Basically, biochar. Tomorrow, I will have a dedicated talk on by a char and carbon, which I think is super important. But here, like, the, like, the most critical component is by a char, you must replace it once in a year. And our case, because we have very acidic rains, we add limestone to fix the pH level.
+
+[29:42] In your case, you like, anyway, you must measure you must measure the water you have which come from the rain. Don't expect like, our mistake was we expect that we have a beautiful rainy water which is super clean. No. It's not. Yes. We already put a lot of shit on our planet. It's come back. So but by these biofilter things
+
+[30:08] are actually super efficient and one important, like, to you just add to this ultraviolet filter, which is also extremely maintainable. You have these lamps. Are very cheap. You can put it, like, reserve of these lamps, and you have the quality of water, which is, like, really better than sometimes in the bottles.
+
+[30:32] So and the capacity of these filters is enormous. So it can pass, like, cubic meter cubic meters per day, which will be enough for, like, you even for wash for washing for, like, all the purposes. Yes. You can use plastic container for web, but we we we decided to use basalt basalt bricks. Why basalt? Because it's, like, the least inert material
+
+[30:56] you can imagine, and basalt bricks allow you to have kind of the quality of melt ice water because it doesn't suck like plastic. Anyway, it leaves some, like, trace. Yeah. Why it calls biofilter? I think worth to mention this
+
+[31:19] Schmutzl Schmutzl I never remember this word. Schmutzdeke Schmutzdeke is this biofilm which formates on the this sand layer, which actually the source were allowed to filter most protozoa, bacteria, viruses, like very efficient
+
+[31:44] natural way to filter the sheet. You see how it appears in one month naturally. Just, like, don't let let it be. Yeah? So but, like, don't consider with Schmudzdecki as, like, something problematic within your biofilter. That is actually why what make it's bio. Okay? So
+
+[32:07] so we have water filtration. We covered water filtration. Overall cost of your water filtration system could be something on the scale of, like, from $200 to $1,000, which is actually not very expensive, I think, depending on the area, on materials, but this solution is super maintainable.
+
+[32:34] Okay? You don't need to replace heavy parts, for example, like in reverse osmosis systems. Yeah? So, like, why I am not talking about here about high-tech stuff? If shit hit the fan, it's obvious that you will not be able to support and maintain your reverse osmosis system. All that companies works because they their business model is to maintain the equipment they are selling. Okay? So,
+
+[33:01] yeah, there are some parts, you know, like, where you can afford, you must, like you can afford high-tech solutions. Some parts are not. Water is this exactly the same thing when you, like, just cannot afford to have high-tech solution in your water system. I will repeat it several times. Water system is the most important system that must work passively. You can remove this ultraviolet
+
+[33:27] filter if you don't have lamps. You anyway have this which filters some bacteria. Okay? You can have this by HR cooking. You can manually find this sand and stone stuff, but, yeah, if you go on the more complex, all that filters you buy, you know, I don't think it's sustainable thing at all.
+
+[33:55] Uh-huh. So now we go to oh, it's already fifty eight minutes. I must be, like, faster. Yeah. I told you that I need more time for water and energy. Uh-huh. Okay. I will try to be faster. So great water is like when you let it pass
+
+[34:18] through your house, it's become kind of shitty water. Yes. And there are two problems which are very, like, extremely connected to the gray water. Yeah. First is with, like, why it's become very toxic water after you use it. First is with
+
+[34:41] paper towels for your s. Second one is cosmetics. So two things. Okay? Paper towels, we remove completely. It prohibit usage in our village. Okay? Instead, we offer just these dryers with washers. Super cool, pleasant stuff, never want to get back. Okay? It's it's actually very strange why why no no northern countries
+
+[35:09] don't appreciate this, you know, shower in the toilet. Yeah. It's everywhere in the more southern, I think it's due just strong requirements for hygiene. Yeah. And regarding cosmetics, cosmetics is super problematic. All that cosmetics
+
+[35:32] is contains so many stuffs. We adjust but why, like, at one point, we decide that we will not use it all. We start to cook our own soap from sapanins are, like, in a lot of goods, organic goods you can imagine, and bark and yes. The best the best source of sapanins is the soap nut.
+
+[35:58] We use it for cooking cosmetics. We use it for cooking so so so like, all that bait, like, so we use it as a base. Yeah? And that allows so two things, no papers, no cosmetics allow us to have super clean output, so simple septic can handle this output, and after several months, it goes as a very useful,
+
+[36:23] fertile substrate for our garden. Okay? So we are not finding this shit back. Okay. Now I covered the water. Let's shortly discuss the electricity. Electricity. Yes. Electricity. Heat, I will discuss tomorrow.
+
+[36:48] So we current status. Current status, 30 kilowatts of solar generation, 30 kilowatts of energy. Yes? Of energy storage. Yes. So this is our batteries. Yeah. Like, what you must understand about solar. Yeah. Solar radiation exists not even in in our planet. Yeah. Because solar
+
+[37:11] irradiation is so abundant and very important source of electric, I would just advise you to choose the land by, like I think it's one of the most fundamental parameters of the land you choose. Not infrastructure. Yeah. It's actually, the thing that's shining is always yours. It's sort of I don't understand why actually sites,
+
+[37:36] like, land who's like, who sell and don't throw this capacity because you play a game, you always choose this title of land, and it shows the resource how much weed you can produce there. Like, yeah. And solar, yes, choose the land with, like, the most energy. For me, for example, it was very unexpected that South Of Siberia
+
+[37:59] South Of Siberia have more solar radiation than out of Bali Mountain. Yeah. You can see that, like, two times less actually in Bali Mountains. Yeah. Yeah. You see green one. Yeah. So we have two times less solar irradiation when in the cold fucking cold Siberia,
+
+[38:23] which is, like, very, for me when I start to learn it. We learn it when we already built it, like, I start to see the numbers. Why? So not not so much. We have cloudy, you know, environment and yeah. And that's the reason. But, anyway, you must choose always the sunny slopes. You must think about sun as the most fundamental resource like that here. Okay?
+
+[38:52] Nominal power is not real power output. Yeah? So, like, in our case, one one kilowatt of nominal power allowed to produce maybe 0.1 kilowatt. So, like, we have kind of 15% conversion from nominal output to real output. We actually can use and cache. Yeah? So first, you generate electricity using solar, but you must also consume it while you have it because storage is the most expensive
+
+[39:20] thing in energy. Yeah? So currently, like, the panels itself are not very expensive. The storage is expensive, but one very important advice I want to give you is that if you don't have industrial applications, you need not so many batteries. So we are fine to leave for the night without
+
+[39:44] energy at all. Okay? It's just turn off, and okay, we will wait until the morning. It's okay. Yeah? If you have industrial applications that require return on investments for some equipments, for example, mining equipment, of course, that's kind of become problematic because you must have even even ability
+
+[40:08] to produce energy. And, well, the general the common rule is that the needs are something around one, two kilowatts of nominal power per human for autonomous village. I think it's like, two is very comfortable level. And regarding the batteries also, so we have 50 kilowatts, which is, like, just enough for us to get to the morning.
+
+[40:34] Mhmm. One important thing I want to touch is that actually all that photovoltaics is not sustainable at all. There is huge difference between autonomy and sustainability. Autonomy is when you can bring it with you and live for some time. Okay? Sustainability is when you can live indefinitely. And here, we have a problem in Houston.
+
+[40:59] So I just tried to find out how like, what is the complexity of photovoltaic production? And it turns out that the complexity of photovoltaic production is almost the same as microchips, as as as as semiconductors. It seems like it's a huge achievement of a civilization that requires several countries,
+
+[41:24] 200 companies to produce all the supply chain need for the photovoltaics, but makes it extremely unreliable technology. And the problem is actually that the lifespan is not so, like, huge. You have, like, ten years after, like, it start to decay significantly. The batteries, three, five, seven years depending on how, like, you are lucky,
+
+[41:49] actually. And, well, I do believe that computer chips actually can work for, like, significantly better. It seems like we're pricey reliable, but, anyway, you have this scale of, like, ten, twenty years. So in case shit hits the fun, you have, like, very limited amount of time. And to be honest, I don't know what to do with it. Yeah. To,
+
+[42:16] you know, have this well, I do know. Yeah. You like, we will discuss for now biogas thing. We will discuss Gaidra thing. We touch and we will discuss wind. Yeah. Why these are, like, more sustainable technology? It turns out, like, for me, like, when I didn't dig deep into the topic, I thought that gas is, like, kind of the bad thing. Yeah? It's, like, because you have a c o two, which is you have the the internal combustion process,
+
+[42:49] which is also can be not silent, have some, you know, leaks as output, which is extremely toxic. But it turns out that all the problems are not big problems to solve. They are solvable. And only this technology actually gives us ability to sustain the memory system. And definitely in case you, like,
+
+[43:15] don't have ability to replace your solar system and battery system. Okay? So biogas for us, biogas become the saver as a second reserve source. Why? Because first, in Indonesia, you have a lot of non biogas. You just put this yeah. And we currently, we didn't finish the biogas system, but
+
+[43:39] we are working on it, and soon we will put it in production. The deal is that it's very simple concrete place, something like forty, fifty cubic meters, and you put there all your sheet. Like, you have more sheet, put more sheet. And it's so it's try like, in the end, you have methane,
+
+[44:02] which is very good source of fuel, And you also have very good this is also the base for Compost. It's kind of cheap cheap to build. It's also, like, very low cost. I cannot say for myself, but regarding what I learned from other people on YouTube and in the Internet,
+
+[44:29] like, maybe 50 cubic meter by a gas digester can produce something like three hours of gas burning per day, which is, like, just from the poop of animals and people who live in, like, in the area, which is kind of cool. So if you have this amount of gas, you can also generate several kilowatts of energy, which is enough to,
+
+[44:58] in extreme case, which is enough to fuel to feed the wireless routers, the link, the pumps. So like the most important consumers in autonomous villages, first, I think is the pumps. Yeah. So I think the pumps are like the water, so so so, like, sustaining the water system is the most important.
+
+[45:21] Second, of course, is the connection. So you have at least external connection, not internal connection because internal connection consumes significantly more than external. So the connection to Elon Musk is very important and local we have Internet standalone topic, but we have several channels which we merge. And the third one, only the third one is, well, like, light. Yeah? So
+
+[45:48] pumps, connection, and light. And all that, like, the fourth and most biggest energy consumption you have, that's the heating. Yeah? But you can actually, like, remove it completely in case of, yeah, heating or, like, freezing. Yeah? You can also make it, like, using low cost solutions. So,
+
+[46:11] basically, like, these things are not super consumptive. So, like, ah, I forget charging computers and telephones, which is also, like, very important thing. And but you can solve it using, like, in the most primitive way in extreme condition, you can solve it using, like, 50 cubic meters by a gas digester and having reserve for local gas, which is kind of abundant everywhere, but the cost are different.
+
+[46:40] Yes. But remember what I I I say, you would want to make your system as diversified as possible. Okay? So, like, don't think that I will not buy this gas. No. Never. Like, I I I thought that I will think like that, but, like, now I'm I'm I'm not in this camp. Okay? We have we buy as much balance as possible to keep. We build sort of, like, in energy system, the most
+
+[47:08] basic rule, you always need to increase your capacity and the storage. So this is a simple biogas generator which costs something like $5,000, but it has two problems, noise and kind of polluted air. Yeah? And we actually we
+
+[47:32] we solve it very simple. You I I put the output exhaust in the pond, and we grew several plants, including water gas, which is NASA researching for water remediation purposes. It's super efficient thing for extracting a lot of, like, heavy sheet from the water. It seems works.
+
+[47:57] Yeah. It's remove small particles from the output. It remove it feeds the water with carbon, which is also very important for, like, stuff you grow where the water so this is Ponta specifically, you know, designed for water remediation after gas generator. Yes. And also, it removes the noise.
+
+[48:20] Yeah. The noise of output port. It doesn't remove the system doesn't remove NOx, which I don't believe is very harmful given that we run generator only three three five mhmm. Ta da. Remember, remember, the November 5.
+
+[48:46] So mhmm. I have seven minutes more. I don't actually have much to say. So, like, tomorrow I will cover a very important topic which is about wood and carbon and stove circulation system. And, like so, yeah, basically, these two things, the the gas and the sun become for us the
+
+[49:11] most important energy sources to actually live independently from the outside, living off grid. Mhmm. But we started the idea was to put also the wind. Yeah? And we actually have this wind which is blowing in the morning and in the evening exactly when it's the energy needed the most. Also, you have wind when you don't have sun because the weather is bad and the wind is blowing,
+
+[49:36] is kind of very natural. Yeah. We, like, we was not lucky with equipment which come from China, So we installed this. We got maybe in the best scenario, we do have, like, one, maybe half kilowatt. We actually cannot measure it how much we got. We spent something like $10,000,
+
+[49:59] and I think it's not actually practical for us yet. Yeah. I want to make second iteration on the wind thing because I told you that I will diversify as much as possible. We do have wind. We must have wind. Yes. But I cannot save, like I think it's a very good idea to have wind wind reserve turbines.
+
+[50:23] Why? It's because it seems like it's the most sustainable way to have. Why? You have this rotor. It's very simple construction, which you can like, kids can maintain. You have, like, very simple. It's super simple technology to maintain. You actually can three d print it. You can do it from all that, you know, stuff. You like,
+
+[50:51] super low testing. Wind turbines and the hydro turbines, like, as for me, are the most sustainable possible energy generation technology we do have. Especially, want to I I want to mention I shake I shake this, you know,
+
+[51:14] this universe. It started. Okay? So, like, I am a big believer actually in this kind of thing. I was just I wasn't able to find the, like, the solution to buy. Yeah. Because you have high like, you have low
+
+[51:37] altitude winds, you have high altitude winds. Low altitude winds are unstable and not affordable everywhere. High altitude winds are ubiquitous and, like, available everywhere. 100, 200 meters above the surface area, you have very constant flow of wind. So, like, I would watch into this direction trying to find the solutions
+
+[52:02] for high altitude winds. And probably, there, you know, this hydro energy thing which I even didn't touch here because actually for us is not I don't think it's super as energy generation source is super efficient. Maybe it's energy storage, yes, but as energy generation,
+
+[52:25] not we don't have constant flows in our mountain. And the last thing I want to touch, it's earth energy, which is kind of natural. I would split it into two types of energy we can grasp. The first one is topsoil geothermal, and the second one is deepsoil geothermal.
+
+[52:48] Deepsoil geothermal is very, like, heavy on investments, like, hard to maintain. I will not touch here. I don't believe we have, like, affordable technologies. Anyway, you, like, end up being used to internal combustion engine kind of turbine thing for handling. So it's also, like, heavy maintenance thing.
+
+[53:12] And but topsoil is is amazing. You can use soil and water as heat and cold storage. You can work with potential difference. You can use heat pumps. To be honest, it's like the direction we are currently start to harness.
+
+[53:35] I just cannot mention it because it's just the way to go because heat heat seems like the most energy consumptive thing. And understanding these temperature differences, foundational for build building efficient water, hot water, and heat systems. So yeah. And now
+
+[54:00] I just think that I will have short summary. Yeah? So the idea I want, like, I started with I want to this course, you know, to make us, like to to bring the idea what is autonomy and of great living is not that hard and not that expensive and that's and when it's kind of profitable. Yeah? So here, like, I discussed the solution that require one family to spend something like
+
+[54:28] the $20.10, $20,000 depending on the situation, your local condition, prices, distribution system to do not actually pay the bills for water and energy and heat, like, almost during all your lifetime, at least a huge part of life, yeah, if you consider this solar photovoltaic
+
+[54:51] thing. And I will give another lecture on low touch construction, and it turns out that there's a low energy and water system kind of part, like, maybe half of the money you need to leave off grid. So it's, like, the biggest cost. Energy and water system is the biggest cost in
+
+[55:14] closing the frames, you know, all that stuff. If you try to build low low test, yes. The purpose of the course, friends, is to, you know, discuss how we can find a way for people to live on their own land in the range of, like, one like, so so the idea is to sell the car and live a happy life. Yes. The
+
+[55:42] budget is, like, $2,030,000 dollars. So the question is how we can use this $2,002,050,000 dollars to live better. And here in this today, I I covered the, like, the biggest cost you you will need. Yeah. So
+
+[56:06] I think I'm done. I would invite you to scan the QR code and go to our Siberia Telegram group if you are interested in the movement. Yeah. I remind everyone that we have a plan to have the pop up city in Bali in the big end of February, beginning of more like up to the middle of the March March.
+
+[56:35] I and anyway, we will make it more like it will not be like pop up city in the end. We want to build for permanent. Yep. Permaculture, Yeah. And we want to build for permanent and want to try to understand how to switch from this
+
+[56:57] kind of conference type of events to more sustainable, more longer life. People have demand for living one year in some places, in some cases three months. I mean, I'm talking about digital moments for our key audience. So, yeah. And if you are interested in my personal work, this is my Twitter, xcom. Also, you can follow me.
+
+[57:23] I will I'm making research not only in sustainability, but I have serious experience in cryptography and applied to game theory and economics engineering and blockchain engineering and so on. So yeah. Thank you for hearing, for listening. Would love to answer questions.
+
+[58:09] Yes. So in there's a certain part of land I'm thinking of that only gets, like, a little bit of sun, like, not too much. It's sort of, like, on one side of a hill. So the sun is, like, limited. In that situation, like, what would you what would you invest? Like, is it even worth it to think about solar if it there's not much sunlight in a spot, or should I like, should we invest in different other
+
+[58:38] options? I would change the land. I'm serious. Wait. What? Change land? Okay. Yes. I I would change the land. Okay. Yeah. If you just don't have the solar options, it's not only about listen. It's not about only solar for for the vast bank capacity. It's about heat capacity because passive heat systems are very important. Sec when the third world, like, the most important one, like, the like, you have components of growth in your garden. Yeah? You have
+
+[59:08] sun, you have water, you have soil quality, and the biggest factor of the growth is the amount of sun the plants have. So something like 48% so the sun contributes 50% of that complete growth. So, yeah, I would strongly recommend to change the place. But what if it has good water? What? It has good water but not the sun.
+
+[59:34] It must have both. Okay. Okay. Sounds good. Yeah. So just like it will not allow you to have this to grasp this abundance if you have, like, serious limitations of nature of sun. Actually, we we built we built in the place with, like, very huge lack of sun. We didn't know about that. And now what we think, we want to build them, like, on the same hill, but from the other side where we where we just want to rebuild, we think, you know, just because we realize that this place maybe is better for restaurant, but not for home. They love
+
+[01:00:08] morning sun, man. It's you cannot buy it, you know, for money. It's just so important. So change change the place. Okay. So my question is that if we have if we know that as more energy we are consuming and using,
+
+[01:00:33] then better because the civilization is scaling based on the spectrum for what is the name? Ka? Kardashevsky. Ka yeah. What do you think about regulations? What are trying to top how much energy can something use or, like, something like this? Because I feel like these two things are opposite. So Yeah. It's a it's a really good question.
+
+[01:00:57] You know, I would love to discuss not through the lens of regulations. So someone tell us what to do. Yeah. But the real problem with all this Kardashev scale thing and growing of civilization is the heat which accumulates within the atmosphere. To let you know that current
+
+[01:01:20] climate change is driven mostly by greenhouse gases. Yeah? So the factor so the factor which contributes to the growth of this to the growth of the temperature is the specific gases. Yeah? Not the heat we radiate during power consumption. As you know, like, law of thermodynamics, like, works always in the same condition, the same. You
+
+[01:01:46] you have this heat which goes after you consume the energy. Like, any kilowatt spent, like, extract, like, heat. So what does it mean? It doesn't mean that once we will multiply our energy consumption tenfold, we will have the same problem like we have right now with greenhouse gases, but from, like, direct heat
+
+[01:02:12] as a result of our consumption. And the only way the only way to solve it is to build this fucking huge, big radiators, which, like, radiate this heat through the atmosphere directly into the space. So, like, in order to grow further, like, no one no one talk about it. Ask GPT.
+
+[01:02:35] No one talk about it, but, like, you if you like, civilization will increase the consumption of energy just unfold. It will have start to have the serious problems of, like, heating the atmosphere if it increase twenty, thirty, fiftyfold. Well, the only way to handle well is to put
+
+[01:02:58] a tax on any kilowatt consumed. So using this tax, you can funnel this money to build this huge, you know, system of which just pass this heat into the space and not allow to, you know, leave it on the within the atmosphere. So, like, we don't have this problem like Venera, for example, have.
+
+[01:03:24] So, like, this this is my understanding. So regulation must be in the end on any energy consumption. Doesn't matter. Doesn't matter. That's very important. Doesn't matter sustainable, not sustainable. Fossil, not fossil. So, yeah, we've got the time. Yeah. Thank you.

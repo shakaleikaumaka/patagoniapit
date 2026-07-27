@@ -1,0 +1,331 @@
+# eDMT — Funding a Scientific Research Commons in web3
+
+Date: 
+Source video: eDMT — Funding a Scientific Research Commons in web3
+Drive: https://drive.google.com/file/d/15FJmBPgOStRbkPupL08c907Ou6_fiHM3/view
+Duration: 01:12:04
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Alright. Thank you everyone for coming. Welcome to Monday of Psychedelic Week at Edge City Patagonia twenty twenty five. I will be talking today about endogenous DMT. Endogenous, is a word that implies creation within oneself from the body, and DMT stands for dimethyltryptamine, one of the more powerful psychedelics that we know of on Earth.
+
+[00:25] And I'm gonna be talking about how we as PsyDAO, psychedelics DAO dedicated to progressing, psychedelic art and science, are funding a scientific research commons dedicated to understanding endogenous DMT, how it's produced, potentially why it's produced, and how it could potentially modulate into the future. Alright. Cool. So a little bit about my background. I,
+
+[00:51] have my PhD in animal behavior. I studied honeybees for my dissertation research. Honeybees live in decentralized colonies. There's no central authority. They live, work, breathe, collect food, take care of the queen, raise their brood, all in a collective manner that's regulated by a variety of different factors at various levels. And I found them extremely interesting because I saw when I was going to pursue a PhD, I saw humans as these social organisms that had a really complex
+
+[01:24] consciousness, and I wanted to study the brain of another animal that also had a complex society. So honeybees were where I, you know, found my chops as a scientist. And I think that at a at a in a natural level, the decentralization of, units of organization
+
+[01:47] can create beautiful structures. A honeybee colony is quite beautiful. If you've ever been around honeybees or a honeybee hive, you can see the elegance in the architecture and the flow of information and resources through the colony. And it's something that we also see in psychedelics. This is a famous image from a paper that has been taken out of context many times, but it kind of gets across this idea that with psychedelics,
+
+[02:10] there's a general decentralization of information flow within the brain, and that can also result in the beautiful structures of what we visualize under psychedelics and the thoughts we have, the ideas, the self healing, etcetera. And so this, theme of decentralization, I carry through with my work at SciDell where we're looking to decentralize the way that scientific research is funded,
+
+[02:33] governed, and owned by communities rather than central figures. One of the reasons that I left academia was because it, to me, has a lot of attributes of a scam. There are, central powers that be that suppress research that is cutting edge, and funding typically goes to labs that are sort of safe but that do also safe research that don't really push the envelope.
+
+[03:00] But decentralized science, the ecosystem that SciDAL exists in, is trying to break that mold and trying to get money to projects that would not typically get funding through very, traditional means. And endogenous DMT research is one of those questions that has had challenges in getting funding, and that's, you know, what I'm here to talk about today is how we're trying to change that up.
+
+[03:25] So, a little bit about SaiDAO itself. As you may know, a DAO is a decentralized autonomous organization. We have a a two token governance structure. We have a native DAO token called Sai that is currency, but it is also a utility token. It can be used to vote on proposals that come through the DAO. We also have an inner membership that, is called our psych membership.
+
+[03:50] And our psych membership slots are released on a, increasing scale according to the Fibonacci scale. And so the last band that we just minted of NFTs, these membership NFTs was 34, and we're gonna about to mint the next band of the Fibonacci scale, very soon. But the two two tiered governance structure also allows us to have this inner core membership and then this larger community membership in which we can operate different levels of voting.
+
+[04:16] So we, operated a our first round of funding this past year, and one of the projects that came through our deal flow pipeline was a project from Andrew Gallimore at Neuenautics in collaboration with Carl Smith and Chris McCurdy at University of Florida to look at the regulation of endogenous DMT in the mammalian brain. And as we moved through the DFO pipeline, we first had our inner membership vote on which projects would would go through. This was one of the ones that received the most votes. And then as we develop the project and created a larger proposal to the community,
+
+[04:52] we learned more and more about Endogenous TMT research and the need for funding in this area. And we were able to put this proposal up for a vote to our community. It passed and we've now deployed money into this project to help move it forward. But since we saw this larger need for other other modes of research into this endogenous DMT question, which spans a lot of different domains of research, we are organizing our sort of innate token funding raising fundraising mechanisms in a way that we can deploy money into other lines of research,
+
+[05:23] one of which you'll hear, right after my talk. So this is just a kind of a broad overview of how we move information through our decentralized society, just like honeybees move through theirs, to fund this really cool project. And just a brief bit about this project. DMT is a molecule. It's produced by the body. There's a variety of biochemical steps before that DMT is produced, and this project is looking at a couple steps up the final DMT production step. There are enzymes which can be inhibited,
+
+[05:57] which will actually increase the amount of DMT that's produced if we, you know, if our hypothesis is supported by the study. And so what we're trying to look at here is if we can develop some sort of pharmacological intervention that could increase DMT synthesis in the body. So early stages of research, but very promising question. So the way that we actually fundraise is we,
+
+[06:21] created a token that we launched within the x y z ecosystem. It was a token that was launched through these, launch pad that had a fair launch mechanism. It's actually the trading fees of people buying and selling the token that we accumulate to fund the research. And so from the market activity of speculation or people wanting to join the community by holding this token, do we generate fees that are then funneled to the researchers themselves, which is a it's a novel mechanism of funding science. It's still very experimental.
+
+[06:51] We're experimenting with it now, but we were successful in raising about a 130,000 in fees so far. And these are spread across various token types, but these are fees that are open to us basically to deploy into more research in this topic. And the funds themselves will go to funding additional DMT research, workshops, events, and real life events just such such as this and such as the breath work session on Friday that Atlanta will be facilitating.
+
+[07:20] We're also looking to deploy some of these funds into content creation, educational materials around endogenous DMT, and an online community space where token holders can access media assets that we generate, and we'll be building this website up more as we go along. So I'll give a brief background, a broad swath overview of DMT and eDMT, and then I'll let Lana take over,
+
+[07:44] on the research that she's doing looking into this. You might know DMT as the active ingredient in Ayahuasca. It's a fairly simple tryptamine that is, very similar to serotonin just like other tryptamines. That's its chemical structure down there. But, when ingested in the correct way, it can allow you to access an altered state of consciousness that, is famously depicted by Alex Grey's art, which is why I put this famous piece of his up here. But, obviously, the phenomenology is very complex and studying a variety of facets and access in a variety of facets, that can hardly be explained on a slide. But
+
+[08:22] yeah. So endogenous DMT just refers to, as I said earlier, the DMT that's produced within the body. This is a graphical abstract from a recent paper review paper that I'm gonna largely summarize in this study or sorry, in this talk. Endogenous DMT is produced in the brain and at levels comparable to other neurotransmitters.
+
+[08:48] So serotonin, dopamine is produced in the brain. DMT is released in a way that in a similar amount. It's produced in a variety of different species. It's produced in plants, which is where it's extracted commonly by people looking to extract their own DMT. Obviously, Ayahuasca is a plant in which the DMT in Ayahuasca is derived, but also in mammals, such as humans, producing the brain, lungs, liver.
+
+[09:15] And it's been proposed that the DMT that's produced in our body has a variety of different therapeutic functions. We obviously know that psychedelics are good for the brain. They increase neuroplasticity. They, can cause new neural pathways to form. But there are these other potential mechanisms of endogenous TMT in the brain that are now being explored that have a broader
+
+[09:41] brain health impact, such as being neuroprotective in certain conditions, sealing up the blood brain barrier in the case of such as a stroke, and supporting energy production in mitochondria. How endogenous DMT is regulated is a mystery, though. We have identified the basic biochemical pathway. That's kind of the easy thing. The hard thing is understanding how we can actually go in and tinker with this and modulate it in a way that can promote more therapeutic benefit
+
+[10:12] with our own intention rather than it being something that's released only in an emergency situation. So DMT is there's a so there's certain enzymatic and energetic barriers that need to be overcome for the production of DMT to be favored over other potential products of this biochemical pathway. And, I was talking with Warren yesterday, and he likened this sort of biochemical switch to the airbags that or the oxygen masks that drop from a plane. Only in an emergency situation does your brain produce
+
+[10:47] DMT in enough levels that can, one, potentially cause an alterative consciousness such as those experiencing near death experience or, really high ventilation breath work, free diving, etcetera. And it's released in the situation as a protective mechanism to protect the brain from hypoxic conditions, preventing neuronal cell death, and potentially altering neural pathways so that one maybe doesn't get themselves in that very near death experience situation again.
+
+[11:19] It's our hypothesis that the modulation of endogenous DMT is inevitable and it's translatable. So although we don't know enough about endogenous DMT and how and where it's produced in the levels to allow us to kind of access these states intentionally, all of the the building blocks for modulating the biochemical pathway are there. It's really just about getting more people focusing on this problem,
+
+[11:46] doing research in labs in an empirical fashion to understand how we can actually modulate it. When serotonin was first discovered in the early nineteen hundreds, scientists thought it was a non important molecule. And only once more and more research was deployed in that area do we realize, oh, this is actually one of the most important neurotransmitters in the brain. I think that we're on the verge of that same realization for endogenous DMT where we don't have a lot of research on this subject,
+
+[12:15] maybe because of the prohibitive, regulations that have existed for the past thirty, forty years. But now we have the attention, we have the interest, and we have the funding mechanisms to deploy more money into this area of research and to understand if endogenous DMT is as an important tran neurotransmitter as serotonin and dopamine and how we can affect it in a way that we want.
+
+[12:41] So it's, I think it's fate that here at Edge City is where we start talking about endogenous DMT. Edge City is a an experiment in how future, we will live in better harmony with the molecules and the psychedelics that we produce in our own body. But it does take effort. It does take collaboration. It takes people coming together and talking about things, learning about things, and educating others in order to come to this
+
+[13:11] sense of inner sight. I think if an alien came down to earth and wanted to extract DMT to take to their home planet, they could go into the jungle and find Mimosa Hostilis and extract it there, or they could come to Edge City and attend a breathwork session and extract the DMT from the brains of our breathwork participants because it happens quite a lot here, and I think it will happen more in the future. And there will be more DMT release in the in the future city that, Edge is envisioning.
+
+[13:41] So with that, I wanna transition to oh, sorry. Real quick. Last thing, how to get involved. You can scan this QR code to get to our website that we've created around this token that we're gonna be building up as a place that the community around Indogenous DMT can leverage tokens to govern in new proposals, vote on new research, potentially earn tokens by,
+
+[14:06] contributing content, educational pieces, etcetera. You go there, you can connect your wallet, you can get access. We're building it out now. This is actually the release of the website, so congratulations. And, always looking for more partnerships, anyone who wants to chat about Indodgers TMT, integrating it into your own project or into your own life, we are looking,
+
+[14:29] for those opportunities. And if anyone is into DeFi, decentralized finance at all, we'll also be implementing a eDMT farm. So if you hold the side outside token, you can stake it and just passively earn eDMT and become part of the community that way. Okay. Cool. So now I wanna transition over to Lana. She's on the call now. I'm gonna turn my
+
+[14:53] laptop around so that she can see the crowd as well. So she has a little bit of context and you can see her a bit. And I'll turn my mic off and but you'll be able to hear her on the, oops, on the speakers. So oh, yes. Cool. Hey. Can you hear me? Hi.
+
+[15:20] Thanks, Tyler. And thanks for the extra terrestrial unichrome. You're gonna see Sorry. My chin would be Okay. Cool. Sorry. Wait. One second, Lana. I'm gonna put you on our screen over here so that they can see you up on the screen rather than here. I don't know what I'm doing. I'm suffering from Edgefluenza. K. One second.
+
+[15:56] I can see you. Can you see me? Okay. But I wanna make sure that we can see the slides too. Yeah.
+
+[16:21] So I'm gonna put her down here, if that's okay. It's quite small, but I think that works. Cool? Can you hear me? Yes. Good to go, Alana. Thank you. Hey. Right on. Thanks, Tyler.
+
+[16:45] So which slide are we on right now? Because I can't see the slides either. I'm assuming we're on the first slide. High on your own supply. Just kind of a, like, generic statement you hear about endogenous DMT. But I am a breathwork researcher, and so I basically I'm a neuroscientist and a breathworker. And the more that I get into breathwork research and looking at the mechanisms of how particularly high ventilation breath work works,
+
+[17:14] I've kind of stumbled into this endogenous DMT hypothesis just because there is such, like, convincing and compelling arguments or, like, scientific, you know, truth around the hypothesis that endogenous DMT might be a mechanism of action of what's happening when we do high ventilation breath work. So next slide, please. So what is this high ventilation breath work? If you don't know,
+
+[17:40] here's a video of me doing it looking kind of like a zombie. I was trying to replicate this, like, Marina Abramovich video of her breathing with the skeleton. But this is what it looks like. Hyperventilation breathwork is basically what I call freaky breathing. But in a scientific term, it's controlled hyperventilation. So it's basically any form of breath work practice that involves an increase in the respiratory rate. This can be done either through increasing the depth of the breathing, so breathing more diaphragmatically
+
+[18:06] and through, like, the whole belly, the ribs, and the chest, but also increasing the pace of the breathing. And oftentimes, it's both increasing both the the pace and the depth of the breath. There are ancient traditions around, like, increasing the respiratory rate for specific purposes, like, for example, Tummo and, like, what you might know is, like, Wim Hof had turned into Wim Hof breathing.
+
+[18:28] But in its modern form, a ventilation breath work is really originated from or, like, it's accredited to Stanislav Groff who, you're a psychonaut, you know who Stanislav Grof is. He was doing a lot of early LSD studies and then the Czech Republic. I guess it was Czechoslovakia back then. But when psychedelics were made illegal, he discovered that there's a way to activate these kind of psychomimetic states similar to psychedelics
+
+[18:53] through an increase of their aspiration. So he and his wife, I believe, Christina, his first wife, I think, they are kind of the originators of the modern form of high ventilation breath work when you might have heard of holotropic breath work. And then the particular type of breath work, the high ventilation breath work that I do is conscious connected breath work, which has incorporates more kind of psychodynamic
+
+[19:16] dimensions into it, which is emergent from Leonard Orr's tradition and the rebirthing breath work tradition, which includes more of a ceremonial type setting. So it really incorporates kind of some of the set and setting type aspects that you would have in, a psychedelic therapeutic psychedelic experience, including, like, an active facilitator, musical facilitation that follows a, like, a musical arc and a journey.
+
+[19:41] But, really, the intent like, high ventilation breath work in its entirety is just, like, I said, it's in ceremonial practice that involves increase of the respiratory rate. And we have the, like, spider plot that I have here is based on some preliminary data we have in the lab. So I didn't mention this earlier, but I'm a breath work researcher working at a lab here in Frankfurt, Germany.
+
+[20:06] And this is just a spider plot we have plotted of some of our survey scores from some really preliminary data. This is again, we're still collecting data, so this will get added to. But this is just demonstrating that if judging by the 11 d ASC, which is a very common, like, altered states of consciousness questionnaire, there's quite similar experiences that are being recorded between high ventilation breath work and psilocybin.
+
+[20:31] So I don't know exactly which paper we got the data from the psilocybin, but this is from Timo Schmidt's altered states database. So you can see here that there's a pretty similar shape or pattern being displayed on the the spider plot of people's subjective experience on high ventilation breath work, and particularly in some of these dimensions related to what's called oceanic boundlessness. So the subscales
+
+[20:54] experience of unity, experiences, insightfulness, and blissful states. So next slide, please. So the question really is, how is this happening? What are the mechanisms behind? What could lend itself for people to have a similar experience to psychedelics just from doing, like I said, some freaky breathing or just from changing the way that they breathe?
+
+[21:17] There's a lot of really interesting biomechanics that I'm not gonna get into for the sake of brevity today because I could really talk for hours about this. But really, the most simple thing that I can explain is that an increase in the respiration changes the pH of the blood. It changes the levels of oxygen and carbon dioxide in the blood, which changes a lot of things and creates what we call, like, a neurometabolic challenge,
+
+[21:39] is the most relevant part here when talking about endogenous DMT. So the picture we have here, I hope it's the picture of the hemoglobin, but, basically, here's just a hemoglobin, which is red blood cell. It's the only cell in the body that doesn't contain mitochondria, and that's because its purpose is to deliver oxygen to the cells which require oxygen in the mitochondria for producing energy. So, basically, the important point here is that in the absence of c o two,
+
+[22:04] the oxygen is actually really sticky to the hemoglobin, and it's only in the presence of c o two is oxygen dissociated from the hemoglobin and released into the tissues. So this is called the Bohr effect. It just basically said it's just very simple premise that oxygen can only be released into the tissues in the presence of c o two. So if we go back and think about the mechanisms of high ventilation breath work where we're increasing the respiratory rate, what this actually means, the important piece is that we're breathing out a lot of c o two.
+
+[22:38] So c o two is produced in the body at a static rate rather than oxygen, which its levels are dependent on how much we breathe. So when we're increasing the respiratory rate, we breathe out a ton of c o two and we enter into a state called hypocapnia, which is just decreased, like, normal below normal level of c o two in the blood, which changes the pH in the blood to be slightly more alkaline, and also just decreases the oxygen oxygenation
+
+[23:03] of our tissues, including our brain. So this is thought to be one of the most important mechanisms at play in the subjective effects of breath work, this neurometabolic challenge. Go to the next slide, please. So here's just a figure in the lab that I'm working in in doctor Martha Habenas' lab. This is a study I wasn't a part of. It was done before I got to the lab. But, basically, this is just demonstrating that the decrease in c o two in people's measured by their out breath is associated
+
+[23:33] with the depth of their experience during breath work. So kind of over on the right side of these graphs in in both conscious connected breath work and holotropic breath work, you can see that their c o two levels remain about the norm CAPNIC range, about 40, and that as c o two levels decrease, their depth of their subjective experience increases. So this is the idea behind this is just that the c o two levels a decrease in c o two acts as a threshold
+
+[24:01] for entering people into these altered states of consciousness that happen during high ventilation breath work. Next slide, please. So here's just another slide. This is, like, one of the most descriptive images I can show you about these mechanisms at play here. So, basically, you offset a ton of carbon dioxide, you change the alkalinity of the blood, change the pH of the blood, change the level of oxygenation.
+
+[24:27] This also causes vasoconstriction, so there's an a secondary effect of decreasing the oxygenation of the blood and and brain. And there's a lot of different mechanisms, like I said here, but, really, it's a neurometabolic challenge to the brain, which decreases the level of oxygenation. And now there's several hypotheses around how this directly correlates to the specific subjective experience people have that are that is,
+
+[24:52] you know, considered to be psychedelic light. Some of these hypothesis involve the hyperexcitability of neuronal activity. So there's some interesting stuff happening with inhibitory neurons and the lack of oxygen to the brain that might increase the excitability of neurons, increase informational complexity in the brain. There's a hypothesis around transient hyperfrontality that actually the decrease in oxygenation first hits the prefrontal cortex because of its evolutionary origin, and therefore, we're decreasing the kind of predictive model coming from the prefrontal cortex.
+
+[25:24] These are all very fascinating hypothesis, but one of the most compelling from my perspective is the endogenous DMT hypothesis. Next slide, please. So is it possible that the psychedelic like effects of high ventilation breath work are actually due to an increase in the bioavailability of BMT? And I'm just gonna give you a couple of really interesting kind of biochemical
+
+[25:51] explanations about why this might be the case. So there's two plausible mechanisms here, and one of them has to do with a specific receptor called the sigma one receptor. So DMT exogenously and endogenously as, like, poly receptor agonism. So it agonizes these receptors you see here on the left. Several serotonin receptors, five h t two a, which is the classical psychedelics
+
+[26:17] receptor, five h t one a and two c. And also most importantly or, like, one of the most unique aspects of DMT's receptor activity is the sigma one receptor. And this receptor is thought to be I won't get super scientific about it, but, really, it's thought to be a chaperone protein that communicates about cellular stress and oxidative stress between the endoplasmic reticulum and the mitochondria.
+
+[26:43] So this speaks to some of its effects some of its neuroprotective effects against different forms of cellular stress and oxidative damage. So I just have some, like, nerdy science y slides here, and these just demonstrate that DMT does have a neuroprotective effect against hypoxia. This is seen in, like, induced pluripotent stem cell cell cultures. So what you see in this middle slide here is basically
+
+[27:11] under conditions of hypoxic stress. Under normoxia, there's no loss of neurons, which is this black line on top. But under hypoxic stress, there's a loss of neurons over time. And this middle slide is just showing that there's a dose dependent response where DMT can actually rescue cells from damage and the conditions of oxidative stress. So you can see really it's the fifty and two hundred
+
+[27:35] dose that's gonna have a neuroprotective effects and less so ten and one. And then this other slide on the far right here is just demonstrating that this effect is due to the signal one receptor, the specific receptor. Basically, what most important one here is the top left, which is just cortical neurons. It's stem cell derived cortical neurons
+
+[27:58] where under normal conditions, there's no loss of neurons, but under hypoxic conditions, there's loss of neurons. And under hypoxic conditions where they silenced the signal one receptor, you also see the same loss of neurons. But in DMT and and DMT where there's no, like, silencing of the signal one receptor, there's a rescuing of these cells. All of this is, nerdy science talk to just say the signal one receptor is responsible for DMT's neuroprotective effects against oxidative stress.
+
+[28:30] And so it's possible that this receptor is activated or endogenous DMT. The bioavailability bioavailability of DMT is increased as a compensatory effect to some of this oxidative stress that we see happening from the effects of hypermilation breathwork. And next slide, please. The second plausible mechanism that's really fascinating to think about here is the effect of mono monoamine
+
+[28:55] oxidase, MOA a, which is basically an enzyme that breaks down, like, key aspects of of BMT during its synthesis. So if you know anything about, like, the pharmacology of Ayahuasca, Ayahuasca has a plant that contains DMT and also harmines,
+
+[29:19] are chemicals or, like, things that contain enzymes, MAOA, that inhibit monoamine oxidase that inhibit the breakdown of DMT. So, basically, this is this enzyme requires oxygenation. So it operates through oxidative deamination, which breaks down DMT and decreases the bioavailability of it, which is thought to be one of the reasons why
+
+[29:46] endogenous DMT in the human brain is not often reaching the threshold where people are having the subjective effects of DMT. So the idea here is that because it's dependent on oxygen, when we enter into a state where the brain is receiving less oxygen, that this possibly could decrease the effect of MAO a and increase the bioavailability of DMT. There's another hypothesis here that has to do with the alkaline environment. So there's another enzyme which is just in one of these steps in the methylation of tryptamines.
+
+[30:18] INMT is an alkaline enzyme, so it is more functional in alkaline conditions. And like I mentioned earlier, the change in blood the change in the pH of the blood due to these changes in gases also creates a more alkaline environment. It's just another one to mention, just another cherry on top. We don't have a specific experimental protocol to test this,
+
+[30:41] but it's just, like, adds to the hypothesis. So how do we actually look at this? Next slide, please. There's some really interesting, you know, evidence as to why this might be the case, why endogenous DMT might be related to the subject experience we have. And these are just some, like, some other of these spider plots to show, like, how do we look at this in a lab? And so my way of looking at it is working backwards kind of. So we can go, like, the biochemical route, and some people are researching animals and looking
+
+[31:15] at rodent models and rabbit models. But there's another way, which I think is looking at the behavioral aspect of this and looking at ways where it might be active in the human brain. And so what I have here is just some more of these spider plots of the subjective experience people are reporting. So here is DMT. This is from a paper from Christopher's lab.
+
+[31:38] And the one on the right is breath work, which you can see there's somewhat of a similar shape here. Like I said, particularly related to these ones on the bottom that are part of the subscale of oceanic boundlessness, which is thought to be one of the subscales that's most related to also the changes in blood oxygenation that we see in high ventilation breath work. So these shapes actually look somewhat similar.
+
+[32:02] If you go to the next slide, you can also see the same subjective experience survey scales in near death experiences, which is also thought to be a condition where there's possibly a release of endogenous DMT. And if you, like, kind of go back and forth between these two, you can see DMT, high ventilation breath work, and NDEs actually have quite similar subjective experience reports.
+
+[32:28] And I just put ketamine here, which has, like, a completely different pharmacology to it to demonstrate that it's not all psychedelics or not all drugs that are causing altered states of consciousness or having exactly the same dimensions of experience. If you're curious to look at more of these, you can look at Timosh Schmitt's altered states database. There's a really amazing database of of all these different potential ways of accessing altered states and the specific dimensions and how they look. But from what I found in my research,
+
+[32:56] these experiences that possibly could be related to endogenous DMT end up having similar shapes and similar subjective experience dimensions as DMT. So working backwards, we see behaviorally, there's similarities between what people are reporting, they're experiencing when they go under when they do high ventilation breath work. Next slide, please. The next thing to do is to look at neural correlates, so looking a bit deeper.
+
+[33:22] And this is the work that I'm currently doing right now. So I'm working at Martha Habenas' lab in Frankfurt, Germany at the Zero Noise lab, and we're working on a project that's both looking at high ventilation breath work for improving social emotional functioning in people with childhood trauma. But also, I'm working on the side of the project that's looking specifically at altered states and the neural correlates of altered states on breath work. So here's me
+
+[33:46] laying with the EEG cap on in the breath work lab, which we're trying to, like, buy about percent and setting in a test session being facilitated by our test dummy, Lucinda. But this is kind of the next step of diving a layer deeper. So we see the experience. Now let's look at the the neural correlates. So next slide, please. So this is just some preliminary data that I can speak to. Again,
+
+[34:11] we are still in data collection, so there are gonna be, like there's gonna be more data added to this, but this is just a slide that I can show you kind of preliminary evidence of what we're finding. Where you can see on the left, here is some of the really canonical neural correlates that we see in DMT, which most importantly is the decrease in alpha, which is in the middle here. You see those total plots with blue. That's just showing there's a decrease in the total power, the oscillatory power, and the fractal power of alpha under DMT.
+
+[34:41] And, also, we see an increase in limbal side complexity, which essentially just means that there's, like, more complex informational processing happening in the brain under DMT. So these are thought to be kind of two of the most, yeah, canonical neural signatures. And we've run this analysis with our preliminary high ventilation breath work data, and we see similar things where,
+
+[35:04] just simply put, there's a decrease in the alpha in the the alpha power between the minimum altered state, the maximum altered state reported. And you can also see the minimum altered state has a higher alpha power than the max altered state. So the deeper they go into their experience, the less of alpha power they have. Similarly, there's an increase in the limbal zed complexity, so just an increase in informational complexity
+
+[35:29] happening. So here's some similarities here. So the next stage of this research, really, we're still in the data collection process. We have collected about 13 datasets, and we're aiming to get about 20 to 25. And, really, we're collecting, like, the most comprehensive dataset of the I think anyone has done with high ventilation breath work because we're not just looking at the EEG signature. We're also collecting ECG data,
+
+[35:55] which from my perspective is one of the most interesting things to start looking at with altered states to look at some of these embodied dimensions of consciousness. So not just what's happening in central nervous system in the brain, but also what's happening in the peripheral nervous system. So we can use the heart rate dynamic and the ECG signature to build out a proxy of what's happening in the sympathetic and parasympathetic nervous system. And I suspect that there's something interesting going on with people's
+
+[36:21] readiness to actually surrender to the experience of what could possibly be an endogenous DMT experience because it is a bit different. Like, the administration method is different. With exogenous DMT, you're taking a drug and you're just along for the ride. But with something like breath work, there's a bit of a paradox happening where you're actually maintain control, maintain agency over your respiration.
+
+[36:46] But at the same time, in order to have the experience, you actually have to allow yourself to surrender and let go. And so there's these other dimensions related to actually crossing the threshold of having the subjective experience. And I think a lot of these are related to peripheral stuff going on in the autonomic nervous system and people's stress response and their readiness to actually
+
+[37:09] break through and let go. So, yeah, that's some of the data we're collecting. We're also doing some facial analysis. So we have, like, facial tracking. So it's a way of doing temporal experience tracing as people go through the breath work session. We're also collecting respiratory data. So we are aiming to do some analysis about respiratory synchronization or oscillatory synchronization between EEG signature, the heart rate, and the respiration signature,
+
+[37:33] which will, again, give us this broader picture about how altered states are also embodied experiences. So, yeah, this is phase one of the research of just, like, really collecting data in the lab. And then we have two other proposed phases of research to really dive levels and levels deeper into actually understanding the mechanisms and if endogenous DMT is at play. So last slide, please.
+
+[38:03] So here's just our future research. If you're curious, we have written and published a full research proposal on Research Hub. And so this all of this and all of our sources and everything is on there. I meant to put a QR code to to the Research Hub proposal, but I forgot. But, essentially, phase two of the research, which is kind of the meatiest, junkiest bit of this, is administering some pharmacological agents, which basically just means giving people drugs to see if that changes their experience on breath work. So that would be two loss of function analysis.
+
+[38:33] So we would administer cantanserin, which is a five h t two a receptor antagonist, which has been used in psychedelic studies to look at the activity of the five h two two a receptor related to the subjective experience of psychedelics. And the idea is we would give that to people before breath work and see if it changes their experience. So if we if DMT is responsible
+
+[38:56] for the experience of having with breath work, cantanserin would block that effect by blocking that receptor. Similar idea with the sigma one receptor. So s one r a is a novel sigma one receptor antagonist that's been approved for chronic pain. It's currently in phase three trials in Spain. I've spoken with the manufacturer, and we're trying to get access to it to run it in these consciousness studies. It's never been run even in, like, psychedelic DMT studies. And so the idea is administering a signal one receptor antagonist possibly alongside cantanserin
+
+[39:30] could also give us an idea to, like, zoom in on if these receptors are responsible for subjective effects. And then also, we have proposed, again, a function analysis, so where we would administer MAO inhibitor to see if that actually increases the viability of DMT and enhances people's experience. And so these would let us zoom in a bit closer on, like, the receptor activation.
+
+[39:53] And then phase three would be doing direct urine and plasma metabolite analysis, which we're still in development of of kind of the methods around this. We have a colleague or I have a colleague, Melyn Uth Uthwag. I forgot how to say her name, but she's running some of these metabolite analysis in people who have reported having DMT like experiences while they're free diving.
+
+[40:16] She's collected the urine, and she's just waiting for it to get analyzed in the lab right now. So I'm kind of waiting to hear back from her. It's kind of like a proof of concept study really to see if actually these metabolites can be measures to look at if endogenous CMT is being released by behavioral mechanisms. So just kind of waiting to hear back if that's even functional and still worth doing even if if she doesn't find anything. But here's some of the metabolites we're be interested in looking at, specifically also looking at
+
+[40:45] serotonin turnover. So to look at if MAO is if, like, MAO efficiency has changed throughout the breathwork session. So I won't get too nerdy about that, but these are just the the next proposed phases of our research. And last slide, please, is just breathwork session. It's happening. Gonna be doing it, I suppose, over Zoom.
+
+[41:09] I think it's been pitched as, an endogenous DMT breathwork session. I'm gonna be honest. I can't promise you're gonna see your ancestors and have a full psilocybin experience like I've had before. It is a bit difficult to facilitate over Zoom, so it'll just kinda be a session to give you an idea of what the practice is like. Yeah. I think that's all I have. Thank you for listening.
+
+[41:39] Can you hear me? Lana. You got me? Lena, thank you so much. That was amazing. We, we'll open up for questions. Is, maybe there's another microphone we can hand around or I can come around with this if there are questions. Go ahead, Andrew. Thanks. Nice.
+
+[42:11] Hi. My name is Yon. I'm here in the back row. You might not see me. Thank you for your research. Have you considered, other avenues of research for endogenous DMD beyond oxygenation or breathing. I come from, practicing Buddhist traditions, and there are things like dark retreats
+
+[42:36] and other methods of perhaps getting into these states where you have visionary stage and things like that. So do you have any plans on looking into these other potential alternatives when it comes to your research beyond breath work? Can you still hear me?
+
+[43:01] Yes. Okay. Great. Yeah. Thank you for the question. I will say for me, specifically, no. As I mentioned, I kind of came into this specifically as a breath work researcher. So I'm really interested in the mechanisms behind breath work, and I kind of stumbled into endogenous DMT research just incidentally. But that's not to say that I'm not incredibly interested by them, and I do know some people who are looking into this. So like I mentioned, we have colleague, Meilin, who's looking at it with free diving, and I know there are some people who are potentially interested in running some of these metabolite analysis with dark retreats.
+
+[43:36] And I think it's really my my specific research interest is in breath work because that's my lane. But I do think that as this field advances, there's gonna be much more like, many more avenues to potentially investigate, not just, like, endogenous DMT, but, like, I think a lot more about how consciousness can be altered in general,
+
+[44:00] specifically when we talk about, my perspective, some of the embodied dimensions of how people can alter their consciousness, for example, through cold exposure, through heat exposure, through, like you said, through darkness, of putting their bodies into non ordinary states that lend themselves to non ordinary states of consciousness. So I kind of like to think about the organism of the body being in non ordinary conditions,
+
+[44:25] oftentimes activated through non ordinary conditions of stress. So being near death or in highly stressful situations where survival is at risk can push the body close to these places. I don't know. I I I was writing about this today, and I think about endogenous DMT possibly or, like, these mechanisms as, like, a spiritual analgesic almost for, like, the borderline
+
+[44:49] between life and death, and that possibly there's a really powerful evolutionary function for that. Like, maybe even just beyond what, like, biomechanics can tell us about. And there to answer your question, like, there are a lot of different ways behaviorally that could possibly be activating these mechanisms that activate the the stress response,
+
+[45:13] in a way that's where the survival is at risk so much to where someone's consciousness alters. I hope that answers your question. Yeah. Thank you. Mhmm. And, Tyler, do you wanna talk at all about how, like, that intellectual property commons is working to fund multiple lanes of EDMT research or maybe even just highlight kinda what you mentioned before?
+
+[45:35] Yep. Sorry. Just once again. Yeah. We're Lana is the first project that'll come up as a proposal, for the EDMT comments to fund the work that she's doing. We are, at the same time seeking other proposals to look at different modalities of studying this because it does seem like it is
+
+[45:58] quite a multifaceted area of research. And one of the one of the lines of research, I think, that will fund will hit on something that's, a method that's practical that we can use to induce endogenous DMT production. But yeah. There's two questions up here as well. I'll keep it brief, Lana, because I it's just a quick follow-up to what you were just saying. And, I thought it was so profound that I I wanna make sure I I understand, like, maybe
+
+[46:31] a compressed form of it, which was do do you would you agree with a way of framing this that, hypoxic conditions and states of sensory deprivation, like darkness retreats, might be triggering some kind of a, like, probabilistic edge of life and death detection system that the nervous system can only guess about. We can never be sure the body can never be sure if it's, like, facing death, but it might have evolved self protective mechanisms when those thresholds are crossed probabilistically,
+
+[47:05] and then DMT is recruited to give the brain, the nervous system, and other cells a better chance of surviving and then being able to adapt, if survival is is is assured. Is that more or less your view? Yeah. I mean, I think the framework that I found really useful in unifying some of these theories is, like, the predictive programming theory. And if the the body, the brain, the central nervous system, the peripheral nervous system are
+
+[47:34] experiencing states so novel, so far outside of their ordinary experience that possibly there's, like, a predict it's, like, almost like a allostatic malfunction of, like, a predictive model that I think some of them are potentially related to threats to life, to threats to survival and danger, but some of them don't necessarily have to be, like, for example, the extreme darkness.
+
+[48:01] I I don't know, but I would suspect that it's not necessarily so much of a survival mechanism that kicks in, but there's, like, a prediction error that's so extreme to the point where, like, a state of criticality is reached where, like, you can no longer perceive your conscious experience in the same way because the predictive models are consistently
+
+[48:24] being errored. Mhmm. And so I've I found that to be a useful framework for, like, combining the way in which non ordinary experiences in general, whether they be behaviorally induced non ordinary experiences or, like, survival threat to survival induced non ordinary experiences, but, like,
+
+[48:47] that it breaks the predictions so much we can no longer perceive the way we have perceived in the past. And it induced like, possibly induces the state of, like, plasticity where our mesh for receiving information is a lot thinner. Mhmm. I mean, like, the grate of receiving information is a lot thinner. And possibly, if we're thinking about these, you know, mechanisms of physics that evade human perception,
+
+[49:15] like normal ordinary human perception that possibly become more perceptive to, you know, fundamental mechanisms of physics that are operative outside of our perception. I don't know. I'm just hypothesizing here. Mhmm. But, yes, thank you for the very cool question. Thank you. Hi.
+
+[49:39] This is Nico. Hey. I wanted to share from my perspective because, what what you are describing, I have lived through. So to me, it's like that. Like,
+
+[50:03] at some point, some time ago, I was, very ill with syphilis, and it was, I was in complete pain. Like, every cell was in pain. And I couldn't sleep because I couldn't stay on either side
+
+[50:29] or my back or whatever. It was impossible to exist. And at some point when it was, I would say, too much, I surrendered to to the experience, and Samantha was there. And then transformed
+
+[50:51] to pleasure. It immediately transformed to pleasure when I connected to what I was feeling in the present instead of being afraid. And I stayed there, and I could move from one side to the other. I knew the
+
+[51:14] physical pain was possible, was there, and I could connect to that, but I could also experience it experience it as pleasure. And I have learned this through that experience, but to me, it's a it's a long way. And
+
+[51:37] I do think that we can come to bliss, which is that experience, through nontraumatic methods. That's what I am working on, with harmony, with with studying
+
+[52:00] the harmony of nature and how we bring back the harmony in us. So at some point, I would like to to talk to you about my own work and how it relates because I also think there's quite a big avenue to explore that
+
+[52:23] that is pleasurable all the way, and it also works. You don't need to die, really. Though though it's beautiful to learn to die also, but it's not the only way. Thank you for for sharing.
+
+[52:49] Beautiful story. And I'm I'm happy to talk. I have a million things to say, but we can talk. Any questions out there for Lana, about the research she's doing, about the EDMT, framework for funding research
+
+[53:13] from Tyler. Yeah. Totally. You in the back with the. Try to talk quietly. She's okay. Hi, Lana. Thank you so much for explaining your research. It's so awesome to hear. My name is Cassie, and I actually have a question that's related, to Nico's experience. How do you envision if your hypothesis is proven correct, and breath work does release EDMT and alters our consciousness,
+
+[53:41] how do you envision that to be used for therapeutic purposes? Is it through, like, a physical manifestation of pain or mental as well? And do you see it kind of being the wrong word is commercialized, but that's a way to help the most people in the population. So I'm curious to see where that can go, how you think it can go. Yeah. Yeah. Thank you for the question. And I have given this some thought
+
+[54:06] because, you know, it is a question about, like, what is the what is the effect of this research? Like, what can it actually effectively do? And I think having a proof of concept that endogenous DMT can be, like, intentionally manipulated and accessed is one of the first steps of, like, you know, proof of concept of it, but also
+
+[54:30] specifically looking at the dimensions of people's experience and how they're all they're accessing it. Because with breath work, you know, I don't know how many of you done breath work, but sometimes you don't trip out. But, like, sometimes, at least for me, I'm seeing seven generations of my ancestors behind me, like, beaming love at me or, like, I've had these incredibly psilocybin, like, experiences with just the freaky breathing. So
+
+[54:53] I think there are these dimensions and there are kind of predictive factors that lend themselves to whether or not people are able to allow themselves to cross that threshold into having an experience. And like I mentioned, I am of the mind that the autonomic nervous system is actually really predictive of of of whether or not people are able to really surrender to the experience.
+
+[55:16] So if someone's stress response is really activated in a way that they can't fully surrender and let go, like, how do we build behavioral tools? How do we build methods for possibly doing, you know, real time biofeedback with the heart rate and the heart rate variability about whether or not someone is ready to go into an experience or how to do biofeedback for regulating their heart rate and the heart rate variability and entering into more parasympathetic
+
+[55:42] static states before they enter these experiences. Like, this will build a framework for how to more efficiently be able to access these mechanisms, I think. And I think there's also broad application outside of this breath work. Like, for example, this autonomic nervous system stuff, I think, can really build a pathway for determining,
+
+[56:05] like, if someone is a good fit for psychedelic therapy, like, if their nervous system is, like, ready to go under psychedelic therapy, if there's predictive factors, then they're gonna lend themselves to someone's being able to actually have a deep experience versus have an aversive experience versus if they're possibly not ready for it, are they ready for a breath work experience, which could be, like, kind of a gateway drug into more intense psychedelic experiences.
+
+[56:32] I just think there's a lot of work to be done around building safety and efficacy for these things and then also building tools for how to most efficiently access them. That's Hope that answers your question. Yeah. Thank you so much. Yeah. Hi. While I'm here on the screen, I'm gonna ask a quick question. So I've
+
+[56:55] I've had a few I've I've never done DMT myself, like exogenous DMT. I've done LSD and, like, different experiences on LSD, but there's a couple in particular that, like, I access a different type of experience. And, like, that oceanic experience that that you spoke of was, like, what I found in, like, Alexander Shulgin's
+
+[57:21] writings and, like, Terrence McKenna's writings and, like, other other, like, psycho psychedelic forefathers in a way that was very relatable, that that, like, made sense and validated validated my experience. My question to you is, like, do you think or from your experience and do you think there's a pathway to unlocking endogenous DMT
+
+[57:46] that, like, once unlocked makes EDMT more readily available through these other behavioral methods? Like, if somebody has a near death experience, do you think they're more readily able to accept the EDMT or surrender under these, like, breath work mechanisms relative to somebody who may not have had a near death experience and does the does the the breathwork technique?
+
+[58:11] Yes. To answer your question, yes. I can say a couple things about this. I don't think it's just, oh, if you've had a near death experience, all of a sudden the pathways are open because, for example, I had a near death experience when I was 19. I ran into a tree skiing, saw the lights, saw the light beings and everything, like, have the whole experience. And then when I was 20 or 21, did exogenous DMT
+
+[58:36] and completely blacked out and just, like, have no memory of the experience whatsoever. And my hypothesis about that is possibly, like, there are these thresholds of criticality that can be too intense and too much for people. And this happens in breath work too sometimes where, like, the experience just blows out their nervous system or it like, it's too much for them to handle. And then they either don't remember things, they fall asleep,
+
+[58:59] or their nervous system just kinda shuts down for for the session. So so there's, like, these different predictive factors lending itself to if someone will or will not, but I think it's possible, and I would suspect that, yes, this would be my hypothesis, that it's possible that once the experience is actually you have an experience of surrendering to it completely, you're more likely to be able to access it in the future because,
+
+[59:26] like I mentioned, Meilyne, my colleague who's doing some of this endogenous DMT stuff with freediving, she's mentioned she, you know, is in the freediving world, and she's mentioned that she knows several people in the freediving world to have these DMT like experiences when they're freediving. And she says it's only people who've had exogenous DMT experiences. And it's almost like they've opened this pathway, or it's possibly just like they're able to recognize it of, like, this experience is what happened to me when I did DMT.
+
+[59:56] And maybe it's that there's less fear around entering that state. It's being able to recognize that state. Or possibly, it's just possibly because of the enhanced neuroplasticity, there's these pathways for accessing these experiences of consciousness that become more available to us. Wow. Thank you. But, again, I think we have to do the research to find this stuff out. Yeah. Yeah. Yeah. Totally. Here. Another question over here.
+
+[01:00:21] That was funny because you took my question, but I have another one. Yeah. Actually, what you just described, Lana, reminded me of the concept from, I I believe, like, the neuroscience of epilepsy of, kindling, where, like, the more seizures you've had, the more likely they become, to happen in the future. And I wonder whether it's it's it's very different from whether you've experienced a huge rush of exogenous DMT versus
+
+[01:00:49] from an endogenous pathway and and and it's, like, kind of evolved trigger to produce that kindling effect, and then it wouldn't be the same if you've had a blast of exogenous DMT to to become a high responder subjectively in terms of the the psychedelic phenomenology of breath work. But beyond that, I was curious if you have any, like, hot takes or hunches about,
+
+[01:01:14] like, the potential, like, nootropic benefits of DMT, especially endogenous DMT, given that it's it's such an incredible neuroplasticin, and and we barely understand, I think, like, some of the benefits of agonizing sigma one beyond protecting neurons from, crazy oxidative, you know, suboptima. If if you think that, for example, like, activating endogenous DMT through breath work would be a good idea before, like, a language learning class as an adult or anything like that.
+
+[01:01:47] Yes. I have three thoughts about this, and I hope I will remember all three of them by the time I get through with the first one too. One of them being, yes, I do think there are pathways that become, like, well trodden the more we go down them, especially with breath work. So, for example, I'm working on the the arm of the project that's inexperienced
+
+[01:02:11] practitioners. So there's one arm of the project that's in breath work naive people, but we're specifically bringing people in who have at least five experiences of high ventilation breath work. And long story, but, basically, we've had this kind of issue with determining what our control condition is gonna be because it's almost like the
+
+[01:02:33] more people have access to this altered state, the more likely they are to with just a guided meditation or with just laying down listening to a similar playlist you would hear in breath work. So it's possible for people to access these altered states, experienced practitioners, just by hearing the same playlist that they've heard before while they were doing breath work. And so
+
+[01:02:56] we kind of realized, okay. We're dealing we're possibly dealing with a different phenomenon here, which is the neuroplasticity, like neuroplastic effects of breath work where people have these pathways open up to where they've done breath work a million times, and so this pathway for them accessing this altered state is really by is really available to them. So that was make making, like, a control condition a little bit difficult. And I also was gonna say, like, I think
+
+[01:03:22] yeah. From my own personal practice, like, there's layers that peel back. Like, the more that I've done breath work, the deeper and deeper I can get. And every every, you know, session can become a bit deeper because it's there's a comfort with that state. There's an ability to to surrender deeper to that state. And now the other two things I was gonna say
+
+[01:03:45] what was your question again? Well, I was I was asking about, like, a more speculative direction about endogenous DMT being, like, helpful for learning and plastic like, just like, as a nootropic mechanism for, like, adults to learn languages or other, like, challenging material when neuroplasticity declines in the lifespan. Yeah. So I think I mean, part of what I'm saying about this is that I think there is an increase in neuroplasticity around these specific effects that are happening.
+
+[01:04:12] And, again, the other side of the study that's in breath work naive people is there's four sessions. So we're looking at people longitudinally and how they improve over four weeks, like four breath work sessions. And we're looking at, like, improvements in socio emotional functioning in people with childhood trauma. So possibly related to, like, rewiring pathways around their social emotional function if it's been damaged by, like, traumatic experiences in childhood.
+
+[01:04:37] And so I think that will the results of that study will give us an idea about, like, how people can rewire some of these pathways around social function. And just in terms of, like, an idea around possibly testing the specific sigma one receptor active activity, I I wanna do some more thinking about what measures we actually wanna use if we're gonna administer a sigma one receptor antagonist because
+
+[01:05:04] there's some animal studies that look at, you know, sigma one related to subjective experience ports. So, like, if you attenuate sigma one in in rodents, they stop the head twitch response, which is a kind of a measure for subjective experience. But I think it would be much more interesting to look at if we antagonize yeah. If we antagonize sigma one and breath work, like, are there actually gonna be changes in the longitudinal effects of breath work? So is it is it possible that
+
+[01:05:28] we don't see the same neuroplastic effect? Or is it possible that there's, like, other cognitive differences that we see? So speaking more to these longer term kind of, like, neuroprotective effects possibly of breath work. I think it could be a tool for looking at it, but it is gonna require developing more methods. You know? Awesome. Thank you.
+
+[01:05:52] Awesome. We're gonna do one more question and then tie a bow on it. I don't know if it's a question again, but I want to share this. I think that there's one thing that we at least I pay attention to, which is why.
+
+[01:06:18] Why are we doing this? Why are we interested in understanding DMT, for example? I believe that the important thing is how do we learn to remove ourselves from the belief that we are who we think we are and what we think we are,
+
+[01:06:45] that's something that happens automatically with DMT. Yeah. You are removed from what you think you are, but you don't stop being. To me, that's that's the thing. That's what we are looking for. DMT, I believe, could be an indicator
+
+[01:07:09] of that, of how much are we really living in the present moment, but not just saying this. Living here now and understanding us as not what we believe we are, but just being. That's the difference of, oh, I'm suffering. I'm dying. I'm a human who has an illness, and it's evolving, and it's moving in this direction, and I will die, so I am suffering.
+
+[01:07:42] Or or am I just a resonant system that is resonating with the rest, and it's pleasurable? No? And I believe that DMT puts us there. No? And I think that the the relation between these things is interesting. No? Like,
+
+[01:08:06] is it good to take DMT before going to I don't know what session you said, Warren. I don't know. But it will for sure be good if you are present in that session. And if GMT works to bring us if if studying GMT works for us in the West to understand this, good.
+
+[01:08:29] But if it's just a drug, no. No. We need to, I think, not think from that perspective because this is another technology. This is not that kind of technology. No? That. Well, thank you. Thank you, everybody. Thank you, Tyler, for
+
+[01:08:55] giving us some context on EDMT, and thank you very much, Lana, for sharing your your research and how you are exploring these altered states through, through these behavioral methods. In in the, in in the spirit of surrender, just wanna plug that Tibetan book of the dead talk again on Friday. It was just released on SocialLayer today.
+
+[01:09:23] A large part of that is talking about this concept of surrender and this this this idea of rebirth through the psychedelic experience. So if you don't wanna go play leapfrog in the road to have your near death experience to unlock that pathway, then please come through on Friday for for that. I mean, we got a lot of programming leading up to it as well. It's just one of those that I'm very excited about and related to to this research in in in in my belief. So, yeah, again, Tyler, do you have any closing thoughts?
+
+[01:10:02] Tyler said, thank you very much, Lana, and we'll see you on Thursday for an immersive EDMT breath work session. Cool. Thanks, y'all. And if anybody wants to reach me, I'm Lana Power publicly, so you can find me on the Internet. Yeah. And if you also wanna send that QR code over to either Tyler or myself,
+
+[01:10:26] we can, we can send that out to the people who are interested in taking a look at at those papers that you wrote in, the forward thinking research. Okay. Cool. Yeah. Will do.
