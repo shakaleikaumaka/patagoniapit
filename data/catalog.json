@@ -1332,13 +1332,14 @@
     "id": "1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS",
+  "duration": "00:55:07",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS.jpg",
   "speakers": []
  },
