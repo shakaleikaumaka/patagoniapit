@@ -1,0 +1,245 @@
+# Hyperdimensional Vector Space Golf
+
+Date: 
+Source video: Hyperdimensional Vector Space Golf
+Drive: https://drive.google.com/file/d/1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB/view
+Duration: 00:57:58
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:37] Hello? Testing. Testing. There it is. Alright. Let me know when ready to roll. Okay. Welcome to another round of hyperdimensional vector space golf scorekeeping. This is my attempt to introduce some theories that I've been personally very interested in learning around machine learning, reinforcement learning, category theory, higher order topology, and mathematics,
+
+[01:04] where given that in the contemporaneous age, much of all human knowledge has been condensed to these vector space embeddings, which are useful generally using regular language to create code, generate images, generally achieve our dreams, leverage our intent to make new artifacts, new tools, websites, assets, videos,
+
+[01:29] things which, you know, potentially could become our future, our full actualization in life. And I think, generally speaking, a lot of folks are using these tools in innovative and creative new ways. But generally speaking, more people could find far more utility by thinking about LLMs as these high dimensional abstract objects.
+
+[01:55] And we should know a little bit even hand wavelength about how these models are used, how the mathematical systems which give us some discoverability and some accessibility into how semantics work, things which we understand as quite intuitive. For instance, object permanence, the antecedent basis,
+
+[02:18] ideas around entities, relationships between entities, and those things, persisting as we understand of our world model. LMs are quite different, and as we will understand in this talk, there's a lot of essentially fancy words that are both mine and from the general literature, which can be used to dig deeper into the models and to understand our own prompting.
+
+[02:46] So, you know, the the the kind of subtitle of this talk is achieving your dreams is the journey through the landscape of possibilities. And as I'm quite prone to, if not just have a propensity for, is to map things to spaces, create large analogies and metaphors, and hyperdimensional vector space golf is that analogy of golf as this way of perusing these high dimensional objects,
+
+[03:12] the LLMs particularly, as an extended metaphor that can go really far to teaching new methods for how to experiment, iterate, and converge on your goals using LLMs. So what I have here is 10 different types of shots, which map well to how you might think about playing a round of golf. And there are three major motifs which we are going to build into this talk, and how a golfer might approach achieving
+
+[03:44] success, or how a prompter might achieve taking shots toward their goals. And most simply gotcha. Some more there? So most often, and we'll try to get this through this a little bit faster this time, there there's these 10 ideals. Most often, what I see folks do is they, you know, they take a drive, they collapse the semantic space of the entire, you know, infinity of what's possible to build within the scope of referential
+
+[04:21] semantic context to an LLM. They take a drive, and they may end somewhere near their goal, but defining what their actual goal is is half of the battle. And so many people use the putter right thereafter. They take a shot, and then they start to, you know, address that code base as if they're near their goal, you know, starting to address particularly
+
+[04:45] what is called semantically clamped elements. Meaning that when they start to have a code base or projects, they start addressing particular entities as they can find them inside their code base. And how this maps to golf is that once you tee off from the driver, it's very unlikely that you've landed on the so called putting green. You're not necessarily close to your goal. In fact, it might take many different courses to get to your goals. Your your project can be far off and over the hill.
+
+[05:12] And what I'm recommending is that you think about shots towards your goal as a definitive process of shaping your shots, learning from large prompts, and taking better shots towards your goals. So the driver is just that tool, and most of your prompts, in some respects, should be your driver, taking these one off shots,
+
+[05:37] collapsing the entire vector space potentiality, that is that initial prompt, which then should collapse that entire infinite space to then a localized context, which you can then begin to iterate. We then have an iron, which is these look like well perspicated steps towards achieving very large goals. You're moving along the field towards the green in directed ways, although you might find yourself in the rough, and you might need to take a wedge shot. And this is going to be shaping shots to kind of get you back on course and get you towards your goal, but being mindful of the semantic clamping. That is both giving instructions regarding
+
+[06:16] explorative work, but also being precise about existing elements in your code base. Part of the theory of golf here is that in the progress of understanding your own code base, which is being generated and generating actual compiling context, which you might not even understand, given that in large drives, you are giving away agency to the LLM to come up with abstractions, which you may not even be able to reference.
+
+[06:46] This is broadly the scope of what I call semantic referentibility. Can you actually talk to the code in the code base via the LLM, where the LLM has created a lot of those abstractions? And thinking about how well clamped our shots are, I e, we addressing specific elements which exist in the code base, or are we looking at the front end? Are we looking at the actual outcomes and trying to ontologize them even though those were filled in?
+
+[07:13] So what I often see is people are always working with the driver. They take big shots, and then once they're really close to their goal, frustration sets in when they're not properly clamped to what's already in the code base. And if you were at my one of my previous talks, I I brought up mermaid diagrams as a useful tool of acting as an intermediary
+
+[07:36] between the actual code and a code base, you know, the and your specification of the project, giving you a series of diagrams which compile, which give the the LLM a a second look at the code base in order to actually create human communicability with large complex systems. So getting through here on types of shots, part of the practice, which I believe is a meditative practice of prompting,
+
+[08:03] is understanding when you are in a hazard or in a rough, and needing to actually go back to square one and doing so in a way which doesn't incite extreme frustration. If you're a golfer like I am, an actual golf, I am often brought into cases where I'm in extreme frustration and and needing recovery. I think it's more so for folks that are working with LLMs,
+
+[08:28] that find themselves appeased by the LLMs locally. You know, they were able to describe what they wanted, but then getting to their actual specific goal that would then, you know, give them a major feature or a a whole app, they're, not necessarily able to decide how to if they have gone down a large path, have generated thousands of lines of code or documentation,
+
+[08:50] find a way to actually recover value from those experiments. And so as we approach, our goals, we wanna think about different styles of semantic referenceability and abstraction layers. Thus, we might have descriptions of elements, descriptions of specific features,
+
+[09:13] and even reference to actual code in the code base. Go on a little bit about curve shots, taking a penalty stroke, I. E, reverting, finding hazards, so these might be dependencies that you need to work around, punch shots, which are really finding cases where, you know, you just wanna learn about something that
+
+[09:36] where you wanna even superficially get at your goal. Take a shot right at the pin and see if you can learn from getting the LLM to fill in the details to make all of those assumptions as if, you know, you're already well along the course and the path of your development. Trying to go right at your goal can be useful to then, you know, where you know that you might potentially overshoot might be useful to then give you context on how you can then go around go about iterating on your prompts and getting closer to your goal on the next iteration.
+
+[10:11] So So what I've come up with here is a very approachable method for essentially scoping out a program that you wanna build, a large project, as a scorecard.
+
+[10:34] And to think about the the space of achieving a a large unscoped goal, an adventure through a golf course you've never seen, a problem space that maybe you understand or maybe you don't understand as a series of analogy maps to playing a round of golf. And insofar as you might even think about the cadence of a round of golf, the pace at which you're making prompts
+
+[11:00] closely coupled to this walk through the woods, through the kind of three phases, which are success planning, envisioning yourself making a shot, moving to the next shot, and then moving to your goal and and then completing the final precision execution. Shot making, which is standing up at the ball, taking
+
+[11:23] the perspicacious understanding of how you will then make that strategy real and continuing to then make that make it happen by execution, so the actual making of the prompt. And then the scorekeeping, actually being retrospective about how and why you made a certain decision when you went about making a prompt.
+
+[11:49] And and thus, we can think about, you know, developing a an entire ecommerce app as a series of of a task list where instead of running through that task list once, you know, as a traditional develop developer would have, maybe, you know, it might have taken me three months to, at one point, build this respective this app app. Right?
+
+[12:12] The shape of what I'm proposing, what this development now looks like is essentially speed running this process, but in a way which is meditative and that which allows you to learn and build confidence with respect to what you actually want, how to instruct the LLM to do so, and being mindful about the intensity of the the shots that you're taking. Because often, what I see in my own and and observing others work is that there is there's this high high confidence drive. There's a there's a a prompt which instantiates the application.
+
+[12:46] There's a you know, the the LLM will interpret that as, you know, a long range shot. It will fill in that detail and appease you. And then locally, folks get stuck, and then they're unable to start to make progress. And so thinking about code not as this sequential linear process, but rather an iterative process of big shots,
+
+[13:09] small, definitive shots, and a practice of getting better running through that process is where I think we can all learn a lot. So if I'm gonna open up to questions now and think about how we might basically start building ecommerce app by applying this method and about thinking about crafting prompts that get us through the front nine here. So are there any questions?
+
+[13:38] Mhmm. Is a round of golf, like, going through the front nine and the back nine and then playing another round through the same application? Yeah. Very very likely. Yes. So I I think that, you you might take many shots at achieving compliance.
+
+[14:03] But in any application, in any process of development, your goal is going to change. And and so in this iterative development process, being mindful of how your goal changed and how you can learn from that development process rather than, you know, putting from the rough, quote unquote, getting to a position where you've instantiated a bunch of code using a prompt, and then, you know, you're kind of lost
+
+[14:28] in a local minima of in the woods. And that's when frustration sets in where you can no longer make progress. So what this method invokes is this idea that by thinking about the entire development process of this this higher order, speed run through the development of your application, as something that is a is a practice that you can do over and over again where you can learn from the efficacy of your prompts towards your goals, and then and then yourself learn to be,
+
+[15:00] you might say, scientific about analyzing how effective your prompt was towards getting you to some meaningful endpoint. And so using the the golf scorekeeping analogy here as, well, let's implement authentication in an application. This could take anywhere between one and five prompts. Right? And instead of this being, you know, rather a a process of of architecting,
+
+[15:25] of of of choosing the respective dependencies and going and actually implementing, you know you know, typing out all the code, we can think about this as a series of prompts that per the requirements of how you think about authentication, a kind of preliminary aspect of of building a SaaS app or, you know, many different types of apps which might have role based access control or some type of, like, hosted authentication
+
+[15:51] as a procedure which can be done extremely quickly by improving your ability to explain what you want by doing this many times rather than, you know, belaboring the local process of of implementing off. Thank you. That that actually helps kind of bridge the gap from the theory to actually how you'd apply this. So thank you. Great. So
+
+[16:18] I think what we can do here is just start to rip some code. Okay. So let's set up a new project. Does anybody need a quick introduction on Cursor?
+
+[16:46] Alright. So we will make demoecom. So I'm running n p x create next app at latest.
+
+[17:23] Going with the defaults. Alright. And this will be quite referential as a demonstration because I will be building the hyperventil vector space
+
+[17:47] score keeping tool as the ecommerce app here. So so we begin to instantiate the app. We are building a respective ecommerce app to enable users to purchase the respective toolkit for the hyperdimensional vector space
+
+[18:10] golf score keeping application. We need to instantiate a role based access system whereby first, we will instantiate a number of perspicating documents with respect to structuring our authentication system, where we will eventually use a number of respective dependencies, which we will then further perspicate
+
+[18:33] whether we will build them entirely or implement them directly, all which are compliant to our actual authentication hook. Let's hereby instantiate an implementation of the respective next authentication stack using auth zero, where first we instantiate pure markdown files,
+
+[18:56] implementing where appropriate representative mermaid diagrams that give us the overall architecture before we start implementing TypeScript code, which is compliant to the NextJX app router stack. So really going for Eagle here. So let's see if we can get on the green.
+
+[19:25] Yeah. So, you know, I'm gonna I'm gonna see if we can get off in one shot here. I did. Yeah. So I I I I think so I think that's what that's part of the practice is, you know, building your own scorecard. And I was able to kind of vibe code this scorecard very quickly, but it is you know, rather than using, you know, the another tool to kind of instantiate my application in, like, the perspication of the app, I'm actually
+
+[19:58] instantiated in context for the first time in the actual app. Right? So this gives me kind of another higher layer of I thought about how I wanna go about building this app. I made this little applet, took this screenshot, and now I have my scorecard, which is giving me the the higher order ability to really see through the path that I wanna take. It's going to take me a number of respective prompts to get here, and I I use the framework of, well, golf is 18 holes.
+
+[20:25] You know, that's a kind of a that's a you can that's enough golf for one day. You know, I can get to a full stack app with without the actual extended features and maybe nine holes. Right? So now let's actually just divvy up nine holes into my full stack app, and then let's divvy up each of those into kind of like a feature which has, you know, some degree of, you know, attestation
+
+[20:48] where I can actually have the the application itself or my own ability to actually say, like, this is a this is compliantly that feature completed. I actually I have found both ways work. I feel as though building in the skeleton
+
+[21:12] is a way to lose context really fast. And that you, like, wanna you wanna get to pretty much solid structures as soon as you can. And I've approached both methods of, like, building jank on jank on jank, and then, you know, basically, like, doing large large removals of code and then, like, naming
+
+[21:38] all of the diffs of the removal of code to then be the reference by which those jank nonworking modules could then be reimplemented in a way which is more definitive of the way I actually wanted to achieve the final goal. I would say that is over intellectualizing the wrong way of doing it, and that building from scratch with higher specificity is often the actual right way of doing it.
+
+[22:01] So looks like we'll have our representative docs here, you know, API reference. Very often, apologies for the very zoomed out image, but this is often how I just get the shape of
+
+[22:26] the scope that the LLM is providing. And what I typically rely on is that when concurrently produced, mermaid diagrams will be very accurate with respect to what it's producing. So log in, log out, authentication. Alright. And so often in this next steps area is where
+
+[23:09] we can essentially instruct the model to get where we wanna go. Ensuring that the model is not kind of ignoring us. Interestingly, I'd rock code on. Alright. So
+
+[23:34] this is where also I find the the ability to instruct specificity that is differential from the instantiated markdown files or the actual contemplations which is produced, it's it's often the case that I can, you know, read through this and use that semantic referentability
+
+[23:56] to differentiate, or I can go ahead and try to learn here. So in the in the interest of time and trying to go for the pin here, I'm I'm going to defer some trust to the model that it has a cogency here based on my original prompt and and go right at the pin, and essentially have callbacks to my original prompt that then confirms that this is a semantic referentability
+
+[24:20] that I am confident in, and that which I can hope that it it generally extended, which I can then confirm in a later attestation of trying it out. K. Here I haven't even set up an agents m d. I will begin to do that kind of iteratively as I find
+
+[24:50] different ways of going about it. But because I'm starting up a new code base here, I I don't wanna add any specificity really. I just want to have my own prompts be the the steering for that. Okay. Using the dependencies
+
+[25:15] which are implicated, let's go ahead and implement the respective role based access control. Being perspicacious of the way in which we will actually lay it out with respect to our dashboard, ensure that there is a shared text entry for both sign in and sign up, which queries the respective database for an existing user passively and steers them to the right sign in or
+
+[25:46] sign up interface provided the existing account exists or not. Alright. K.
+
+[26:38] So we're going to be building right off the Next. Js app framework here. And we should be able to start to peruse the score keeping as soon as this is done implementing. So I could see it through the process. It has a unified auth form.
+
+[27:37] I assume for a lot of these more mechanistic instantiations that with the introduction of some of these faster models, we'll be able to get through these stages faster. But a lot of this is kind of just waiting for these models to eschew all the tokens. Thus, we're walking to the next hole.
+
+[28:05] I mean, perhaps hyperdimensional vector space golf really does need to be taken and be done on a on a real golf course. Because it's these intermediary phases that well, is indicative of kind of the current state of the progress in software development needing you know, taking these large leaps and then taking the time to actually review the code.
+
+[29:04] I'm using auto, which is I think Composer, which is the new cursor native model, which I've found to be quite good. But when the more specific you are, the better that model is. The, you know, 4.5 thinking seems to be a better model for explorative work. But if you're, you know, if you've contemplated the shape of an application which you want to build entirely and you're confident about your degree
+
+[29:32] of specificity and being able to explain what you want, this composer model seems to be quite good at implementing. Yeah. Yeah. I mean, even just for speed for a demo, it's a lot faster. Yeah. And that's
+
+[30:04] part of part of the part of this perusal and where I've found this method, you know, at the very least, hand wavel y capable is in understanding how far these models can get and how far I can go while maintaining understanding. Having implemented auth several times before, I have the, like, rapid discernibility
+
+[30:27] to be able to just peruse kind of the shape of the syntax highlighted code to understand that my authentication layer is going to work. And, you know, having experimented also downstream with building an application like this before, I know that I want to basically frame this in a series of steps. That is, you know, the nine steps to get to the full stack deployable app, and then the following
+
+[30:51] nine holes or so to get to where I wanna go in implementing more scoped features. So while this runs, does anybody have a project that is ambitious or one which they want help scoping out? And I think we could build our own respective hyperdimensional
+
+[31:15] vector space golf scorecard to help with the process of essentially achieving that goal. There an app idea? Yeah. Points. Party points. Alright. Okay.
+
+[31:56] Okay. Party points. So, yeah, I think the the number one value here that I can add is, you know, kind of the, like, questioning basis to get us to, like, a one shot prompt. So this, I would say, is more of, like, a a driving range implementation. If our goal is to, like, you know, build an application that is perhaps,
+
+[32:20] you know, generates some type of money and, you know, steers and has some value and maybe helps people host some more parties. Here, we can start using some prompt app tools as well as this app to essentially generate, you know, these, like, first drives. These, like, motifs that would, you know, essentially try to get us all the way to the point. But here, we know that, you know, our first hole
+
+[32:44] is not gonna actually look like our final outcome. But in the experimentation of taking multiple different vectors of the exploration of that, implementing the implementing the app superficially will help us get to where we might wanna go. Alright. So party points looks like an application
+
+[33:07] that through a number of different means, through folks sharing conversations at a party, attributes some type of quantification to the value of conversations between conversations had between individuals at a party. Hereby, we want to instantiate a respective application which explores the space of possibilities to allow one to
+
+[33:31] recover some type of quantifiable value in their interactions with a party, whereby the means of collecting this information is not currently understood. But we will look through several perturbations where one might use an existing app, which they already have in order to create nodes in a network through the process of conversation.
+
+[33:56] Let's say this might be a Telegram bot. Well, that that's that's actually going to be the the basis of my experiment here is, like, what's actually, like, get it to fill in all of the the space of that, and then explore from the shape.
+
+[34:27] But we can we can Yeah. Well, how I would do this is is is build all the documentation first and just kind of peruse the shape of the doc of the of, like, a bunch of mermaid diagrams that would then give me the shape of this application and the ideas that we can then consider. Okay.
+
+[34:54] So just checking on our other application here. Alright. It seems like we might have to. K.
+
+[36:00] Let's instantiate a series of markdown documents, contemplates the shape of this respective app, directions which we can go, and then choose from by analyzing a series of mermaid diagrams within a markdown file that peruses the space of the overall direction that this app could take. Well,
+
+[36:38] something about wisdom and not using next off is is probably shareable here. Peruse the shape of this error and return why we have not been able to implement often one shot. Well, I wanna make this as valuable for people as possible. So
+
+[37:42] feel free to interject with any of the methods here. You know, part of this talk series is my experimentation with trying to explore ways for performative and engaging prompt engineering, and also teaching folks through and learning myself through teaching. You know, as you can see, this is not an exact science,
+
+[38:06] but it's one where, you know, we can kind of share from each other's methods. Yeah. Yeah. Absolutely. That that's somewhere where, you know, I have a I have a a lot of a lot of opinions about as far as building your
+
+[38:29] colloquial production wall, your fort, so to speak, and and having a tool chain that essentially runs with pre commit hooks before you actually deploy code if you are running on a protected system where essentially you're, you know, building insertly on your own main or running on branch system. What I recommend for that is, you know, building through documentation,
+
+[38:52] contemplating the space of the respective tests which you want to build, and then having a series of layered in YAML configurations, for using Husky that essentially allows not only you, but the LLM to trigger a series of deterministic tests, for essentially qualifying your tests. Does that answer your question there? But but I feel like, you know, with with a lot of with these talks, it takes several hours to, like, get there and demonstrate that.
+
+[39:21] Maybe you have some ideas at and about how particularly to demonstrate that in in kind of like an n of one talk way to like get to the point where you're then building and implement these tests. It takes like, you know, a several number of prompts to kind of get to the specificity that you need in a code base. You know, while my idea here is that you can get further faster towards your goals by thinking about these shaped larger shots, ultimately, a lot of putting is needed and is involved.
+
+[39:48] And getting over the hurdle of, well, the LLM is providing a lot of value quickly, but it is still engineering. It's still programming and understanding the code base. Okay. So we have here, you know, a simple model for time based scoring for party prompting.
+
+[40:24] We have our social graph network conventions. Yeah. So another another part of the area of hyperdimensional vector space golf, which I want to work on framing, is is how to make this a collaborative sport. How do we think about, you know, scrambles?
+
+[40:50] You know, there's a in golf, there's this idea of a scramble, where in order to try to get a higher score in collaborative play, where you might be playing with four folks and there's a bunch of folks playing on a day, you save a best ball approach. And so this idea of how can we actually solve how might we be able to use this idea of the scramble to solve coordination problems
+
+[41:14] where having folks take a number of different tries from a position towards a goal can be a practice which is abstracted away from the IDE. And that's an an another prompt that is for myself and perhaps for the the crowd here to figure out how we can essentially, you know, work asynchronously in this way.
+
+[41:40] Yeah. So is there is there any kind of improvements here that you might think about towards getting that in that product vision refinement that we could take towards the next step? Okay. I think
+
+[42:36] to to amplify near term value for the talk here. One of the things that was not able to cover in the last time is a little bit more on the semantic space, which I'm using in my own practice
+
+[43:03] to both learn category theory and mathematical reality, which many of you came for. And this idea, you know, that's not only in the shot making, but in the field in which we're playing in. And this idea of the course being this high dimensional infinite reality, which maps to the actual semantic embedding space of all human knowledge, I e, what the LLMs knows, or in the LLM process,
+
+[43:27] the state before in which you introduce the first prompt, When you stand up on a deck. And so this is the embedding space. The rough is when you're actually out on the field. And so this is where we've flattened the embedding space to this colloquial rough, and the space of potentialities becomes constrained by initial prompt which we have instantiated.
+
+[43:51] And so in many respects, an underspecified prompt creates this broad exploration space. And that's where we might not even have our respective goal defined. So we are still necessarily in the rough. The the local the local space of achieving our goal is not yet defined, both in our own understanding of the code base and in that of the the
+
+[44:14] implicit tokens that have been instantiated in your code base. The fairway is where we actually get to a manifold of possible class. You know, we are now in range or we are staring down, the respective goal, at least in our own understanding, and we could start taking shots towards that respective goal, which are shaping the entire field of possibility, in in a much more constrained context. And so we are in an inter refinement zone.
+
+[44:42] And then the green is this refinement phase. This is where the engineering confidence comes in. This is where we are close to our goal and, you know, needing to make these small changes, however many, you know, in in many topologies that we create, which, you know, could be a jumbled code base. It could be much harder to prompt. And so we need to actually
+
+[45:07] create much better appropriate prompts or take little putts to get to our goals, the refining and and using that semantic mapping, I e, like understanding what's in the code base to make progress. And then we get to the temporal aspects, which are actually the the NSO shot types, the framing of the context of those individual prompt types, and then thinking about the
+
+[45:30] the that as a transformation of the entire vector space, the of your existing code base in that thereof. And then, you know, this practice of of meditatively over the course of your prompting, thinking about getting better through being quantitative about the number of shots that you're taking towards your goal.
+
+[46:08] The analogies. Well, I'm I'm interested in, you know, helping in our last couple minutes here. Anyone who might have, you know, some certain
+
+[46:33] scopes of problems where they've been experiencing working with LLMs and they wanna get further faster, you know, how they might think about implementing this strategy or what aspects of this particular analogy can be taken further. If there are if there are any. Yep. Right.
+
+[47:29] That that's the that's the main impetus of this talk is to, you know, when one is building and when you're increasing your understanding of the code base, being analogically mindful of what is the topology that you're working within, how rough is the respective environment, and then, you know, when to take shots, when to recover, when to think about rebuilding the code base entirely.
+
+[47:52] That is that is the kind of basis of the analogy, and then there's a there's a shape of tools which are more or less useful. And, you know, this idea is that, you know, I think, you know, in terms of in terms of our our initial prompt here, I think we we took a drive and we walked kind of into the woods. There was some type of low local misunderstanding
+
+[48:17] with the way in which I prompted the implementation of the auth and how the auth was actually gone. So, you know, I I took a shot here. I I was probably on the fairway towards my goal. And now I understand, you know, locally, although not taking, you know, a a real in-depth look at this respective code, that it it seems like, you
+
+[48:40] know, I'm now in the rough. And so maybe I will take a drop to go back and and say, hey, let's actually revert all this actual code. Let's refine the respective documentation, and we'll try to implement it again. It could have been that my specificity regarding how to do the unified auth system confused it, and, you know, that made it more difficult. And I think that templates well to a generalized practice
+
+[49:02] of framing the documentation, framing your perspicacious take on how to explain where you wanna go more thoroughly in your prompting, reverting more often perhaps to be able to make it further faster and having better well understood frameworks for your explainability, which is reflective of how well defined your prompt is.
+
+[49:43] Yeah. So yeah. I can I can make a demonstration here? What what I do locally on my projects is I say, hey. It looks like this auth particular auth implementation as abstracted from our respective docs didn't necessarily work correctly, so we are going to revert. Let's instantiate a respective convention whereby we will use a branch naming convention of contemplations and studies.
+
+[50:07] Let's actually then instantiate the respective studies implementation here, having their respective TypeScript files and React files which have been implemented, whereby we add those respective implemented code files to the contemplations the markdown files to their respective contemplations branch and the respective implementation files to respective studies branch. Let's call it studies forward slash auth dash one and have two discrete branches by which we will then revert back to main, having the respective
+
+[50:40] raw contemplations of the respective markdown files, whereby from the context of a respective implementation, which was failed, whereby we have the context of the respective outputs of the actual compiled application giving us the auth zero result. Let's then create a new markdown file in our contemplations that give us our overall recovery
+
+[51:03] understanding how we might then implement from scratch again. So this, I think, will instantiate that convention of how I think about using branching, particularly in the contemplations, which are typically markdown files, and the studies, which are are implement code.
+
+[51:25] And then I break those out, and I let the I let the LLM, you know, kind of kind of dangerously, you might say, use Git and create these respective branches. And then, you know, I will go then, on my larger projects, go and actually look at this look at these, you know, large swaths of code, which I can generate very fast as, like, a unitary unitary experiments,
+
+[51:50] you know, really maquettes, you know, where, you know, maybe it's the fact that this actual implemented code was about 95% compliant, and I can kind of, like, through, you know I I I set off as a par five, and it I could probably copy and paste the respective error in and try to understand the error quickly and, you know, get it in par. But, you know, just as in golf, I was going for a respective eagle, and it it seems as though, you know, with just the shape of my understanding of having done played this course before, having implemented off before,
+
+[52:24] and, you know, the kind of local errors that I should be able to put this one in. But, you know, let's take a recovery here just to kind of show this convention of how, you know, I think about building these respective branches and learning from those. The the tools are quite good at at looking differentially at at branches. And then you can use that to essentially build tools to allow you to
+
+[52:49] see different aspects of the code base in a way which is also removed from the removed from the differentiation of those different branches, whereby, like for example, I will keep a prototypes page. In the prototypes page, I will often, for my respective contemplations, you know, I I will have a a contemplations for my, say, IDE extensions. And so for this application, I'm building this IDE extension
+
+[53:15] that will look like, you know, a a number of respective holes inside of your code base, where you can then actually, like, integrate in here. So this is a this is a prototype. I've been able to explain this, and I have then, you know, the the contemplation, the original documentation that made that, and then I have this looks like prototype that I was able to implement very fast. For, you know, other aspects of the respective code base, I then use the the
+
+[53:43] like, a a a git diff on the respective contemplation, the experiment that I'm making to then collect what the overall zeitgeist of maybe, you know, what these six or seven respective experiments might be. And then I I have a I have my own directory of these actual branches. So I have a prototype's theme system, you know, and for this convention, I just happen to have used prototypes and not studies.
+
+[54:07] But I do find this as very nice way of of segmenting the planning and documentation of respective feature, and then the even kind of suboptimal test of that respective feature, kind of like branching my golf game to try and say, here's where I'm at. I'm gonna try these respective shots, and, you know, I might take several different shots at doing so where my reversions are then packaged up into these individual branches.
+
+[55:04] Yeah. Yes. Very much so. There's a degree to which, you know, you need to be specific about the files which are coming in. The the the current state of the models is different with respect to how deep it will actually peruse the context, especially in the length of the context window which you're opening. And I often when I am going to then implement these respective features, we're all open a fresh branch and be very provocative with respect to getting the model to go in and look at for each of their respective contemplations,
+
+[55:36] all of those respective files, then recapitulate some certain aspect of that which I know to be true from that respective file to then kind of prove that it is contextualized on that. Then I will say, you know, if I had already created a respective prototype or study, I said, you know, we had tried it in this way and we had tried it through this way, then further requiring it to go and and gather that respective context to then build up this kind of, like, you know, warmed up respective
+
+[56:01] chat, where then I will then go in and give the kind of, instructions for the differentiability on that context to then go and achieve kind of that that next iteration from which I will actually integrate to the code base or, you know, steer towards integrating the code base. So it looks like we're coming up on time here. Is there any last questions? Alright. And I'll
+
+[56:34] just to show one more tool that I used to make this a bit more of a iterative process. I use unget, which is a tool that allows me to easily visualize different branches. The the main thing which is useful in this respective branch is when I actually want to have, you know, higher order semantic specificity with respect to individual branches, this will give me a map of all of the all of the iterations on those, and you can easily come in here and actually copy the branch name and then give that to the model. The model will then construct your respective git diff using that respective hash, and that gives you this different durability between those respective contemplations and prototypes,
+
+[57:21] which, you know, adds just another layer of interaction that is really easy to work with. You know, I'm contemplating that. You know, I'm I'm I'm figuring out how to make this a performative, instructive, and collaborative
+
+[57:44] process to teach people to get to their to help people to get to their goals faster by building quicker through this practice. Alright. Well, thanks, everybody.

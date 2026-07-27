@@ -78635,6 +78635,1696 @@
   "ants to chat with me, we can do that, and I'll start we'll start closing it up. Oh, wait. I think I'm muted. Okay. Now you now you're good."
  ],
  [
+  44,
+  37,
+  "Hello? Testing. Testing. There it is. Alright. Let me know when ready to roll. Okay. Welcome to another round of hyperdimensional vector spa"
+ ],
+ [
+  44,
+  47,
+  "ce golf scorekeeping. This is my attempt to introduce some theories that I've been personally very interested in learning around machine lea"
+ ],
+ [
+  44,
+  58,
+  "rning, reinforcement learning, category theory, higher order topology, and mathematics,"
+ ],
+ [
+  44,
+  64,
+  "where given that in the contemporaneous age, much of all human knowledge has been condensed to these vector space embeddings, which are usef"
+ ],
+ [
+  44,
+  75,
+  "ul generally using regular language to create code, generate images, generally achieve our dreams, leverage our intent to make new artifacts"
+ ],
+ [
+  44,
+  86,
+  ", new tools, websites, assets, videos,"
+ ],
+ [
+  44,
+  89,
+  "things which, you know, potentially could become our future, our full actualization in life. And I think, generally speaking, a lot of folks"
+ ],
+ [
+  44,
+  100,
+  " are using these tools in innovative and creative new ways. But generally speaking, more people could find far more utility by thinking abou"
+ ],
+ [
+  44,
+  111,
+  "t LLMs as these high dimensional abstract objects."
+ ],
+ [
+  44,
+  115,
+  "And we should know a little bit even hand wavelength about how these models are used, how the mathematical systems which give us some discov"
+ ],
+ [
+  44,
+  126,
+  "erability and some accessibility into how semantics work, things which we understand as quite intuitive. For instance, object permanence, th"
+ ],
+ [
+  44,
+  137,
+  "e antecedent basis,"
+ ],
+ [
+  44,
+  138,
+  "ideas around entities, relationships between entities, and those things, persisting as we understand of our world model. LMs are quite diffe"
+ ],
+ [
+  44,
+  149,
+  "rent, and as we will understand in this talk, there's a lot of essentially fancy words that are both mine and from the general literature, w"
+ ],
+ [
+  44,
+  160,
+  "hich can be used to dig deeper into the models and to understand our own prompting."
+ ],
+ [
+  44,
+  166,
+  "So, you know, the the the kind of subtitle of this talk is achieving your dreams is the journey through the landscape of possibilities. And "
+ ],
+ [
+  44,
+  176,
+  "as I'm quite prone to, if not just have a propensity for, is to map things to spaces, create large analogies and metaphors, and hyperdimensi"
+ ],
+ [
+  44,
+  185,
+  "onal vector space golf is that analogy of golf as this way of perusing these high dimensional objects,"
+ ],
+ [
+  44,
+  192,
+  "the LLMs particularly, as an extended metaphor that can go really far to teaching new methods for how to experiment, iterate, and converge o"
+ ],
+ [
+  44,
+  203,
+  "n your goals using LLMs. So what I have here is 10 different types of shots, which map well to how you might think about playing a round of "
+ ],
+ [
+  44,
+  214,
+  "golf. And there are three major motifs which we are going to build into this talk, and how a golfer might approach achieving"
+ ],
+ [
+  44,
+  224,
+  "success, or how a prompter might achieve taking shots toward their goals. And most simply gotcha. Some more there? So most often, and we'll "
+ ],
+ [
+  44,
+  236,
+  "try to get this through this a little bit faster this time, there there's these 10 ideals. Most often, what I see folks do is they, you know"
+ ],
+ [
+  44,
+  248,
+  ", they take a drive, they collapse the semantic space of the entire, you know, infinity of what's possible to build within the scope of refe"
+ ],
+ [
+  44,
+  260,
+  "rential"
+ ],
+ [
+  44,
+  261,
+  "semantic context to an LLM. They take a drive, and they may end somewhere near their goal, but defining what their actual goal is is half of"
+ ],
+ [
+  44,
+  271,
+  " the battle. And so many people use the putter right thereafter. They take a shot, and then they start to, you know, address that code base "
+ ],
+ [
+  44,
+  280,
+  "as if they're near their goal, you know, starting to address particularly"
+ ],
+ [
+  44,
+  285,
+  "what is called semantically clamped elements. Meaning that when they start to have a code base or projects, they start addressing particular"
+ ],
+ [
+  44,
+  293,
+  " entities as they can find them inside their code base. And how this maps to golf is that once you tee off from the driver, it's very unlike"
+ ],
+ [
+  44,
+  300,
+  "ly that you've landed on the so called putting green. You're not necessarily close to your goal. In fact, it might take many different cours"
+ ],
+ [
+  44,
+  308,
+  "es to get to your goals. Your your project can be far off and over the hill."
+ ],
+ [
+  44,
+  312,
+  "And what I'm recommending is that you think about shots towards your goal as a definitive process of shaping your shots, learning from large"
+ ],
+ [
+  44,
+  323,
+  " prompts, and taking better shots towards your goals. So the driver is just that tool, and most of your prompts, in some respects, should be"
+ ],
+ [
+  44,
+  334,
+  " your driver, taking these one off shots,"
+ ],
+ [
+  44,
+  337,
+  "collapsing the entire vector space potentiality, that is that initial prompt, which then should collapse that entire infinite space to then "
+ ],
+ [
+  44,
+  345,
+  "a localized context, which you can then begin to iterate. We then have an iron, which is these look like well perspicated steps towards achi"
+ ],
+ [
+  44,
+  354,
+  "eving very large goals. You're moving along the field towards the green in directed ways, although you might find yourself in the rough, and"
+ ],
+ [
+  44,
+  362,
+  " you might need to take a wedge shot. And this is going to be shaping shots to kind of get you back on course and get you towards your goal,"
+ ],
+ [
+  44,
+  371,
+  " but being mindful of the semantic clamping. That is both giving instructions regarding"
+ ],
+ [
+  44,
+  376,
+  "explorative work, but also being precise about existing elements in your code base. Part of the theory of golf here is that in the progress "
+ ],
+ [
+  44,
+  386,
+  "of understanding your own code base, which is being generated and generating actual compiling context, which you might not even understand, "
+ ],
+ [
+  44,
+  396,
+  "given that in large drives, you are giving away agency to the LLM to come up with abstractions, which you may not even be able to reference."
+ ],
+ [
+  44,
+  406,
+  "This is broadly the scope of what I call semantic referentibility. Can you actually talk to the code in the code base via the LLM, where the"
+ ],
+ [
+  44,
+  415,
+  " LLM has created a lot of those abstractions? And thinking about how well clamped our shots are, I e, we addressing specific elements which "
+ ],
+ [
+  44,
+  423,
+  "exist in the code base, or are we looking at the front end? Are we looking at the actual outcomes and trying to ontologize them even though "
+ ],
+ [
+  44,
+  432,
+  "those were filled in?"
+ ],
+ [
+  44,
+  433,
+  "So what I often see is people are always working with the driver. They take big shots, and then once they're really close to their goal, fru"
+ ],
+ [
+  44,
+  442,
+  "stration sets in when they're not properly clamped to what's already in the code base. And if you were at my one of my previous talks, I I b"
+ ],
+ [
+  44,
+  451,
+  "rought up mermaid diagrams as a useful tool of acting as an intermediary"
+ ],
+ [
+  44,
+  456,
+  "between the actual code and a code base, you know, the and your specification of the project, giving you a series of diagrams which compile,"
+ ],
+ [
+  44,
+  466,
+  " which give the the LLM a a second look at the code base in order to actually create human communicability with large complex systems. So ge"
+ ],
+ [
+  44,
+  475,
+  "tting through here on types of shots, part of the practice, which I believe is a meditative practice of prompting,"
+ ],
+ [
+  44,
+  483,
+  "is understanding when you are in a hazard or in a rough, and needing to actually go back to square one and doing so in a way which doesn't i"
+ ],
+ [
+  44,
+  493,
+  "ncite extreme frustration. If you're a golfer like I am, an actual golf, I am often brought into cases where I'm in extreme frustration and "
+ ],
+ [
+  44,
+  502,
+  "and needing recovery. I think it's more so for folks that are working with LLMs,"
+ ],
+ [
+  44,
+  508,
+  "that find themselves appeased by the LLMs locally. You know, they were able to describe what they wanted, but then getting to their actual s"
+ ],
+ [
+  44,
+  516,
+  "pecific goal that would then, you know, give them a major feature or a a whole app, they're, not necessarily able to decide how to if they h"
+ ],
+ [
+  44,
+  525,
+  "ave gone down a large path, have generated thousands of lines of code or documentation,"
+ ],
+ [
+  44,
+  530,
+  "find a way to actually recover value from those experiments. And so as we approach, our goals, we wanna think about different styles of sema"
+ ],
+ [
+  44,
+  542,
+  "ntic referenceability and abstraction layers. Thus, we might have descriptions of elements, descriptions of specific features,"
+ ],
+ [
+  44,
+  553,
+  "and even reference to actual code in the code base. Go on a little bit about curve shots, taking a penalty stroke, I. E, reverting, finding "
+ ],
+ [
+  44,
+  563,
+  "hazards, so these might be dependencies that you need to work around, punch shots, which are really finding cases where, you know, you just "
+ ],
+ [
+  44,
+  574,
+  "wanna learn about something that"
+ ],
+ [
+  44,
+  576,
+  "where you wanna even superficially get at your goal. Take a shot right at the pin and see if you can learn from getting the LLM to fill in t"
+ ],
+ [
+  44,
+  585,
+  "he details to make all of those assumptions as if, you know, you're already well along the course and the path of your development. Trying t"
+ ],
+ [
+  44,
+  594,
+  "o go right at your goal can be useful to then, you know, where you know that you might potentially overshoot might be useful to then give yo"
+ ],
+ [
+  44,
+  603,
+  "u context on how you can then go around go about iterating on your prompts and getting closer to your goal on the next iteration."
+ ],
+ [
+  44,
+  611,
+  "So So what I've come up with here is a very approachable method for essentially scoping out a program that you wanna build, a large project,"
+ ],
+ [
+  44,
+  632,
+  " as a scorecard."
+ ],
+ [
+  44,
+  634,
+  "And to think about the the space of achieving a a large unscoped goal, an adventure through a golf course you've never seen, a problem space"
+ ],
+ [
+  44,
+  644,
+  " that maybe you understand or maybe you don't understand as a series of analogy maps to playing a round of golf. And insofar as you might ev"
+ ],
+ [
+  44,
+  654,
+  "en think about the cadence of a round of golf, the pace at which you're making prompts"
+ ],
+ [
+  44,
+  660,
+  "closely coupled to this walk through the woods, through the kind of three phases, which are success planning, envisioning yourself making a "
+ ],
+ [
+  44,
+  670,
+  "shot, moving to the next shot, and then moving to your goal and and then completing the final precision execution. Shot making, which is sta"
+ ],
+ [
+  44,
+  681,
+  "nding up at the ball, taking"
+ ],
+ [
+  44,
+  683,
+  "the perspicacious understanding of how you will then make that strategy real and continuing to then make that make it happen by execution, s"
+ ],
+ [
+  44,
+  695,
+  "o the actual making of the prompt. And then the scorekeeping, actually being retrospective about how and why you made a certain decision whe"
+ ],
+ [
+  44,
+  706,
+  "n you went about making a prompt."
+ ],
+ [
+  44,
+  709,
+  "And and thus, we can think about, you know, developing a an entire ecommerce app as a series of of a task list where instead of running thro"
+ ],
+ [
+  44,
+  719,
+  "ugh that task list once, you know, as a traditional develop developer would have, maybe, you know, it might have taken me three months to, a"
+ ],
+ [
+  44,
+  728,
+  "t one point, build this respective this app app. Right?"
+ ],
+ [
+  44,
+  732,
+  "The shape of what I'm proposing, what this development now looks like is essentially speed running this process, but in a way which is medit"
+ ],
+ [
+  44,
+  741,
+  "ative and that which allows you to learn and build confidence with respect to what you actually want, how to instruct the LLM to do so, and "
+ ],
+ [
+  44,
+  750,
+  "being mindful about the intensity of the the shots that you're taking. Because often, what I see in my own and and observing others work is "
+ ],
+ [
+  44,
+  758,
+  "that there is there's this high high confidence drive. There's a there's a a prompt which instantiates the application."
+ ],
+ [
+  44,
+  766,
+  "There's a you know, the the LLM will interpret that as, you know, a long range shot. It will fill in that detail and appease you. And then l"
+ ],
+ [
+  44,
+  776,
+  "ocally, folks get stuck, and then they're unable to start to make progress. And so thinking about code not as this sequential linear process"
+ ],
+ [
+  44,
+  786,
+  ", but rather an iterative process of big shots,"
+ ],
+ [
+  44,
+  789,
+  "small, definitive shots, and a practice of getting better running through that process is where I think we can all learn a lot. So if I'm go"
+ ],
+ [
+  44,
+  800,
+  "nna open up to questions now and think about how we might basically start building ecommerce app by applying this method and about thinking "
+ ],
+ [
+  44,
+  811,
+  "about crafting prompts that get us through the front nine here. So are there any questions?"
+ ],
+ [
+  44,
+  818,
+  "Mhmm. Is a round of golf, like, going through the front nine and the back nine and then playing another round through the same application? "
+ ],
+ [
+  44,
+  832,
+  "Yeah. Very very likely. Yes. So I I think that, you you might take many shots at achieving compliance."
+ ],
+ [
+  44,
+  843,
+  "But in any application, in any process of development, your goal is going to change. And and so in this iterative development process, being"
+ ],
+ [
+  44,
+  852,
+  " mindful of how your goal changed and how you can learn from that development process rather than, you know, putting from the rough, quote u"
+ ],
+ [
+  44,
+  860,
+  "nquote, getting to a position where you've instantiated a bunch of code using a prompt, and then, you know, you're kind of lost"
+ ],
+ [
+  44,
+  868,
+  "in a local minima of in the woods. And that's when frustration sets in where you can no longer make progress. So what this method invokes is"
+ ],
+ [
+  44,
+  877,
+  " this idea that by thinking about the entire development process of this this higher order, speed run through the development of your applic"
+ ],
+ [
+  44,
+  887,
+  "ation, as something that is a is a practice that you can do over and over again where you can learn from the efficacy of your prompts toward"
+ ],
+ [
+  44,
+  896,
+  "s your goals, and then and then yourself learn to be,"
+ ],
+ [
+  44,
+  900,
+  "you might say, scientific about analyzing how effective your prompt was towards getting you to some meaningful endpoint. And so using the th"
+ ],
+ [
+  44,
+  909,
+  "e golf scorekeeping analogy here as, well, let's implement authentication in an application. This could take anywhere between one and five p"
+ ],
+ [
+  44,
+  919,
+  "rompts. Right? And instead of this being, you know, rather a a process of of architecting,"
+ ],
+ [
+  44,
+  925,
+  "of of of choosing the respective dependencies and going and actually implementing, you know you know, typing out all the code, we can think "
+ ],
+ [
+  44,
+  934,
+  "about this as a series of prompts that per the requirements of how you think about authentication, a kind of preliminary aspect of of buildi"
+ ],
+ [
+  44,
+  942,
+  "ng a SaaS app or, you know, many different types of apps which might have role based access control or some type of, like, hosted authentica"
+ ],
+ [
+  44,
+  951,
+  "tion"
+ ],
+ [
+  44,
+  951,
+  "as a procedure which can be done extremely quickly by improving your ability to explain what you want by doing this many times rather than, "
+ ],
+ [
+  44,
+  962,
+  "you know, belaboring the local process of of implementing off. Thank you. That that actually helps kind of bridge the gap from the theory to"
+ ],
+ [
+  44,
+  974,
+  " actually how you'd apply this. So thank you. Great. So"
+ ],
+ [
+  44,
+  978,
+  "I think what we can do here is just start to rip some code. Okay. So let's set up a new project. Does anybody need a quick introduction on C"
+ ],
+ [
+  44,
+  1005,
+  "ursor?"
+ ],
+ [
+  44,
+  1006,
+  "Alright. So we will make demoecom. So I'm running n p x create next app at latest."
+ ],
+ [
+  44,
+  1043,
+  "Going with the defaults. Alright. And this will be quite referential as a demonstration because I will be building the hyperventil vector sp"
+ ],
+ [
+  44,
+  1066,
+  "ace"
+ ],
+ [
+  44,
+  1067,
+  "score keeping tool as the ecommerce app here. So so we begin to instantiate the app. We are building a respective ecommerce app to enable us"
+ ],
+ [
+  44,
+  1082,
+  "ers to purchase the respective toolkit for the hyperdimensional vector space"
+ ],
+ [
+  44,
+  1090,
+  "golf score keeping application. We need to instantiate a role based access system whereby first, we will instantiate a number of perspicatin"
+ ],
+ [
+  44,
+  1100,
+  "g documents with respect to structuring our authentication system, where we will eventually use a number of respective dependencies, which w"
+ ],
+ [
+  44,
+  1111,
+  "e will then further perspicate"
+ ],
+ [
+  44,
+  1113,
+  "whether we will build them entirely or implement them directly, all which are compliant to our actual authentication hook. Let's hereby inst"
+ ],
+ [
+  44,
+  1125,
+  "antiate an implementation of the respective next authentication stack using auth zero, where first we instantiate pure markdown files,"
+ ],
+ [
+  44,
+  1136,
+  "implementing where appropriate representative mermaid diagrams that give us the overall architecture before we start implementing TypeScript"
+ ],
+ [
+  44,
+  1151,
+  " code, which is compliant to the NextJX app router stack. So really going for Eagle here. So let's see if we can get on the green."
+ ],
+ [
+  44,
+  1165,
+  "Yeah. So, you know, I'm gonna I'm gonna see if we can get off in one shot here. I did. Yeah. So I I I I think so I think that's what that's "
+ ],
+ [
+  44,
+  1176,
+  "part of the practice is, you know, building your own scorecard. And I was able to kind of vibe code this scorecard very quickly, but it is y"
+ ],
+ [
+  44,
+  1187,
+  "ou know, rather than using, you know, the another tool to kind of instantiate my application in, like, the perspication of the app, I'm actu"
+ ],
+ [
+  44,
+  1198,
+  "ally"
+ ],
+ [
+  44,
+  1198,
+  "instantiated in context for the first time in the actual app. Right? So this gives me kind of another higher layer of I thought about how I "
+ ],
+ [
+  44,
+  1206,
+  "wanna go about building this app. I made this little applet, took this screenshot, and now I have my scorecard, which is giving me the the h"
+ ],
+ [
+  44,
+  1214,
+  "igher order ability to really see through the path that I wanna take. It's going to take me a number of respective prompts to get here, and "
+ ],
+ [
+  44,
+  1222,
+  "I I use the framework of, well, golf is 18 holes."
+ ],
+ [
+  44,
+  1225,
+  "You know, that's a kind of a that's a you can that's enough golf for one day. You know, I can get to a full stack app with without the actua"
+ ],
+ [
+  44,
+  1233,
+  "l extended features and maybe nine holes. Right? So now let's actually just divvy up nine holes into my full stack app, and then let's divvy"
+ ],
+ [
+  44,
+  1242,
+  " up each of those into kind of like a feature which has, you know, some degree of, you know, attestation"
+ ],
+ [
+  44,
+  1248,
+  "where I can actually have the the application itself or my own ability to actually say, like, this is a this is compliantly that feature com"
+ ],
+ [
+  44,
+  1263,
+  "pleted. I actually I have found both ways work. I feel as though building in the skeleton"
+ ],
+ [
+  44,
+  1272,
+  "is a way to lose context really fast. And that you, like, wanna you wanna get to pretty much solid structures as soon as you can. And I've a"
+ ],
+ [
+  44,
+  1284,
+  "pproached both methods of, like, building jank on jank on jank, and then, you know, basically, like, doing large large removals of code and "
+ ],
+ [
+  44,
+  1296,
+  "then, like, naming"
+ ],
+ [
+  44,
+  1298,
+  "all of the diffs of the removal of code to then be the reference by which those jank nonworking modules could then be reimplemented in a way"
+ ],
+ [
+  44,
+  1306,
+  " which is more definitive of the way I actually wanted to achieve the final goal. I would say that is over intellectualizing the wrong way o"
+ ],
+ [
+  44,
+  1315,
+  "f doing it, and that building from scratch with higher specificity is often the actual right way of doing it."
+ ],
+ [
+  44,
+  1321,
+  "So looks like we'll have our representative docs here, you know, API reference. Very often, apologies for the very zoomed out image, but thi"
+ ],
+ [
+  44,
+  1341,
+  "s is often how I just get the shape of"
+ ],
+ [
+  44,
+  1346,
+  "the scope that the LLM is providing. And what I typically rely on is that when concurrently produced, mermaid diagrams will be very accurate"
+ ],
+ [
+  44,
+  1368,
+  " with respect to what it's producing. So log in, log out, authentication. Alright. And so often in this next steps area is where"
+ ],
+ [
+  44,
+  1389,
+  "we can essentially instruct the model to get where we wanna go. Ensuring that the model is not kind of ignoring us. Interestingly, I'd rock "
+ ],
+ [
+  44,
+  1411,
+  "code on. Alright. So"
+ ],
+ [
+  44,
+  1414,
+  "this is where also I find the the ability to instruct specificity that is differential from the instantiated markdown files or the actual co"
+ ],
+ [
+  44,
+  1425,
+  "ntemplations which is produced, it's it's often the case that I can, you know, read through this and use that semantic referentability"
+ ],
+ [
+  44,
+  1436,
+  "to differentiate, or I can go ahead and try to learn here. So in the in the interest of time and trying to go for the pin here, I'm I'm goin"
+ ],
+ [
+  44,
+  1445,
+  "g to defer some trust to the model that it has a cogency here based on my original prompt and and go right at the pin, and essentially have "
+ ],
+ [
+  44,
+  1454,
+  "callbacks to my original prompt that then confirms that this is a semantic referentability"
+ ],
+ [
+  44,
+  1460,
+  "that I am confident in, and that which I can hope that it it generally extended, which I can then confirm in a later attestation of trying i"
+ ],
+ [
+  44,
+  1477,
+  "t out. K. Here I haven't even set up an agents m d. I will begin to do that kind of iteratively as I find"
+ ],
+ [
+  44,
+  1490,
+  "different ways of going about it. But because I'm starting up a new code base here, I I don't wanna add any specificity really. I just want "
+ ],
+ [
+  44,
+  1506,
+  "to have my own prompts be the the steering for that. Okay. Using the dependencies"
+ ],
+ [
+  44,
+  1515,
+  "which are implicated, let's go ahead and implement the respective role based access control. Being perspicacious of the way in which we will"
+ ],
+ [
+  44,
+  1527,
+  " actually lay it out with respect to our dashboard, ensure that there is a shared text entry for both sign in and sign up, which queries the"
+ ],
+ [
+  44,
+  1538,
+  " respective database for an existing user passively and steers them to the right sign in or"
+ ],
+ [
+  44,
+  1546,
+  "sign up interface provided the existing account exists or not. Alright. K."
+ ],
+ [
+  44,
+  1598,
+  "So we're going to be building right off the Next. Js app framework here. And we should be able to start to peruse the score keeping as soon "
+ ],
+ [
+  44,
+  1633,
+  "as this is done implementing. So I could see it through the process. It has a unified auth form."
+ ],
+ [
+  44,
+  1657,
+  "I assume for a lot of these more mechanistic instantiations that with the introduction of some of these faster models, we'll be able to get "
+ ],
+ [
+  44,
+  1670,
+  "through these stages faster. But a lot of this is kind of just waiting for these models to eschew all the tokens. Thus, we're walking to the"
+ ],
+ [
+  44,
+  1684,
+  " next hole."
+ ],
+ [
+  44,
+  1685,
+  "I mean, perhaps hyperdimensional vector space golf really does need to be taken and be done on a on a real golf course. Because it's these i"
+ ],
+ [
+  44,
+  1709,
+  "ntermediary phases that well, is indicative of kind of the current state of the progress in software development needing you know, taking th"
+ ],
+ [
+  44,
+  1732,
+  "ese large leaps and then taking the time to actually review the code."
+ ],
+ [
+  44,
+  1744,
+  "I'm using auto, which is I think Composer, which is the new cursor native model, which I've found to be quite good. But when the more specif"
+ ],
+ [
+  44,
+  1754,
+  "ic you are, the better that model is. The, you know, 4.5 thinking seems to be a better model for explorative work. But if you're, you know, "
+ ],
+ [
+  44,
+  1764,
+  "if you've contemplated the shape of an application which you want to build entirely and you're confident about your degree"
+ ],
+ [
+  44,
+  1772,
+  "of specificity and being able to explain what you want, this composer model seems to be quite good at implementing. Yeah. Yeah. I mean, even"
+ ],
+ [
+  44,
+  1794,
+  " just for speed for a demo, it's a lot faster. Yeah. And that's"
+ ],
+ [
+  44,
+  1804,
+  "part of part of the part of this perusal and where I've found this method, you know, at the very least, hand wavel y capable is in understan"
+ ],
+ [
+  44,
+  1814,
+  "ding how far these models can get and how far I can go while maintaining understanding. Having implemented auth several times before, I have"
+ ],
+ [
+  44,
+  1825,
+  " the, like, rapid discernibility"
+ ],
+ [
+  44,
+  1827,
+  "to be able to just peruse kind of the shape of the syntax highlighted code to understand that my authentication layer is going to work. And,"
+ ],
+ [
+  44,
+  1835,
+  " you know, having experimented also downstream with building an application like this before, I know that I want to basically frame this in "
+ ],
+ [
+  44,
+  1844,
+  "a series of steps. That is, you know, the nine steps to get to the full stack deployable app, and then the following"
+ ],
+ [
+  44,
+  1851,
+  "nine holes or so to get to where I wanna go in implementing more scoped features. So while this runs, does anybody have a project that is am"
+ ],
+ [
+  44,
+  1864,
+  "bitious or one which they want help scoping out? And I think we could build our own respective hyperdimensional"
+ ],
+ [
+  44,
+  1875,
+  "vector space golf scorecard to help with the process of essentially achieving that goal. There an app idea? Yeah. Points. Party points. Alri"
+ ],
+ [
+  44,
+  1913,
+  "ght. Okay."
+ ],
+ [
+  44,
+  1916,
+  "Okay. Party points. So, yeah, I think the the number one value here that I can add is, you know, kind of the, like, questioning basis to get"
+ ],
+ [
+  44,
+  1927,
+  " us to, like, a one shot prompt. So this, I would say, is more of, like, a a driving range implementation. If our goal is to, like, you know"
+ ],
+ [
+  44,
+  1937,
+  ", build an application that is perhaps,"
+ ],
+ [
+  44,
+  1940,
+  "you know, generates some type of money and, you know, steers and has some value and maybe helps people host some more parties. Here, we can "
+ ],
+ [
+  44,
+  1948,
+  "start using some prompt app tools as well as this app to essentially generate, you know, these, like, first drives. These, like, motifs that"
+ ],
+ [
+  44,
+  1957,
+  " would, you know, essentially try to get us all the way to the point. But here, we know that, you know, our first hole"
+ ],
+ [
+  44,
+  1964,
+  "is not gonna actually look like our final outcome. But in the experimentation of taking multiple different vectors of the exploration of tha"
+ ],
+ [
+  44,
+  1975,
+  "t, implementing the implementing the app superficially will help us get to where we might wanna go. Alright. So party points looks like an a"
+ ],
+ [
+  44,
+  1986,
+  "pplication"
+ ],
+ [
+  44,
+  1987,
+  "that through a number of different means, through folks sharing conversations at a party, attributes some type of quantification to the valu"
+ ],
+ [
+  44,
+  1997,
+  "e of conversations between conversations had between individuals at a party. Hereby, we want to instantiate a respective application which e"
+ ],
+ [
+  44,
+  2007,
+  "xplores the space of possibilities to allow one to"
+ ],
+ [
+  44,
+  2011,
+  "recover some type of quantifiable value in their interactions with a party, whereby the means of collecting this information is not currentl"
+ ],
+ [
+  44,
+  2021,
+  "y understood. But we will look through several perturbations where one might use an existing app, which they already have in order to create"
+ ],
+ [
+  44,
+  2032,
+  " nodes in a network through the process of conversation."
+ ],
+ [
+  44,
+  2036,
+  "Let's say this might be a Telegram bot. Well, that that's that's actually going to be the the basis of my experiment here is, like, what's a"
+ ],
+ [
+  44,
+  2054,
+  "ctually, like, get it to fill in all of the the space of that, and then explore from the shape."
+ ],
+ [
+  44,
+  2067,
+  "But we can we can Yeah. Well, how I would do this is is is build all the documentation first and just kind of peruse the shape of the doc of"
+ ],
+ [
+  44,
+  2080,
+  " the of, like, a bunch of mermaid diagrams that would then give me the shape of this application and the ideas that we can then consider. Ok"
+ ],
+ [
+  44,
+  2094,
+  "ay."
+ ],
+ [
+  44,
+  2094,
+  "So just checking on our other application here. Alright. It seems like we might have to. K."
+ ],
+ [
+  44,
+  2160,
+  "Let's instantiate a series of markdown documents, contemplates the shape of this respective app, directions which we can go, and then choose"
+ ],
+ [
+  44,
+  2178,
+  " from by analyzing a series of mermaid diagrams within a markdown file that peruses the space of the overall direction that this app could t"
+ ],
+ [
+  44,
+  2197,
+  "ake. Well,"
+ ],
+ [
+  44,
+  2198,
+  "something about wisdom and not using next off is is probably shareable here. Peruse the shape of this error and return why we have not been "
+ ],
+ [
+  44,
+  2236,
+  "able to implement often one shot. Well, I wanna make this as valuable for people as possible. So"
+ ],
+ [
+  44,
+  2262,
+  "feel free to interject with any of the methods here. You know, part of this talk series is my experimentation with trying to explore ways fo"
+ ],
+ [
+  44,
+  2273,
+  "r performative and engaging prompt engineering, and also teaching folks through and learning myself through teaching. You know, as you can s"
+ ],
+ [
+  44,
+  2283,
+  "ee, this is not an exact science,"
+ ],
+ [
+  44,
+  2286,
+  "but it's one where, you know, we can kind of share from each other's methods. Yeah. Yeah. Absolutely. That that's somewhere where, you know,"
+ ],
+ [
+  44,
+  2301,
+  " I have a I have a a lot of a lot of opinions about as far as building your"
+ ],
+ [
+  44,
+  2309,
+  "colloquial production wall, your fort, so to speak, and and having a tool chain that essentially runs with pre commit hooks before you actua"
+ ],
+ [
+  44,
+  2318,
+  "lly deploy code if you are running on a protected system where essentially you're, you know, building insertly on your own main or running o"
+ ],
+ [
+  44,
+  2326,
+  "n branch system. What I recommend for that is, you know, building through documentation,"
+ ],
+ [
+  44,
+  2332,
+  "contemplating the space of the respective tests which you want to build, and then having a series of layered in YAML configurations, for usi"
+ ],
+ [
+  44,
+  2341,
+  "ng Husky that essentially allows not only you, but the LLM to trigger a series of deterministic tests, for essentially qualifying your tests"
+ ],
+ [
+  44,
+  2350,
+  ". Does that answer your question there? But but I feel like, you know, with with a lot of with these talks, it takes several hours to, like,"
+ ],
+ [
+  44,
+  2359,
+  " get there and demonstrate that."
+ ],
+ [
+  44,
+  2361,
+  "Maybe you have some ideas at and about how particularly to demonstrate that in in kind of like an n of one talk way to like get to the point"
+ ],
+ [
+  44,
+  2369,
+  " where you're then building and implement these tests. It takes like, you know, a several number of prompts to kind of get to the specificit"
+ ],
+ [
+  44,
+  2376,
+  "y that you need in a code base. You know, while my idea here is that you can get further faster towards your goals by thinking about these s"
+ ],
+ [
+  44,
+  2384,
+  "haped larger shots, ultimately, a lot of putting is needed and is involved."
+ ],
+ [
+  44,
+  2388,
+  "And getting over the hurdle of, well, the LLM is providing a lot of value quickly, but it is still engineering. It's still programming and u"
+ ],
+ [
+  44,
+  2407,
+  "nderstanding the code base. Okay. So we have here, you know, a simple model for time based scoring for party prompting."
+ ],
+ [
+  44,
+  2424,
+  "We have our social graph network conventions. Yeah. So another another part of the area of hyperdimensional vector space golf, which I want "
+ ],
+ [
+  44,
+  2439,
+  "to work on framing, is is how to make this a collaborative sport. How do we think about, you know, scrambles?"
+ ],
+ [
+  44,
+  2450,
+  "You know, there's a in golf, there's this idea of a scramble, where in order to try to get a higher score in collaborative play, where you m"
+ ],
+ [
+  44,
+  2459,
+  "ight be playing with four folks and there's a bunch of folks playing on a day, you save a best ball approach. And so this idea of how can we"
+ ],
+ [
+  44,
+  2468,
+  " actually solve how might we be able to use this idea of the scramble to solve coordination problems"
+ ],
+ [
+  44,
+  2474,
+  "where having folks take a number of different tries from a position towards a goal can be a practice which is abstracted away from the IDE. "
+ ],
+ [
+  44,
+  2486,
+  "And that's an an another prompt that is for myself and perhaps for the the crowd here to figure out how we can essentially, you know, work a"
+ ],
+ [
+  44,
+  2498,
+  "synchronously in this way."
+ ],
+ [
+  44,
+  2500,
+  "Yeah. So is there is there any kind of improvements here that you might think about towards getting that in that product vision refinement t"
+ ],
+ [
+  44,
+  2540,
+  "hat we could take towards the next step? Okay. I think"
+ ],
+ [
+  44,
+  2556,
+  "to to amplify near term value for the talk here. One of the things that was not able to cover in the last time is a little bit more on the s"
+ ],
+ [
+  44,
+  2576,
+  "emantic space, which I'm using in my own practice"
+ ],
+ [
+  44,
+  2583,
+  "to both learn category theory and mathematical reality, which many of you came for. And this idea, you know, that's not only in the shot mak"
+ ],
+ [
+  44,
+  2592,
+  "ing, but in the field in which we're playing in. And this idea of the course being this high dimensional infinite reality, which maps to the"
+ ],
+ [
+  44,
+  2600,
+  " actual semantic embedding space of all human knowledge, I e, what the LLMs knows, or in the LLM process,"
+ ],
+ [
+  44,
+  2607,
+  "the state before in which you introduce the first prompt, When you stand up on a deck. And so this is the embedding space. The rough is when"
+ ],
+ [
+  44,
+  2616,
+  " you're actually out on the field. And so this is where we've flattened the embedding space to this colloquial rough, and the space of poten"
+ ],
+ [
+  44,
+  2626,
+  "tialities becomes constrained by initial prompt which we have instantiated."
+ ],
+ [
+  44,
+  2631,
+  "And so in many respects, an underspecified prompt creates this broad exploration space. And that's where we might not even have our respecti"
+ ],
+ [
+  44,
+  2640,
+  "ve goal defined. So we are still necessarily in the rough. The the local the local space of achieving our goal is not yet defined, both in o"
+ ],
+ [
+  44,
+  2650,
+  "ur own understanding of the code base and in that of the the"
+ ],
+ [
+  44,
+  2654,
+  "implicit tokens that have been instantiated in your code base. The fairway is where we actually get to a manifold of possible class. You kno"
+ ],
+ [
+  44,
+  2663,
+  "w, we are now in range or we are staring down, the respective goal, at least in our own understanding, and we could start taking shots towar"
+ ],
+ [
+  44,
+  2672,
+  "ds that respective goal, which are shaping the entire field of possibility, in in a much more constrained context. And so we are in an inter"
+ ],
+ [
+  44,
+  2681,
+  " refinement zone."
+ ],
+ [
+  44,
+  2682,
+  "And then the green is this refinement phase. This is where the engineering confidence comes in. This is where we are close to our goal and, "
+ ],
+ [
+  44,
+  2692,
+  "you know, needing to make these small changes, however many, you know, in in many topologies that we create, which, you know, could be a jum"
+ ],
+ [
+  44,
+  2702,
+  "bled code base. It could be much harder to prompt. And so we need to actually"
+ ],
+ [
+  44,
+  2707,
+  "create much better appropriate prompts or take little putts to get to our goals, the refining and and using that semantic mapping, I e, like"
+ ],
+ [
+  44,
+  2716,
+  " understanding what's in the code base to make progress. And then we get to the temporal aspects, which are actually the the NSO shot types,"
+ ],
+ [
+  44,
+  2724,
+  " the framing of the context of those individual prompt types, and then thinking about the"
+ ],
+ [
+  44,
+  2730,
+  "the that as a transformation of the entire vector space, the of your existing code base in that thereof. And then, you know, this practice o"
+ ],
+ [
+  44,
+  2747,
+  "f of meditatively over the course of your prompting, thinking about getting better through being quantitative about the number of shots that"
+ ],
+ [
+  44,
+  2764,
+  " you're taking towards your goal."
+ ],
+ [
+  44,
+  2768,
+  "The analogies. Well, I'm I'm interested in, you know, helping in our last couple minutes here. Anyone who might have, you know, some certain"
+ ],
+ [
+  44,
+  2793,
+  "scopes of problems where they've been experiencing working with LLMs and they wanna get further faster, you know, how they might think about"
+ ],
+ [
+  44,
+  2822,
+  " implementing this strategy or what aspects of this particular analogy can be taken further. If there are if there are any. Yep. Right."
+ ],
+ [
+  44,
+  2849,
+  "That that's the that's the main impetus of this talk is to, you know, when one is building and when you're increasing your understanding of "
+ ],
+ [
+  44,
+  2857,
+  "the code base, being analogically mindful of what is the topology that you're working within, how rough is the respective environment, and t"
+ ],
+ [
+  44,
+  2866,
+  "hen, you know, when to take shots, when to recover, when to think about rebuilding the code base entirely."
+ ],
+ [
+  44,
+  2872,
+  "That is that is the kind of basis of the analogy, and then there's a there's a shape of tools which are more or less useful. And, you know, "
+ ],
+ [
+  44,
+  2882,
+  "this idea is that, you know, I think, you know, in terms of in terms of our our initial prompt here, I think we we took a drive and we walke"
+ ],
+ [
+  44,
+  2892,
+  "d kind of into the woods. There was some type of low local misunderstanding"
+ ],
+ [
+  44,
+  2897,
+  "with the way in which I prompted the implementation of the auth and how the auth was actually gone. So, you know, I I took a shot here. I I "
+ ],
+ [
+  44,
+  2907,
+  "was probably on the fairway towards my goal. And now I understand, you know, locally, although not taking, you know, a a real in-depth look "
+ ],
+ [
+  44,
+  2916,
+  "at this respective code, that it it seems like, you"
+ ],
+ [
+  44,
+  2920,
+  "know, I'm now in the rough. And so maybe I will take a drop to go back and and say, hey, let's actually revert all this actual code. Let's r"
+ ],
+ [
+  44,
+  2928,
+  "efine the respective documentation, and we'll try to implement it again. It could have been that my specificity regarding how to do the unif"
+ ],
+ [
+  44,
+  2935,
+  "ied auth system confused it, and, you know, that made it more difficult. And I think that templates well to a generalized practice"
+ ],
+ [
+  44,
+  2942,
+  "of framing the documentation, framing your perspicacious take on how to explain where you wanna go more thoroughly in your prompting, revert"
+ ],
+ [
+  44,
+  2960,
+  "ing more often perhaps to be able to make it further faster and having better well understood frameworks for your explainability, which is r"
+ ],
+ [
+  44,
+  2977,
+  "eflective of how well defined your prompt is."
+ ],
+ [
+  44,
+  2983,
+  "Yeah. So yeah. I can I can make a demonstration here? What what I do locally on my projects is I say, hey. It looks like this auth particula"
+ ],
+ [
+  44,
+  2992,
+  "r auth implementation as abstracted from our respective docs didn't necessarily work correctly, so we are going to revert. Let's instantiate"
+ ],
+ [
+  44,
+  3001,
+  " a respective convention whereby we will use a branch naming convention of contemplations and studies."
+ ],
+ [
+  44,
+  3007,
+  "Let's actually then instantiate the respective studies implementation here, having their respective TypeScript files and React files which h"
+ ],
+ [
+  44,
+  3016,
+  "ave been implemented, whereby we add those respective implemented code files to the contemplations the markdown files to their respective co"
+ ],
+ [
+  44,
+  3025,
+  "ntemplations branch and the respective implementation files to respective studies branch. Let's call it studies forward slash auth dash one "
+ ],
+ [
+  44,
+  3034,
+  "and have two discrete branches by which we will then revert back to main, having the respective"
+ ],
+ [
+  44,
+  3040,
+  "raw contemplations of the respective markdown files, whereby from the context of a respective implementation, which was failed, whereby we h"
+ ],
+ [
+  44,
+  3049,
+  "ave the context of the respective outputs of the actual compiled application giving us the auth zero result. Let's then create a new markdow"
+ ],
+ [
+  44,
+  3059,
+  "n file in our contemplations that give us our overall recovery"
+ ],
+ [
+  44,
+  3063,
+  "understanding how we might then implement from scratch again. So this, I think, will instantiate that convention of how I think about using "
+ ],
+ [
+  44,
+  3074,
+  "branching, particularly in the contemplations, which are typically markdown files, and the studies, which are are implement code."
+ ],
+ [
+  44,
+  3085,
+  "And then I break those out, and I let the I let the LLM, you know, kind of kind of dangerously, you might say, use Git and create these resp"
+ ],
+ [
+  44,
+  3095,
+  "ective branches. And then, you know, I will go then, on my larger projects, go and actually look at this look at these, you know, large swat"
+ ],
+ [
+  44,
+  3104,
+  "hs of code, which I can generate very fast as, like, a unitary unitary experiments,"
+ ],
+ [
+  44,
+  3110,
+  "you know, really maquettes, you know, where, you know, maybe it's the fact that this actual implemented code was about 95% compliant, and I "
+ ],
+ [
+  44,
+  3119,
+  "can kind of, like, through, you know I I I set off as a par five, and it I could probably copy and paste the respective error in and try to "
+ ],
+ [
+  44,
+  3127,
+  "understand the error quickly and, you know, get it in par. But, you know, just as in golf, I was going for a respective eagle, and it it see"
+ ],
+ [
+  44,
+  3136,
+  "ms as though, you know, with just the shape of my understanding of having done played this course before, having implemented off before,"
+ ],
+ [
+  44,
+  3144,
+  "and, you know, the kind of local errors that I should be able to put this one in. But, you know, let's take a recovery here just to kind of "
+ ],
+ [
+  44,
+  3153,
+  "show this convention of how, you know, I think about building these respective branches and learning from those. The the tools are quite goo"
+ ],
+ [
+  44,
+  3162,
+  "d at at looking differentially at at branches. And then you can use that to essentially build tools to allow you to"
+ ],
+ [
+  44,
+  3169,
+  "see different aspects of the code base in a way which is also removed from the removed from the differentiation of those different branches,"
+ ],
+ [
+  44,
+  3178,
+  " whereby, like for example, I will keep a prototypes page. In the prototypes page, I will often, for my respective contemplations, you know,"
+ ],
+ [
+  44,
+  3187,
+  " I I will have a a contemplations for my, say, IDE extensions. And so for this application, I'm building this IDE extension"
+ ],
+ [
+  44,
+  3195,
+  "that will look like, you know, a a number of respective holes inside of your code base, where you can then actually, like, integrate in here"
+ ],
+ [
+  44,
+  3204,
+  ". So this is a this is a prototype. I've been able to explain this, and I have then, you know, the the contemplation, the original documenta"
+ ],
+ [
+  44,
+  3212,
+  "tion that made that, and then I have this looks like prototype that I was able to implement very fast. For, you know, other aspects of the r"
+ ],
+ [
+  44,
+  3221,
+  "espective code base, I then use the the"
+ ],
+ [
+  44,
+  3223,
+  "like, a a a git diff on the respective contemplation, the experiment that I'm making to then collect what the overall zeitgeist of maybe, yo"
+ ],
+ [
+  44,
+  3231,
+  "u know, what these six or seven respective experiments might be. And then I I have a I have my own directory of these actual branches. So I "
+ ],
+ [
+  44,
+  3240,
+  "have a prototype's theme system, you know, and for this convention, I just happen to have used prototypes and not studies."
+ ],
+ [
+  44,
+  3247,
+  "But I do find this as very nice way of of segmenting the planning and documentation of respective feature, and then the even kind of subopti"
+ ],
+ [
+  44,
+  3266,
+  "mal test of that respective feature, kind of like branching my golf game to try and say, here's where I'm at. I'm gonna try these respective"
+ ],
+ [
+  44,
+  3285,
+  " shots, and, you know, I might take several different shots at doing so where my reversions are then packaged up into these individual branc"
+ ],
+ [
+  44,
+  3303,
+  "hes."
+ ],
+ [
+  44,
+  3304,
+  "Yeah. Yes. Very much so. There's a degree to which, you know, you need to be specific about the files which are coming in. The the the curre"
+ ],
+ [
+  44,
+  3312,
+  "nt state of the models is different with respect to how deep it will actually peruse the context, especially in the length of the context wi"
+ ],
+ [
+  44,
+  3321,
+  "ndow which you're opening. And I often when I am going to then implement these respective features, we're all open a fresh branch and be ver"
+ ],
+ [
+  44,
+  3329,
+  "y provocative with respect to getting the model to go in and look at for each of their respective contemplations,"
+ ],
+ [
+  44,
+  3336,
+  "all of those respective files, then recapitulate some certain aspect of that which I know to be true from that respective file to then kind "
+ ],
+ [
+  44,
+  3343,
+  "of prove that it is contextualized on that. Then I will say, you know, if I had already created a respective prototype or study, I said, you"
+ ],
+ [
+  44,
+  3350,
+  " know, we had tried it in this way and we had tried it through this way, then further requiring it to go and and gather that respective cont"
+ ],
+ [
+  44,
+  3357,
+  "ext to then build up this kind of, like, you know, warmed up respective"
+ ],
+ [
+  44,
+  3361,
+  "chat, where then I will then go in and give the kind of, instructions for the differentiability on that context to then go and achieve kind "
+ ],
+ [
+  44,
+  3373,
+  "of that that next iteration from which I will actually integrate to the code base or, you know, steer towards integrating the code base. So "
+ ],
+ [
+  44,
+  3386,
+  "it looks like we're coming up on time here. Is there any last questions? Alright. And I'll"
+ ],
+ [
+  44,
+  3394,
+  "just to show one more tool that I used to make this a bit more of a iterative process. I use unget, which is a tool that allows me to easily"
+ ],
+ [
+  44,
+  3403,
+  " visualize different branches. The the main thing which is useful in this respective branch is when I actually want to have, you know, highe"
+ ],
+ [
+  44,
+  3413,
+  "r order semantic specificity with respect to individual branches, this will give me a map of all of the all of the iterations on those, and "
+ ],
+ [
+  44,
+  3422,
+  "you can easily come in here and actually copy the branch name and then give that to the model. The model will then construct your respective"
+ ],
+ [
+  44,
+  3432,
+  " git diff using that respective hash, and that gives you this different durability between those respective contemplations and prototypes,"
+ ],
+ [
+  44,
+  3441,
+  "which, you know, adds just another layer of interaction that is really easy to work with. You know, I'm contemplating that. You know, I'm I'"
+ ],
+ [
+  44,
+  3456,
+  "m I'm figuring out how to make this a performative, instructive, and collaborative"
+ ],
+ [
+  44,
+  3464,
+  "process to teach people to get to their to help people to get to their goals faster by building quicker through this practice. Alright. Well"
+ ],
+ [
+  44,
+  3490,
+  ", thanks, everybody."
+ ],
+ [
   45,
   2,
   "Alright, everybody. Welcome to the Edge City Patagonia orientation. So wonderful to see you all. Give yourselves a round of applause for bei"
