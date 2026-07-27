@@ -1066,13 +1066,14 @@
     "id": "1Ng954q77klIBXWlMW14M93rhPEDxl8e9",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Ng954q77klIBXWlMW14M93rhPEDxl8e9.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1Ng954q77klIBXWlMW14M93rhPEDxl8e9",
+  "duration": "01:00:33",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1Ng954q77klIBXWlMW14M93rhPEDxl8e9.jpg",
   "speakers": []
  },
