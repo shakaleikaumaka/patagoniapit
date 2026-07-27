@@ -1,5 +1,455 @@
 [
  [
+  0,
+  2,
+  "Happy lunchtime, everyone. So I'm very happy because I have a little podium. And as a short person in the world, this is like a a great priv"
+ ],
+ [
+  0,
+  13,
+  "ilege to to have such a provision. My name is Lauren Rizavi, and you are a citizen protocols residency gathering. Have a week, which basical"
+ ],
+ [
+  0,
+  23,
+  "ly means after researching"
+ ],
+ [
+  0,
+  25,
+  "and imagining, different futures and different projects over the past few weeks. This week, we are getting into building various things and "
+ ],
+ [
+  0,
+  34,
+  "kind of bringing those ideas to life in near term ways. And the thing that I would like to talk to you about is the concept of diplomacy for"
+ ],
+ [
+  0,
+  43,
+  " network societies, which we'll get a little bit more into. But before"
+ ],
+ [
+  0,
+  47,
+  "we do that, I wanna tell you just a little bit about who I am, why you might be interested in what I have to say on this particular topic. S"
+ ],
+ [
+  0,
+  56,
+  "o ten years ago, I was the first reporter in The UK to ever write about digital nomads back when not a lot of people were doing this. So I w"
+ ],
+ [
+  0,
+  65,
+  "as a reporter for The Guardian at the time, and I was basically sent from London to Bali to investigate this strange new phenomenon, this st"
+ ],
+ [
+  0,
+  74,
+  "range new trend"
+ ],
+ [
+  0,
+  75,
+  "of people taking their laptops halfway across the world to work the whole time. My, my editors in London didn't think that this was a real t"
+ ],
+ [
+  0,
+  84,
+  "hing, you know, that, like, people would want to do this. I think ten years later, now that this is a much more, normal kind of lifestyle, a"
+ ],
+ [
+  0,
+  93,
+  "nd I'm sure that all of you kind of coming here to edge have a semi nomadic, existence."
+ ],
+ [
+  0,
+  98,
+  "It's really interesting to think about how fast that space has, has moved. I then wrote a book called Global Natives with the QR code on the"
+ ],
+ [
+  0,
+  107,
+  " screen. You can access it for free one chapter a week on my substack. And this book was really an articulation of what was happening in the"
+ ],
+ [
+  0,
+  116,
+  " early digital nomad movement. So, you know, what were the values and kind of beliefs and ideas driving"
+ ],
+ [
+  0,
+  123,
+  "this movement of people that were thinking about life across borders who were trying to kind of hack the systems that they came across? And "
+ ],
+ [
+  0,
+  133,
+  "that book led me to Plumia, which is the nonprofit think tank that I run. We work on the future of migration and citizenship. So we look at "
+ ],
+ [
+  0,
+  142,
+  "different ways that we can improve global mobility systems, introduce new types of visas that make it easier for people to move around the w"
+ ],
+ [
+  0,
+  152,
+  "orld."
+ ],
+ [
+  0,
+  152,
+  "My personal interest, my personal passion in this space is to try and reduce passport inequality in the world because I am half British and "
+ ],
+ [
+  0,
+  160,
+  "half Iranian and was raised in a house where my dad liked to tap me on the head with my British passport and say, do you know how lucky you "
+ ],
+ [
+  0,
+  168,
+  "are to have this thing? And so it's super close to my heart to be able to try and contribute, in this kind of area of trying to make borders"
+ ],
+ [
+  0,
+  176,
+  " in the world more fluid,"
+ ],
+ [
+  0,
+  177,
+  "and make it easier for people to move around and have freedoms in terms of where they can live, love, work, study, travel. And I've been run"
+ ],
+ [
+  0,
+  187,
+  "ning Plumia now for four years, and we've done a lot of different things, a lot of different experiments and learnings, over those four year"
+ ],
+ [
+  0,
+  196,
+  "s. And one of them was two years ago founding a summit in collaboration"
+ ],
+ [
+  0,
+  201,
+  "with the Moroccan government. So the Plumia Connect Summit, which we've run, twice now, in in Essouira. And, basically, we convened policyma"
+ ],
+ [
+  0,
+  211,
+  "kers, researchers, builders, people from across the kind of digital nomad and network society ecosystem to come together and kind of imagine"
+ ],
+ [
+  0,
+  220,
+  " and cocreate some of the policies and kind of frameworks"
+ ],
+ [
+  0,
+  224,
+  "that could push things forward and unlock opportunities for global people moving around the world, but also local communities and the govern"
+ ],
+ [
+  0,
+  234,
+  "ments trying to, to make sure that everything is kinda working and looked after often with a very limited understanding of what digital noma"
+ ],
+ [
+  0,
+  243,
+  "ds and network societies are actually doing. And from this summit came,"
+ ],
+ [
+  0,
+  248,
+  "a global standard for digital nomad visas. So along with a former diplomat, I authored this report, which is basically like a framework for "
+ ],
+ [
+  0,
+  257,
+  "migration around remote work. So trying to articulate how digital nomads, people who are traveling very often, kind of look at optionality i"
+ ],
+ [
+  0,
+  265,
+  "n the world and look at different countries and how they want to kind of move around with visa systems and such."
+ ],
+ [
+  0,
+  272,
+  "And this project, attracted the attention of the migration arm of the United Nations. And earlier this year, I went and I presented, this po"
+ ],
+ [
+  0,
+  281,
+  "licy paper there at the UN. I think my claim to fame in the edge community, this is my first edge city, is in fact that I'm the only person "
+ ],
+ [
+  0,
+  291,
+  "to have spoken at the United Nations about edge city, what we're all doing in a space like this."
+ ],
+ [
+  0,
+  297,
+  "Thank you. But, basically, from this project, from this policy project, I have had interactions with more than 100 governments talking about"
+ ],
+ [
+  0,
+  306,
+  " frontier technologies, digital nomads with Plumia and me kind of acting as this bridge between what is happening, like, at the frontier, ea"
+ ],
+ [
+  0,
+  316,
+  "rly adopters, at the cutting edge, and these kind of conventional institutions and governments,"
+ ],
+ [
+  0,
+  322,
+  "that are trying to kind of do their best, using quite an an old system, which there are so many people who are championing, the ideas of tec"
+ ],
+ [
+  0,
+  331,
+  "hnology and innovation within governments, but are often being quite held back by the systems that they're a part of. I've done a lot of lea"
+ ],
+ [
+  0,
+  339,
+  "rning in terms of how governments think about things like this, what we're kind of doing in a space like this, and the kind of opportunities"
+ ],
+ [
+  0,
+  348,
+  " that we might be able to unlock if we are able to kind of give a collective voice to some of the communities, some of the groups, some of t"
+ ],
+ [
+  0,
+  356,
+  "he people"
+ ],
+ [
+  0,
+  357,
+  "who are part of this kind of movement that Edge City and Plumia are all a part of. So over the past, over the past few weeks, me and colleag"
+ ],
+ [
+  0,
+  367,
+  "ues and collaborators here have been running the citizen citizenship protocols residency. And this week during lab week, we are wanting to t"
+ ],
+ [
+  0,
+  376,
+  "hink about how, network societies could have a coalition,"
+ ],
+ [
+  0,
+  380,
+  "more of a collective voice so that we can actually be championing the right policies rather than just being on the receiving end of migratio"
+ ],
+ [
+  0,
+  389,
+  "n policies as, unfortunately, many of our our members are at the moment. And so what I'd like to share with you is a proposal. There's a rea"
+ ],
+ [
+  0,
+  398,
+  "lly big opportunity for new visas and cross border mobility corridors. We can see that from the DevConnect visa that has brought many people"
+ ],
+ [
+  0,
+  406,
+  " to Edge, and we'll bring them to Buenos Aires next week."
+ ],
+ [
+  0,
+  410,
+  "And this is, like, an example just of one place and one event, one community being able to speak to a government and get something made that"
+ ],
+ [
+  0,
+  419,
+  " benefits the community and begins to help us overcome this passport, inequality that we see in the world and makes borders more fluid for p"
+ ],
+ [
+  0,
+  428,
+  "eople to be able to go and connect with their communities offline. This"
+ ],
+ [
+  0,
+  433,
+  "can be unlocked at scale across many countries, whether a community is a thousand people or 10,000 people. This kind of thing is possible an"
+ ],
+ [
+  0,
+  441,
+  "d I think desirable for our communities to be able to kind of leverage our collective voice, towards outcomes like this. Based on my experie"
+ ],
+ [
+  0,
+  450,
+  "nce speaking with governments and institutions, I know that more information is what unlocks more opportunities with those governments and i"
+ ],
+ [
+  0,
+  458,
+  "nstitutions."
+ ],
+ [
+  0,
+  459,
+  "So something that has held back the digital nomad movement so far is a lack of reliable kind of information and data, for us to be able to a"
+ ],
+ [
+  0,
+  468,
+  "ctually articulate who, like, who we are, like, what we care about, how we kind of, like, interact and can be understood in the world. And s"
+ ],
+ [
+  0,
+  477,
+  "o the proposal for this week is to collaborate, to understand, and articulate the value of our ecosystem as a whole. So all of the network s"
+ ],
+ [
+  0,
+  486,
+  "ocieties,"
+ ],
+ [
+  0,
+  487,
+  "all of the communities that are here at Edge will be there at DevConnect next week and are, you know, surrounding kind of this this movement"
+ ],
+ [
+  0,
+  497,
+  " and this scene. Let's see what we can do if we kind of come together and we actually have a collective voice to be able to speak to these m"
+ ],
+ [
+  0,
+  506,
+  "ore conventional governments and institutions. And at the CPR, the CPR proposal is the creation of a network society survey,"
+ ],
+ [
+  0,
+  515,
+  "which will be an open collaboration between Plumia Edge and any communities that want to get involved with it. And we wanna really, like, le"
+ ],
+ [
+  0,
+  523,
+  "verage the knowledge and the talents that are here at Edge City. You know, we have people who are extremely expert in privacy preserving tec"
+ ],
+ [
+  0,
+  531,
+  "hnologies, in different ways that we could approach something like a survey, giving kind of governments the information that will, like, com"
+ ],
+ [
+  0,
+  539,
+  "pel them to do things that benefit our community whilst also looking after,"
+ ],
+ [
+  0,
+  543,
+  "the kind of interests and privacy of those communities to make sure that we are able to create progress without, having trade offs that don'"
+ ],
+ [
+  0,
+  552,
+  "t make sense in order to do so. And so this week, a bunch of us are gonna be working on this during the CPR lunchtime sessions. Today is the"
+ ],
+ [
+  0,
+  561,
+  " first one. And we are gonna be running one tomorrow, which is, kind of community consultations."
+ ],
+ [
+  0,
+  567,
+  "So we would like anyone who is part of a community, whether they are a leader or just kind of like a representative to come along and be a v"
+ ],
+ [
+  0,
+  575,
+  "oice for that community and helping us think through, what this network network society survey, could be. On Wednesday, we're gonna have an "
+ ],
+ [
+  0,
+  583,
+  "open working session where we actually start to try and design this. Like, what is the information that we could collect? What are the techn"
+ ],
+ [
+  0,
+  591,
+  "ologies that we could use? What existing infrastructure is there to bring a project like this to life?"
+ ],
+ [
+  0,
+  597,
+  "And how how do we kind of make it happen? And then on Thursday, we're gonna have a CPR summit. So there's gonna be a bit of a show and tell."
+ ],
+ [
+  0,
+  605,
+  " We've had some people working on some really amazing experimental fiction, in the previous weeks. We have people within the residency also "
+ ],
+ [
+  0,
+  613,
+  "building things or part of teams that are building things, so we really want to, give some time to understanding all of that. And then in te"
+ ],
+ [
+  0,
+  621,
+  "rms of the network society survey, we will also be, talking about kind of next steps. So however far we get this week, how we can take that "
+ ],
+ [
+  0,
+  629,
+  "forward, into future edge cities,"
+ ],
+ [
+  0,
+  631,
+  "and onto the Internet in the meantime. So that is the kind of proposal. Thank you very, very much for listening. If you haven't had an empan"
+ ],
+ [
+  0,
+  639,
+  "ada yet, please do. If you have had an empanada, maybe have another. And, it would be really great to spend the rest of this session kind of"
+ ],
+ [
+  0,
+  647,
+  " chatting. We're a reasonably small group, so I think it would be great to to just kind of, like, chat through, some of, like, your initial "
+ ],
+ [
+  0,
+  655,
+  "reactions to this as a proposal."
+ ],
+ [
+  0,
+  657,
+  "And I'm obviously happy to, answer any questions, if anyone is interested in anything more from me. Thank you very much for listening. Sam, "
+ ],
+ [
+  0,
+  680,
+  "did you wanna add anything? Yeah. I think so."
+ ],
+ [
   16,
   0,
   "So because I'm traveling, I did not prepare anything, you know, anything. So I'm just gonna speak of the cuff, but maybe you you can remind "

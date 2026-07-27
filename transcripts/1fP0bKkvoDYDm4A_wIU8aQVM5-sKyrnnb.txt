@@ -1,0 +1,61 @@
+# Envisioning a Network Society Coalition — CPR Lab Week
+
+Date: 
+Source video: Envisioning a Network Society Coalition — CPR Lab Week
+Drive: https://drive.google.com/file/d/1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb/view
+Duration: 00:11:48
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Happy lunchtime, everyone. So I'm very happy because I have a little podium. And as a short person in the world, this is like a a great privilege to to have such a provision. My name is Lauren Rizavi, and you are a citizen protocols residency gathering. Have a week, which basically means after researching
+
+[00:25] and imagining, different futures and different projects over the past few weeks. This week, we are getting into building various things and kind of bringing those ideas to life in near term ways. And the thing that I would like to talk to you about is the concept of diplomacy for network societies, which we'll get a little bit more into. But before
+
+[00:47] we do that, I wanna tell you just a little bit about who I am, why you might be interested in what I have to say on this particular topic. So ten years ago, I was the first reporter in The UK to ever write about digital nomads back when not a lot of people were doing this. So I was a reporter for The Guardian at the time, and I was basically sent from London to Bali to investigate this strange new phenomenon, this strange new trend
+
+[01:15] of people taking their laptops halfway across the world to work the whole time. My, my editors in London didn't think that this was a real thing, you know, that, like, people would want to do this. I think ten years later, now that this is a much more, normal kind of lifestyle, and I'm sure that all of you kind of coming here to edge have a semi nomadic, existence.
+
+[01:38] It's really interesting to think about how fast that space has, has moved. I then wrote a book called Global Natives with the QR code on the screen. You can access it for free one chapter a week on my substack. And this book was really an articulation of what was happening in the early digital nomad movement. So, you know, what were the values and kind of beliefs and ideas driving
+
+[02:03] this movement of people that were thinking about life across borders who were trying to kind of hack the systems that they came across? And that book led me to Plumia, which is the nonprofit think tank that I run. We work on the future of migration and citizenship. So we look at different ways that we can improve global mobility systems, introduce new types of visas that make it easier for people to move around the world.
+
+[02:32] My personal interest, my personal passion in this space is to try and reduce passport inequality in the world because I am half British and half Iranian and was raised in a house where my dad liked to tap me on the head with my British passport and say, do you know how lucky you are to have this thing? And so it's super close to my heart to be able to try and contribute, in this kind of area of trying to make borders in the world more fluid,
+
+[02:57] and make it easier for people to move around and have freedoms in terms of where they can live, love, work, study, travel. And I've been running Plumia now for four years, and we've done a lot of different things, a lot of different experiments and learnings, over those four years. And one of them was two years ago founding a summit in collaboration
+
+[03:21] with the Moroccan government. So the Plumia Connect Summit, which we've run, twice now, in in Essouira. And, basically, we convened policymakers, researchers, builders, people from across the kind of digital nomad and network society ecosystem to come together and kind of imagine and cocreate some of the policies and kind of frameworks
+
+[03:44] that could push things forward and unlock opportunities for global people moving around the world, but also local communities and the governments trying to, to make sure that everything is kinda working and looked after often with a very limited understanding of what digital nomads and network societies are actually doing. And from this summit came,
+
+[04:08] a global standard for digital nomad visas. So along with a former diplomat, I authored this report, which is basically like a framework for migration around remote work. So trying to articulate how digital nomads, people who are traveling very often, kind of look at optionality in the world and look at different countries and how they want to kind of move around with visa systems and such.
+
+[04:32] And this project, attracted the attention of the migration arm of the United Nations. And earlier this year, I went and I presented, this policy paper there at the UN. I think my claim to fame in the edge community, this is my first edge city, is in fact that I'm the only person to have spoken at the United Nations about edge city, what we're all doing in a space like this.
+
+[04:57] Thank you. But, basically, from this project, from this policy project, I have had interactions with more than 100 governments talking about frontier technologies, digital nomads with Plumia and me kind of acting as this bridge between what is happening, like, at the frontier, early adopters, at the cutting edge, and these kind of conventional institutions and governments,
+
+[05:22] that are trying to kind of do their best, using quite an an old system, which there are so many people who are championing, the ideas of technology and innovation within governments, but are often being quite held back by the systems that they're a part of. I've done a lot of learning in terms of how governments think about things like this, what we're kind of doing in a space like this, and the kind of opportunities that we might be able to unlock if we are able to kind of give a collective voice to some of the communities, some of the groups, some of the people
+
+[05:57] who are part of this kind of movement that Edge City and Plumia are all a part of. So over the past, over the past few weeks, me and colleagues and collaborators here have been running the citizen citizenship protocols residency. And this week during lab week, we are wanting to think about how, network societies could have a coalition,
+
+[06:20] more of a collective voice so that we can actually be championing the right policies rather than just being on the receiving end of migration policies as, unfortunately, many of our our members are at the moment. And so what I'd like to share with you is a proposal. There's a really big opportunity for new visas and cross border mobility corridors. We can see that from the DevConnect visa that has brought many people to Edge, and we'll bring them to Buenos Aires next week.
+
+[06:50] And this is, like, an example just of one place and one event, one community being able to speak to a government and get something made that benefits the community and begins to help us overcome this passport, inequality that we see in the world and makes borders more fluid for people to be able to go and connect with their communities offline. This
+
+[07:13] can be unlocked at scale across many countries, whether a community is a thousand people or 10,000 people. This kind of thing is possible and I think desirable for our communities to be able to kind of leverage our collective voice, towards outcomes like this. Based on my experience speaking with governments and institutions, I know that more information is what unlocks more opportunities with those governments and institutions.
+
+[07:39] So something that has held back the digital nomad movement so far is a lack of reliable kind of information and data, for us to be able to actually articulate who, like, who we are, like, what we care about, how we kind of, like, interact and can be understood in the world. And so the proposal for this week is to collaborate, to understand, and articulate the value of our ecosystem as a whole. So all of the network societies,
+
+[08:07] all of the communities that are here at Edge will be there at DevConnect next week and are, you know, surrounding kind of this this movement and this scene. Let's see what we can do if we kind of come together and we actually have a collective voice to be able to speak to these more conventional governments and institutions. And at the CPR, the CPR proposal is the creation of a network society survey,
+
+[08:35] which will be an open collaboration between Plumia Edge and any communities that want to get involved with it. And we wanna really, like, leverage the knowledge and the talents that are here at Edge City. You know, we have people who are extremely expert in privacy preserving technologies, in different ways that we could approach something like a survey, giving kind of governments the information that will, like, compel them to do things that benefit our community whilst also looking after,
+
+[09:03] the kind of interests and privacy of those communities to make sure that we are able to create progress without, having trade offs that don't make sense in order to do so. And so this week, a bunch of us are gonna be working on this during the CPR lunchtime sessions. Today is the first one. And we are gonna be running one tomorrow, which is, kind of community consultations.
+
+[09:27] So we would like anyone who is part of a community, whether they are a leader or just kind of like a representative to come along and be a voice for that community and helping us think through, what this network network society survey, could be. On Wednesday, we're gonna have an open working session where we actually start to try and design this. Like, what is the information that we could collect? What are the technologies that we could use? What existing infrastructure is there to bring a project like this to life?
+
+[09:57] And how how do we kind of make it happen? And then on Thursday, we're gonna have a CPR summit. So there's gonna be a bit of a show and tell. We've had some people working on some really amazing experimental fiction, in the previous weeks. We have people within the residency also building things or part of teams that are building things, so we really want to, give some time to understanding all of that. And then in terms of the network society survey, we will also be, talking about kind of next steps. So however far we get this week, how we can take that forward, into future edge cities,
+
+[10:31] and onto the Internet in the meantime. So that is the kind of proposal. Thank you very, very much for listening. If you haven't had an empanada yet, please do. If you have had an empanada, maybe have another. And, it would be really great to spend the rest of this session kind of chatting. We're a reasonably small group, so I think it would be great to to just kind of, like, chat through, some of, like, your initial reactions to this as a proposal.
+
+[10:57] And I'm obviously happy to, answer any questions, if anyone is interested in anything more from me. Thank you very much for listening. Sam, did you wanna add anything? Yeah. I think so.
