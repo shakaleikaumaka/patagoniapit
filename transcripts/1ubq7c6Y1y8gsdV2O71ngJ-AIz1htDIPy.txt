@@ -1,0 +1,315 @@
+# Lisk SEMIFINAL Pitch Day - Emerging markets — building on Ethereum
+
+Date: 
+Source video: Lisk SEMIFINAL Pitch Day - Emerging markets — building on Ethereum
+Drive: https://drive.google.com/file/d/1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy/view
+Duration: 01:11:52
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] We got Ike with Jamit. Bring it in. Just just a quick note to all the startups. I'm gonna be standing over there with the timer. I'll give you a I'll give you a one minute heads up when you when you got one minute left, and then you can take it from there. Alright, everyone. I go first. Good morning, everyone. Please, clap once if you if you're awake here.
+
+[00:24] Twice if you're happy to see. Right? And three times for me if possible. My name is Ike, founder and CEO of JAMIT. We were building the world's first decentralized storytelling platform. A little bit about me. Half of my life, I've been building in media tech. I built Africa's first owned music service, which allowed global artists like, Bonoboy and Whiskey to be able to use as a platform
+
+[00:51] to get out there. I got to 8,000,000 users with that, and, Silicon Valley found me. And I went on to build the company not build the company, but joined a company called Roku, moved from there to News Corp, Best Buy, and I have mentors from Paramount, Pinterest, IBM, Mountain, and so so forth. I've been featured on all this. And so why I'm saying this is because that's what's made me view this because I saw a problem in the media industry.
+
+[01:16] $350 is what it costs to be able to create a podcast or content. And the thing is that outside The US and UK, that's only who can afford that. Someone in Africa can't do that with their salary or someone in Nepal or even India. There's low monetization margins because it considers us as low buying power countries. And then there's a lack of IP rights where people's stories are taken from them, and then you see it on Hollywood, and no one knows how to get it because it can't sue anybody.
+
+[01:46] So how do we solve for that with Jamit? I built Jamit to be able to give you a 100 ownership of your content. You're able to monetize it from day one globally, and also is the easiest and cheapest way to be able to create content. And at the same time, we give you SocialFi and GameFi infrastructure for creators to be able to have fun, but also retain their own fans on the same platform. How do we do that? With our virtual studio. Our virtual studio allows you to record from anywhere in the world without having to go into a physical studio. We have a magic producer AI that allows you to be able to edit your content to be able to do your content in the most studio highest quality possible.
+
+[02:23] We have social rewards and collectibles again as the creators use this to be able to reward their fans for engaging with their content. And so we launched our beta which was been on the web app, but so far, the most requested feature has been our mobile app. And this is going to be coming out this week. This allows every single person to use their mobile phone to create content and to be able to listen to it at the same time, engage with their found with their creators and have fun with it. Guys,
+
+[02:50] the market is huge. It's $31,000,000,000 in the market right now. It's going to be about $100,100,000,000,000 plus in the next five years, 500,000,000 listeners every single day, and 4,000,000 people who are going to be telling their stories. We believe that we can do more than that with Jamit. Right now, we have 170 people thousand people listening to our podcast, and then 240 of them are being hosted on our platform. We have close partnerships with Google. We have partnerships with Next Chapter podcast in Boston. We've done another with Meet Cute and Emerging Learning.
+
+[03:22] And our business model is simple, 5% on all transactions, $19 on creator plans, and 30% on our advertising network. We hope that with this, we've convinced you to be able to join us to onboard the next generation of storytellers. Our priest our priest is round opens right now. If you're interested in investing and joining us, please catch me up. Thank you. All
+
+[03:55] right. Next up, we've got Dob Protocol. Simon, let's go. Hello. Hello. Okay. Okay. Hi, everyone. My name is Simon Espinosa. I'm cofounder of DOP Protocol, and welcome to DOP, where we turn verified data center performance into on into
+
+[04:20] on chain yield. LatAm small and medium enterprises data center operators are struggling to access funding for growth. This is not because their projects are invaluable. It's because they can't prove performance in a way that investors trust. At the same time, investors are struggling to find opportunities in the verge of a massive crisis.
+
+[04:45] Default rates are at all time high, especially driven by offices and multifamily investments. But data centers are the new asset class that is ready to lead, especially driven by the merge of AI, cloud computing. And in Chile, we have a special data center plan and a strong infrastructure
+
+[05:10] a strong energy infrastructure. That's why we are building DOB where data centers qualify for credits based on performance, not paperwork. At DOB, investors get access to the most trusted data center's assets by validating performance data, verifying revenue,
+
+[05:33] and derisking on chain investments. Here's how it works. Operators submit a loan request. That validates and creates an investment pool. The future revenue becomes collateral, so operators gets funded. Investors earn yield while data centers gets built. We know this is working. We have already validated 5,000,000
+
+[05:59] of data center infrastructure. We already launched our proof of concept, and we have been invested by Stellar and Draper University. We go for Santiago and global network states targeting 15,000,000 to pass through our protocol, which is gonna bring us around 1,000,000 in fees. Our go to market strategy is very simple. We are we charge a one time fee for validation and tokenization process and 1.5%
+
+[06:30] on all investments. Why we win? Because we trust verified data centers, not credit score. We tokenize future revenue, not ownership, which is easy to scale and easy to comply with. And we have a team built for this, more than ten years of experience building LatAm infrastructure,
+
+[06:53] blockchain risk blockchain research, and project execution. And here at Edcity Patagonia, LIDS founder resiliency were launching our pre seed round seeking 1,500,000 to expand data center tokenization across Latin America. DOP is the gateway to fundable, verifiable data centers powered by Lisk,
+
+[07:17] and DOP will be everywhere. Thank you very much. Well done. Do the judges need a bit more time between rounds to score? Okay. You you need a bit bit more time? Are you good? Just like that. Cool.
+
+[07:42] Okay. Next up, we have Piggy Wallet. It's got Matute. Thank you.
+
+[08:07] Well, hello, everybody. I am Matute. I am cofounder and CPO of PayU Wallet, where enabling secure and fund money management for families in emerging economies. Did you know that if you manage to save $1,000 in Argentine pesos ten years ago, today, you will have less than $10. Why is this happening? Basically, because of two different problems. Banks failed to protect us from inflation,
+
+[08:32] and the schools are lacking a financial educational program. What is the solution that we're providing with PayWallet? We are helping the parents teach their kids the value of money and to secure their savings. How we are doing this? Very easy. We have a gamify experience for the kids so they can learn by playing. Parents can set up tasks with rewards. They can so they can learn by doing,
+
+[08:56] and those rewards go to the saving goals that the parents can set up. For example, buy a new PlayStation and you tidy your bed, you earn rewards, that goes to the saving goal. Last but not least, parents can make their money grow through yield inside of the app and in the future with tokenized stocks. Why this is the moment to build this? Internet penetration and smartphone is at all time high in Latin America, and this will only grow in the future.
+
+[09:23] 90% of the cryptocurrencies used in LatAm are stablecoins. The stablecoins are being boosted by regulations like Genius Act in The US. And since we are using a self custody plus account extraction, infrastructure, we don't need any licenses, and we can have a global reach from day one. This is a proven model, but just in an untapped market. GreenLake in The US is already a unicorn.
+
+[09:46] GoHelry in UK was purchased by the biggest bank in England, but the emerging markets are lacking these kind of solutions. That's why we're targeting a market of more than 1,500,000,000 kits in emerging economies. Our business model is very, very easy. We're looking for a premium model with a four month $4 per month subscription for the premium model, some fees for the conversion between the local currencies to digital dollars, the yield generated inside of the app, and for the payments. And, also, we're looking to do b to b partnerships with school, with companies, and broad collaborations inside of the app.
+
+[10:22] We already have some market validation. We have more than 500 people in our waitlist, a 150 a 150 beta testers using our app right now. We won a couple of hackathons, and we've been accelerated by Tripp University in The US and start global in Switzerland. We are a team of three Argentinian builders. Sofia is our CEO, has a bachelor degree in business and technology.
+
+[10:45] Myself, Matthias, I have more than five years of experience designing on chain experiences. And Nacho, our CTO, has more than eight years of experience dealing with solidity. How are we planning to have our first 100 k users using Mini apps as a distribution plan? We are the first with the adventures of Lemon app reaching more than 5,000,000 users next week at DevConnect.
+
+[11:09] Also, we're launching our Mini app inside of Pace, being part of Pace startup batches at DevConnect. And in total, in the future, also launching a WordApp and MiniPay, we will have a reach of 40,000,000 users. So thank you very much. If you wanna test our app, you can scan the QR code and and try our beta. Thank you very much. Well done, Majdi.
+
+[11:38] Okay. And now, next up, we've got credentials. Kofi. Also, just a note to the the guys pitching, this clock goes red when you have one minute left. So just keep an eye on that. Okay. Hello, everybody. My name is Kofi. I am the cofounder and COO of Credentials. Credentials is verification infrastructure for financial institutions.
+
+[12:11] Billions of people today lack access to financial, services because data is inaccessible and is very easy to fake. Perfect example of how easy it is to fake is a minister of finance in Ghana once came to my dad for a loan of $500,000. He guaranteed one of his estates for this loan. My dad lent him the 500 k. He then went to another bank in Ghana, asked him for 500 k,
+
+[12:35] guaranteed the same property on it. And because traditional infrastructure and operations could not verify that this guy already had outstanding credit, he both burnt the bank and my dad. This is just one example to the trillions of dollars that are lost today due to financial crime. Over a billion people today have access to a phone, and, they make money online, but yet this data is not accessible by any traditional infrastructure that exists today. Open banking does exist mostly in the West, a bit in emerging markets, but, because APIs are not standardized
+
+[13:07] and manual verification still exists, a lot of money gets lost into the loopholes. So we built credentials to make financial data verifiable and accessible anywhere on the Internet, to unlock lending opportunities, KYC, digital nomad citizenship, and also automate cross border payments anywhere in the world. Next. Yeah. So we've got a few pilots running right now live, mostly in Africa,
+
+[13:32] some starting in Asia next year, and we are mostly powering on and off ramps and lenders. Coming here to Ed City, I've been able to connect with some of the biggest neobanks here and also have inquired interest to some on and off ramps, some that are in this room and also lenders as well. Go to market is very easy. We have seen a lot of traction within this nontraditional market, so we our plan is to build case studies within the neobanks and lenders that exist within an African and Latin American markets,
+
+[14:01] and then take these case studies over to traditional finance to allow for enterprise volume to also enter into our ecosystem. So the founders are myself. My background is in cybersecurity. I used to study NIST, data privacy. I also built a few small businesses where I was able to scale a lot of revenue in short amount of time. And then there's my cofounder, Elo, who, used to run DevRel at the Ethereum Foundation where he, was exposed to the underlying technology that we use to verify incomes, identity, and transactions with credentials.
+
+[14:32] Our access is pretty simple. We've raised a $100,000 so far this year. The plan is to target 500 k over the next couple of weeks to then scale our operations across Africa and Latin America, and do exactly what I said in our go to market. So, yeah, thank you. I'm Kofi. You can contact us here. Any questions you have, thank you for listening. Awesome stuff, Kofi.
+
+[15:01] Oopsie. Okay. Sooner. Andres. Hello, everyone. My name is Andres. And today, I'm going to introduce you to Suno. But first, raise your hand if you believe the climate change is real.
+
+[15:43] Alright? Now keep it up if you think that we are doing enough about it. Yeah. That's where Suno comes in. Emerging markets needs over $1.07, $1,700,000,000,000 every year to finance clean energy transition and to avoid a climate disaster. So yet less than 15%
+
+[16:07] of the global private capital reaches them. So there are thousands of mid scale solar projects that are commercially viable but unfunded. So Sunu is the way to unlock this capital through an on chain and composable protocol that bridges DeFi and real world energy generating assets. We tokenize mid solar scale project and distribute on chain reward. These rewards comes from the energy sales of these projects.
+
+[16:36] So all this solution is embedded into a web mobile app with where users can interact with the projects, can track, the energy generation and the rewards, on real time. And, also, we have a browser based dApp where users can interact directly with the smart contracts.
+
+[17:04] About, the market size, one typical mid scale solar project is around has a CapEx around $1,000,000. So just in Colombia, we have capacity for more than 3,500 solar mini farms. In the whole global cell, we have capacity for more than 152,000 solar mini farms.
+
+[17:28] Just 1% of market penetration means $1,400,000,000 in tokenized assets. So it's a very huge opportunity. About our traction, we have already deployed more than 40 projects, and we have more than 3,000 token holders. And we have already distributed more than $1,000,000
+
+[17:52] in yield to these token holders. And right now, we have more than $200,000,000 on a project pipeline ready to be tokenized. About our road map, this quarter, we want to deploy new contracts, new interfaces, a new mobile app, a new dApp. The next year, we want to open a seed round,
+
+[18:17] and we want to integrate with other other protocols. And we want to make a full transition to ADAU like a governance. We want to achieve $30,000,000 on tokenized assets. So about the founders, he's Nicolas Villegas, the CEO. He's also cofounder of two and other startups with over 20,000,000 in in annual recurring revenue. Myself, Andres Kaje, control systems engineer, specialized on blockchain and software development.
+
+[18:50] So thank you so much, guys. Awesome stuff, Andres. Jesse.
+
+[19:24] Africa Bowl. Let's go. I just wanna make sure this works for you. Yeah. So it's just just click on the right. Hi, everyone. Good morning. Good afternoon. My name is Sergio Jessie. I'm the CEO at AfricaBall.
+
+[19:59] For AfricaBall, we're trying to build a global programmable infrastructure for commodity trade and the global South. My dad was a coffee exporter, and he also deals with grain within Nigeria and also some part of East Africa where I actually discovered the majority of the problems that most commodity traders and buyers actually face. Like, from the farmer's standpoint, they we typically sell our coffee to the black market and they sell at half the price whereby if a coffee bag actually goes for, let's say, a thousand dollar, we typically sell it for $500
+
+[20:30] because at the end of the day, these middlemen have access to the market and we don't have access to the market. And from the buyer standpoint, they actually don't have access to direct traceable agricultural produce. So I actually look into this, found my cofounder who is also from a coffee family. At the of the day, we decided to actually build this infrastructure that leads the farmers directly to the premium buyers who are willing to pay this amount that we are actually demanding.
+
+[20:53] So we decided to build AfricaBall infrastructure that actually uses the blockchain technology to create a metadata that has access to the full traceability network of a particular commodity that whoever purchased from us could actually see the full flow of that commodity. Why is it now? There's a global demand of traceable food in the global South. There are policies that are actually supporting it and we are trying to be that
+
+[21:17] buddy that would actually enable this to actually move faster. This is a visual representation of what AfricaBoy is doing connecting all the key players within this ecosystem so that they can actually pass through our flow. We have a market size of $3,000,000,000,000, but I typically call it a market opportunity of $3,000,000,000,000 because the World Bank actually predict that Africa alone would actually start processing $3,000,000,000,000 of agriculture commodity trade, and we believe these things can actually be enabled through AfricaBall.
+
+[21:44] Our business model is actually very simple. We take 2.5% of every transaction volume that actually pass through our rails and now we've actually been in talks with the development bank of Rwanda to actually create an infrastructure for coffee trade within the Rwandan ecosystem. So far, we have 10,000 user in our Africa World platform. And at the end of the day, also, we processed 250,000. We have 2,000,000 in committed LOIs and MOUs that we believe we can actually tap into.
+
+[22:10] We are funded by the list, blockchain, and also we are also funded by the development bank of Rwanda and Google. And at the end of the day, we are trying to raise a pretty good round of a million dollar at a $10,000,000 violation to increase our team size and also increase our capacity for licenses. Thank you very much for listening to AfricaBall. We're trying to, like, revolutionize the whole concept of commodity trade in the global South so that it can be more formal and also it can be more faster. Thank you very much.
+
+[22:41] Thank you, Jesse. Oh oh, yeah. No. All good. All good. Danny with SportChain. I just wanna make sure this works properly.
+
+[23:04] Okay. Yeah. Perfect. Hello, everyone. How's it doing? Hello, Danny. Hello. Hello, everyone. My name is Danny. I am founder of SportChain, and I'm gonna ask you a little question. Who is willing to invest in a soft sport venue and get 20% of return of revenue for a year? So only one, two, three. Okay. Good. Good. We have more. So
+
+[23:28] it's it's a good opportunity, but sadly, you have to have a a lot of kind of money to invest in this kind of projects. You know? So that's why I built this project. Sportchain is a platform that will allow people invest and own and get profits from the sport venues. That's meaning that you can invest, $100, and then you can be part of a sport project and get revenues as owner of this project.
+
+[23:53] The platform is very simple. You go to a page the platform, and then you choose a project that you want are willing to invest. You you check all the information there. And, also, you can check you you put your wallet, and then you you invest on the project. My first project I am planning to do with my MVP is a a pilot venue that cost $200,000, and it will give you a 20% of return on investment for a three year
+
+[24:17] business cycle. And why now and why paddle? I think right now is a fever globally fever. And right now is the most fastest growing sport venue sport that is growing each day. And right now, for example, if you want to pay here, it's all booked. So you have to book one one week in advance. And, also, the popularity of Paddle is because it's very simple to play. It's very easy to learn. That is and is, for me and myself, is pretty pretty good. But the best of it is very profitable because it's high ticket, and there's a lot of demand, and it's a very good business to start with.
+
+[24:55] The business point of the business model of portion, sorry, is two ways. One is management fee that we booked and we operate the parallel venue, and we get profits on that. And, also, the performance fee that will allow you be aligned with our investors to have a good performance on through the year. So right now, I am building a community of startups and web three ecosystem with 200 people, and we have a soft commitment of 30% for the first project.
+
+[25:21] And this is before building this great community. I think I'm very well pleased to have the opportunity to build this kind of projects. The the blockchain benefits is is you can have a fractional ownership, automated distribution of of the profits, and trust, security, and transparency as we all know. Myself, I am Daniela Nao. I am tech leader. I have three times experience on on founding companies.
+
+[25:48] I am fine I have a lot of experience in fintechs and product experience. And, also, as you can see, I love sports. And, also, I have alliance with ATC, the top one book book system on Latin America. So my vision is to have premium sports venues all around Latin America and reduce the gap that we have with China and United States that is more than $30,000,000,000.
+
+[26:12] So let's grow together, and thank you very much. Nice, Danny. Awesome stuff. Ben. We got Ben with paid. Let's go, Ben. Yeah. No. It it's it's not working properly. I'm just gonna do this.
+
+[26:57] It it it it's, like, too big. It, like, uses some text. There you go. That should be fine. Oh, wait a minute. Yeah. So you just click sign it. Hi, everyone. How are you doing? So my name is Ben. I lead money and vibes at paid, and I'm going to talk to you about how we're banking the future of work.
+
+[27:24] So Gigwalk has exploded over five times since 2020. We're seeing a lot of companies globally hiring talent across different countries, especially from the emerging markets, and up to 43% of this talent is coming from Africa and Latin America. But then money has not caught up to the reality of work. To get paid across the world, you need a sandwich of apps. You need to you know, you need PayPal to get paid from The US. You need Stripe to get paid from the other place. And for gig worker in Nairobi, a gig worker in Lagos,
+
+[27:51] this is just too complicated. Beyond that, up to 15% of value of the payments that that this gig worker is receiving is lost in fees and in FX. It takes up to five days to receive the value of this payment. Considering the nature of work of these freelancers, these creatives, five days is just too long. Now what you're doing at paid is making that simple for them. Paid enables them to receive all their payments on one platform across the world. And how we do this is pretty simple. We provide them with multi currency accounts to be able to get paid from The US, Europe, and Britain, stablecoins across 10 plus chains,
+
+[28:24] tools to enable them to receive payments easily like invoices and payment links, as well as sending and spending across mobile money and bank in 35 plus countries. The whole concept here is work is already global, work is already borderless, why not make money the same? Beyond that, we also provide the businesses that are working with these gig workers with tools to automate gig payroll because unlike, you know, normal payroll, gig payroll is unstructured.
+
+[28:46] It's basically different. Right? So we make it simpler for them to pay this talent across the world. We're doing this in partnership with a couple of top players including Yellowcard across Africa, Bridge for, The US and Europe, Lisk which powers our blockchain infrastructure, and we just introduced, cash in and cash out, via MoneyGram because cash is king in emerging markets. Fixing this is a billion dollar opportunity clearly. We're talking about about 4,100,000,000,000
+
+[29:10] transacted annually in the gig economy and up to 52,000,000,000 in payouts in emerging markets alone. We could you know, capturing 8,600,000,000 of this could be a massive opportunity both for us and for the gig workers. How we make money is pretty simple. We charge a 1.5% transaction fee on every payment made on the platform, 1% FX fee. We're introducing yield on balances held within paid and monthly minimums for businesses missing our platform. To date, we've moved over 2,000,000
+
+[29:40] with a 43% month on month growth. For context, 60% of these volumes has been done this year alone. So we figured out this growth flywheel where we're able to onboard the gig worker through communities that we are working with, onboard the businesses paying these gig workers, and essentially create, you know, this ecosystem of payments. We broke even in September, so, you know, we're also profitable. To date, we are serving over 27,000
+
+[30:03] freelancers and some top businesses directly including others like Visa and Google indirectly through our partners. What makes us different is the fact that we've localized our experience to work for these gig workers, and basically aggregated channels across multiple, local payment methods. This is the team. We have extensive experience across banking, payments, and working with distributor teams around the world. And we essentially
+
+[30:26] are freelancers ourselves. We've worked as freelancers. We've worked with different teams around the world. We're raising a 350 k precede precede round with 75 k closed already and a 100 k in soft commitments as of this morning. And this is basically going into growing to our next $10,000,000 in volumes, building our AML infrastructure as well as growing, our compliance across the continent.
+
+[30:50] Social proof. So join us as we build the financial laws for the future of work. Thank you. That's Ben. Well done, Ben. That's amazing stuff. Let me just make sure.
+
+[31:15] Yeah. Let's go, Dario. Okay. Hello, everybody. My name is Ariel. I cofounder of Apertras.
+
+[31:42] When a company dispatch a product for the client and it is rejected for any issues in the documentation and come back, the company lost around the 5,010 thousand dollar, in this case. In the supply chain industry, in this year, $400,000,000,000 is losses. And it happened because they manage a lot of paper documentation.
+
+[32:06] On the other hand, the new regulation is putting risk the business continuity. The FITMA rule demand the full traceability of supplier and raw material. For the other hand, in the Europe, demand the full traceability and the origin, the raw material to demonstrate the the no deforestation. So Apertas is a platform designed to simplify
+
+[32:33] the management of key document in the supply chain industry with blockchain technology with web two interface and web three back end. So we organize the documentation and validate it on blockchain, generating the immutability of document, avoiding the food fraud are given to the client, the customer the customer trust, and the regulatory
+
+[32:58] compliance. So our numbers, we have two, 20, 24 k document validated on blockchain, 25 annual revenue, recurrent, $25,000. And we've seen, 10 paying clients with a rate of 100 or retention of them, and create an ecosystem
+
+[33:21] with more than six, 600 companies around the upper trust. So with the upper trust, the company reduced the time to spend the management of document, reduced the repetitive task, and reduced the documentary claims. Now we are we are taking the 5% of the market that represent $100,000,000.
+
+[33:47] It's possible for the team. Viviana Cortez, CEO, cofounder with eight years of experience on blockchain technology, and in my case, a food engineer with ten year of experience outdid in the company. Also, the the this problem a lot of time in the company, paper sheet documentation. Now we are looking we are ready to scale the company and looking a new partner,
+
+[34:11] a new investor to improve the commercial and legal structure. We are ready, sorry. We are we are building the the communication channel for the industry in Latin America and build the bridge for the digitalization and the blockchain technology in the industry. Thank you very much. Well done, Dario. Great job.
+
+[34:46] Fede. Fede with TX Sentinel. Let's go. Let's give me a sec to sort this out for you. Hold on. Hold on. Just wanna make sure sorry. Okay. Hello. I'm Fete, and I'm here to make you stop losing money on blockchain.
+
+[35:20] For that, we developed TX Sentinel, a security solution to secure blockchain transactions. The problem is huge. 4,000,000,000 stolen only this year, scams, hacks, but also mistakes. Current solutions now act on static rules, database of risk analysis, machine learning to predict the outcome. But we inter we want to introduce a new concept as a smart context, a solution to understand the intent of the transaction,
+
+[35:49] why the user want to do that transaction. We want to make the context important. How we do it? Well, simple. The transaction plus the intent is sent to our system. We analyze this in a network of Sentinel bots detecting any warning and also doing a simulation of the outcome. Then our AI agent compares the intent
+
+[36:12] and the warnings of the simulation. If there is any mismatch in that, we raise alarm and secure our phones. But sound good, but there is a real problem. The UX for that is a pain. Asking the user and knowing the intent is really hard. But there is an opportunity. AI agents. AI agents are the future of the front end. We are going to change how we interact
+
+[36:38] with the blockchain. And for that, this is our opportunity to not start trying to do the traditional security of secure their wallets and so on, but also to help this AI agent to secure the final users. Detection, we won a lot of hackathons. We partnership with Bitfinding. These these guys are great at doing security
+
+[37:03] in our core. We participate in some events. Arshela, founder school, network school was great. I'm have fifteen years of experience in IT. I built a med bot company. We, compete in highly compete highly competitive markets. We made 500 k in revenue. And this was really fun, but also an inspiration to make TX Sentinel.
+
+[37:29] The competition is really strong, but it's focused on the traditional security. So our advantage is rapid innovation, try to, get intent based security and go beyond security. Not only this, we want to secure all the transactions and get the context of that. So we can help really, really well there. We plan,
+
+[37:51] b to b in the future. First, securing the agents will be more like a per fee per transaction because now we have the new standard of x four zero two, so we can change that. And the market of security is huge. $12,200,000,000 or some, and we can tackle a 2% market share. So please,
+
+[38:14] help us to protect human and nation from losing money and follow me telegrams or Twitter. Thank you very much. Hold on, Philippe. TC with Aza.
+
+[38:53] Oopsie. Hey. Is is this the wrong one? No. No. It is the right one. Just need to Oh, Alright. Hey, guys. It's great to be here. So my name is TC. I'm the CEO and cofounder of Aza, and Aza is a water based stablecoin neobank.
+
+[39:19] So in 2023, Africa saw a stablecoin volume of a $117,000,000,000. And in about two years, that number has gone up 75% to around 205,000,000,000. So this number generally just showed, like, very high adoption in the African region. Right? And regardless of all that numbers, there's still key problems with payments in Africa. So with 54 countries and 42 currencies, payments along most of the African corridors is usually slow,
+
+[39:47] expensive, and there's low accessibility. So I traveled, like, a lot in Africa this year, and, basically, I couldn't spend my Nigerian naira in Ghana. Right? Although, like, the difference is just like a one hour flight, and it happens literally all across Africa. And that's why a lot of people actually pivot to using stablecoins. But that one also has its own challenges. Going from stablecoins to cash takes somewhere around thirty minutes to complete one single transaction.
+
+[40:13] And with high fraud rates in the in the African region, we piece of transaction, around 10% of all these transactions actually end up in disputes or actual fraud cases. So that's exactly why we built Aza, the fastest, easiest, and safest way to use stablecoins. So, basically, you can go from stablecoins to cash in less than one minute, and you don't have to wait thirty minutes. And it's built right into WhatsApp where
+
+[40:39] literally everyone lives their lives, like Africa. Around 8,020 Africans are currently using WhatsApp. And we can also do cross border payments. So with stablecoins on one end, you can do payments to Nigerian naira, Kenyan, Chileans, Ghana cities, South African Rands, and you can make all these payments literally instantly. And to ensure the security of our users, we do our payouts through secure and insured partners.
+
+[41:04] I and my team have been building across Africa for the last five years. So we've basically built compliance on an off ramp, stablecoin projects, and we've also basically built a lot of tokenization projects. And we break all these years of experience within across the region into building one single product. So since we launched, we've basically onboarded 9,000 users. We clocked 9,000 this this month.
+
+[41:26] And we've basically seen a 21% month on month growth rates to our user accounts. And we processed a total transaction volume of $6,000,000, and we've also launched in four countries, Nigeria, Ghana, Kenya, South Africa. And we've basically been able to do all this and find our fast viral organic growth by leveraging our community activations, leveraging our word-of-mouth, and also founder led marketing. And we've done all this with almost zero marketing spend.
+
+[41:53] So we have a lot of social proof. There's lot of good reviews on x and a lot of other social media platforms about Azure. Basically, we make money from transaction fees. So on and off ramps, we take 1% and then for swapping and bridging point 5%. Then we also make a small spread of our fee margins. And from our competitive analysis, literally, we win by basically building for non crypto users, reducing the time to onboard, basically, barrier to onboard, and supporting as many African currencies as we can.
+
+[42:24] So we've also for our road map, we're basically leveraging on building a scalable b to b solution and then also basically diversifying our reach across Africa. We're raising a 500,000 proceeds, and we're also going to use these funds to supercharge marketing, liquidity provision, develop the technology more, and also expand on our operations and compliance.
+
+[42:48] And with 10x in the community leverage, paid advertising, and channel partnerships, we're very poised that Africa as that's gonna become Africa's billion dollar stablecoin bank, seven half a million users. Thank you very much. And please scan my QR code, start using as a. Thank you. Awesome product.
+
+[43:15] Well done, TC. Next up, we have King with Lifeline. King here. There he is.
+
+[44:44] Hi, everybody. My name is King, and I'm from Lifeline. And we actually reduce the cost of health care drastically, generally zero, by actually automating third party insurance claims and yielding with stablecoins. So I'm actually gonna walk us through the problem statement. But first of all, why did I actually start this company? During my college days in Rwanda, I once went to a pharmacy, and they had the medication I needed.
+
+[45:09] But I'm sorry, King, we'd actually take your insurance here. Now the next pharmacy takes my insurance, but it actually have the medication I needed. And coming from Rwanda, I'm actually sharing this problem with at least five hundred thousand people who are actually struggling with health care conditions. And in Africa, ninety five percent of Africans cannot even afford any type of insurance. And as we can actually see here, this is actually a problem that has killed people and actually global havoc that is actually costing trillions.
+
+[45:35] So, basically, what is my problem statement here? Gaining access to life saving medication and clinical tests in emergencies on the continent is a life threatening challenge. Affordability is a barrier for many patients while trying to manage their health expenses. Ladies and gentlemen, you need to understand that accessing something and affording that same thing are two different things. Because as I access it, there's actually mean I can actually afford it. And lastly, millions of people in the continent are struggling to keep accurate record of their pharmaceutical and clinical data without relying on third party institutions like insurance companies, hospitals, and so on. So with that, what is my solution? I present to you Lifeline. This is an app we built that helps reduce the cost of health care to nearly zero by actually automating insurance claims and also profiting from stable coin yields.
+
+[46:21] Basically, we are producing your health care globally for less than 10% of the cost, and this is actually how it works. First of all, we help you find care with the custom GPS, not just random pharmacies or hospitals. And we also allow people use Stablecoins to actually earn interest, and they can use those same interest to actually afford health care globally as well as sell to his health care providers with stablecoins.
+
+[46:43] And we're also the first on the continent to allow people use their existing insurance from the comfort of their home to access health care worldwide. I mean, our company is actually paying for insurance every year, and we can't even use it. It doesn't actually make sense. Why spend money on health care when you have insurance? So this actually attraction so far. Over 2,000 products sold, 50 revenue in three months. We became number one on the App Store when we actually launched three months ago, and then we currently work with two insurance providers as well as other payment providers.
+
+[47:14] So our market is quite big. It's worth over 9,000,000,000,000 and giving us a sum of 8,000,000,000. And we actually plan on expanding to other continents primary to insurance partnerships as well as becoming many apps in existing decentralized solutions. So we actually make money primarily via commissions and at the same time, 5% use on each on on yields. I'm also planning on utilizing insurance as well as SaaS.
+
+[47:38] So this is my team. I'm a two times founder. We have Favour who has actually built decentralized applications and Sunny who has been programming before ChargeGPT even became a fin. So, we're trying to raise 500 k precedes to actually help us go from 50 k to 500 k revenue as well as a 100 k users and maintain sustainability. When the cost of health is impossible, we are your lifeline. Help us build help us bring health care providers on chain. Thank you.
+
+[48:10] Great job, King. And then next, we've got, Ramelax. Let's go Let's go, Alexis.
+
+[48:35] I'm just gonna quickly check here. Hello, everyone. I'm Alexis. I'm CEO and Co Founder of Ramelux. And I'm going to start with a question. Whoever dreamt of owning a share of a McDonald's franchise?
+
+[49:05] Okay. What we do at Ramelux is that we facilitate access to investments that require high capital, and we allow them to be used, invested from anywhere in the world. Right now, investing in Latin America is a pain in the ass. You have to go through weird regulations, open bank accounts, and clean yourself with
+
+[49:28] foreign countries that you don't need to interact with. That's why we built Ramelux, a two sided marketplace, where in one side, we allow franchises and small and medium enterprises raise the capital they need to finance their expansion. And in the other side, we allow investors to trade their investments on the secondary markets. We make it super easy. We allow you to invest as easy as buying anything online from anywhere in the world, removing borders.
+
+[49:56] During this year, we have onboarded two franchise brokers that have led us to train franchise deals who are interested in tokenizing and funding their expansion in this way, And we're in final talks to tokenize real estate in Paraguay. We have basically a pipeline of more than $1,000,000 to tokenize. We plan to launch our first tokenized opportunity this quarter.
+
+[50:20] Our revenue model is simple. We take commissions on the volume that goes through the platform. The franchise model by itself is huge. We have the total addressable market, it's $160,000,000,000 If you're able to get to only 1% of it, this is a $1,600,000,000 opportunity. The time to do this is now. In Argentina, regulations are moving fast and are allowing us to make
+
+[50:47] these types of investments possible. Also, this is a fun caveat that we just got unblocked. Recently, we got permission from our Argentinian broker to tokenize the stock market. So imagine this, we have one set of a platform where we allow you to access traditional investments like franchises and real estate. And in the other side, you can access the whole Argentinian market. You're going to be able to access all the stocks, not only the ones that have been traditionally tokenized through ADRs.
+
+[51:20] And this is not only locked to Argentina. This is completely expandable to Paraguay, for example, or other Latin American countries. Our go to market strategy is simple. We're going to leverage mini apps to get our first users, and we are going to leverage the power of referral marketing to keep expanding this our customer base. We're
+
+[51:42] going to launch our first tokenization opportunity this quarter, and we're going to keep expanding around the after this. We have a strong legal team. Well, I'm Alexis. I'm the CTO. I've been developing for blockchain for the past five years. And we have strong team in our legal team in Argentina and Paraguay. Francisco Perez has been managing social media for financial influencers for more than four years.
+
+[52:08] So the future of globalization and barrier free investment is now. So please can discuss your call and let's keep in touch so you can stay up to date with what's happening. Thank you. Great job, Alexis. Good stuff. Think Judy, I think you you is it just you left?
+
+[52:32] Oh oh, shoot, Marco. Sorry. I don't know. I think I lost some of these. Okay. Yeah. Yeah. I think they're
+
+[52:56] at the end. Where is this? Marco. Marco with Insurep. Sorry. Just give me a quick sec to sort this out for you.
+
+[53:31] Thanks. Right. Hi, everyone. I'm Marco. I'm founder and CEO of Insura, a blockchain based licensed insurance company. If you look at DeFi, the assets are trapped in a circular loop. You use crypto to exchange crypto, crypto to lend other type of crypto, and, you cover your crypto like position with insurance.
+
+[53:55] Despite the exponential growth of the market, the market of DeFi, it's much smaller than TradFi. In order for DeFi to go in the next step, we need it to connect to the real life. One of the sectors, in big need of change is insurance. So insurance companies are slow and inflexible when dealing with new com new products.
+
+[54:18] They have a high premiums barriers for new products to be launched. And finally, they require a track record of the performance, a chicken and egg problem. In Insuro, we connect DeFi to insurance. Insuro collects funds in the form of USDC from different liquidity providers in a pool that is covered by smart contracts. And this capital is then used to provide underwriting capacity to risk in the real world.
+
+[54:45] In order to play in the same playing field of traditional insurance company, we actually got a license as an insurance ourselves as well as a digital asset business. These two licenses allow us to act as an insurance company that is backed by crypto. Here, give you an example of a light product with more than 100,000 policies. Spot is a U. S. Company that provides cancellation for any reason for b to b companies.
+
+[55:11] You essentially buy like a ticket, you pay a little bit more, and you're entitled to cancel it or a refund. The user goes in the website, pays with a card, and doesn't even know there's a crypto company in the back. Everything is embedded in the flow. Once a policy is purchased, the cash is converted into USDC and all the transaction are listed on on
+
+[55:33] chain. It can be monitored at any time with an on chain explorer. And since everything is real time, we can actually monitor the performance and make the necessary actions in case the product is, running at a loss. From an investor perspective, they select the risk specific pool. They then connect the wallet of choice. And the capital that is then is locked to back up the individual policies that are sold by our partners.
+
+[56:00] By doing that, the investors get a certain interest rate. And this is not an idea. We sold more than 370,000 policies collecting $7,000,000 in insurance premiums, selling policies across cyber, travel, agriculture, and weather. And today, I'm excited to share one of the product that we are working with the Lisk in the Mampox region. So essentially, we cover families
+
+[56:25] against the damage of, high rainfalls that prevents them to essentially earn basic needs for their families. We have a team with experience across crypto and insurance. I was one of the founder of a leader two solution, and our CFO was the CFO of two of the biggest insurance company in the world. If you want to learn more, happy to add me in Telagon. Thank you.
+
+[56:48] Thanks, Marco. Judy,
+
+[57:33] let's go. Let's dap. Hello, everyone. My name is Judy. I'm the cofounder and CEO of LacedUp.
+
+[58:00] So for the past five years, I've been organizing events both for small and large case crypto industry and entertainment industry. And, currently, from my experience, events process is currently broken for organizers and for attendees. Multiple tools organize one event. No ROI at the end of event. Everything goes down the way on the very day the event ends. And there's no way to get, royalty from research tickets, which is a very huge market for organizers. For attendees, there are different tools to discover events, pay for tickets, and network at same event. And after events, most of them reach out to you, like, one week later, and you've forgotten who they are, what you talked about. And there's no way to measure ROI for attendees for this event.
+
+[58:41] And that's why we are building one platform for everything. So at that, we're bringing all the solution into a simple to use platform both for attendees and for organizers. What makes us different? We have gamified, engagements for attendees, which is tailored to enable organizers, create tax reward system to meet up their ROI. For example, asking developers to install SDK and then enable them to scan NFC or QR code, then they get rewards for doing that instead of wasting half the budget on merch that they only wear once. We also have QR based networking, which is just not which is not just for networking. It's also for pretty much every other thing you have to do at the event. And we have web three integration. Our tickets are NFTs, but we don't tell users that. This is because we want to be sure that events organizers
+
+[59:25] are able to get resale royalties from the resale aftermarket and NFTs powering that. Of course, we have our AI matchmaking, not just for attendees, but for also event organizers to find the right vendors, the right partners to meet up their event goals. And we are doing this all in one simple to use platform. The current market is very huge, 1,100,000,000,000 as of, 2024 every year spent on the market, with 500 to, 2,000,000 event organizers
+
+[59:51] yearly spending money. Current traction, we are still very early stage, but we've done something. We have a proof of concept. We've tested with two events for Google Developer Groups in different parts of, Nigeria. And we also worked with Rice Lab to organize one of their AI hackathons in Lagos. We have currently have over 500 connection done on the app, and our test flight is live poised for closed testers. We also have sealed a partnership with an event platform who currently wants to move to something else, and they are they can't wait to off ramp their users to our platform. They're just waiting for it to be ready, and that's why we're working hard every day to make sure it's ready. Our revenue, simple, give out our value, help users understand what we're doing, and then charge them for it. Charge organizers because you're creating custom solutions for them. They are 1.1%
+
+[01:00:32] to 1.5 for ticketing and zero to one point zero to 1% for in app transactions. So we're targeting to scale to three k users in the next six months to k MRL, and also integrate how our full web three integration on. And, yeah, our team currently will be top five people, but we have our CEO and our CTO and myself who have got that experience seven years in the industry as a software engineer and the last two years focused primarily as a senior developer engineer working at Hype, which has given me the experience to work with top projects.
+
+[01:01:06] I can't mention some of them, but I can mention Inkchain. I'm allowed to say that. And my CTO has worked at Huobi as a senior smart contract engineer, so have the technical ability to pull it off. We're currently raising, we're raising a 300 k, trying to, use it to scale our products and also expand to other markets. And this is a quick demo of how our app looks currently, how it works. This version will be going live on test flights for public testing this Friday.
+
+[01:01:31] And, yeah, come join us. You're early. Come join us to create events that never ends. Thank you. Great stuff, Judy. I think, Lindo. Let's go, Fabi. Welcome, Fabi, with Lindo.
+
+[01:02:06] Okay. My name is Sojan. Raise your hand if you think financial inclusion is really critical for the global economy. Okay. I'm CTO and cofounder of Lendor, and I'll tell you what we are doing. Today, hundreds of millions of informal workers are invisible for the traditional financial system. So in short, they don't exist. They can get access to credit at all, or they are borrowing at really, really high rates, predatory rates, I say, even
+
+[01:02:39] when their income is clearly visible through apps or digital payments. And that's why we are building Lendor. Lendor is a centralized money market that connects global lenders with Verifi and these invisible borrowers at fair rates. We're using CK technology,
+
+[01:03:03] and sorry. It's just too simple step. Just they verify the CK identity and submit it or not their income. Can access and be eligible for a loan. So it's pretty simple. Why now? Okay. The market is pretty huge. The opportunity is really big. It's a $5,300,000,000,000 market around the world, just 1,300,000,000,000
+
+[01:03:28] in The United States. And we are aiming in emerging economies. We both, with my CEO, has ten years of experience in blockchain, developing on chain solutions. Join us and go through the lender. Thank you so much.
+
+[01:03:57] Great stuff, Fabi. Bamba, I think, one one more. Bamba. Fabi, your QR code is not working. Speak speak to this man afterwards.
+
+[01:04:44] So are you are you gonna find him? Okay. There we go.
+
+[01:05:27] We found them. Welcome, Bebe. Thank you. Hi, everyone. Bebe from Momo here. Sorry for the delay.
+
+[01:05:51] And, well, I don't think I I will have time and for a minute to explain all about my project, but I will do my best. And I'm not so this kind of slide pitching guy, so I don't even know which
+
+[01:06:15] is in. The next slide. No. It's okay. It's okay. I don't need. Well, Vombo began as an NF ticketing solution to fight against ticketing fraud. I think it's scalping. That was a huge, issue that was facing the entire entertainment industry. I think it was 2020,
+
+[01:06:40] 2021. By that time, I think that ticketing fraud attempts at nightclubs and big gigs in Argentina were at least over 10% fraud attempts. We put an end to to this in just in only one week
+
+[01:07:03] since we implement the solution. But the most important thing here is not talking about solution and problems. Of course, Bombay was a solution for this problem. But at the same time, I always wanted to, like, develop this kind of EDM social network because there knew it was a platform, dedicated entirely to this community. That is a huge community that began as an niche, but now it's so mainstream.
+
+[01:07:31] I bet that you guys all like EDM or at least half of you. And but the most important thing here is that we have created this kind of social layer that has this handcrafted and specially designed features to promote engagement between the three main actors of the EDM community that are
+
+[01:07:56] clubbers, artists, and promoters. And that's why mostly, we want to, like, keep developing all these kind of features because we want to, create this tokenized economy around the social network that will let, promoters and artists upcoming on mainstream to reach the 100% of the audience for free
+
+[01:08:20] or maybe for less money than they could have to spend on meta ads, for example. Right now, you have a lot of super talented guys that are signing with the best EDM record labels for Europe. But when he when there comes the time for them to play in his own country, nobody knows him because they don't have money for for us. So, well, last thing,
+
+[01:08:48] at the end of the day, we are going full super app. We are going not only for the ticketing that right now we have over 90% of the EDM market in Argentina. We have launched Peru and Chile, but we're going for the social network and for payments. Think about this. We sold the music festival Buenos Aires this year, 80 k people two days in a row,
+
+[01:09:16] which one which was the only app that all the people inside this festival has on their phone have have on the phone that were not, like, I think, Instagram, TikTok, or WhatsApp. Bumble. Because they have to use it to check into the menu. So that's why we have secured
+
+[01:09:40] the payments adoption. We are creating a non ramp, off ramp solution to lower the fees of Fiat and create a better experience. Finally, last thing, I think that the most important thing is we have good metrics. We have at least,
+
+[01:10:04] I think, over eight eight hundred k users already, three countries. We have peaks of 250 k monthly active users. We have sold a million and a half NFTs NF tickets. We have doubled our revenue since, like, last year from 3,300,000 to I think we are going to be at least $56,500,000.
+
+[01:10:31] But for me, the most important thing here, what I want to share with you guys is that I think that Bombos have shown to all of us that the path to mass adoption of this technology is consumer focused products with no wet freenerdy onboarding friction.
+
+[01:10:55] That's all. Thank you. Well done, Bombo. I think everyone. Massive shout out to all of the entrepreneurs who pitched today. They've done a ton of work over the last three weeks or so. Lots of late nights, lots of grinding, lots of, one on one time with mentors, and I think the output today has been epic. So well done, everybody.
+
+[01:11:27] Hey, guys. So the judges will review and we'll talk about the the results. And then in around ten, fifteen minutes, we'll say the the final five winners for tomorrow. That will be we'll be pitching in the cinema with popcorn included for everyone. So, yeah, thank you.
