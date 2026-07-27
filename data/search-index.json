@@ -150035,6 +150035,2366 @@
   "We will have a talent show back here starting at 9PM, so be back here for that. Thank you."
  ],
  [
+  86,
+  0,
+  "For those who you don't know me, I'm Telamon. I lead partnerships and scouting at Edge City. I'm gonna be hosting the demo day today. Normal"
+ ],
+ [
+  86,
+  8,
+  "ly, it's Timur, and I'm trying to give Timur a break. He's been working super hard. So I would love to start with, please, a warm applause f"
+ ],
+ [
+  86,
+  16,
+  "or Timur for all the hard work he's been doing. Hello, Timo. He deserves a little rest of the mic. Cool. Demo day. This is the second last d"
+ ],
+ [
+  86,
+  25,
+  "emo day. We'll do a big final on Friday,"
+ ],
+ [
+  86,
+  27,
+  "and you can get to see what everybody is building. So welcome. We're here to build. That's one of the core principles of Edge City, and you'"
+ ],
+ [
+  86,
+  34,
+  "re gonna see what people are building. There's a wide range of things. You know, we build software, hardware, research, essays, art, new cit"
+ ],
+ [
+  86,
+  42,
+  "ies, kind of everything between. So this will be a very broad depth of demos, so get excited. There's only two rules of them a day. One is w"
+ ],
+ [
+  86,
+  49,
+  "e will stay on time. I'll have a timer here for those presenting. Please look at me. It's three minutes on the dot. Please, let's try. We're"
+ ],
+ [
+  86,
+  57,
+  " ready a bit behind schedule. We all wanna get to food on time."
+ ],
+ [
+  86,
+  60,
+  "And then finally, it's always nerve racking demoing. Some of them are demoing for the first time. Please give a warm and hearty applaud, and"
+ ],
+ [
+  86,
+  70,
+  " we're gonna practice that once now. I want the full I want you whistling. I want you screaming. I want everything. Come on. Okay. Could we "
+ ],
+ [
+  86,
+  81,
+  "got work to do, but it's fine. We'll we'll start with that."
+ ],
+ [
+  86,
+  85,
+  "First of all, I would love to introduce our first name of the night is Atin with Authentic. Please give him a warm. What's going on in Citi?"
+ ],
+ [
+  86,
+  93,
+  " So this is Authentic. This is a social media app, that we're debuting here that you're gonna be able to download at the end of this talk. S"
+ ],
+ [
+  86,
+  101,
+  "o as I've gone around the world, I've talked with people about how they're using social media, and no one is happy about it. The two core em"
+ ],
+ [
+  86,
+  109,
+  "otions that tend to come up are addictive behavior and self disgust for how much time we're spending on social media."
+ ],
+ [
+  86,
+  116,
+  "This really informed us whenever we wanted to make authentic. So, this is live right now as of eight days ago on the App Store. You're welco"
+ ],
+ [
+  86,
+  124,
+  "me to check it out. We're super excited to run this experiment with this community. What you're gonna get is a Instagram stories like experi"
+ ],
+ [
+  86,
+  133,
+  "ence, but without any hyperdictive short form content. No shorts, no reels, no talks,"
+ ],
+ [
+  86,
+  138,
+  "just content from the people that you choose to follow. And then secondly, we have no advertising. We think that your content should be priv"
+ ],
+ [
+  86,
+  146,
+  "ate, should be owned by you, and this is a place for you to feel good about sharing with your friends. We think this is, an existential impo"
+ ],
+ [
+  86,
+  154,
+  "rtant for us as a species. I was recently on a boat ride in rural Peru, super deep in the jungle, and I was on this boat. And this woman in "
+ ],
+ [
+  86,
+  162,
+  "front of me,"
+ ],
+ [
+  86,
+  163,
+  "who doesn't even speak Spanish, ends up scrolling TikTok for three hours, and I feel like a horrible like, we've done something very negativ"
+ ],
+ [
+  86,
+  171,
+  "e to the world. And the dopamine cycles that are created by what is effectively an alien form of content, the short form content that we're "
+ ],
+ [
+  86,
+  178,
+  "all spending so much time on. The average American that has a TikTok account spends ninety four minutes a day, every single day, three hundr"
+ ],
+ [
+  86,
+  186,
+  "ed sixty five days a year on TikTok."
+ ],
+ [
+  86,
+  188,
+  "If you are on Instagram today, 7% of the time that the American user is on Instagram according to to a US recent, court case, 7% of the time"
+ ],
+ [
+  86,
+  196,
+  " you see content from your friends. On Authentic, that's 100%. So you can envision with Authentic, you can get this kind of Instagram storie"
+ ],
+ [
+  86,
+  205,
+  "s like experience, and you also have a be real style prompted photo. What that looks like is you get a notification once a day."
+ ],
+ [
+  86,
+  212,
+  "It's optional. And whenever you answer that notification, you have two minutes to capture a glimpse of what your life really looks like. Thi"
+ ],
+ [
+  86,
+  220,
+  "s ends up creating a much more realistic picture about what our lives are to the people we care about. If you follow me on Instagram, you'll"
+ ],
+ [
+  86,
+  227,
+  " see me at the vibe code Asado's or our community dinners, but you'll have no idea what my apartment looks like or what my office looks like"
+ ],
+ [
+  86,
+  235,
+  ". And we think it's better to be sharing a really whole picture of what our lives really are with the people we care about and not playing t"
+ ],
+ [
+  86,
+  242,
+  "he influencer dopamine game."
+ ],
+ [
+  86,
+  244,
+  "So we've got a few asks for the community while we're here. First off, I'm really excited to see everybody on the app. Also, you can join ou"
+ ],
+ [
+  86,
+  252,
+  "r Telegram group. This is a great way to give us feedback. I'm sure we've got new bug fixes that are rolling out right now. We just fixed, S"
+ ],
+ [
+  86,
+  260,
+  "lovakian phone number support. It's a great international group. We also support 38 languages at launch. So feel free to give us feedback th"
+ ],
+ [
+  86,
+  268,
+  "ere. That's the best thing you can do. We're also hiring."
+ ],
+ [
+  86,
+  271,
+  "We're looking for a experienced app designers and growth marketers specifically. Feel free to reach out. We're in the process of closing a b"
+ ],
+ [
+  86,
+  279,
+  "ridge round right now. And so we're also we have a lead investor pinned down on this, but I'm looking to raise and increase participation. I"
+ ],
+ [
+  86,
+  286,
+  "f an you're accredited investor, feel free to come talk to me afterwards. And, I think that's about it. I'm super excited to see what this c"
+ ],
+ [
+  86,
+  294,
+  "ommunity gets up to, on Authentic. Thanks a bunch. There"
+ ],
+ [
+  86,
+  297,
+  "you go. Great job. Thank you, Atom. This is really a rewarding one to see. Atton was building that at Edge of Esmeralda last time, and I sat"
+ ],
+ [
+  86,
+  310,
+  " next to him in coworking space most days, and he was shipping the whole time. He's a great example of that you can work hard at Edge City. "
+ ],
+ [
+  86,
+  323,
+  "Next up is Capsule with Lina Polina, please. I don't wanna hold the mic."
+ ],
+ [
+  86,
+  330,
+  "No. That's fine. Thanks. Yeah. Today, I'm gonna talk to you about capsules. Not pills, but capsules. But before I explain what that is and w"
+ ],
+ [
+  86,
+  343,
+  "hat I built, I wanna start off by giving a little introduction to a man called Scott Fellman who invented the emoticon in 1982,"
+ ],
+ [
+  86,
+  354,
+  "which was, really at the time, like, a new abstraction layer to convey emotion in the written word and for him a way to get people to unders"
+ ],
+ [
+  86,
+  364,
+  "tand his jokes. So I was asking myself the question, okay. If emoticons could humanize writing in the eighties, how can we make storytelling"
+ ],
+ [
+  86,
+  374,
+  " feel more alive and more human now?"
+ ],
+ [
+  86,
+  377,
+  "And this question is what led me to build a more creative and emotionally resonant way to publish my own writing because the process to of p"
+ ],
+ [
+  86,
+  387,
+  "ublishing my writing felt to me really kind of boring. You know, LinkedIn sub stack medium, it's all the same. It's static words on a static"
+ ],
+ [
+  86,
+  397,
+  " page. And at the same time, the tools AI tools have evolved so dramatically."
+ ],
+ [
+  86,
+  402,
+  "So I began to think, okay. There's gotta be more. So that led me to look at Apple product pages, which looks something like this. It's very "
+ ],
+ [
+  86,
+  412,
+  "interactive, very emotionally resonant, visually appealing. And we hacked together an n eight n workflow to publish the writing, storyboard,"
+ ],
+ [
+  86,
+  423,
+  " image generation, video generation, human little loop"
+ ],
+ [
+  86,
+  427,
+  "to extract key frames and come up with this. So, this was the first capsule that I published, which is just an article that I wrote, with th"
+ ],
+ [
+  86,
+  440,
+  "e visuals beside it. And, that, you know, as I was passing it around to a few friends of mine, a few contacts,"
+ ],
+ [
+  86,
+  451,
+  "got a lot of interest. People started asking, how can I make one of these? And I was like, oh, okay. This is not just a platform for myself."
+ ],
+ [
+  86,
+  460,
+  " This is actually a product. So right now, this is what we built. We've built a platform for people to create their own interactive you know"
+ ],
+ [
+  86,
+  469,
+  ", whether it's a marketing document, an article, a vision document. It's really a publishing platform. It's a creative tool, a narrative for"
+ ],
+ [
+  86,
+  478,
+  "mat."
+ ],
+ [
+  86,
+  478,
+  "The way to get involved now, is you can help us build this tool. It is not bug free at the moment. You can become an early test user, give u"
+ ],
+ [
+  86,
+  487,
+  "s feedback, build this, and get free credits to make your own capsule. You can get access once it's ready. So get on the wait list or become"
+ ],
+ [
+  86,
+  497,
+  " an early investor if you're excited about this. You can connect with me on x on Telegram"
+ ],
+ [
+  86,
+  503,
+  "and visit our web page. Thanks. Down to the second. Thank you. Next up, please, the human tech team, I believe. Are they here? There we go. "
+ ],
+ [
+  86,
+  528,
+  "Amazing. Please welcome, Shadi. So I'm back."
+ ],
+ [
+  86,
+  536,
+  "Hi, guys. Yeah. So I just wanted to take a little bit of time to demo what we've been working on this week. We're actually soft launching th"
+ ],
+ [
+  86,
+  543,
+  "is, tomorrow and wanted to give you guys a little bit of a preview behind, the covenant and its web app manifestation. So the covenant, can "
+ ],
+ [
+  86,
+  550,
+  "think of it as like a proto governance layer for human alignments. That's how we're thinking about it. If you wanna know more about it, you "
+ ],
+ [
+  86,
+  558,
+  "can talk to me in person. We have a little launch video I'd like to"
+ ],
+ [
+  86,
+  561,
+  "demo first. Technology is accelerating. AI, biotech, digital systems, reshaping everything. But if technology moves without responsibility, "
+ ],
+ [
+  86,
+  575,
+  "we risk systems that harm instead of help, divide instead of connect, exploit instead of empower."
+ ],
+ [
+  86,
+  585,
+  "That's where the covenant of humanistic technologies comes in. It's a framework for building technology that serves people and technologies "
+ ],
+ [
+  86,
+  595,
+  "that must serve public good and planetary health. It started as a printed document, something tangible you could hold and read. Manifest.hum"
+ ],
+ [
+  86,
+  604,
+  "an.tech is where the covenant becomes an active community,"
+ ],
+ [
+  86,
+  608,
+  "a place to explore the principles and contribute ideas and artifacts. Artifacts are proof of human contribution. Essays, art, research, open"
+ ],
+ [
+  86,
+  617,
+  " source systems, evidence that humans are still creating, still building, still at the center. This isn't just a website. It's a movement of"
+ ],
+ [
+  86,
+  626,
+  " people. We're connecting with others who believe technology should be human aligned."
+ ],
+ [
+  86,
+  632,
+  "On manifest.human.tech, explore the covenant of humanistic technologies, sign the declaration, prove your humanity, submit your artifact, an"
+ ],
+ [
+  86,
+  645,
+  "d join the conversation. Innovation is powerful when it's human aligned. Be part of the community. Be part of the movement. Alright."
+ ],
+ [
+  86,
+  658,
+  "Thanks for all the love, guys. Yeah. I was a little nervous about that one. It's first time showing it to to a group. I would love to do, li"
+ ],
+ [
+  86,
+  668,
+  "ke, a live walkthrough, but I'm not at my computer, and I recorded one for you guys. So I have, like, about forty seconds to kinda give you "
+ ],
+ [
+  86,
+  678,
+  "guys, like, a little bit of a speed walkthrough. So the covenant you actually test this out now"
+ ],
+ [
+  86,
+  685,
+  "by going over to manifest.human.tech. You can log in with email, authenticate. This is something that's intended to be, appeal to a mainstre"
+ ],
+ [
+  86,
+  693,
+  "am audience of artists, creatives, folks that are working at the intersection of the arts, the humanities, and and the sciences. The covenan"
+ ],
+ [
+  86,
+  702,
+  "t itself is a print set of 10 principles that, are achieve alignment for, members in our community. You can sign it cryptographically to sho"
+ ],
+ [
+  86,
+  710,
+  "w your membership on chain."
+ ],
+ [
+  86,
+  712,
+  "And then once you've done all that, you can actually prove your humanity and then submit an artifact. So some examples of artifacts include,"
+ ],
+ [
+  86,
+  721,
+  " for example, you know, academic essays on, say, like how DAOs and labor are integrated Or, for example, say, like, artistic works, three d "
+ ],
+ [
+  86,
+  730,
+  "representations a documentary is being filmed by somebody who's contributing to the community. So that's that's pretty much it. You can crea"
+ ],
+ [
+  86,
+  738,
+  "te an account there too and connect with the rest of the community. Thanks, guys. Thanks,"
+ ],
+ [
+  86,
+  744,
+  "Shadi. Appreciate it. Thank you, Shadi. Next up is Andrew from Genesys Labs. Please welcome Andrew. Whoo. Oh, let's see here. Where we at? Y"
+ ],
+ [
+  86,
+  777,
+  "ou left the presentation?"
+ ],
+ [
+  86,
+  783,
+  "This is not my laptop. Did did you Charlie, did you delete the screen? Should've left the presentation. Think you closed the tab. I love tha"
+ ],
+ [
+  86,
+  795,
+  "t you finish your demo and then just close tab. No one else no one else gets there we go. Thank you. Alright. Alright. Hello, everybody. My "
+ ],
+ [
+  86,
+  806,
+  "name is Andrew Quigley. You might know me from psychedelic week, but that's not all I do. Also,"
+ ],
+ [
+  86,
+  814,
+  "cofounding a project called Genesis Labs. So, essentially, the thesis of Genesis Labs is billions of dollars moves through the speculative c"
+ ],
+ [
+  86,
+  824,
+  "rypto market every day. If we can take a fraction of that and the fraction of the trading fees and have that money go towards funding scienc"
+ ],
+ [
+  86,
+  834,
+  "e, science experiments, we could do amazing things. So let's transform the dumb money into smart money, speculation into"
+ ],
+ [
+  86,
+  842,
+  "true discovery. There's one thing in the decentralized science ecosystem that has become very, very clear, and that's that the DeSci ecosyst"
+ ],
+ [
+  86,
+  852,
+  "em needs more crypto, needs more broader crypto liquidity. These trading fees have already been shown that they can fund real science experi"
+ ],
+ [
+  86,
+  862,
+  "ments. And so Genesis Labs is an incubator model designed to facilitate"
+ ],
+ [
+  86,
+  867,
+  "the bridge between the scientists and the broader crypto ecosystem. This gap must be bridged, and and and we're hoping that we can fill that"
+ ],
+ [
+  86,
+  878,
+  " gap in some type of way. So we have a very, lengthy network of contributors and mentors, advisers across the sphere of biotech into the sph"
+ ],
+ [
+  86,
+  889,
+  "eres of cryptocurrency"
+ ],
+ [
+  86,
+  891,
+  "who have shown experience and willingness to create narratives that push boundaries and generate a lot of, momentum for both cryptocurrency "
+ ],
+ [
+  86,
+  902,
+  "tokens and also for science projects. So, basically, our incubator model is made up of these contributors and mentors that you see around th"
+ ],
+ [
+  86,
+  913,
+  "e circle,"
+ ],
+ [
+  86,
+  914,
+  "and we invite DAOs, scientists, maybe you're an influencer who, you know, really loves creatine or you're a crypto native who is interested "
+ ],
+ [
+  86,
+  924,
+  "in getting involved in the decentralized science movement, that's where you come to Genesis Labs and we help develop the DeSci project to fu"
+ ],
+ [
+  86,
+  934,
+  "nd science, generate some data, and help people."
+ ],
+ [
+  86,
+  938,
+  "So let's build the future of decentralized science together. This incubation application became live about thirty minutes ago. So you are ge"
+ ],
+ [
+  86,
+  948,
+  "tting the true alpha, and and we're live streaming to our audience. So thank you all, geners all back home. I know we're all awaiting token "
+ ],
+ [
+  86,
+  957,
+  "launch and pending market. I'm sure we will find it come to fruition."
+ ],
+ [
+  86,
+  962,
+  "So apply, please. Thank you. Thank you. Andrew has been running some awesome experiments as well with Side Hours, so please find him for tha"
+ ],
+ [
+  86,
+  977,
+  "t as well. Next up are two builders from the list residency called Zuno. Please welcome Zuno. Hello, everyone. My name is Andres from Colomb"
+ ],
+ [
+  86,
+  992,
+  "ia."
+ ],
+ [
+  86,
+  992,
+  "Today, I'm going to introduce you to Sunu. Emerging markets needs more than $1,700,000,000,000 every year for the clean energy transition. J"
+ ],
+ [
+  86,
+  1005,
+  "et less than, 15% of the global private capital reaches them. So there are thousands of mid scale solar project that are viable but still un"
+ ],
+ [
+  86,
+  1017,
+  "funded."
+ ],
+ [
+  86,
+  1018,
+  "So Sunu is the way to unlock this capital. We, tokenize, mid scale solar project, distribute on chain rewards. We create a yield bearing tok"
+ ],
+ [
+  86,
+  1038,
+  "en that bridges DeFi and real world energy generating assets."
+ ],
+ [
+  86,
+  1046,
+  "So, yeah, that's, that's we create destocking and, the projects, the energy that the projects generates, becomes as rewards to the to the de"
+ ],
+ [
+  86,
+  1064,
+  "stocking holders. So this solution is embedded into a mobile app,"
+ ],
+ [
+  86,
+  1072,
+  "when the users can track the the project and the energy generated by these projects and, can track also this this rewards. So we have also a"
+ ],
+ [
+  86,
+  1087,
+  "n a dApp when the users can interact with with the smart contracts. One, typical mid scale solar project,"
+ ],
+ [
+  86,
+  1098,
+  "cap has a CapEx around $1,000,000. So just in Colombia, we have capacity for 3,500 solar mini farms. And in the whole global South, we have "
+ ],
+ [
+  86,
+  1111,
+  "capacity for 152,000 solar mini farms. Just 1% of market penetration means 1,400,000,000 in tokenized clean energy assets, so it's a huge op"
+ ],
+ [
+  86,
+  1124,
+  "portunity."
+ ],
+ [
+  86,
+  1125,
+  "So about our traction, we have already deployed more than 40 projects, in Colombia. That means $6,000,000 on tokenized assets. And we have m"
+ ],
+ [
+  86,
+  1136,
+  "ore than 3,000 holders, and we have already distributed more than $1,000,000 in yield to these token holders. So about the founders, he's Ni"
+ ],
+ [
+  86,
+  1147,
+  "colas Villegas, currently CEO."
+ ],
+ [
+  86,
+  1149,
+  "He's also cofounder of two and other startups with 20,000,000 in with over 20,000,000 in annual recurring revenue. And myself, Andres Kagli,"
+ ],
+ [
+  86,
+  1160,
+  " CTO. I am control systems engineer specialized on blockchain and software development. And, yeah, this is Sunu. Thank you so much. If you w"
+ ],
+ [
+  86,
+  1172,
+  "ant to know to"
+ ],
+ [
+  86,
+  1173,
+  "know more about the project, feel free to scan the code. Thank you so much, guys. Thank you, Andres. Very, very cool. Please welcome the lea"
+ ],
+ [
+  86,
+  1186,
+  "d of the bio residency, Denisa, the person she's working on. Thank you. Hello, guys. So unlike everybody who stood here before me trying to "
+ ],
+ [
+  86,
+  1199,
+  "sell you some product, I'm gonna try to sell you on a philosophy and a plan,"
+ ],
+ [
+  86,
+  1206,
+  "kinda like a cult. Anyway, so the core hypothesis is that until not too long ago, we were severely limited by physical distance because we c"
+ ],
+ [
+  86,
+  1214,
+  "ouldn't see, we couldn't communicate, and we couldn't travel to places beyond, like, a fairly short distance from where we were without, you"
+ ],
+ [
+  86,
+  1222,
+  " know, exerting some really great effort. And the coordination that you and I needed to be here right now in Patagonia would have never been"
+ ],
+ [
+  86,
+  1230,
+  " possible before."
+ ],
+ [
+  86,
+  1231,
+  "So, you know, we are surrounded by everyday miracles that made these, like, distance conquering miracles happen, and we have you know, right"
+ ],
+ [
+  86,
+  1239,
+  " now, we have these planes and high speed trains that allow us to basically travel across the world, and we have the GPS technology that all"
+ ],
+ [
+  86,
+  1246,
+  "ows us to, you know, pinpoint exactly where we are on the map with satellites 20,000 kilometers above our heads. And isn't that incredible?"
+ ],
+ [
+  86,
+  1254,
+  "But what made this technology really possible has been our ground truth understanding of of physics. So this all happened because we underst"
+ ],
+ [
+  86,
+  1262,
+  "and physics matter down to the fundamental particles well enough to know how they interact and to be able to predict these effects and innov"
+ ],
+ [
+  86,
+  1271,
+  "ate and create these technologies. But if you step outside sciences like physics that are mature and you go into the murky waters, let's say"
+ ],
+ [
+  86,
+  1279,
+  ", of biology, which is what I really care about, you're gonna see that predictability and reliability really fade."
+ ],
+ [
+  86,
+  1286,
+  "And to look a bit at biology specifically, I don't know if you've ever looked inside a cell and realized how how it looks like, but you have"
+ ],
+ [
+  86,
+  1294,
+  " all these interconnected networks that we've never actually completely mapped. We know a lot about proteins, but very little about other co"
+ ],
+ [
+  86,
+  1302,
+  "mponents of the cells. And because we oversimplify so much biology, this is why we solved basically zero non infectious diseases."
+ ],
+ [
+  86,
+  1309,
+  "All our drugs have side effects, and we treat symptoms and not root causes. So here comes the framework that, I have been developing for a w"
+ ],
+ [
+  86,
+  1317,
+  "hile now with the neurotech professor at Boydton at MIT. And our hypothesis is that if we apply the same understanding of physics, the same "
+ ],
+ [
+  86,
+  1325,
+  "way to biology and we were to map all the building blocks of biology and how they interact, we will finally be able to turn biology into eng"
+ ],
+ [
+  86,
+  1332,
+  "ineering and solve all these great problems that we're dealing with. What I care about is aging. What Ed Boyden cares about is consciousness"
+ ],
+ [
+  86,
+  1340,
+  ", but this can go speculatively"
+ ],
+ [
+  86,
+  1342,
+  "well beyond the sciences and maybe into economics and politics and human behavior and all that. So this is our little hypothesis that we're "
+ ],
+ [
+  86,
+  1350,
+  "putting forth that, we're building tools for. And, ideally, we're, going to go well beyond zero sum games that take the minds of everybody a"
+ ],
+ [
+  86,
+  1357,
+  "cross the world, and we're gonna go into positive sum games that we're actually gonna benefit all of reality. So I wanna talk to everybody t"
+ ],
+ [
+  86,
+  1365,
+  "o hear your thoughts, how you think this framework sounds, how we could apply it to other sciences and social sciences, and, yeah, how can w"
+ ],
+ [
+  86,
+  1373,
+  "e develop the technology to make this possible to basically"
+ ],
+ [
+  86,
+  1376,
+  "conquer reality far beyond distance. So thank you. Thank you, Denisa. Thank you for changing the slide as well. Please welcome Make Soil, th"
+ ],
+ [
+  86,
+  1390,
+  "e amazing. Hey, everybody. I'm Josh Whitten. Some of you know me here from the Diak residency where I do work with local AI models, but we'r"
+ ],
+ [
+  86,
+  1405,
+  "e gonna talk now about a long standing passion project of mine, which is called MakeSoil."
+ ],
+ [
+  86,
+  1414,
+  "It is the world's leading network for distributed composting. Yes. You probably probably didn't know there was such a thing, but we are actu"
+ ],
+ [
+  86,
+  1421,
+  "ally offering many people the first truly regenerative experience of their lives, and that's not an exaggeration. I'll show you how. So it s"
+ ],
+ [
+  86,
+  1428,
+  "tarted about fifteen years ago when I found out that about half of the food that we produce actually doesn't end up in our bellies, it ends "
+ ],
+ [
+  86,
+  1435,
+  "up in the trash either because we let it spoil or"
+ ],
+ [
+  86,
+  1438,
+  "let it rot on our plates or get thrown away or even just a failure to collect it. That happens all the time. And then there's also just orga"
+ ],
+ [
+  86,
+  1445,
+  "nic matter that we legitimately can't eat like coffee grounds and banana peels. The bottom line is that none of that belongs in the landfill"
+ ],
+ [
+  86,
+  1451,
+  " like ever. There's a lot of controversial issues on earth right now. There's a lot of controversial solutions. But one thing that the entir"
+ ],
+ [
+  86,
+  1458,
+  "e human race, should be able to agree on is that no food waste or organic matter should ever go to the landfill. Let me tell you why. If it "
+ ],
+ [
+  86,
+  1464,
+  "goes to the landfill, it rots in an anaerobic environment. It turns into methane. We don't need any more of that stuff in the atmosphere, an"
+ ],
+ [
+  86,
+  1471,
+  "d also the nutrients"
+ ],
+ [
+  86,
+  1472,
+  "are forever lost from the food system. They're supposed to be going back into the fields, very little of it is actually going back into our "
+ ],
+ [
+  86,
+  1479,
+  "farmland, and it's causing the destruction of our food system. And our food is actually less nutritious with each passing harvest because it"
+ ],
+ [
+  86,
+  1486,
+  "'s missing the exact food waste that's going to the landfill. So, that's why I started MakeSoil. It is a network. It is a social network, bu"
+ ],
+ [
+  86,
+  1492,
+  "t refreshingly, it is not one that gets you to scroll endlessly online. It's one that gets you out of the house and into a neighbor's backya"
+ ],
+ [
+  86,
+  1499,
+  "rd, and together, you learn how to make soil together. That means that these people, thousands of them around the world are collecting food "
+ ],
+ [
+  86,
+  1506,
+  "waste from their own homes, from businesses, coffee shops, and through the miracle of composting, which is a recipe, you can turn almost any"
+ ],
+ [
+  86,
+  1513,
+  "thing that's ever been alive back into dark black nourishing soil. It's like magic and it's it's an experience I had that once I had it, I c"
+ ],
+ [
+  86,
+  1520,
+  "ould never see the world the same way, and so we're spreading that all over the world. This is a garden that my friends and I started"
+ ],
+ [
+  86,
+  1526,
+  "when we learned how to make soil together, and I think you can agree this is way better than more garbage. MakeSoil is a very sophisticated "
+ ],
+ [
+  86,
+  1533,
+  "platform. I won't get into the details now, but we have matched thousands of people around the world at thousands of soil sites. There's eve"
+ ],
+ [
+  86,
+  1540,
+  "n one here in San Martin. If you get our app and and go to our site, you can see what that is. And we have a lot of open source designs for "
+ ],
+ [
+  86,
+  1547,
+  "compost bins that people are building all over the world. It looks really homely and simple, but this is what regenerative infrastructure"
+ ],
+ [
+  86,
+  1554,
+  "looks like on the ground. People are having a blast, and like I said, they're having the first regenerative experience of their lives. When "
+ ],
+ [
+  86,
+  1561,
+  "you recycle plastic and metal, that's really nice, but that's not actually regenerative. When you recycle organic matter into new living soi"
+ ],
+ [
+  86,
+  1568,
+  "l that is truly regenerative, and it's actually the only kind of recycling that we can do in our homes, in our backyards. I'd love to teach "
+ ],
+ [
+  86,
+  1574,
+  "people this regenerative process of making soil here"
+ ],
+ [
+  86,
+  1577,
+  "at Edge in our final week if we can find a spot to do it. If you become a soil maker, you could add yourself to the network. We'll match you"
+ ],
+ [
+  86,
+  1584,
+  " with just the right number of neighbors. And at the very least, the app. Even if you're a nomad, wherever you travel, you could be particip"
+ ],
+ [
+  86,
+  1590,
+  "ating in making soil. And lastly, we're a nonprofit. It's funded mostly by me and my friends and a couple other people. So if you're feeling"
+ ],
+ [
+  86,
+  1597,
+  " generous and want your dollars to go directly to regeneration,"
+ ],
+ [
+  86,
+  1600,
+  "please let us know. Thanks so much. Thank you. Amazing. I need to get my granny on this. My German granny would love this. The next up, plea"
+ ],
+ [
+  86,
+  1619,
+  "se welcome SynthOS, I believe. Amazing. Hey. Hey, everyone. Okay."
+ ],
+ [
+  86,
+  1628,
+  "I'm Yulishtra from Malaysia. Some of you might know me from the vibe coding residency. So yeah. So I'm the cofounder of SyntOS. And essentia"
+ ],
+ [
+  86,
+  1636,
+  "lly, SyntOS is a not just another DeFi app. Right? We actually want to start off in an ethos where we wanna make DeFi yield, accessing DeFi "
+ ],
+ [
+  86,
+  1644,
+  "yield as seamless as checking your bank balance. Now speaking about bank balances, right, or even like yields from bank, give me a raise of "
+ ],
+ [
+  86,
+  1652,
+  "hands. Who here thinks that yields from banks are it feels slow? Just yeah. Show of hands. Right. I see some of you. Right? So you guys are "
+ ],
+ [
+  86,
+  1660,
+  "not alone. In fact, I did a bit of research. These are some of the interest rates in some of the countries. Right? Generally pretty low. And"
+ ],
+ [
+  86,
+  1668,
+  " I asked I asked around a few people, like, what's the experience been like with the five platforms that you see now? And usually,"
+ ],
+ [
+  86,
+  1675,
+  "some of them will actually, visit, like, two like, three to four average number of websites that users visit before investing. And in visiti"
+ ],
+ [
+  86,
+  1682,
+  "ng those websites, 60% actually drop off before their first funding in, like, these typical DeFi platforms. So bank yields, sure, they are l"
+ ],
+ [
+  86,
+  1689,
+  "ow. But even though DeFi yields are high, they still are complicated. Right? So but now is a perfect time to actually look into this because"
+ ],
+ [
+  86,
+  1696,
+  " DeFi adoption is accelerating. And so 5,000,000 day, daily active wallets in the Ethereum ecosystem. So it's signal it's signaling a growin"
+ ],
+ [
+  86,
+  1703,
+  "g interest. And recently, I think some of you guys might have heard of Tempo."
+ ],
+ [
+  86,
+  1707,
+  "So Tempo's growth shows that users are shifting from holding to earning. And even Stripe, now powers crypto transactions. But despite all th"
+ ],
+ [
+  86,
+  1715,
+  "is, like, few DeFi tools actually focus on mobile first consumer experiences, which I think is where, like, the next billion users are. So w"
+ ],
+ [
+  86,
+  1723,
+  "hat we built is, an app that actually gives users the best yield options across blockchains. But here's the difference. Because everyone is "
+ ],
+ [
+  86,
+  1732,
+  "doing the same thing. But we actually want to use AI to actually get your risk preferences,"
+ ],
+ [
+  86,
+  1737,
+  "whether it's like on chain activity or even off chain. Use that and actually suggest some use strategies here for you. Here's a few key feat"
+ ],
+ [
+  86,
+  1744,
+  "ures. So these use strategies will actually be personal to you. Right? You will set your goals, you will set your risk, your preferences, an"
+ ],
+ [
+  86,
+  1751,
+  "d the AI just boost these use strategies for you contrary to other generic yield options that you see out there today where there are fund m"
+ ],
+ [
+  86,
+  1758,
+  "anagers that actually suggest these used strategies and present them to you."
+ ],
+ [
+  86,
+  1762,
+  "And you can essentially mix match and, like, combine these different strategies into one bundle and deploy them all in a single click. You c"
+ ],
+ [
+  86,
+  1769,
+  "an see your transactions, positions, profit and loss at a glance in one place. And you can see it and you can see my focus is basically on m"
+ ],
+ [
+  86,
+  1776,
+  "obile, right, all this UI. And where we are so far is because the strategic round is set by the Skrull Foundation. We integrated with Layer "
+ ],
+ [
+  86,
+  1783,
+  "Zero, Privy, Morpho Yen, and some other leading DeFi protocols."
+ ],
+ [
+  86,
+  1786,
+  "I will actually share a link later. It's to our socials. We're launch our public waitlist soon to actually get some people to test out the v"
+ ],
+ [
+  86,
+  1794,
+  "ersion two of the app and get some, early feedbacks around it. So the team we have we are we are from we have we've built, a lot of products"
+ ],
+ [
+  86,
+  1802,
+  " before. I'm from Etherscan, and also Nethermind. My cofounder, Yi Chen, she's from CoinGecko. Britney, Ronnie, and Rehan, they are also my,"
+ ],
+ [
+  86,
+  1810,
+  " founding team. They have a pretty strong experience."
+ ],
+ [
+  86,
+  1813,
+  "But, yeah, that's that's pretty much, Bharat. Thank you very much. Also, please yeah. Thank you. Thank you. Awesome. Next up is ClickSync La"
+ ],
+ [
+  86,
+  1832,
+  "bs, please. Amazing. I never said the thing that I'm building, the name of clicks and gloves, but now I'm gonna hopefully show it."
+ ],
+ [
+  86,
+  1849,
+  "Hi, everyone. I'm Tuche. A lot of people know me here running some telepathic experiments, synchronous experiments, and connections. But eve"
+ ],
+ [
+  86,
+  1858,
+  "rything I do, what I'm building is actually to make invisible connections visible. And what I mean by that, like, know, all psychedelics use"
+ ],
+ [
+  86,
+  1866,
+  "rs, deep meditators keep saying that we all are connected. But are we really? And if can we design, quantify,"
+ ],
+ [
+  86,
+  1873,
+  "measure, and train that human connection? I'm more focusing on quantifying synchrony metrics, but today I'm gonna talk about one project tha"
+ ],
+ [
+  86,
+  1882,
+  "t I'm running here, synchronous to map. How many people know what is synchronicity here? How many people experience? Those are those meaning"
+ ],
+ [
+  86,
+  1891,
+  "ful coincidences. And here, we are just questioning that what if those synchronicities coincidences are not random at all but might be a sig"
+ ],
+ [
+  86,
+  1901,
+  "nal from collective unconscious as Carl Jung claimed before. So for the first time, we are using meaningful coincidences as data to keep tra"
+ ],
+ [
+  86,
+  1910,
+  "ck"
+ ],
+ [
+  86,
+  1910,
+  "for that reason to show with the technology now we have finally with AI, can we find those patterns, emerging patterns from collective uncon"
+ ],
+ [
+  86,
+  1919,
+  "scious? And second, if consciousness really performs as fractal to see the whole picture, you should look at the edges usually. And to me, s"
+ ],
+ [
+  86,
+  1928,
+  "ynchronous, these are edge data between visible and invisible, between your inner psyche and other world. So what we do here, one of my drea"
+ ],
+ [
+  86,
+  1937,
+  "m project was born, which we call Synchora. Thanks to Bonfire team and Josh and everyone. First day when I presented"
+ ],
+ [
+  86,
+  1944,
+  "them, they came to me and made it so easy. They developed such a technology here. It's it's an AI knowledge graph network that now running b"
+ ],
+ [
+  86,
+  1952,
+  "ehind the whole religious synchronicities. And they're gonna raise soon, so please go support them. They are doing amazing, amazing job with"
+ ],
+ [
+  86,
+  1960,
+  " all everything and all the contributors. So this is our now current synchronous to map that that has been building from the village"
+ ],
+ [
+  86,
+  1968,
+  "village data. We have so many interesting initial discoveries actually for the first time. We are able to show those numbers or the places t"
+ ],
+ [
+  86,
+  1977,
+  "hat they have, like, high probability attractors. For the first time, we can really show that in the data. One funny synchronous to that whe"
+ ],
+ [
+  86,
+  1986,
+  "n when we posted this slide on Instagram, h c t Instagram account reposted"
+ ],
+ [
+  86,
+  1991,
+  "this on May where we showed that there are pent temporal patterns in the in the village. And so that was a really funny synchronous tip. So "
+ ],
+ [
+  86,
+  2001,
+  "I wanna encourage everyone because there are so many new people came this week. Eleven eleven. Some witchy astrology friends from"
+ ],
+ [
+  86,
+  2011,
+  "consciousness residency told me that it's another portal. So 11:11, I I announced it as a synchronous today because why not? And we are gonn"
+ ],
+ [
+  86,
+  2023,
+  "a put a collective intention to ask those field to show us the patterns and go to consciousness residency telegram group. We have a synchron"
+ ],
+ [
+  86,
+  2035,
+  "icity"
+ ],
+ [
+  86,
+  2035,
+  "thing here. It should be on the maybe the announcements of subgroups. You can also find there. And, yeah, if you have any synchronous, tell "
+ ],
+ [
+  86,
+  2047,
+  "us your story and tag a Syncora bot. It can also help you to interpret your synchronous. You. I'm done. Thank you, Tusha. You can also pleas"
+ ],
+ [
+  86,
+  2059,
+  "e remember to drop the link, yes, your phone,"
+ ],
+ [
+  86,
+  2063,
+  "in the channel if that one didn't work for people. Please welcome Ricardo with the Base Mini App Factory. Hello. Hello, everyone. How much t"
+ ],
+ [
+  86,
+  2073,
+  "ime do I have? Like, three minutes. That's great. There is a lot of sweet things you can do in three minutes. As for example, building and d"
+ ],
+ [
+  86,
+  2082,
+  "eploy base mini apps, thanks to the mini app factory"
+ ],
+ [
+  86,
+  2086,
+  "developed by OpenX AI. Most of you probably familiar with the the efforts Coinbase is putting into transforming their, their wallet into thi"
+ ],
+ [
+  86,
+  2097,
+  "s, web three super apps connecting hundreds of millions of users. It feels right now we are in that, pivotal moment just like we were in 200"
+ ],
+ [
+  86,
+  2108,
+  "7 with the, the app store moment that unlocked this new wave of digital creators."
+ ],
+ [
+  86,
+  2114,
+  "And we think that that the important thing for OpenXAI is to make this as frictionless as possible and that everyone should be able to devel"
+ ],
+ [
+  86,
+  2124,
+  "op mini apps directly from their phone in just few clicks. That's why the mini app, the factory is a mini app in itself. So you can find it "
+ ],
+ [
+  86,
+  2135,
+  "searching directly"
+ ],
+ [
+  86,
+  2136,
+  "in the base user app. You discover by, typing mini app factory. And, the way you interact is very simple. You just, describe what you want t"
+ ],
+ [
+  86,
+  2145,
+  "o build. You vibe code there. You interact with the live prototype. You iterate until you find something that is suitable for you that you l"
+ ],
+ [
+  86,
+  2154,
+  "ike to deploy and just click deploy. In just a couple of minutes, you're gonna have a fully functional app,"
+ ],
+ [
+  86,
+  2161,
+  "for custom mini app that is already discoverable on base. You have full ownership of it. You own their code. You can export in GitHub and al"
+ ],
+ [
+  86,
+  2172,
+  "so mean to live NFT that proves the ownership that you you can use for your base, mini apps to rent it out or trade, unlocking this new liqu"
+ ],
+ [
+  86,
+  2183,
+  "idity in the secondary market."
+ ],
+ [
+  86,
+  2185,
+  "So I think this is a great way for you to discover and start to interact with the ecosystem. Farming, we're into in in the middle of a campa"
+ ],
+ [
+  86,
+  2195,
+  "ign, we're gonna be opening up, the, beta access in the next couple of weeks. So you can scan the QR code, get your wallet white listed, and"
+ ],
+ [
+  86,
+  2206,
+  " you can start interact with it. The first 100"
+ ],
+ [
+  86,
+  2209,
+  "the first thousand deployed, they're gonna gather Genesys NFT exclusively and zero deployment fees. And, there's gonna be price for the best"
+ ],
+ [
+  86,
+  2218,
+  " apps in the competition. My name is Rick. Been in four years in Crypto VC, now representing OpenXAI. I think Base is the ecosystem to be, a"
+ ],
+ [
+  86,
+  2227,
+  "nd this is great tool for you to start interact with it. So go try it out, farming, getting the competition,"
+ ],
+ [
+  86,
+  2234,
+  "and let's bring this, App Store moment into the Base ecosystem. You're welcome to Giant community. Thank you. Thank you, Rick. Please next w"
+ ],
+ [
+  86,
+  2248,
+  "elcome Chance with Murmur. Hello there. So I'm gonna be talking about Murmur, and this is not heart palpitations."
+ ],
+ [
+  86,
+  2260,
+  "This is a multiplayer Pomodoros for the Edge City Network app. Another way to think of it is a low effort way to stay connected to edge peop"
+ ],
+ [
+  86,
+  2268,
+  "le and to get things done. Okay. So what are multiplayer pomodoros? Very simple. Fifty minutes of focus with two or more people, with a simp"
+ ],
+ [
+  86,
+  2276,
+  "le format. You basically say, here's what you're gonna do or here's what I'm gonna do. Here's what I'm gonna do. You focus, lock in for fift"
+ ],
+ [
+  86,
+  2284,
+  "y minutes, then after, say what you're,"
+ ],
+ [
+  86,
+  2286,
+  "what you did. Okay. So we've been doing some in real life ones here. Many people here have probably joined. But why? Why do we want to do th"
+ ],
+ [
+  86,
+  2294,
+  "is? One way is simply you get more done when you do this. There is a certain kind of accountability that happens when you say you're going t"
+ ],
+ [
+  86,
+  2302,
+  "o do something, with another person there and the idea that person could see you, it just becomes less likely that you'll go on Twitter or I"
+ ],
+ [
+  86,
+  2310,
+  "nstagram"
+ ],
+ [
+  86,
+  2310,
+  "or that sort of thing. And here's a little thing from Strava. So this is a little adjacent, but I think you can apply it to this as well. So"
+ ],
+ [
+  86,
+  2318,
+  " Strava found, the running app, found that eighty three percent, of people are more likely to snag their PRs when they're in a group of two "
+ ],
+ [
+  86,
+  2325,
+  "or more versus solo. Okay. Why number two? So it is to create surface area for social tie formation, weak and strong ties,"
+ ],
+ [
+  86,
+  2332,
+  "which may make you think this, like, what the hell did he just say? But, I promise it's cool. It is so we can think of Puppet Village as soc"
+ ],
+ [
+  86,
+  2341,
+  "ial tie generators. So we I just took this screenshot when Timur was doing the orientation. If you look at each one of these, these are all "
+ ],
+ [
+  86,
+  2350,
+  "different pop ups that Edge has done. Another way you can look at them is they have created"
+ ],
+ [
+  86,
+  2356,
+  "probably thousands of new social ties. So net social ties. So we think of a social tie. You meet someone here. You get coffee. You get to kn"
+ ],
+ [
+  86,
+  2364,
+  "ow each other. You get on Telegram. You chitchat. Now you have a social tie. Five months later, you could say, oh, you said this. I can shar"
+ ],
+ [
+  86,
+  2373,
+  "e something with them or, that sort of thing. Or you can be strong ties as well, which we'll get into. This paper here, strength of weak tie"
+ ],
+ [
+  86,
+  2381,
+  "s, this is like the Bitcoin white paper for social network nerds. It is the most cited, paper in sociology, highly recommend if that's your "
+ ],
+ [
+  86,
+  2390,
+  "thing."
+ ],
+ [
+  86,
+  2390,
+  "But it basically showed two things. You have weak ties and strong ties. Think of strong ties like your best friends and your family, and you"
+ ],
+ [
+  86,
+  2398,
+  " have weak ties like a lot of people you meet here. And the paper found that most of our jobs, opportunities, this sort of thing actually co"
+ ],
+ [
+  86,
+  2405,
+  "mes for weak ties. So this is actually extremely valuable in our lives as well as just social ties are where a lot of the joy in life comes "
+ ],
+ [
+  86,
+  2413,
+  "from. So we have an online version of this called Murmur. So you can do the Pomodoros. You can see these are people from Edge, here."
+ ],
+ [
+  86,
+  2420,
+  "Is what it looks like. It's a simple book, session, and then there's also a cheeky project one that, I won't talk about now. And this is it."
+ ],
+ [
+  86,
+  2430,
+  " You can message me or try it out. Cheers. Thanks a lot. Thank you, Chance. Also, if you guys are interested in the pop up movement in gener"
+ ],
+ [
+  86,
+  2440,
+  "al, please find Chance. He has a wealth of knowledge on all things pop up villages and network society space."
+ ],
+ [
+  86,
+  2448,
+  "Next up is another LISC project called Jam It by Ike. Please welcome Ike. Alright, guys. How's everyone doing? My name is Ike, founder and C"
+ ],
+ [
+  86,
+  2463,
+  "EO of Jamit. One thing I want to ask everyone here is who listens to podcast here?"
+ ],
+ [
+  86,
+  2472,
+  "Amazing. Okay. So that's right. We have half a billion of you that listen to that every single day. But the only problem that we have right "
+ ],
+ [
+  86,
+  2480,
+  "now is that million of voices are still unheard, especially from emerging markets, especially from places that you guys might not even know "
+ ],
+ [
+  86,
+  2488,
+  "because they don't even have the equipments. They don't have the power to be able to do what you guys do with your own equipment."
+ ],
+ [
+  86,
+  2496,
+  "And so we decided to build Jamit. Jamit is the world's first decentralized storytelling platform that allows every single person to create, "
+ ],
+ [
+  86,
+  2504,
+  "own, and monetize their content wherever they are. So how simple is it? It's as simple as going to the app. You go ahead and record the stor"
+ ],
+ [
+  86,
+  2513,
+  "y that you want to tell. Sometimes you get sent voice notes and sometimes you don't even make money from that voice notes. Now you're going "
+ ],
+ [
+  86,
+  2521,
+  "to be able to make money because once you publish that on chain, it is forever monetize"
+ ],
+ [
+  86,
+  2526,
+  "monetizable by as an NFT, and you could be able to generate income from that. But if you don't want to even create a story, you can now gene"
+ ],
+ [
+  86,
+  2534,
+  "rate a stories in AI. So I'm here in Ed City. I have a friend of mine, which I'm not gonna call his name, but he fell in love with someone h"
+ ],
+ [
+  86,
+  2541,
+  "ere. And it's a good experience for Ed City, by the way. And, we know that most likely it might be a marriage or something, but I don't want"
+ ],
+ [
+  86,
+  2549,
+  " to put his whole story out there. And so what do I do? I come up with this idea. Like, this would be a cool thing to write as a story or as"
+ ],
+ [
+  86,
+  2557,
+  " a book. And so I'm like, okay. A guy, Ed City, who just fell into a love relationship, puts it in romance and then go ahead and, you know, "
+ ],
+ [
+  86,
+  2565,
+  "obviously, it's an adult story, so make it an adult story. I generate the story. I love the story. I read it and I'm like, yes. This is it c"
+ ],
+ [
+  86,
+  2572,
+  "aptures what my intent is at at least. And then I click looks good. I go ahead and I go into generating my cover art, you know, and once I d"
+ ],
+ [
+  86,
+  2580,
+  "o that, I can now generate even AI voices. So you could clone your voice now and actually narrate your own story without even doing the work"
+ ],
+ [
+  86,
+  2588,
+  " by going into a mic or doing all that."
+ ],
+ [
+  86,
+  2590,
+  "But what is different is that you can now actually sell it as well. And so, voila, in less than five minutes, you'll be able to generate a s"
+ ],
+ [
+  86,
+  2598,
+  "tory, generate an artwork, generate a voice, narrate the whole story, and then monetize it. Your story now pays you back for every single ti"
+ ],
+ [
+  86,
+  2606,
+  "me you think about something. You could end from stories with your fans giving you tokens, with crypto, stablecoins, and also our Jammie coi"
+ ],
+ [
+  86,
+  2615,
+  "ns which can be bought with fiat as well."
+ ],
+ [
+  86,
+  2617,
+  "So we had to add something else to make us more different. If gamers can play to earn, why can't listeners listen to earn? And so starting f"
+ ],
+ [
+  86,
+  2625,
+  "rom Tuesday, listeners are going to be able to earn list tokens, other stablecoins for every single thing that you do. If you listen to any "
+ ],
+ [
+  86,
+  2634,
+  "podcast, as long as you listen, you'll be able to enjoy some rewards. Your attention now has value, and we hope that every listen that you m"
+ ],
+ [
+  86,
+  2642,
+  "ake gives you the rewards you deserve. We are building the home to storytellers,"
+ ],
+ [
+  86,
+  2647,
+  "and we hope that you join us because the future of storytelling is here, is earnable, and you'll be able to make money from every single thi"
+ ],
+ [
+  86,
+  2655,
+  "ng you do with your voice and your story. We hope you join us for our launch event on Tuesday at the cinema. You can scan that, and we get t"
+ ],
+ [
+  86,
+  2662,
+  "o show you more about our apps. And then if you wanna join our waitlist, sign up on our website today. It's, jamie.app, and you'll be able t"
+ ],
+ [
+  86,
+  2670,
+  "o have access to the app once we launch it on Tuesday. Thank you very much."
+ ],
+ [
+  86,
+  2674,
+  "Good job. Go, Ike. I love podcast. I'll be using this for sure. Next up is one more list project, Paid. Please welcome Paid. Hi, everyone."
+ ],
+ [
+  86,
+  2698,
+  "Hi, everyone. My name is Ben. I'm the lead at of Money and Vibes at Paid, and we're essentially banking the future of work. So most of us he"
+ ],
+ [
+  86,
+  2705,
+  "re are either gig workers, remote workers, or basically working where we'd working where we don't live. Right? So you're, you know, working "
+ ],
+ [
+  86,
+  2712,
+  "living in Nairobi, working with a company in The US. You're living in Buenos Aires, working with a company in Germany. But then one thing we"
+ ],
+ [
+  86,
+  2719,
+  " may we may have noticed is that while money work has gone global, money has not caught up. Right? So we are getting gigs from all over the "
+ ],
+ [
+  86,
+  2727,
+  "world, but then getting paid around the world is slow, it's expensive, it takes a lot of time especially in the global South."
+ ],
+ [
+  86,
+  2733,
+  "This has not matched up with the reality that over the last five years, Gig work has grown five x. Right? We're seeing up to 43% of the inde"
+ ],
+ [
+  86,
+  2740,
+  "pendent talent out there providing gig and remote work services coming from from emerging markets, but then payments into emerging markets a"
+ ],
+ [
+  86,
+  2748,
+  "re still largely broken. Now this is what getting paid around the world looks like. You need a sandwich of apps to receive money into your w"
+ ],
+ [
+  86,
+  2756,
+  "allet and be able to spend that money today. But then what you're doing at paid is making it as simple as having one wallet where you can re"
+ ],
+ [
+  86,
+  2763,
+  "ceive payments around 35 plus countries globally through"
+ ],
+ [
+  86,
+  2766,
+  "USD, Euro, and GBP accounts, local mobile money and bank payouts, and Sablecoins across 10 chains. Money has been made to feel very what's t"
+ ],
+ [
+  86,
+  2775,
+  "he word? Tribal. You have to have money on platform x to spend it here. You have to have money in currency y to spend it here. What paid bas"
+ ],
+ [
+  86,
+  2784,
+  "ically does is make money truly borderless across fiat and digital currency."
+ ],
+ [
+  86,
+  2789,
+  "And all this is bought by stablecoin banking infrastructure. So under the hood, all payments are settled through stablecoins to make it fast"
+ ],
+ [
+  86,
+  2795,
+  ", instant, and efficient for you. We're working with a number of a number of key partners to make this possible. Across Africa, we're workin"
+ ],
+ [
+  86,
+  2802,
+  "g with Yellow Card which is, you know, largely licensed on the continent, bridge for USD and euro accounts, and we recently introduced cash "
+ ],
+ [
+  86,
+  2808,
+  "in cash out. So you can actually go and get physical cash at a MoneyGram agent across 80 plus countries within paid and Lisk, of course, pow"
+ ],
+ [
+  86,
+  2815,
+  "ers a blockchain infra."
+ ],
+ [
+  86,
+  2816,
+  "We're growing fast. And you you know, joining paid means joining a community of 37,000 freelancers who are getting paid on the platform and "
+ ],
+ [
+  86,
+  2823,
+  "some of the top businesses on the continent and in the world, you know, the likes of Masiko and Amal who are working with digital talent aro"
+ ],
+ [
+  86,
+  2831,
+  "und the world. In a nutshell, paid is think of paid as Stripe plus deal plus Wise for you in one single platform. Money anywhere in the worl"
+ ],
+ [
+  86,
+  2838,
+  "d ready for you to get paid and spend"
+ ],
+ [
+  86,
+  2840,
+  "whenever, wherever. So the only way you can't get paid on paid is with exposure. Scan the QR code and join us. Thank you. Amazing. Thank you"
+ ],
+ [
+  86,
+  2858,
+  ". We all like getting paid. Aza, are you up? There you are. Sorry. I think it was is this updated?"
+ ],
+ [
+  86,
+  2871,
+  "I'll leave it at that. Welcome, Aza. Alright. So my name is TC, and I make transactions fun like that. So yeah, okay. That's enough. Alright"
+ ],
+ [
+  86,
+  2888,
+  ". So, yeah, Tissy, I'm the CEO at Azer, and we're basically a WhatsApp based stablecoin neobank."
+ ],
+ [
+  86,
+  2900,
+  "And the basic reason why we've started building, like, in Africa and other emerging markets is the amount of volume and the, say, adoption t"
+ ],
+ [
+  86,
+  2908,
+  "hat stablecoins are currently gaining in the region. Right? So Africa saw, like, at least $205,000,000,000 this year alone in Africa. And th"
+ ],
+ [
+  86,
+  2916,
+  "ere's two key problems with payments in Africa. So, like, payments along all these regions and corridors are, like, slow, expensive, and it'"
+ ],
+ [
+  86,
+  2924,
+  "s pretty low accessibility."
+ ],
+ [
+  86,
+  2926,
+  "So in order to bridge that gap, a lot of people actually use stablecoins. Right? But, like, there's two key problems with that. So, basicall"
+ ],
+ [
+  86,
+  2934,
+  "y, going from stables to cash takes somewhere about thirty minutes or, like, major PSP exchanges and usually high fraud risk. So there's bas"
+ ],
+ [
+  86,
+  2942,
+  "ically, like, $405,000,000 that's been lost, like, due to fraudulent PSP transactions in Africa alone this year. And that's the reason why I"
+ ],
+ [
+  86,
+  2949,
+  " view it as a the fastest, easiest, and safest way to spend stable coins in Africa. And it's viewed right into WhatsApp where literally almo"
+ ],
+ [
+  86,
+  2957,
+  "st everyone lives their lives."
+ ],
+ [
+  86,
+  2959,
+  "So with other, you can basically, like, do cross border payments directly from WhatsApp with stablecoins instantly. Currently, pay across Ni"
+ ],
+ [
+  86,
+  2967,
+  "gerian naira, Kenya shillings, South African rands, and Ghana cities. And we do all the payouts through security short partners, so there's "
+ ],
+ [
+  86,
+  2975,
+  "literally no problems. And since we launched, we basically onboarded 9,000 users, and we processed a total traction volume of around $6,000,"
+ ],
+ [
+  86,
+  2983,
+  "000."
+ ],
+ [
+  86,
+  2983,
+  "And we basically launched in four countries as I already said. And there's a lot of trust with the community. So since we launched, there's "
+ ],
+ [
+  86,
+  2991,
+  "been a lot of good reviews on ASA so far. And we're poised to become Africa's billion dollar stablecoin bank. So, basically, we're just gonn"
+ ],
+ [
+  86,
+  2999,
+  "a walk through a very short demo to show what we do. So in order to just make a payment, it's just simple as texting. So just see pay 5,000 "
+ ],
+ [
+  86,
+  3008,
+  "NGN to whether that's an account number or in Nigeria or a mobile money number in Kenya or Ghana is just as simple as that. You do not need "
+ ],
+ [
+  86,
+  3016,
+  "to leave WhatsApp. You just do everything directly,"
+ ],
+ [
+  86,
+  3019,
+  "put in your PIN, and you're done. And also, you can use it as a normal wallet to basically send money across to anyone. So literally, if you"
+ ],
+ [
+  86,
+  3028,
+  " do not want to spend your if you don't want to, like, make payments directly, you can just do direct stablecoin transfers. And I think that"
+ ],
+ [
+  86,
+  3036,
+  "'s in the next one. So send 3 USDC on list to the phone number, and that's it. It's literally done. So to start using Azure right now, you j"
+ ],
+ [
+  86,
+  3045,
+  "ust need to scan the QR code and get started, literally. And when you are done, you'll be able to get a very cool card like you saw in the b"
+ ],
+ [
+  86,
+  3053,
+  "eginning of my demo. Thank you."
+ ],
+ [
+  86,
+  3055,
+  "Thank you, TC. That is awesome. I think we could use this in Argentina too, so no pressure. Next up from payments, we are going to biocomput"
+ ],
+ [
+  86,
+  3072,
+  "ers. So thank you. Let's take on the computer for the camera."
+ ],
+ [
+  86,
+  3080,
+  "Thank you. Joel Dietz. I'm involved with the California Institute for Machine Consciousness and the Society for Interdisciplinary Fundamenta"
+ ],
+ [
+  86,
+  3087,
+  "l Research. So we're looking at frontier math and, consciousness topics. But today, I'm really gonna talk about some interesting things that"
+ ],
+ [
+  86,
+  3094,
+  " have happened in the last decade starting really 2000, '12 when we're trying to figure out biofields and bioelectricity, all these things. "
+ ],
+ [
+  86,
+  3101,
+  "People started cutting apart these, worms basically, single celled organisms, and found that they replicated in novel ways."
+ ],
+ [
+  86,
+  3107,
+  "They also went to frogs, embryos, found out that they seem to have this interesting electrical property that you can observe, that includes "
+ ],
+ [
+  86,
+  3114,
+  "a form of memory and epigenetics that is not in the normal sense of what we knew about genomics and other things of that nature. We also sta"
+ ],
+ [
+  86,
+  3121,
+  "rted to be able to program individual bots and post them with various types of signal to get them to evolve in novel ways. It's called Xenob"
+ ],
+ [
+  86,
+  3128,
+  "ots. And then furthermore, we actually now have bio computers. The one you see here in the lower left is built in Australia."
+ ],
+ [
+  86,
+  3134,
+  "I'm getting one shipped to me actually this week. And, you can actually what they were able to do is take mouse neurons, connect them, and t"
+ ],
+ [
+  86,
+  3141,
+  "hey can actually play Pong independently on their own. Pretty cool. History of this is actually goes back to Goethe and various other mathem"
+ ],
+ [
+  86,
+  3148,
+  "aticians, but became very important, in this particular thing that happened in the mid sixties when someone took formal mathematical models "
+ ],
+ [
+  86,
+  3155,
+  "and then basically was able to plot them computationally about how shells should and various things would evolve in nature. And then they we"
+ ],
+ [
+  86,
+  3162,
+  "re able to plot it against the experimental research data, a lot of really important work done by Alan Turing as well. And this led into the"
+ ],
+ [
+  86,
+  3168,
+  " MorphoSpace of today, which is really plotting all of the math and different possible forms,"
+ ],
+ [
+  86,
+  3173,
+  "that are observable, among these sort of single celled organisms. But it applies down chain to a larger organisms like the human humans as w"
+ ],
+ [
+  86,
+  3180,
+  "ell, but we sort of discovered it most there. And now we have software. Basically, software allows us to actually edit, change, and, basical"
+ ],
+ [
+  86,
+  3187,
+  "ly get new shapes, based on this observable experiments we're able to do, at various points in the chain. So this is, you know, now hundred "
+ ],
+ [
+  86,
+  3194,
+  "years, but you can see, there's a lot of research been done recently."
+ ],
+ [
+  86,
+  3198,
+  "And what I have done, and this is actually went live recently, is specifically for Michael Levin, who some of you may know is the leading re"
+ ],
+ [
+  86,
+  3205,
+  "searcher in this space. He asked me to, map what's going on with the biological robots. And this is using probabilistic knowledge graphs to "
+ ],
+ [
+  86,
+  3211,
+  "basically map against the top level, hypotheses. These are all represent different areas of research, but some of them are related to the ab"
+ ],
+ [
+  86,
+  3218,
+  "ility to do cell regrowth, potentially the fact that cancer may itself be a bioelectrical,"
+ ],
+ [
+  86,
+  3222,
+  "disruption. And it uses a specific technology called probabilistic knowledge graphs. That's basically using kind of Bayesian inference conce"
+ ],
+ [
+  86,
+  3229,
+  "pt or a Bayesian brain. But basically, you're able to adjust the confidence in a particular thing over time interval. And so what you see he"
+ ],
+ [
+  86,
+  3235,
+  "re as these things come through, match against these, is the confidence. Every evidence is coming in is being weighted and then the confiden"
+ ],
+ [
+  86,
+  3242,
+  "ce is increasing around different things. And you can see if you've I mean, it's a little bit small, but you can probably see the text comin"
+ ],
+ [
+  86,
+  3248,
+  "g in. So we're now applying the same technologies. It went live with Nano publications within an immutable ledger earlier this week, so it's"
+ ],
+ [
+  86,
+  3255,
+  " very new."
+ ],
+ [
+  86,
+  3255,
+  "And then we're applying this to other research labs and various things at this moment. So if you're involved in the cutting edge of scientif"
+ ],
+ [
+  86,
+  3265,
+  "ic research or bio computers or virtual machines and you wanna be involved with this, yeah, get in touch. Thanks. Incredible. Thank you. Ver"
+ ],
+ [
+  86,
+  3276,
+  "y you should talk to Patrick, by the way, if you haven't met him yet. I'll make that intro. Next up is Husam with, Entity ID."
+ ],
+ [
+  86,
+  3285,
+  "Nice to be here on the Edge City stage. Who were in Thailand here? Let's check the wow. Okay. Clap for me then. Once upon a time in a farawa"
+ ],
+ [
+  86,
+  3299,
+  "y country, in a beautiful, beautiful, magical place, in Chiang Mai, in Edge City,"
+ ],
+ [
+  86,
+  3307,
+  "in a gathering just like this, few guys built, bootstrapped the very first version of registry chain. That's me presenting the first iterati"
+ ],
+ [
+  86,
+  3319,
+  "on. I'm here to continue the story. On the last episode, we spoke on registry chain that entity are constituent and constitutions like"
+ ],
+ [
+  86,
+  3330,
+  "then become together to to be registered. That could be considered legal entity, corporate or marriage. With registry chain, we transcript t"
+ ],
+ [
+  86,
+  3341,
+  "his legally binding terms to computationally binding ones. So that legal entity you have on on real life become deployed as a smart contract"
+ ],
+ [
+  86,
+  3353,
+  ". The"
+ ],
+ [
+  86,
+  3353,
+  "scope of the work of entities are the so called the right entity. It's any entity that has perpetual existent and tangible impact on the wor"
+ ],
+ [
+  86,
+  3365,
+  "ld, which which is pretty much on that. We are talking about DAOs, corporate, AI agent, synthetic, humanoid, LLC, normal organization."
+ ],
+ [
+  86,
+  3376,
+  "Now the product of entity ID as built on registry chain, it work in a very straightforward manner. It's a universal ID for all type of entit"
+ ],
+ [
+  86,
+  3387,
+  "ies. It's a URL, you could think of it, as it's WIP two, WIP three compatible, so you could query that from your browser or from blockchain,"
+ ],
+ [
+  86,
+  3398,
+  " get information or attribution about your counterparty"
+ ],
+ [
+  86,
+  3402,
+  "no matter it is a legal entity or it's a DAO or a AI agent. It's already integrated with more than 5,000 libraries, 700 apps. That's, you co"
+ ],
+ [
+  86,
+  3413,
+  "uld get the information in a JSON format or you could get it just like you could view that in our website, this red. It's like the Oracle ve"
+ ],
+ [
+  86,
+  3424,
+  "rifying on a on real time"
+ ],
+ [
+  86,
+  3426,
+  "the information between what you're seeing and what's on the board of trade, on the register. We have about less than 3,000,000 entities the"
+ ],
+ [
+  86,
+  3439,
+  "re in 300 jurisdiction. 200,000 of them are verifiable, which is with the Oracle. And we are holding the legal summit next week, just like t"
+ ],
+ [
+  86,
+  3451,
+  "oday and next Sunday."
+ ],
+ [
+  86,
+  3453,
+  "So come and join us. We're having a legal summit on DevConnect. And we have a little group for entity ID on Lanna. Thank you. Thank you so m"
+ ],
+ [
+  86,
+  3471,
+  "uch. Thank you. Thank you, Sam. Awesome. We have two more to go, and then it's dinner time. Next up, please welcome Sam from Muse. Alright."
+ ],
+ [
+  86,
+  3489,
+  "Hey, everyone. I'm Sam, and I'm actually from nope. Not there. From TinyCloud. Anyway, so at TinyCloud, we build a lot of stuff, and I wanna"
+ ],
+ [
+  86,
+  3504,
+  " show you guys Muse. So Muse lets you take your scattered data and turn it into context. So"
+ ],
+ [
+  86,
+  3513,
+  "what is Muse? Here, we could see, Muse in progress. So Muse enables businesses, networks, individuals to turn their scattered data, into use"
+ ],
+ [
+  86,
+  3521,
+  "ful context for AI. So earlier, in the earlier session, Kate was talking about the wellness. She's talking about the wellness center and kin"
+ ],
+ [
+  86,
+  3529,
+  "d of stuff that's going on there. And we've been using, we've been using Muse internally and dogfooding it and just having conversations rec"
+ ],
+ [
+  86,
+  3537,
+  "ording them."
+ ],
+ [
+  86,
+  3538,
+  "So what is possible here is while it's listening to Kate's discussion, I asked, like, hey. How can Muse help? Right? How can how how could K"
+ ],
+ [
+  86,
+  3546,
+  "ate use Muse and what she's talking about right now? So you're gonna go ahead and see. It was able to it knows what it is because it has all"
+ ],
+ [
+  86,
+  3555,
+  " this context. It has this memory. It's able to apply it immediately. So it's kind of, yes. In AI memory, and that's kind of what Muse is, k"
+ ],
+ [
+  86,
+  3563,
+  "ind of in a nutshell."
+ ],
+ [
+  86,
+  3564,
+  "There are a couple of features that we've been building. So here at Edge, we build live translation. It wasn't exactly for Edge. It's for ot"
+ ],
+ [
+  86,
+  3571,
+  "her really interesting use case. But our engineer, Roman, is from Ukraine, and he was speaking Ukrainian to me. I was responding English. We"
+ ],
+ [
+  86,
+  3578,
+  "'re just having a conversation, and we could just read what's going on. You guys have probably tried using translation apps here. This is, I"
+ ],
+ [
+  86,
+  3586,
+  " think, the best one I've used. It's not just because Roman made it."
+ ],
+ [
+  86,
+  3589,
+  "You can use it right now. It's on the World App Store. If you use edit the world, you can use it for free for a month, so check it out. Yeah"
+ ],
+ [
+  86,
+  3598,
+  ", so Muse basically lets you capture conversations, memory, and chat. So, when thinking when thinking about Muse, we have a couple features "
+ ],
+ [
+  86,
+  3606,
+  "coming up, integration with existing AI notetakers so that you kind of own your actual context. Right? Everyone gets your conversation that "
+ ],
+ [
+  86,
+  3615,
+  "you had except you,"
+ ],
+ [
+  86,
+  3616,
+  "and there's, like, other features we wanna build. The idea of Muse and TinyCloud is that you should own your data. Right? It's kind of like "
+ ],
+ [
+  86,
+  3623,
+  "a kind of a question of, like, what are we doing at TinyCloud? Why would we build Muse? The reason we're doing this is because conversations"
+ ],
+ [
+  86,
+  3630,
+  " are inherently really sensitive. Right? Like, you can have really sensitive conversations with your partner, sense business conversations, "
+ ],
+ [
+  86,
+  3637,
+  "and we think a lot about that, and not just privacy, but sovereignty."
+ ],
+ [
+  86,
+  3640,
+  "So we're building sovereign storage, sovereign compute, and sovereign AI, like transcription, translation, inference. You should be able to "
+ ],
+ [
+  86,
+  3647,
+  "own your stuff and use it in ways you want. So we have a couple of things that we're really thinking about. We're a really deep infrastructu"
+ ],
+ [
+  86,
+  3654,
+  "re company at TinyCloud. This application is just kinda one thing built on top of our infra. We're building a policy engine that's powered b"
+ ],
+ [
+  86,
+  3660,
+  "y verifiable data, super powerful. We have this identity tool called Open Credentials that lets people issue identities to themselves and to"
+ ],
+ [
+  86,
+  3667,
+  " their CRM keys,"
+ ],
+ [
+  86,
+  3668,
+  "like using, like, their GitHub, Twitter, whatever. We're building a HIPAA compliant tiny cloud. We have, like, a hospital partner that we're"
+ ],
+ [
+  86,
+  3675,
+  " really close to, working with that we're really excited about. So people can own their data, and it's HIPAA compliant, which is huge if you"
+ ],
+ [
+  86,
+  3681,
+  " HIPAA is, like, a medical privacy law. We're building scalability and infra with Eigen. We're doing interoperable apps with the world. So w"
+ ],
+ [
+  86,
+  3688,
+  "e're really a deep infra company where people can own their data, starting with conversation data. So check out TinyCloud, and if you have a"
+ ],
+ [
+  86,
+  3694,
+  "ny questions,"
+ ],
+ [
+  86,
+  3695,
+  "come find me. You can find us, you could join our friends of TinyCloud chat, friends of TinyCloud and Patagonia chat, and, we'll post what w"
+ ],
+ [
+  86,
+  3705,
+  "e're working on. So thanks. Thank you, Sam. Thank you. Thank you. An OG edge project. Sam has been building this across all of them. So supe"
+ ],
+ [
+  86,
+  3715,
+  "r excited to see him presenting again."
+ ],
+ [
+  86,
+  3718,
+  "We have one more, but this is gonna be off the record. So I'm gonna say bye to the online viewers. And, Shakal, give me"
+ ],
+ [
   88,
   2,
   "Excellent. So, yeah, I guess, I'll wait two more minutes and then we can we can kick off. Joe, it's it's great to see everyone that don't kn"
