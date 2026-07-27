@@ -400,10 +400,14 @@ footer a{color:var(--ink-dim)}
   .ux-art{width:auto;max-width:100%;max-height:132px;object-fit:contain}
   .modal .mtitle{font-size:1.22rem}
 }
-/* 🏝️ the island is your pointer — you carry Esmeralda around the archive
-   (Shaka's touch, Jul 25). hotspot = the island's rocky root-tip at the
-   bottom, so what you point at is never covered. desktop cursors only;
-   text fields keep the I-beam, Drive's iframe keeps its own. */
+/* 🏝️ the island is your pointer — you carry the Andes around the archive
+   (Shaka's touch, Jul 25 · Patagonia island art, Jul 27). hotspot = the
+   island's rocky root-tip at the bottom, so what you point at is never
+   covered. desktop cursors only (pointer:fine); links, buttons & cards
+   keep the hand, text fields keep the I-beam, Drive's iframe keeps its own. */
+@media (pointer:fine){
+  body{cursor:url('assets/patagonia-island-cursor.png') 16 29,auto}
+}
 </style>
 </head>
 <body>
@@ -413,7 +417,7 @@ footer a{color:var(--ink-dim)}
   <div class="sun"></div>
   <div class="hero-inner">
     <div class="badge-gift">🍴 a P.I.T. Protocol instance · the <b>second-generation</b> fork · open source forever</div>
-    <img src="assets/edge-island-andes.png" alt="Edge Island — the Heart of the Andes" style="width:96px;height:96px;object-fit:cover;border-radius:28px;box-shadow:0 12px 34px rgba(0,0,0,.45);display:block;margin:0 auto 1rem">
+    <img class="hero-art" src="assets/patagonia-floating-island.png" alt="A floating island — the Andes carried aloft, pines and cabins and all" style="width:min(220px,44vw);filter:drop-shadow(0 24px 50px rgba(120,180,255,.3))">
     <h1 class="logo">The Patagonia<br><em>PIT</em></h1>
     <div class="tagline">Public Information Transmission — the Edge City Patagonia knowledge archive · San Martín de los Andes, 2025</div>
     <div style="font-size:.78rem;color:var(--ink-dim);margin-top:.6rem;letter-spacing:.08em">a month-long popup village in the Andes, <b>transmitted</b> 🏔️📡 · a second-generation fork, with aloha 🕳️</div>
