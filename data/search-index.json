@@ -136330,6 +136330,1571 @@
   "days with you. Thank you. Thank you so much."
  ],
  [
+  82,
+  1,
+  "Thanks. Hi, everyone. My name is AJ, and I'm gonna be talking today about the brain as security and the security of the brain. It's a fun li"
+ ],
+ [
+  82,
+  10,
+  "ttle poetic title. But what I'll be talking about is the use of kind of new exciting biometrics, for security authentication. And then also,"
+ ],
+ [
+  82,
+  19,
+  " like, how do we keep these secure? We'll start off with research because that's where most of the advances have been. And then I'd also lik"
+ ],
+ [
+  82,
+  27,
+  "e to kinda go through the pathway of how this would look if we were to develop this as a real product. What kind of considerations would nee"
+ ],
+ [
+  82,
+  36,
+  "d to be made?"
+ ],
+ [
+  82,
+  37,
+  "So, yeah, I'm Aji. I'm a neural data scientist. And for, I guess, probably the past decade or so, I've been building AI for biosensing compa"
+ ],
+ [
+  82,
+  46,
+  "nies ranging from neurotech, like brain computer interfaces, to medical devices, leveraging signals from all parts of the body. So I'm reall"
+ ],
+ [
+  82,
+  54,
+  "y new to the security and web three crowd. It's been really fun to be here, and I'm really excited for follow on conversations."
+ ],
+ [
+  82,
+  62,
+  "So despite the fact that I'm kinda new to the security side, my work is cross disciplinary. You can imagine that if I'm doing neural data sc"
+ ],
+ [
+  82,
+  70,
+  "ience for, I don't know, brains, that I'd sit at the intersection of AI and biology. What this means in practice is also kinda sitting, at t"
+ ],
+ [
+  82,
+  77,
+  "he intersection of hardware, working with hardware teams to develop things that are capable of measuring the signals that we want. And then "
+ ],
+ [
+  82,
+  85,
+  "also knowing about the application spaces so I can build the right tool."
+ ],
+ [
+  82,
+  89,
+  "So in terms of these applications, this can range from things like medical, applications, so, talking with doctors to make diagnosis algorit"
+ ],
+ [
+  82,
+  97,
+  "hms. This could be cognitive and effective measurements, like measuring states like mental load, attention, and learning. And then in this t"
+ ],
+ [
+  82,
+  104,
+  "alk, one that I think we're all pretty familiar with and one that, you know, either we're not using or are using on our phones is biometric "
+ ],
+ [
+  82,
+  112,
+  "security. So this would be like authentication and the security crowd, which we are here together today."
+ ],
+ [
+  82,
+  118,
+  "So just a general overview of this conversation. First off, a little bit of a motivation for using biometrics. Why do we use them? And the n"
+ ],
+ [
+  82,
+  126,
+  "ext one will be kind of the research. So what are the new interesting biometrics that are being investigated in research, to kind of anticip"
+ ],
+ [
+  82,
+  135,
+  "ate some potential problems that the old ones might have? And, also, based off of this research, show some quick prototypes"
+ ],
+ [
+  82,
+  142,
+  "using brain signals and heart signals. I will not be running the demos during this presentation, but I'll just kind of show a quick overview"
+ ],
+ [
+  82,
+  149,
+  " of them. I'd be happy to talk about it more afterwards. Then we're gonna take a little bit of a pivot. We're gonna take this research, this"
+ ],
+ [
+  82,
+  156,
+  " promising research, and then we're gonna ask, what would it take to build this for real? And there's two questions that get asked when you'"
+ ],
+ [
+  82,
+  163,
+  "re building something for real, and they kinda happen at the same time,"
+ ],
+ [
+  82,
+  166,
+  "and play together. The first one is, can we build it? So this is, like, the feasibility. Like, how do we get this to work in real settings? "
+ ],
+ [
+  82,
+  174,
+  "And the second part is, should we build it? Is this the best tool for the job? Are there easier paths to success? And then on top of that, k"
+ ],
+ [
+  82,
+  181,
+  "ind of closing back off to the security of the brain would be the security and legal landscape, which seems very fascinating,"
+ ],
+ [
+  82,
+  188,
+  "and a lot of lot of cool conversations so far on that. So why biometrics? So we've all encountered losing our passwords. Biometrics are some"
+ ],
+ [
+  82,
+  198,
+  "thing that you are, not something that you have and can lose. Also, it gets you faster device unlocks. The current biometrics that we we typ"
+ ],
+ [
+  82,
+  209,
+  "ically use, face and voice, and kind of more recently some iris scans,"
+ ],
+ [
+  82,
+  214,
+  "are really, really powerful. They're really, really accurate. There's kind of some emerging threats, that research has kind of highlighted t"
+ ],
+ [
+  82,
+  221,
+  "hat they can be scraped without awareness, so you can grab them from social media cameras from a distance. AI is improving, so deepfakes are"
+ ],
+ [
+  82,
+  229,
+  " getting even better. And then, also, they don't really have inherent liveness to them, so they could be taken from, like, a sleeping or eve"
+ ],
+ [
+  82,
+  236,
+  "n less conscious"
+ ],
+ [
+  82,
+  237,
+  "individual, if someone was so inclined. So these new biosignals that people are investigating are, are biosignals, which is kind of a subset"
+ ],
+ [
+  82,
+  246,
+  " of biometrics. They're still biometrics. And what these are, they're signals that your body makes while it's alive and it's doing its thing"
+ ],
+ [
+  82,
+  254,
+  ". So this is like your heartbeat beat and your brain waves and even, like, walking and breathing. There's a lot of them that are being inves"
+ ],
+ [
+  82,
+  263,
+  "tigated."
+ ],
+ [
+  82,
+  263,
+  "So the cool thing about these is that they're dynamic, and people don't really know a lot about them, so they're currently pretty hard to sp"
+ ],
+ [
+  82,
+  270,
+  "oof. A lot of them require physical contact, which means that they're hard to steal from a distance without someone's awareness. Because the"
+ ],
+ [
+  82,
+  277,
+  "y naturally fluctuate, more systems don't need to be built around them in order to do liveness detections. They have the potential also for "
+ ],
+ [
+  82,
+  283,
+  "continuous authentication because there's something that happens constantly as opposed to, you know, kinda taking a picture and then waiting"
+ ],
+ [
+  82,
+  290,
+  " until the system locks you out again."
+ ],
+ [
+  82,
+  292,
+  "And they're increasingly available thanks to advancements in cheap and capable hardware. So some of the applications of biosignal identity t"
+ ],
+ [
+  82,
+  300,
+  "hat have been kind of, introduced to me as proof of personhood, like making sure that you're a real unique human, that one person don't does"
+ ],
+ [
+  82,
+  308,
+  "n't have multiple accounts or that bots aren't able to make accounts. And the other one would be kind of what we're all used to, this authen"
+ ],
+ [
+  82,
+  315,
+  "tication, this human key. So, like, are you the person who owns this account? So this would be the device unlock application, and that's wha"
+ ],
+ [
+  82,
+  323,
+  "t, I wanna show with the demos."
+ ],
+ [
+  82,
+  325,
+  "So, I've mentioned that these biosignals, can be used for authentication, and that's because, they're unique just like fingerprints and face"
+ ],
+ [
+  82,
+  333,
+  "s. So this is something that's known by the broader, like, biology neuroscience community for a while because it's been a big problem for us"
+ ],
+ [
+  82,
+  341,
+  ". It's really hard to build an algorithm on a group of people than have it work on entirely new person. But what's a bug there is a feature "
+ ],
+ [
+  82,
+  350,
+  "here."
+ ],
+ [
+  82,
+  350,
+  "Everyone's signals are really unique. So we have some pictures of an ECG wave, which is the electrical activity that your heart makes when i"
+ ],
+ [
+  82,
+  358,
+  "t beats. And we can see if we look closely that each of these squiggles is pretty different. And if a human can pick up on it, AI definitely"
+ ],
+ [
+  82,
+  366,
+  " can. So this is not like my discovery. This isn't new. In addition to knowing that people are unique and kinda having to solve for this as "
+ ],
+ [
+  82,
+  374,
+  "a problem, people have been exploiting this and investigating this as a, authentication"
+ ],
+ [
+  82,
+  379,
+  "signal in in literature. And a lot of papers in research and controlled environments have shown that you can get equal error rates, under 5%"
+ ],
+ [
+  82,
+  388,
+  " and even better in a lot of instances. So here's just some wonderful papers outlining some of the the work in this field. So, I like brains"
+ ],
+ [
+  82,
+  397,
+  ", so, I'm a little biased. But, so brains also are I mean, we all have different personalities. We all have,"
+ ],
+ [
+  82,
+  404,
+  "we all know inherently that that that our brains are unique. And it shows up even for really, really simple signals. So, the way that the sa"
+ ],
+ [
+  82,
+  412,
+  "me signal from the same stimulus can show up on the sensors is different for every person. The frequencies that we have within our bands, de"
+ ],
+ [
+  82,
+  420,
+  "lta, theta, alpha, etcetera, are a little bit different. And then also kind of the timing of the peaks and troughs that that might occur in "
+ ],
+ [
+  82,
+  428,
+  "response to, like, a really simple stimulus."
+ ],
+ [
+  82,
+  431,
+  "So this I the research in this area is a little less, I think, developed, and I'll get into this as we kinda talk into, like, what what does"
+ ],
+ [
+  82,
+  441,
+  " it take to take this from research into production? But there are some really promising results showing, low equal error rates under 5% as "
+ ],
+ [
+  82,
+  452,
+  "well. And this is using a variety of different brain signals,"
+ ],
+ [
+  82,
+  456,
+  "which I might not be able to get into in great depth in this conversation, but, I'm happy to talk about more after the fact. So ECG and EEG,"
+ ],
+ [
+  82,
+  465,
+  " we're all aware of the hospital monitors for ECG. We're also probably aware of the Apple Watch, like, all that kind of controversy around p"
+ ],
+ [
+  82,
+  475,
+  "eople getting scared about, atrial fibrillation from the ECG."
+ ],
+ [
+  82,
+  479,
+  "So it's, ECG has been miniaturized into watch form factors and also this this cool little credit card form factor. So that's really exciting"
+ ],
+ [
+  82,
+  487,
+  " because now we can measure it whenever we want. EEG is following a similar path. So we go from these, headsets that really require, like, a"
+ ],
+ [
+  82,
+  495,
+  "t least one other person to set it up. It's quite messy. I'll get into that later. To these kinda lower resolution, but more practical and e"
+ ],
+ [
+  82,
+  503,
+  "rgonomic devices,"
+ ],
+ [
+  82,
+  504,
+  "like this Muse headset, which I have right here, and then also the open VCI, which is a really great tool. So now that we know that these si"
+ ],
+ [
+  82,
+  513,
+  "gnals have unique properties, we can kinda train them the same way. We can train an AI to match snippets from the same person or mismatch sn"
+ ],
+ [
+  82,
+  522,
+  "ippets from different people, kinda the same way that a face authentication algorithm works."
+ ],
+ [
+  82,
+  528,
+  "I'm not gonna get into the details here, but, again, happy to elaborate later. And the cool thing about this is that we're able to get to a "
+ ],
+ [
+  82,
+  536,
+  "demo and a prototype really quickly. So I first built a prototype with this electrical heart signal because it's really easy to record. I do"
+ ],
+ [
+  82,
+  544,
+  "n't have the sensors in the box right now, but all you have to do is just press your fingers to it when the sensors are in the box. It's rec"
+ ],
+ [
+  82,
+  552,
+  "ognizable, so it doesn't require too much education or explanation."
+ ],
+ [
+  82,
+  556,
+  "And, because it's a pretty strong signal, we're able to have a really nice automated pipeline to preprocess the data and then also extract o"
+ ],
+ [
+  82,
+  565,
+  "ut this heart key, this kind of code that encodes identity. Also built one with EEG, so I'm still in the process of getting a pretty visuali"
+ ],
+ [
+  82,
+  574,
+  "zation of the key. And the main reason for building this one is brains are really cool. It's a great opportunity to talk about them, but it'"
+ ],
+ [
+  82,
+  583,
+  "s pretty hard to see real brain waves on low fidelity consumer hardware. It's also kinda hard to see them on research grade stuff too."
+ ],
+ [
+  82,
+  591,
+  "Typically, you have to do some mental tasks, so it's not as fun or as low commitment, if you wanna see them, but it's it's only a minute. An"
+ ],
+ [
+  82,
+  600,
+  "d, hopefully, I'll have a nice demo of this, with the code at demo day. But this is an example of the signal that your brain makes when it s"
+ ],
+ [
+  82,
+  609,
+  "ees a simple, visual flash. And this is the headset that I have, so it just shows sensors on the front."
+ ],
+ [
+  82,
+  616,
+  "So one thing to keep in mind is that biological signals, they might kind of exploit similar physics, but they have different properties. ECG"
+ ],
+ [
+  82,
+  624,
+  ", even kind of like a pretty moderately sized ECG signal is way stronger than even the strongest EEG signal. So this is like an idealized si"
+ ],
+ [
+  82,
+  633,
+  "tuation with no noise, no other competing signals from the body, and a really high amplitude EEG signal, so just as a visualization."
+ ],
+ [
+  82,
+  641,
+  "So with weaker signals and kind of more ergonomics and also just more complexity of the organ, all biometrics have a lot of moving parts. Th"
+ ],
+ [
+  82,
+  650,
+  "e complexity of, like, an ECG system is, like, complicated like a solar system, whereas, like, looking at far distant galaxies is kinda more"
+ ],
+ [
+  82,
+  659,
+  " akin to the complexity of an EEG signal. So now we're gonna move into the can we build it? And I've mentioned AI, and you might think I mig"
+ ],
+ [
+  82,
+  668,
+  "ht talk about the, AI model. But in practice,"
+ ],
+ [
+  82,
+  671,
+  "AI doesn't really exist without data. And in industry, it's far more important to get your data pipeline set together, get standardization, "
+ ],
+ [
+  82,
+  680,
+  "and also make sure your training sets encompass the wide range of conditions that you expect your your device to work in. So, this is just a"
+ ],
+ [
+  82,
+  689,
+  " nice visualization from the former, Tesla autopilot lead about what it's like when you're working at a company."
+ ],
+ [
+  82,
+  696,
+  "It's it turns into a lot more kinda data work. And, data collection for biological stuff, you know, it's never simple to scrape data from th"
+ ],
+ [
+  82,
+  704,
+  "e Internet, but, collecting in house is expensive and time consuming and requires bringing in human subjects. So a lot of times, if you can,"
+ ],
+ [
+  82,
+  712,
+  " it's great to start off with open source datasets. So there's been some amazing efforts for open source data. There's been there open sourc"
+ ],
+ [
+  82,
+  720,
+  "e data sharing for places like Physiotnet and OpenNeuro,"
+ ],
+ [
+  82,
+  723,
+  "and then also, really importantly, data standardization and then experiment standardization. So, basically, a lot of these benchmarks curren"
+ ],
+ [
+  82,
+  731,
+  "tly kind of optimized for laboratory experiments, and I'm just gonna talk a little bit about the kinds of experiments that if I, you know, w"
+ ],
+ [
+  82,
+  739,
+  "as building a benchmarking system for these AI algorithms and performance that I'd wanna incorporate into that so that we can contribute to "
+ ],
+ [
+  82,
+  747,
+  "meaningful problems without having to work in the field for, like, ten plus years."
+ ],
+ [
+  82,
+  752,
+  "So, like, as I said, 90% of the data scientist's time, the figure varies depending on how someone's feeling that day, is wrangling the data,"
+ ],
+ [
+  82,
+  761,
+  " and it would be great if we could just load it in. So this, brain imaging data structure, this BIDS format, is a really great step in that "
+ ],
+ [
+  82,
+  770,
+  "direction to being able to just load it into open source data and just get going. So even once we account"
+ ],
+ [
+  82,
+  777,
+  "for a lot of the neural data online that is not saved in the standard format, we still have some problems, some challenges, and some fun stu"
+ ],
+ [
+  82,
+  786,
+  "ff that will require advanced methods development in order to solve. So most neuroscience datasets are small. They're not, like, usually mor"
+ ],
+ [
+  82,
+  795,
+  "e than 20 or 50 people. This is never ideal, but they're they're, collected and controlled in ideal situations, which is really great when y"
+ ],
+ [
+  82,
+  803,
+  "ou want to find out things about way the way that the body is responding or doing things."
+ ],
+ [
+  82,
+  809,
+  "So this is amazing when it comes to research, but it only captures perspectives of people in, like, really ideal circumstances. So we train "
+ ],
+ [
+  82,
+  818,
+  "our self driving cars to work in unideal circumstances like rain. So if we wanna use these things in the wild, how do we get our neuro AI mo"
+ ],
+ [
+  82,
+  827,
+  "dels to drive in the rain? So first off, we need to include a lot of different people. So this is well known in medical,"
+ ],
+ [
+  82,
+  835,
+  "diagnostics because we want to avoid bias in the model, for certain groups of people. And then, additionally, getting different perspectives"
+ ],
+ [
+  82,
+  842,
+  " of the same person. So the same way you enroll different pictures of your fingerprint or take different pictures of your face, showing the "
+ ],
+ [
+  82,
+  849,
+  "signal in different, circumstances because, you know, we're we're living beings that, you know, our heart rates change is really important t"
+ ],
+ [
+  82,
+  856,
+  "o make sure that the models are resilient to that and can identify you no matter or not, you know, if you have a frown or a smile."
+ ],
+ [
+  82,
+  863,
+  "The other one, which is a little less exciting but incredibly important, is, different recording conditions. So we all kind of have examples"
+ ],
+ [
+  82,
+  872,
+  " of data quality in our day to day lives. So we all know that we don't go to a city to stargaze because we have light pollution that masks t"
+ ],
+ [
+  82,
+  881,
+  "he signals of the stars that we wanna see. Environmental noise is also a factor in neural signals."
+ ],
+ [
+  82,
+  887,
+  "Additionally, we don't really expect to get a good picture if we're jumping on a trampoline or if a dog is moving. So this is kind of, like,"
+ ],
+ [
+  82,
+  895,
+  " an example of a dog sitting still nicely and getting good data and then a dog doing its doing its dog thing, being adorable, but not really"
+ ],
+ [
+  82,
+  904,
+  " great for for algorithms. So the the goal of this is to remediate in some cases. Like, sometimes you can fix the the data so you don't have"
+ ],
+ [
+  82,
+  912,
+  " to lose it, or you can exclude it and then retry a collection as well,"
+ ],
+ [
+  82,
+  916,
+  "which I think probably happens during, like, enrollment. If it's, like, low light or your fingerprint is muddy, that might say something. Ad"
+ ],
+ [
+  82,
+  925,
+  "ditionally, ergonomics is a factor. So in research in a lot of these research papers, they're using, these, you know, research grade EG head"
+ ],
+ [
+  82,
+  933,
+  "sets with a lot of sensors that have great coverage of the entire scalp, but it requires this electrolytic gel to be put into each of those "
+ ],
+ [
+  82,
+  942,
+  "holes so that it can bridge the sensor to the scalp."
+ ],
+ [
+  82,
+  945,
+  "And this is really messy. It's not only messy, but you can't really set it up yourself. And then you have to go wash your hair in some basem"
+ ],
+ [
+  82,
+  955,
+  "ent somewhere. So when you have this gel, you get nicer kind of, signals. It's kind of like, taking static noise off of a microphone, but yo"
+ ],
+ [
+  82,
+  965,
+  "u at the expense practicality. Also,"
+ ],
+ [
+  82,
+  968,
+  "because there's this problem of the hair, a lot of the more ergonomic and practical ones have less sensors that, you know, some of them are "
+ ],
+ [
+  82,
+  976,
+  "in the hair, but some of them are just kind of more in frontal areas with skin. And this is basically akin to having a photo with less pixel"
+ ],
+ [
+  82,
+  983,
+  "s in it, so you get lower resolution and, like, lower coverage. Like, for example, if you only have sensors here, you might not be able to m"
+ ],
+ [
+  82,
+  991,
+  "easure signals that are happening in the back of your head."
+ ],
+ [
+  82,
+  994,
+  "And then especially for identity, a factor to consider is attack resilience too. This kind of ranges from machine learning based adversarial"
+ ],
+ [
+  82,
+  1002,
+  " attacks and then also hardware attacks where you kind of inject signals into the hardware itself, and there's been some really cool studies"
+ ],
+ [
+  82,
+  1009,
+  " on hacking ECG biometrics here. And just, yeah, shout out to my collaborator, Justin, who couldn't be here at that. We're working on this t"
+ ],
+ [
+  82,
+  1017,
+  "ogether."
+ ],
+ [
+  82,
+  1017,
+  "So now after we kind of get excited about, like, okay, how do we solve this problem? Does it actually solve what we want it to solve? So fir"
+ ],
+ [
+  82,
+  1024,
+  "st off, we can gear open benchmarks towards these problems, like these practical problems I described, and it'll accelerate tech because it'"
+ ],
+ [
+  82,
+  1032,
+  "ll expand their uses for signals that we already understand and then also allow us to see signals that have only been observed in the lab ou"
+ ],
+ [
+  82,
+  1039,
+  "tside of the lab. So it's good for science and kind of cool tech development."
+ ],
+ [
+  82,
+  1043,
+  "But, you know, even if we don't do this, we can still keep using them in circumstances that they're suited for. So the questions that we kin"
+ ],
+ [
+  82,
+  1050,
+  "d of ask ourselves before building is kind of multifactorial. It's like business anchoring. Like, it is the the juice versus squeeze. Is it "
+ ],
+ [
+  82,
+  1058,
+  "more expensive? Is there a simpler tool that can get us to to this problem or solving this problem that we want? One thing that comes up a l"
+ ],
+ [
+  82,
+  1065,
+  "ot is making"
+ ],
+ [
+  82,
+  1066,
+  "sure that technology is accessible to low middle income countries and just kind of making sure that they're accessible to people in general."
+ ],
+ [
+  82,
+  1075,
+  " Like, what what benefit does a new, like, biosensor have if you have a phone that can do something similar? And then, like, how much does i"
+ ],
+ [
+  82,
+  1083,
+  "t chip away at an actual problem? Quantifying this with money is pretty important. So in the case of biosignals, the big ones are spoofing"
+ ],
+ [
+  82,
+  1092,
+  "proof of personhood and continuous authentication. So we'd wanna drill in on that a little bit more. We kinda talked about the concept of it"
+ ],
+ [
+  82,
+  1100,
+  " being the best tool for the job. And then finally, kind of the security aspect. Biometrics are amazing because they're with you all the tim"
+ ],
+ [
+  82,
+  1108,
+  "e, but they're kinda like the ultimate reuse password. If it gets stolen, there might be problems down the road. And so there's different st"
+ ],
+ [
+  82,
+  1116,
+  "ages of the pipeline from the actual signal to the kind of hash that the AI algorithm builds to kind of create your key."
+ ],
+ [
+  82,
+  1123,
+  "And then also some legal things to to consider about biometrics. They're treated a little bit differently than other data. So in terms of, l"
+ ],
+ [
+  82,
+  1131,
+  "ike, the business anchoring for just kinda wanted to show that there's been a company that wanted to do kinda ECG biometrics, and they've al"
+ ],
+ [
+  82,
+  1139,
+  "ready pivoted away from ECG. I don't know why. But this would be a really interesting thing to dig into if we wanted to kind of learn from"
+ ],
+ [
+  82,
+  1147,
+  "any challenges they encountered and, you know, see if those challenges apply to our, like, kind of practical use case. The cool thing about "
+ ],
+ [
+  82,
+  1155,
+  "this is that it's a continuous authentication device, and it seems like they're selling it. They've pivoted to kind of a combination of a fi"
+ ],
+ [
+  82,
+  1162,
+  "ngerprint and motion sensors. So it's also a good opportunity to learn more about the problems that people care about in that domain. And th"
+ ],
+ [
+  82,
+  1170,
+  "en so finally,"
+ ],
+ [
+  82,
+  1171,
+  "this kind of legal aspect of not just identity biometrics, but ones that are associated with health and then also cognition. So there's this"
+ ],
+ [
+  82,
+  1180,
+  " beautiful paper, beyond neural data, cognitive biometrics, and mental privacy that describes the landscape of laws that are emerging to pro"
+ ],
+ [
+  82,
+  1188,
+  "tect, what they call cognitive biometrics. So the kinds of biometrics that might be might come off of, like, a smartwatch or smart ring or t"
+ ],
+ [
+  82,
+  1197,
+  "his little Muse device that I have here,"
+ ],
+ [
+  82,
+  1199,
+  "that's sensitive information too. Like, that or that could potentially be sensitive information too. What are the laws around that? And so t"
+ ],
+ [
+  82,
+  1206,
+  "here's been a lot of really great efforts to start legislating against this, but what they found, this kind of group of lawyers and scientis"
+ ],
+ [
+  82,
+  1214,
+  "ts, is that laws are generally too specific and focus on, like, the sensor type, whether or not it's recording from the brain or something p"
+ ],
+ [
+  82,
+  1221,
+  "hysiological or the application. So, a lot of laws,"
+ ],
+ [
+  82,
+  1224,
+  "only protect, signals that are intended for authentication as opposed to, like, health tracking or kind of cognitive state estimation. So ju"
+ ],
+ [
+  82,
+  1232,
+  "st kind of as I've gone through this and just conversations that I've had, kind of two of the synergies I've noticed, with with Web three ab"
+ ],
+ [
+  82,
+  1240,
+  "out how to, like, accelerate open neurotech would be this kind of concept of open source data and standardization that I talked about,"
+ ],
+ [
+  82,
+  1248,
+  "incentives for researchers to standardize their data when they post it online or incentivizing, like, open source developers to create these"
+ ],
+ [
+  82,
+  1256,
+  " conversion tools and databases themselves. Additionally, maybe wrappers to assess data format compatibility as well. So it's kind of, like "
+ ],
+ [
+  82,
+  1264,
+  "a a unit test to see if it even matches the the standards. And this is really great because it could help open science and academia get into"
+ ],
+ [
+  82,
+  1272,
+  " big data territory, you know, combining things across all the efforts of the world and start chipping away at these algorithms that can all"
+ ],
+ [
+  82,
+  1280,
+  "ow us to do that. And the next one would be kind of this security privacy ownership angle."
+ ],
+ [
+  82,
+  1285,
+  "So, like, how to collect the data, how to use the data in ways that, you know, people feel comfortable with, and they get to benefit from th"
+ ],
+ [
+  82,
+  1293,
+  "e use cases as opposed to being surveilled or, you know, not benefiting from it. So a couple things have come up would be trusted execution "
+ ],
+ [
+  82,
+  1300,
+  "environments, privacy preserving machine learning where the data and the models are not always on the same computer. So it's this way for li"
+ ],
+ [
+  82,
+  1308,
+  "ke, if you wanted to build a machine learning model, you don't necessarily need to download the data onto your computer in order to do that."
+ ],
+ [
+  82,
+  1316,
+  " And then also, like, depending on feasibility and application encryption schemes, which will be talked about in the next talk, to preserve "
+ ],
+ [
+  82,
+  1324,
+  "the privacy of the data as well so that the kind of hashes,"
+ ],
+ [
+  82,
+  1327,
+  "which probably if it's a neural network, it's probably not gonna be able to be reproduced into or kind of reverted into the the core bio sig"
+ ],
+ [
+  82,
+  1336,
+  "nal, but still very, very important to keep that because updating models is tough. Yeah. There's a lot of next steps in many different disci"
+ ],
+ [
+  82,
+  1345,
+  "plines to make the models more robust, design the hardware, proof of personhood,"
+ ],
+ [
+  82,
+  1350,
+  "and then collaborations with cryptography and security and and more. So, yeah, thank you so much for being here and listening to me talk abo"
+ ],
+ [
+  82,
+  1359,
+  "ut something that I'm very passionate about. You can reach me at, Synchrograph on or just that email if you have any further questions. I'll"
+ ],
+ [
+  82,
+  1368,
+  " also post some updates pretty sporadically on Instagram and Substack and make some posts to the human tech covenant too"
+ ],
+ [
+  82,
+  1376,
+  "relating to biometrics. Yeah. With that, I'd just like to open up for questions. Excuse me. Okay. I'm"
+ ],
+ [
+  82,
+  1399,
+  "I'm curious if you you know, on the Web three point side in terms of, like, incentivizing data standardization and stuff, it seems like you "
+ ],
+ [
+  82,
+  1407,
+  "guys have thought about that. Have you looked at all in terms of, like, incentivizing, like, the actual data collection and stuff? Because i"
+ ],
+ [
+  82,
+  1415,
+  "n, like, the world of D side, we've seen a lot of, like, people being able to really scale up kind of, like, you know, non FDA style"
+ ],
+ [
+  82,
+  1423,
+  "Yeah. Trials and things. And so I'm curious, especially given you were mentioning, I think, like, most of the current data sets are, like, 1"
+ ],
+ [
+  82,
+  1432,
+  "5 to 25 subjects or whatever. Like, you know, that seems like such an easy way to just absolutely blast past that and see kind of what, like"
+ ],
+ [
+  82,
+  1441,
+  ", a step change in scale could deliver there. Yeah. I I totally agree."
+ ],
+ [
+  82,
+  1445,
+  "And I've would I so there have been some really interesting conversations about, kind of studies that happen at, kind of conferences like th"
+ ],
+ [
+  82,
+  1454,
+  "is. I I I love that idea, and I'd love to talk about it more. Yeah. Being able to get, like, incentivize people to upload their data and the"
+ ],
+ [
+  82,
+  1463,
+  "n get some sort of, like, a reward if the data is used in a model that gets, like, deployed on, I don't know, maybe, like, an open BCI or an"
+ ],
+ [
+  82,
+  1472,
+  "other kind of open at least open source software,"
+ ],
+ [
+  82,
+  1475,
+  "like, headset or something. So, yes, I I I've I've I've dreamed about that, and I don't have any kind of specific answers for you. But if yo"
+ ],
+ [
+  82,
+  1488,
+  "u've sounds like you might have some experience in this area, so I'd love to talk further. For sure. K. Yeah. Thanks. Love to chat. Cool. Al"
+ ],
+ [
+  82,
+  1501,
+  "right. I think we're at oh. So, definitely,"
+ ],
+ [
+  82,
+  1505,
+  "we there's people in different countries, and they don't have identity, like, birth certificates. But then, like, the dystopian view of, lik"
+ ],
+ [
+  82,
+  1514,
+  "e, using your body or your biometrics to sign things makes me think of these wrench attacks that keep on happening crypto. Basically, people"
+ ],
+ [
+  82,
+  1523,
+  " getting kidnapped until they, yeah, produce a seed worth related to their money. And, if your seed worth is basically your body, then it ki"
+ ],
+ [
+  82,
+  1531,
+  "nda becomes even, I don't know, easier. So,"
+ ],
+ [
+  82,
+  1534,
+  "I definitely acknowledge the value in it, but I also see the, yeah, ramifications of what is happening now with biometric authentication sys"
+ ],
+ [
+  82,
+  1542,
+  "tems like World or not even biometric authentication, but just, like, having these seed phrases that you know and then people kidnapping you"
+ ],
+ [
+  82,
+  1550,
+  " until you, give the money. Yeah. I and I I think this is a really interesting point, and this is definitely kind of a part of the the Jeff "
+ ],
+ [
+  82,
+  1557,
+  "Goldblum equations. Like, we can build this. So, like, what are the unintended consequences or downstream effects that"
+ ],
+ [
+  82,
+  1564,
+  "make it a good idea or maybe don't make it a good idea? So I think that's really important to look into, and I I I kind of agree that it's i"
+ ],
+ [
+  82,
+  1574,
+  "t's important to think about what safeguards would be if there if there even are in that area. So thanks. Hello. Oh, hi. So I I got a lot of"
+ ],
+ [
+  82,
+  1584,
+  " thoughts about this. This is something that keeps me up at night. So"
+ ],
+ [
+  82,
+  1589,
+  "first of all, kudos to you for coming up with new authentication methods. It's something that we need. It's pretty cool. And also for doing "
+ ],
+ [
+  82,
+  1598,
+  "security testing, which is something that a lot of hardware in this space, I feel like, doesn't get. So that's really cool. I guess, to me, "
+ ],
+ [
+  82,
+  1608,
+  "this is, an example of how we're getting more and more, converging with technology that is not biological."
+ ],
+ [
+  82,
+  1615,
+  "So when I when I think about this, one of the things that crosses my mind is, I guess, for one, I still feel like this technology will be af"
+ ],
+ [
+  82,
+  1625,
+  "fected by the same type of cybersecurity attacks that do exist and then present new problems as well. So one thing that I saw was how you us"
+ ],
+ [
+  82,
+  1635,
+  "e Ring up there for your stress levels. There's something that,"
+ ],
+ [
+  82,
+  1639,
+  "you can use called Halo. And, like, when you're sleeping, it goes based off of your metrics here to induce sleep. So I sense that there can "
+ ],
+ [
+  82,
+  1648,
+  "also be, like, spoofing attacks that people can replay or can, you know, get you to, authenticate perhaps in order to use some sort of, you "
+ ],
+ [
+  82,
+  1657,
+  "know, out of channel authentication for your bank account or something."
+ ],
+ [
+  82,
+  1662,
+  "So that's kind of subject number one, I guess. Two is as our interfaces change like BCIs and that becomes the new limit of the type of infor"
+ ],
+ [
+  82,
+  1669,
+  "mation we can access, I definitely sense that this is gonna be super helpful in that domain as we approach it rather than for, like, bank ac"
+ ],
+ [
+  82,
+  1676,
+  "counts or Facebook or something. Yeah. So those is that accurate to where you're building into? Or you trying to make, like, the thing for t"
+ ],
+ [
+  82,
+  1683,
+  "oday? So I kind of view the kind of, like, work in demos as, like, a conversation conversation starter starter because because the we're use"
+ ],
+ [
+  82,
+  1690,
+  "d to kind of this application of authentication in our in our day to day lives. But the fact of the matter is, like, we're recording"
+ ],
+ [
+  82,
+  1697,
+  "biometrics all the time, right, and for different purposes other than authentication. So, you know, you bring up the the idea of this halo. "
+ ],
+ [
+  82,
+  1705,
+  "What's the security on halo? Like, you could maybe authenticate with those signals. So if someone if that is not secure, then now you could "
+ ],
+ [
+  82,
+  1713,
+  "potentially have a big database of people's, like, I guess, PPG signals that you that also are pretty discriminative"
+ ],
+ [
+  82,
+  1719,
+  "when it comes to identifying a person. So I personally, I'm I'm really excited about just the security aspect. Like, less like, I'm excited "
+ ],
+ [
+  82,
+  1727,
+  "about the whole proof of personhood concept because bots are seem seem to be a problem on the Internet. But I'm really, really excited about"
+ ],
+ [
+  82,
+  1736,
+  " just kind of securing this as a whole. And so the same sort of encryption that we would want to do for, like, identity applications,"
+ ],
+ [
+  82,
+  1744,
+  "like, maybe that there's an opportunity to do encryption for these other kind of more cognitive or health applications too. Because this tec"
+ ],
+ [
+  82,
+  1751,
+  "hnology is already out there. It's probably everyone wants to make it better. We wanna measure more and more things about ourselves. And, ye"
+ ],
+ [
+  82,
+  1757,
+  "ah, it's been really great talking with security researchers. Like, I wouldn't have done I wouldn't have looked into the attacks personally,"
+ ],
+ [
+  82,
+  1764,
+  " you know, because I come from a different domain. So it's conversations I had with,"
+ ],
+ [
+  82,
+  1768,
+  "my collaborator, Justin, in Berlin that brought that up. And so this allows people like me who are just kinda focused on making the technolo"
+ ],
+ [
+  82,
+  1775,
+  "gy work better, also kind of consider some of the broader implications too and how to secure it further. So I don't if that answers your que"
+ ],
+ [
+  82,
+  1783,
+  "stion. Can can I steal one more? Oh, yeah. I guess, I've been in the space for a while, not necessarily hardware, not necessarily not necess"
+ ],
+ [
+  82,
+  1790,
+  "arily biology, but,"
+ ],
+ [
+  82,
+  1791,
+  "I can see also, that an attacker could potentially, train based off of stuff and then develop, I don't know, which seems within our abilitie"
+ ],
+ [
+  82,
+  1800,
+  "s today, like, organoids to replay your similar like, we can, that would be kinda like a brute force perhaps. Like, we have little hearts th"
+ ],
+ [
+  82,
+  1810,
+  "at we can Yeah. Get to send signals. And if we can, essentially,"
+ ],
+ [
+  82,
+  1814,
+  "continue to iterate through lots of the, signals, you could then, you know, break into someone's account that way by emulating what it was j"
+ ],
+ [
+  82,
+  1821,
+  "ust by without having to guess. You just have the hearts on Yeah. Hearts on demand. Similar to the bots, you have little heart bots. Yeah. Y"
+ ],
+ [
+  82,
+  1829,
+  "eah. So little organoids are I'm not gonna say cheap, but you can make them. Right? Yeah. Yeah. And it it might even be simpler than that. S"
+ ],
+ [
+  82,
+  1836,
+  "o there's there's actually a lot of interest in being able to replay and control, like, ground truth biological signals,"
+ ],
+ [
+  82,
+  1842,
+  "which you don't get when you're dealing with a human because we're just a mixture of a bunch of uncontrolled factors. So these are things ca"
+ ],
+ [
+  82,
+  1848,
+  "lled phantoms that you can kind of inject current through and then kinda create, like, fake signals. And I could totally see something like "
+ ],
+ [
+  82,
+  1854,
+  "that happening in this case where, like, let's say you had, like, an EEG cap and you were able to get someone's signals. You might be able t"
+ ],
+ [
+  82,
+  1861,
+  "o replicate it on a phantom. That would be a little bit more difficult, but let me let me show you. So"
+ ],
+ [
+  82,
+  1865,
+  "this particular, like, ECG band, someone did a really amazing paper hardware hacking this, and it's just a single stream of ECG signal. And "
+ ],
+ [
+  82,
+  1873,
+  "they showed that if they were able to, like, steal someone's ECG signal from palm readers, which is, like, really common at, like, exercise "
+ ],
+ [
+  82,
+  1881,
+  "machines. When you press it, that's how they get your heart rate. I don't know what the fidelity is, but they were able to hack into it just"
+ ],
+ [
+  82,
+  1890,
+  " by, like, you know, put doing, like, a"
+ ],
+ [
+  82,
+  1892,
+  "waveform generator, like, an arbitrary waveform generator. So it didn't even require, like, anything because, ultimately, this is just measu"
+ ],
+ [
+  82,
+  1900,
+  "ring, like, electrical signals. So in this case, the this band has some controls, some multimodal controls. So if if I were to further build"
+ ],
+ [
+  82,
+  1908,
+  " this out, I would want to also include other multimodal signals that so, like, for example, the organoid. That's not walking around, you kn"
+ ],
+ [
+  82,
+  1916,
+  "ow, and stuff. So if there's, like, a way to z k"
+ ],
+ [
+  82,
+  1919,
+  "people's gate or their GPS coordinates, I don't know. That might be another attack to say, like, okay. Something doesn't add up here in in t"
+ ],
+ [
+  82,
+  1929,
+  "erms of, like, authenticating an individual. So these are just kinda things that, like, I've thought of, but definitely, like, I get these t"
+ ],
+ [
+  82,
+  1939,
+  "hings like these ideas because of the conversations I have with people at at conferences like this. So yeah. Thank you. I I yeah. Hopefully,"
+ ],
+ [
+  82,
+  1948,
+  " that answers your question. Or cool."
+ ],
+ [
+  82,
+  1951,
+  "Thank you for talk. I'm from that space as well. Spent probably fifteen years in the And EEG I'm curious to so we can definitely talk about "
+ ],
+ [
+  82,
+  1959,
+  "it after. But I'm curious to have your take about the form factor. What do you see in kind of like because we're not gonna use the muse to, "
+ ],
+ [
+  82,
+  1967,
+  "like, put it on ID into something. So what do you see in term of form factor in these devices, like headphones and and augmented reality and"
+ ],
+ [
+  82,
+  1976,
+  " these kinds of headsets?"
+ ],
+ [
+  82,
+  1977,
+  "If just just so, like, I've kind of, like, done all of it. Like, I've I've like, I started out doing the data collection. Like, I've I've be"
+ ],
+ [
+  82,
+  1985,
+  "en kind of the subject at companies I've worked at who are developing new hardware and stuff. The it's it's real it's the motion artifacts, "
+ ],
+ [
+  82,
+  1993,
+  "you know, and the dry sensors and the kind of sheer that happens. It just completely destroys the signal. I think something that's really, l"
+ ],
+ [
+  82,
+  2001,
+  "ike, wedged against the skin is the most important."
+ ],
+ [
+  82,
+  2004,
+  "And I I think I I'm really excited about the earbud form factor. Little confused about kind of the referencing schemes and being able to get"
+ ],
+ [
+  82,
+  2013,
+  " signals out of it, so they probably have to be really high sensitivity in order to, you know, show the those gradients across those sensors"
+ ],
+ [
+  82,
+  2021,
+  ". But, yeah, totally agree. I don't I don't think Muse is Muse is like a sit down and be still"
+ ],
+ [
+  82,
+  2027,
+  "kind of a device from what I can tell so far. So there's still a lot of lot of work that needs to be done on form factors, and I'm sure we'l"
+ ],
+ [
+  82,
+  2038,
+  "l have a lot to talk about later. Hey, Amelia. Just a question. Maybe you spoke about this already, but maybe you could double click on stat"
+ ],
+ [
+  82,
+  2049,
+  "e based authentication"
+ ],
+ [
+  82,
+  2051,
+  "and arousal metrics and how they could, say, defend against potential wrench attacks or could expand the descriptive complexity you have wit"
+ ],
+ [
+  82,
+  2071,
+  "h these authentication methods. Like, you know, who who you are. Right? And it's not just being fed in. So I think that there's definitely a"
+ ],
+ [
+  82,
+  2092,
+  "pplications here."
+ ],
+ [
+  82,
+  2094,
+  "These signals fluctuate with really basic sensory stimulation. They fluctuate with really basic, like, behaviors, like breath holds and stuf"
+ ],
+ [
+  82,
+  2102,
+  "f like that. And they also fluctuate, with things like meditation as well. So the these could be more, it's like, at a certain point, the th"
+ ],
+ [
+  82,
+  2111,
+  "e barrier between what's a physiological signal and what's what's kind of like a a mental decision gets blurred, and that could also be real"
+ ],
+ [
+  82,
+  2119,
+  "ly helpful."
+ ],
+ [
+  82,
+  2120,
+  "But in my my opinion is that in order to get there, we really need to kind of focus on these practical benchmarks and getting to big data. B"
+ ],
+ [
+  82,
+  2129,
+  "ecause right now, training data training models on these kind of small datasets and then hoping that they transfer to a new headset or havin"
+ ],
+ [
+  82,
+  2137,
+  "g to even train it, like, collect data for the particular headset and then train the models and hope that you get enough of, like, this vari"
+ ],
+ [
+  82,
+  2146,
+  "ety in the training data is a pretty big problem. So, I think totally possible,"
+ ],
+ [
+  82,
+  2151,
+  "and exciting work in the meantime to get there. Yeah. So so the data is important. One one thing that's interesting is, Edge City is like a "
+ ],
+ [
+  82,
+  2159,
+  "as a scaling, method for data collection. Right? Yeah. Yeah. Don't need this member brought up that it would be really cool to be able to, l"
+ ],
+ [
+  82,
+  2168,
+  "ike, incentivize people who, like, maybe even have, like, a muse. Like, it's it's more it's kinda like wax on wax off. Right? So it's like w"
+ ],
+ [
+  82,
+  2176,
+  "e we could develop,"
+ ],
+ [
+  82,
+  2177,
+  "the software and ML ops and data engineering pipelines and benchmarking on kind of the current standard. This I mean, honestly, I'm quite im"
+ ],
+ [
+  82,
+  2186,
+  "pressed with this thing. It can it can record brain signals. You know, things that people have, like open BCIs, you could deploy out, like, "
+ ],
+ [
+  82,
+  2195,
+  "certain experiments and and kinda standardize things that way. And then people could train models and learn more about how these signals eve"
+ ],
+ [
+  82,
+  2204,
+  "n show up on these simpler devices. And,"
+ ],
+ [
+  82,
+  2207,
+  "yeah, there there's I I could I said I wasn't gonna get into all the cool AI stuff, so I'll probably put a pin in that. We can talk later. B"
+ ],
+ [
+  82,
+  2217,
+  "ut, yeah, a lot lot lot of cool opportunities there if you have the data to do it. Deal. Thanks. Have you ever heard of doggnosis? Doggnosis"
+ ],
+ [
+  82,
+  2227,
+  "? Doggnosis? Like like dogs? Dogs. Oh, okay. They're doing VCI on dogs with EEG data. And if you need I know they're not, like, properly ope"
+ ],
+ [
+  82,
+  2237,
+  "n,"
+ ],
+ [
+  82,
+  2237,
+  "but if you need it, I could totally intro you, and I'm sure you could persuade them to be a dog. Dogs, and I love brains. So Yeah. The dogs "
+ ],
+ [
+  82,
+  2245,
+  "are gorgeous. They they actually this is really silly, but I have a dog called Hound, and they're currently taking photos of his brain to tr"
+ ],
+ [
+  82,
+  2253,
+  "y and, like, figure out a BCI just for him. So because all their dogs are based in India, and so they wanna be able to show it, like, live i"
+ ],
+ [
+  82,
+  2261,
+  "n America. And, anyway, I could totally persuade or you could totally persuade if you want that data. Yeah. Please let's talk. I I I I Yeah."
+ ],
+ [
+  82,
+  2270,
+  " Definitely wanna learn more about that. I have a bunch of"
+ ],
+ [
+  82,
+  2273,
+  "open source published mouse behavioral datasets if you want it. I don't know. They're not useful for me anymore. I thought they're gonna be "
+ ],
+ [
+  82,
+  2282,
+  "useful for a project, and now I just have this, like, list. Yeah. So if you know of anyone that wants them as well. You know, I mice are not"
+ ],
+ [
+  82,
+  2290,
+  " humans, but In this process, I came across a lot of really amazing open"
+ ],
+ [
+  82,
+  2295,
+  "source initiatives to standardize a bunch of different, like, neural data. So I'll definitely tell you about that because I'm sure they woul"
+ ],
+ [
+  82,
+  2311,
+  "d love to have more and more data on that. Awesome. Okay. Diagnosis. It's amazing. Okay. Alright. Thank you so much, everyone."
+ ],
+ [
   83,
   2,
   "Hello, everyone. I am Demostra Adupsev of MaestroSite. And today, I want to give a kind emotional talk. The reason I changed the topic is th"
