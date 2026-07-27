@@ -109955,6 +109955,4676 @@
   "rtual people. Thank you in person people."
  ],
  [
+  61,
+  3,
+  "Alright. Welcome, everybody. I'm Patrick Acerita, and this is Mermaids and Sculptors. It's a talk on some of the methods and tools which I'v"
+ ],
+ [
+  61,
+  15,
+  "e been using to do quote unquote vibe engineering. So maximally using LLMs, and various, domain specific languages, and other tools, to"
+ ],
+ [
+  61,
+  26,
+  "get get great results out of LLM developed coding. Mermaids refers to, the domain specific language, the lobotomized JavaScript language, th"
+ ],
+ [
+  61,
+  37,
+  "e coded diagram language, Mermaid. And Sculptors is actually about a new tool which recently came out, which helps in the taking your vibe c"
+ ],
+ [
+  61,
+  48,
+  "oding massively parallel,"
+ ],
+ [
+  61,
+  50,
+  "allowing you to essentially check out branches entire, git repos, into not only new branches, but entirely, new domains and then make edits "
+ ],
+ [
+  61,
+  62,
+  "in siloed areas. But we'll get to that. For right now, we're going to jump through this vibe coded presentation I have that hits a bunch of "
+ ],
+ [
+  61,
+  74,
+  "the bullets of, what I really wanna talk about. But,"
+ ],
+ [
+  61,
+  79,
+  "the the first thing is that I wanna work backwards from the end. So and really help you guys to get a lot of value out of this because there"
+ ],
+ [
+  61,
+  89,
+  "'s a lot of directions that I could take, this talk. But the the kind of key things, that I wanna go over is this idea of a hypothetical ret"
+ ],
+ [
+  61,
+  100,
+  "rospective, learning some semantics from category theory, technically"
+ ],
+ [
+  61,
+  105,
+  "a degenerative form of mathematics, and we'll get to what that means particularly, and, executive strategies from successful engineering lea"
+ ],
+ [
+  61,
+  114,
+  "ders of history and how some heuristics which I think in reading and learning about these folks are going to be useful in how to think about"
+ ],
+ [
+  61,
+  122,
+  " building the executive mindset that you need to be really successful, with massively parallel"
+ ],
+ [
+  61,
+  128,
+  "LLM development. So working backwards from the end. So let's just jump to the figures. These are some figures that I prepared, and, they're "
+ ],
+ [
+  61,
+  140,
+  "colloquially maquettes. So a maquette is what a sculptor might use, when they think about creating a large work that would take, you know, m"
+ ],
+ [
+  61,
+  152,
+  "any months or perhaps even years."
+ ],
+ [
+  61,
+  155,
+  "A maquette is a study piece. So it's a small model. It might not include any dimensionality, but it includes some relative aspects of the co"
+ ],
+ [
+  61,
+  166,
+  "nfiguration. This is kind of the this is, like, peak shape rotator spatial awareness where the fidelity of the maquette, doesn't really matc"
+ ],
+ [
+  61,
+  177,
+  "h to, you know,"
+ ],
+ [
+  61,
+  178,
+  "result fidelity, but it is useful in the practice of producing the maquette for the creator to rationalize, you know, how specific entities "
+ ],
+ [
+  61,
+  189,
+  "or morphological elements, of a of a final work might come into fruition over time. How does that apply here? Well, what I'm going to stress"
+ ],
+ [
+  61,
+  199,
+  " today is, like, a major motif here is thinking about your code base as clay,"
+ ],
+ [
+  61,
+  205,
+  "and thinking about the spatiotemporal growth that is the growth of your code base over time as a sculpture. And then some heuristics we can "
+ ],
+ [
+  61,
+  215,
+  "borrow from sculpture quite literally, to both intermediate your understanding of the code base itself, especially where a lot of the code a"
+ ],
+ [
+  61,
+  225,
+  "nd the specific semantics and the specific functions which are implemented inside the code base are going to be implemented by"
+ ],
+ [
+  61,
+  234,
+  "an LLM, and your understanding of those actual systems. And these are some strategies that I've used starting with the cone of context. So t"
+ ],
+ [
+  61,
+  246,
+  "his cone of context is there there's some ways to look at this, but, basically, we wanna think about how documentation,"
+ ],
+ [
+  61,
+  256,
+  "which is not actually compiling code that is representative of your code base, is interpreted by the model and how it helps to steer the the"
+ ],
+ [
+  61,
+  266,
+  " the goal steering vector of your ultimate outcome. So in a hypothetical retrospective, which is like, okay, you know, suppose you started a"
+ ],
+ [
+  61,
+  276,
+  " company and you or you built a product or you started a project and"
+ ],
+ [
+  61,
+  281,
+  "imagine yourself as, you know, the reward receiver. You know, you are you're receiving your Nobel. What does, you know, that actual, history"
+ ],
+ [
+  61,
+  290,
+  " look like? Right? And something the the the historical recount of your achievement, and the the path thereof is something that you can supe"
+ ],
+ [
+  61,
+  300,
+  "rficially generate many times over in 100 word statements. And that itself provides this net of rationality"
+ ],
+ [
+  61,
+  307,
+  "to essentially steer, build a, golden path of your development pathway, which itself is a framework, which is really useful for developing t"
+ ],
+ [
+  61,
+  316,
+  "he instantiating, documentation for, the generation of your your code base. So what this looks like is a very clean slate. So this model is,"
+ ],
+ [
+  61,
+  325,
+  " you know, you start writing code at the same time you start writing a document. Maybe you write a document, you write some code. And this i"
+ ],
+ [
+  61,
+  334,
+  "s linearized where contributions to code bases are very stepwise,"
+ ],
+ [
+  61,
+  338,
+  "but we're our Marquette takes this and smooths it out. There are other models. If if any of you have tried using Kiro, it's a it's a new Ama"
+ ],
+ [
+  61,
+  349,
+  "zon, built IDE where it's very documentation first. So you sit there with the markdown files and you develop the entire scope of what you're"
+ ],
+ [
+  61,
+  359,
+  " going to build in several series of markdown files."
+ ],
+ [
+  61,
+  363,
+  "But at the end of the day, the these tools are all using the same inference providers with the same transformers under the hood, which are i"
+ ],
+ [
+  61,
+  372,
+  "ngesting context, in in kind of the same ways. An another paradigm might be that you are starting with a lot of code and you wanna make some"
+ ],
+ [
+  61,
+  380,
+  " type of advancement on that code base. And I this is this is particularly the problem set which I want to address today where, you know, yo"
+ ],
+ [
+  61,
+  389,
+  "u're you have you have crafted a small model and you are looking to make a new large and sophisticated contribution,"
+ ],
+ [
+  61,
+  396,
+  "which is respective of the existing code base that you're working on. And, that has been, in my experience, both difficult and something tha"
+ ],
+ [
+  61,
+  407,
+  "t I've built have to had built many mental models to think about how to contextualize both code and non code, descriptive information from c"
+ ],
+ [
+  61,
+  419,
+  "ode bases. And so that's where the mermaids come in, particularly"
+ ],
+ [
+  61,
+  424,
+  "the tool, mermaid j s. So mermaid.live is a, REPL. So it's a read, evaluate, print loop, which allows us to take this extremely expressive l"
+ ],
+ [
+  61,
+  438,
+  "obotomized JavaScript called, Mermaid and and draw diagrams. I mean, perhaps the diagrams are,"
+ ],
+ [
+  61,
+  448,
+  "useful for allowing you to understand code really fast. But what I theorize in my another kind of core motif of this talk is that not all on"
+ ],
+ [
+  61,
+  461,
+  "es and zeros are treated equally in their value to LLMs. And for that matter, the model providers"
+ ],
+ [
+  61,
+  470,
+  "are optimizing for code completion as a type of feedback that is extremely valuable to the model. And so the boolean one or zero does this c"
+ ],
+ [
+  61,
+  480,
+  "ode compile before it delivers you that result, is a very deterministic thing that which can be run with existing code compilers, which live"
+ ],
+ [
+  61,
+  491,
+  "s inside of the the API service mechanism that's actually providing you tokens back to your IDE or your your,"
+ ],
+ [
+  61,
+  499,
+  "code prompt app builder. So we can exploit the fact that billions and dollars of research has been put into this tool that the code should c"
+ ],
+ [
+  61,
+  510,
+  "ompile when it's delivered to the user, to build intermediary abstract understanding and directions for code bases using mermaid language wh"
+ ],
+ [
+  61,
+  521,
+  "ere"
+ ],
+ [
+  61,
+  521,
+  "there's strict rules regarding the syntax of how the code will compile as well as, ontological rules of connection being that, you know, a n"
+ ],
+ [
+  61,
+  533,
+  "ode a goes to node b, and those are connected entities and there's no extraneous elements. And very often, if you are explaining in a pure t"
+ ],
+ [
+  61,
+  545,
+  "ext"
+ ],
+ [
+  61,
+  545,
+  "instruction or directive to an LLM, the LLM, in order to generate code, needs to, you know, generating the code, interpolate your intent of "
+ ],
+ [
+  61,
+  556,
+  "where there are extraneous elements. And one of the easiest ways to notice this, is that I often use WhisperFlow and, sometimes it mistransc"
+ ],
+ [
+  61,
+  567,
+  "ribes."
+ ],
+ [
+  61,
+  567,
+  "When those mistranscribes take and introduce, you know, a new antecedent element, And if you're not familiar with the antecedent basis, in l"
+ ],
+ [
+  61,
+  577,
+  "anguage, that is the requirement to introduce new entities as a, before the. So, you know, I'm getting a car. The car is red. This is someth"
+ ],
+ [
+  61,
+  587,
+  "ing that we, take for granted in language, and it, has to do with our, like, innate ability for object permanence,"
+ ],
+ [
+  61,
+  595,
+  "which is far beyond that of even LLMs today, which, you know, has been an improvement, but it is something that we just intuit. So this idea"
+ ],
+ [
+  61,
+  605,
+  " of the antecedent basis, in language, is very important, and we often ignore it. And, it's often for complex systems which we are trying to"
+ ],
+ [
+  61,
+  615,
+  " identify or rather expect models to I to, represent"
+ ],
+ [
+  61,
+  619,
+  "faithfully from an existing code base, can be difficult. And that also, builds on this idea of semantic referentability, which is if we are "
+ ],
+ [
+  61,
+  630,
+  "not writing the code ourselves and we and we do not have the agency to we we are relinquishing the agency to define our own naming conventio"
+ ],
+ [
+  61,
+  642,
+  "ns for functions."
+ ],
+ [
+  61,
+  643,
+  "This then begets kind of a crucial problem of, like, how do we address specific functionality in applications, where we won where where the "
+ ],
+ [
+  61,
+  654,
+  "kind of alternatives are, like, far over semanticizing, so, like, creating crazy function names, that, you know, we, like, have to know and "
+ ],
+ [
+  61,
+  664,
+  "then we, you know, write it in the front end. Or on the other side, just"
+ ],
+ [
+  61,
+  670,
+  "happy logging out the wazoo and all the logs are, like, super human readable, which you'll see Anthropic do, you know, throwing very styled "
+ ],
+ [
+  61,
+  678,
+  "logs. And, you know, Claude loves to have, you know, even emojis in logs. And so that's one of the ways in which they've solved that. But pr"
+ ],
+ [
+  61,
+  687,
+  "incipally, as we build very fast, the, like, human interpretability of one's own code base as they build,"
+ ],
+ [
+  61,
+  693,
+  "is a is a difficult problem, which I have think you know, I have some good ideas as far as solving that with Mermaid as a tool, to basically"
+ ],
+ [
+  61,
+  704,
+  " build a scaffold around one's own code base, with documentation, which uses Mermaid directly inside of that. So I could bore you with some "
+ ],
+ [
+  61,
+  714,
+  "more slides that I whipped up really quickly. I don't think that's valuable. I think as far as slide goes, there's"
+ ],
+ [
+  61,
+  723,
+  "one more thing which I wanna touch on, and I'm gonna skip this category theory stuff today because I don't really think it's, as well refine"
+ ],
+ [
+  61,
+  732,
+  "d of a theory as as I could share, valuable valuably. But what I do wanna share is about several engineering leaders who their names have ki"
+ ],
+ [
+  61,
+  741,
+  "nd of been they're not lost to history, but they just never really were big in the kind of cultural zeitgeist."
+ ],
+ [
+  61,
+  748,
+  "And these are Mervyn Kelly, Vannevar Bush, Vannevar Bush, who perhaps attained a higher level of notoriety than the rest, and perhaps most i"
+ ],
+ [
+  61,
+  757,
+  "mportantly, John r Pierce. And so I I recently read this book called The Idea Factory, and I've also heard other accounts of the history of "
+ ],
+ [
+  61,
+  766,
+  "Bell Labs. And John r Pierce is, like, well known as an originator of many of the ideas"
+ ],
+ [
+  61,
+  771,
+  "at that were, like, you know, kind of essential for, like, the network systems of modernity. He came up with the name for the transistor. He"
+ ],
+ [
+  61,
+  782,
+  ", developed the first digital audio workspace, and he also essentially invented with Azak Eisemov satellite communications. And he's famousl"
+ ],
+ [
+  61,
+  793,
+  "y known for giving"
+ ],
+ [
+  61,
+  794,
+  "directives, where no where where the the precision of the directive, required that there is no immediate, like, semantically frameable respo"
+ ],
+ [
+  61,
+  806,
+  "nse that was valuable. So okay. How do I frame this? The directives were so well contemplated that he would simply walk past the office at B"
+ ],
+ [
+  61,
+  818,
+  "ell Labs of these highly talented engineers,"
+ ],
+ [
+  61,
+  822,
+  "tell them what they should think about working on in a very inclusive way, and then proceed to walk away. And this is precisely how he instr"
+ ],
+ [
+  61,
+  830,
+  "ucted the beginning of a forty year project to invent satellite communications, was a simple quip of, you know, you should try to bounce rad"
+ ],
+ [
+  61,
+  838,
+  "io signals off of a balloon. That was, like, you know, some iteration of that quip. All I have to say is that, you know, this was someone wh"
+ ],
+ [
+  61,
+  845,
+  "o contemplated to the idea, then came up with a very specific directive, and then gave it to a very capable operator without even giving tha"
+ ],
+ [
+  61,
+  853,
+  "t capable operator the chance to, like, ask questions back. And I think this is how we should treat LLMs"
+ ],
+ [
+  61,
+  859,
+  "is we should, like, think about a context base, which we have. Then think about vectors of progress, which represent very large leaps, in in"
+ ],
+ [
+  61,
+  869,
+  " in in kind of framework framework progress that one might wanna make from some type of, like, technological basis, towards some type of, ab"
+ ],
+ [
+  61,
+  880,
+  "stractly defined but clear ultimate goal."
+ ],
+ [
+  61,
+  883,
+  "And then we should essentially let LLMs do the, step by step interpolation on their own, and then have and then grade the proposals for the "
+ ],
+ [
+  61,
+  894,
+  "changes and implementation by their letter level of apparent superficiality. And apologies if was a little bit too, like, dense. But, you kn"
+ ],
+ [
+  61,
+  906,
+  "ow, we should"
+ ],
+ [
+  61,
+  907,
+  "we should, we should just let the LLMs like, we should treat LLMs as smart people and not let them ask trivial questions, like, right away. "
+ ],
+ [
+  61,
+  918,
+  "And that's more that's less so a, operational, like, MO and more so a, kind of call to action for you as the prompter to really contemplate,"
+ ],
+ [
+  61,
+  929,
+  " you know, were I a extremely"
+ ],
+ [
+  61,
+  931,
+  "talented were I surrounded by extremely talented, technical operators at Bell Labs and, you know, I need to come up with the new the new tec"
+ ],
+ [
+  61,
+  942,
+  "hnology that is truly paradigm shifting. Like, how would I most simply deliver, the shape of the vector, which is most definable towards the"
+ ],
+ [
+  61,
+  953,
+  " goal that is understandable"
+ ],
+ [
+  61,
+  955,
+  "by, you know, some type of highly competent operator, and it should be fairly concise. So that that's my that's my thinking on on that. The "
+ ],
+ [
+  61,
+  966,
+  "the next is Vinivar Bush. There's many things to say, but Memex is is, is anyone here familiar with Memex or not familiar with Memex? Okay. "
+ ],
+ [
+  61,
+  977,
+  "So, Memex"
+ ],
+ [
+  61,
+  978,
+  "was a, essentially, knowledge indexing system that Venevar Bush came up with, which is series of of cards inspired by the Dewey Decimal Syst"
+ ],
+ [
+  61,
+  988,
+  "em, but one which essentially could contain a plethora of notes on technical information, from all disciplines. So essentially, he built his"
+ ],
+ [
+  61,
+  999,
+  " own Wikipedia"
+ ],
+ [
+  61,
+  1000,
+  "inside of a suitcase. And this was like a context indexing box. And what he was able to with that information, what he was able to do is he "
+ ],
+ [
+  61,
+  1010,
+  "became a prescriptive reorganizer of federalized industrial technology and innovation, particularly for World War two. So, you know, develop"
+ ],
+ [
+  61,
+  1020,
+  "ing the you know, a number of really pivotal technologies where he himself was not the originator of the technology,"
+ ],
+ [
+  61,
+  1028,
+  "but he understood in detail how the, how the, the primitive aspects of a technical colloquium or a technical individual's capabilities inter"
+ ],
+ [
+  61,
+  1039,
+  "sected. And what he was able to do with that was to find the most capable people that could detect to attack a problem regardless of their d"
+ ],
+ [
+  61,
+  1050,
+  "iscipline and prescriptively"
+ ],
+ [
+  61,
+  1052,
+  "have them work together. And that is, I think, the predication of a new modality of instead of, you know, very common what I see in folks th"
+ ],
+ [
+  61,
+  1062,
+  "at are trying to achieve certain results out of LLMs is this idea of the persona identification, like you are a senior architect or, like, y"
+ ],
+ [
+  61,
+  1073,
+  "ou are a senior designer. Whereas what I think the future paradigm is going to be is"
+ ],
+ [
+  61,
+  1079,
+  "shaping the context of the problem as a series of requirements and enabling layer technical specification whereby you introduce the predicat"
+ ],
+ [
+  61,
+  1090,
+  "ion of the capabilities of a, like, cross sectional set of unobvious connections. And that is kind of also there's I'm sure a lot of people "
+ ],
+ [
+  61,
+  1101,
+  "who have worked in information theory and and can define discreetly"
+ ],
+ [
+  61,
+  1106,
+  "how that, like, relates to information theory and, like, new information, but particularly, drawing these, like, morphisms between just cert"
+ ],
+ [
+  61,
+  1116,
+  "ain domains. So for example, like, you know, how, like, how the analogies between how pressure in in in, pipes and how, you know, current in"
+ ],
+ [
+  61,
+  1126,
+  " wires is connected, they're different concepts, but those analogies are very useful. Those"
+ ],
+ [
+  61,
+  1132,
+  "analogical connections, even just simple strings, actually force the LLM to recursively, grab context from the depths of its, from its embed"
+ ],
+ [
+  61,
+  1144,
+  "dings and then actually predicate, like, the exact novel, supposition that it needs to be able to then go execute that task. Yeah. So"
+ ],
+ [
+  61,
+  1156,
+  "that that that's what Memex, was able to do is, you know, the Neevar brush would, like, literally pull he would build this entire MemX box a"
+ ],
+ [
+  61,
+  1170,
+  "nd pull, I can pull it up. MemX box. But it was essentially Wikipedia before Wikipedia. There there's a whole talk to give on that."
+ ],
+ [
+  61,
+  1183,
+  "This this idea of being able to pull human referential quips of information, combine them, and then give that to LLMs, I think is an extreme"
+ ],
+ [
+  61,
+  1192,
+  "ly powerful capability. And so, you know, my call to action to you is you have the scientific industrial the the entire knowledge and capabi"
+ ],
+ [
+  61,
+  1201,
+  "lity of these scientific industrial complex at your fingertips, it's your job to prescriptively"
+ ],
+ [
+  61,
+  1207,
+  "loosen the silos between these domains at the bases first and and the kind of the the principal technologies. And then that is how that is h"
+ ],
+ [
+  61,
+  1218,
+  "ow the LLMs can then use that information to then percolate to your intent, especially for, you know, truly groundbreaking, innovations whic"
+ ],
+ [
+  61,
+  1228,
+  "h you want LLMs to help you to, build."
+ ],
+ [
+  61,
+  1231,
+  "And then Mervyn Kelly also did this at, Bell Labs. He would routinely just entirely throw out all the conventions for the way in which they "
+ ],
+ [
+  61,
+  1242,
+  "structured the technical organizations and then prescriptively recombine operators from their capabilities. Yeah. So I I do I recommend if y"
+ ],
+ [
+  61,
+  1254,
+  "ou're"
+ ],
+ [
+  61,
+  1254,
+  "if you want to learn more about senior engineering leadership of people of history who have been extremely successful in taking highly capab"
+ ],
+ [
+  61,
+  1265,
+  "le engineers and getting them to work together in a way that's produced results, these three individuals are very worthwhile. Yeah. So let's"
+ ],
+ [
+  61,
+  1277,
+  " get into a little"
+ ],
+ [
+  61,
+  1278,
+  "building per se. Does anybody have any questions? What's that? Oh. So,"
+ ],
+ [
+  61,
+  1317,
+  "let's let's build something. And I there there's several ideas here. I think the the easiest one to to demonstrate right away is this idea t"
+ ],
+ [
+  61,
+  1329,
+  "hat we can use Mermaid to build, a technical scaffold that requires some type of compilation within the LLM model that gives us a higher ord"
+ ],
+ [
+  61,
+  1340,
+  "er understanding of a code base and also allows us to have a"
+ ],
+ [
+  61,
+  1345,
+  "a technically syntactic language by which to communicate with LLMs. I have a small question. Yeah. So this mermaid diagram is mainly meant t"
+ ],
+ [
+  61,
+  1361,
+  "o guide the model better or also Yeah. A little bit of both. Okay. Yeah. So I think"
+ ],
+ [
+  61,
+  1370,
+  "I'm gonna just return to my my diagrams to to to really pin down what I'm talking about here. Think of think of the cross section of this co"
+ ],
+ [
+  61,
+  1381,
+  "ne as a gradient between plain language explanation, that code that just bytes that don't run, but describe code towards the middle of the v"
+ ],
+ [
+  61,
+  1393,
+  "ector. Like, what you actually wanna achieve is closer towards the impossibly thin vector."
+ ],
+ [
+  61,
+  1400,
+  "What describes that is non running code away from that. What the what the, mermaid seeks to do is interoperate that, giving some code that's"
+ ],
+ [
+  61,
+  1412,
+  " not actually compiling in your in your code base, but is is a bridge between code that compiles and this, like, envelope idea of context."
+ ],
+ [
+  61,
+  1423,
+  "And it's a it's a useful way of of generating generating that information. So I guess to kind of if we treat this talk as a project, let's s"
+ ],
+ [
+  61,
+  1439,
+  "ay, let's now develop a new markdown document with a series of"
+ ],
+ [
+  61,
+  1446,
+  "mermaid diagrams, which are embedded inside of the respective markdown file, which give the overall synopsis and and process flow of deliver"
+ ],
+ [
+  61,
+  1457,
+  "ing this talk. And so if you if you have not used Markdown before and you have your computer ready, this is the Console install part of this"
+ ],
+ [
+  61,
+  1467,
+  " where I'm gonna, also show you how I use the IDE"
+ ],
+ [
+  61,
+  1471,
+  "to render these markdown files, directly inside of my IDE. Big one plus or IDE one plus. Right? Yeah. So the extensions that I use are that "
+ ],
+ [
+  61,
+  1486,
+  "you'll particularly need for this are markdown all in one, markdown preview mermaid support, perhaps the most, important one,"
+ ],
+ [
+  61,
+  1500,
+  "and markdown mermaid markdown syntax highlighting. These are the three most important Can you please repeat? Yes. Yeah. This is something I "
+ ],
+ [
+  61,
+  1515,
+  "should have prepared, but for next time, I will. Markdown all in one. Markdown preview mermaid support"
+ ],
+ [
+  61,
+  1526,
+  "and mermaid markdown syntax highlighting. So this is an example of diagrams I've made for a very large so this is was made from essentially,"
+ ],
+ [
+  61,
+  1584,
+  "adding in four code bases and file bases, you know, exceeding 10 gigabytes, whether they're PDFs, scripts I wrote, tools that I built. And f"
+ ],
+ [
+  61,
+  1595,
+  "rom that, I was able to build, like, this entire architectural library for a very complex new machine development. And so you'll see here th"
+ ],
+ [
+  61,
+  1606,
+  "e raw mark the the raw mermaid within markdown."
+ ],
+ [
+  61,
+  1610,
+  "But if you once you have those respective, tools installed, the command command shift v will open a preview and allow you to actually see th"
+ ],
+ [
+  61,
+  1622,
+  "e respective, diagram immediately rendered. And so this, hastens the the load between rendering these diagrams and getting your IDE to actua"
+ ],
+ [
+  61,
+  1634,
+  "lly generate these fairly quickly."
+ ],
+ [
+  61,
+  1637,
+  "That brings us to kind of the next practical topic, which is utilizing the dialects of Mermaid which are capable, many of which I can demons"
+ ],
+ [
+  61,
+  1646,
+  "trate for you here. So Mermaid can use many different types of diagrams. So this is the basic flow diagram. As you can see, there's a limite"
+ ],
+ [
+  61,
+  1655,
+  "d set of ontological connections, and this is already where some somewhere where I can actually start to peruse the model's understanding of"
+ ],
+ [
+  61,
+  1663,
+  " what I'm trying to say merely by the fact that it's apps I don't know if you could see via the contrast,"
+ ],
+ [
+  61,
+  1670,
+  "but, there there are no arrows between the the larger boxes there. So I can already see that there's a lack of contextual understanding, bet"
+ ],
+ [
+  61,
+  1679,
+  "ween these elements. Yes? Sorry. I might have missed it. What was the prompt that you used to generate? That was the prompt that Oh, so yeah"
+ ],
+ [
+  61,
+  1688,
+  ". The this markdown document. Yeah. I I can share a list of, like, 40 prompts."
+ ],
+ [
+  61,
+  1693,
+  "But, like, I get last when I generated those prompts last time, it was December 2024, and I had gave it given it to the, like, Anthropic mar"
+ ],
+ [
+  61,
+  1702,
+  "kdown mermaid team. And now those prompts are, like, not necessary. I mean, they might be useful for, like, what you might ask, but, like, y"
+ ],
+ [
+  61,
+  1711,
+  "ou can simply ask for, like, give me a series of, like, comprehensive,"
+ ],
+ [
+  61,
+  1716,
+  "mermaid embedded in markdown analysis or, like, code base code base archaeology is a is a good one. And and Droppik, for Claude and now all "
+ ],
+ [
+  61,
+  1726,
+  "of them are pretty good at this. Like, they already know what you want. They they they've re ingested as of recently, like, what are the ava"
+ ],
+ [
+  61,
+  1737,
+  "ilable dialects of mermaid and"
+ ],
+ [
+  61,
+  1739,
+  "how they should think about generating them. So, you know, you could start to generate fairly large diagrams quickly. And the vibe part of t"
+ ],
+ [
+  61,
+  1749,
+  "his is that the the shape of the diagram, is something that will allow you to quickly grok whether or not the model understands what you're "
+ ],
+ [
+  61,
+  1758,
+  "trying to do. Like, here, like, the chaos of this, because I designed this system myself, I I see a lack of a lack of connections between th"
+ ],
+ [
+  61,
+  1768,
+  "e, like, higher or the super ordinal"
+ ],
+ [
+  61,
+  1770,
+  "categorizations of these respective elements. So I already know that, like, I can just start explaining to the LLM, hey. This entity and thi"
+ ],
+ [
+  61,
+  1778,
+  "s entity are related in this way. And so that that gives essentially these these if you think about it in, like, projective theory, these ar"
+ ],
+ [
+  61,
+  1787,
+  "e high dimensional these are these are two dimensional representation of of high of a higher order projections of your code base looking at "
+ ],
+ [
+  61,
+  1795,
+  "it from a different angle."
+ ],
+ [
+  61,
+  1797,
+  "So just trying to get to a point here where we're seeing, some different types of iterations. So this is a state diagram, and Mermaid has th"
+ ],
+ [
+  61,
+  1811,
+  "is this dialect capable within it. You know, quite useful if you are building stateful applications in the web. So yeah. And these are kind "
+ ],
+ [
+  61,
+  1825,
+  "of topical examples of"
+ ],
+ [
+  61,
+  1827,
+  "mermaid diagrams, which I've been able to produce from from code and from structured diagrams and from bash free structures that I've writte"
+ ],
+ [
+  61,
+  1838,
+  "n. Now I have a highly interoperable, easy way of communicating several types of different, structural information about what I'm trying to "
+ ],
+ [
+  61,
+  1848,
+  "achieve, that's super copy and pasteable. So, like, instead of having to do any type of, generation"
+ ],
+ [
+  61,
+  1856,
+  "over, you know, some type of diagram I draw, here I have very simple mermaid that gives that the entire ontology for the system, with the co"
+ ],
+ [
+  61,
+  1874,
+  "nnections imbued, in, like, I think a extremely minimally reducible syntax. See if"
+ ],
+ [
+  61,
+  1885,
+  "I can provide any stream differentiability. So I also have another case of where I use the so a very useful utility of the of generating the"
+ ],
+ [
+  61,
+  1900,
+  "se markdown diagrams to understand code that has been generated by LLMs is the"
+ ],
+ [
+  61,
+  1908,
+  "is the, the sequence diagram. So one sec here. Yeah. So so so that's a very great question. There's three ways I approach this. One, I will "
+ ],
+ [
+  61,
+  1950,
+  "say concatenate"
+ ],
+ [
+  61,
+  1954,
+  "a a revision, and then I'll tell the revision that I want to the respective, markdown file. Right? So then you have an actual history of, he"
+ ],
+ [
+  61,
+  1966,
+  "y. This was the faithfully representative. Oh, and I'm I'm gonna back up a little bit and just go to the part of my talk, where I talk about"
+ ],
+ [
+  61,
+  1977,
+  " types of asks that I do of the,"
+ ],
+ [
+  61,
+  1980,
+  "let's see here. Yes. So types of mermaid diagrams that you can ask for when doing this code base archaeology is, like, didactic. So, like, t"
+ ],
+ [
+  61,
+  1989,
+  "each me about this code base, or you can ask for now comprehensive. Up until several months ago, you just couldn't embed that much, like, sp"
+ ],
+ [
+  61,
+  1998,
+  "ecific code into a mermaid diagram. Now you, like, really can. So you can ask for comprehensive"
+ ],
+ [
+  61,
+  2004,
+  "diagrams, and I just find the bigger, more declarative words you use, like, comprehensively include every aspect of these specific, you know"
+ ],
+ [
+  61,
+  2012,
+  ", flow of all of the functions of the specificity of these systems in the mermaid diagram. And it will, like, fill it in to where you could,"
+ ],
+ [
+  61,
+  2019,
+  " like, barely read it and have to zoom in all over the place, which can as well be quite useful. But it it can also that can help to reveal"
+ ],
+ [
+  61,
+  2027,
+  "the areas in the code. And you often need to do that when, like, you're really trying to debug something and there's, like, a very large sys"
+ ],
+ [
+  61,
+  2035,
+  "tem where it will just continue to embed information. And when you go to then refine that, you can ask for clarifications then on the mermai"
+ ],
+ [
+  61,
+  2044,
+  "d code. And the the useful thing here, which I think is probably one of the biggest takeaways, is that the mermaid, again, is required to co"
+ ],
+ [
+  61,
+  2052,
+  "mpile. So instead of trying to just compile on the code and kinda like milling over the same problem without, like, going higher,"
+ ],
+ [
+  61,
+  2060,
+  "forcing the model, which is extremely expressively able to use the the very expressive, you know, few token requirement mermaid output to ac"
+ ],
+ [
+  61,
+  2069,
+  "tually think about your code base larger. It has the the the index reference to your actual code, which is working or which you wanna extend"
+ ],
+ [
+  61,
+  2077,
+  ", and it has the reference to the model, which is in the expressive mermaid code. And you can think about it as this higher dimensional laye"
+ ],
+ [
+  61,
+  2086,
+  "r where you can edit your code base or change the conventions in your code by asking for changes in the mermaid first,"
+ ],
+ [
+  61,
+  2093,
+  "having it clarify that and iterate on that. And so I do that within a single, mermaid file. The other yeah. Go ahead. Precisely. Yes. And bu"
+ ],
+ [
+  61,
+  2108,
+  "t that actually gets into, like, the later stages of my talk, which I introduced, which is,"
+ ],
+ [
+  61,
+  2117,
+  "the growth of complexity in documentation as a potential detractor on the ultimate, achievability of your end goal for the for the for the c"
+ ],
+ [
+  61,
+  2128,
+  "ode base. So provided that, like, your code gets base gets really big, and we think about this dotted line framework area as the envelope of"
+ ],
+ [
+  61,
+  2139,
+  " documentation files which exist"
+ ],
+ [
+  61,
+  2141,
+  "in your IDE or wherever you're developing that are referential to your respective code base. Evidentially, when you have run into these prob"
+ ],
+ [
+  61,
+  2150,
+  "lems, which you've pair programmed with the respective, or pair architected with the respective LLM, evidentially, if you're if you're not c"
+ ],
+ [
+  61,
+  2158,
+  "onsistently pruning a lot of this information, that's gonna cause for a lot of confusion. And so thinking about the the consistent"
+ ],
+ [
+  61,
+  2166,
+  "pruning of that respective documentation where you might actually think about and one of the open questions and what I would really like to,"
+ ],
+ [
+  61,
+  2174,
+  " you know, get out of this is, you know, some ideas of the the the analogy of the optical fiber. You know, this is an example of, you know, "
+ ],
+ [
+  61,
+  2182,
+  "how Vinnie Verbouche would do this. The optical fiber, you know, works by essentially having a higher optical connectivity area surrounded b"
+ ],
+ [
+  61,
+  2190,
+  "y a low optical connectivity area and guides the photon, you know, for a very long time."
+ ],
+ [
+  61,
+  2195,
+  "So how might we think about this shell of documentation around the shape of our code base as an optical fiber, which steers back the attenti"
+ ],
+ [
+  61,
+  2204,
+  "on head of the LLM towards your ultimate goal. And that's that's the that's the analogy I'm really trying to build up here with with this ta"
+ ],
+ [
+  61,
+  2213,
+  "lk and thinking about, well, what is the thickness of the the the actual"
+ ],
+ [
+  61,
+  2218,
+  "byte load of how much documentation is available in the context of any given, like, LLM tool? It's particularly in, like, the the indexed co"
+ ],
+ [
+  61,
+  2229,
+  "de that you're working with. How is that actually either detracting or or or improving alignment in your ultimate goal in developing that co"
+ ],
+ [
+  61,
+  2240,
+  "de base? And, and then to answer your other question,"
+ ],
+ [
+  61,
+  2244,
+  "so that was the one way. I was I iteratively work on refining the the, solving bugs through developing these state diagrams, developing the,"
+ ],
+ [
+  61,
+  2252,
+  " you know, particular develop the developing the particular diagram, which is, you know, most relevant to what I'm trying to do at that time"
+ ],
+ [
+  61,
+  2260,
+  ". And I preserve those changes to, like, the learning by having it concatenate the respective new diagram in the same markdown file. And tho"
+ ],
+ [
+  61,
+  2268,
+  "se markdown files can get very long while I, you know, work on new features,"
+ ],
+ [
+  61,
+  2272,
+  "or try to fix bugs. The other way and another way of working, which is kind of hard to get started with here, and I I can if I have some tim"
+ ],
+ [
+  61,
+  2283,
+  "e, I will, do that, is what I call big brother programming. Big brother programming is if you have built a code base or have a code base whe"
+ ],
+ [
+  61,
+  2294,
+  "re there's extremely good code that you have semantic referenceability"
+ ],
+ [
+  61,
+  2299,
+  "to so before LMV, you, like, wrote the code or, like, you really architected it, then you understand it. This is this is kind of a, like, se"
+ ],
+ [
+  61,
+  2308,
+  "lf reflective, like, human way of essentially extracting tokens from our own experiential explainability and using that to essentially buttr"
+ ],
+ [
+  61,
+  2316,
+  "ess your development by, you know, taking over either an open source repo or repo you know really well, having it in the same context as a n"
+ ],
+ [
+  61,
+  2325,
+  "ew repo you're developing or even to implement a respective new feature which is well implemented in a code base which you know well or some"
+ ],
+ [
+  61,
+  2334,
+  " way code base which you know where it does work well,"
+ ],
+ [
+  61,
+  2337,
+  "you can leverage that code base's context to essentially template. It's like, you know, fuzzy PNPM or fuzzy NPM. You use the context of that"
+ ],
+ [
+  61,
+  2346,
+  " code base to scaffold the implementation of the respective feature that you wanna put in. And this is a very effective strategy where I oft"
+ ],
+ [
+  61,
+  2356,
+  "en take multiple code bases over the course of the instantiation of a new project."
+ ],
+ [
+  61,
+  2361,
+  "And I've tried it in several different ways now where, you know, over the course of few days, I will either develop comprehensive documentat"
+ ],
+ [
+  61,
+  2369,
+  "ion where I and this is also changing rapidly as Claude's skills is now out, but this is essentially like Claude's skills and, Claude's skil"
+ ],
+ [
+  61,
+  2377,
+  "ls from within the IDE where you have you use the LLM to deeply peruse an existing feature within a code base. You then have that within the"
+ ],
+ [
+  61,
+  2384,
+  " context of what you're trying to create in your new code base,"
+ ],
+ [
+  61,
+  2388,
+  "template the instruction for how to implement that in a compliant way which achieves the specificity of that which is in the code base you a"
+ ],
+ [
+  61,
+  2396,
+  "re, templating. And then you unload that code base from the context and load the next code base, which is exemplary of what you might wanna "
+ ],
+ [
+  61,
+  2404,
+  "actually implement. And this is similar to be like, oh, I wanna build a, like, drag and drop like interface, or I want to build,"
+ ],
+ [
+  61,
+  2412,
+  "like, you know, this game which is like this, except this is, like, taken to the max where you by using code bases you know, you can extract"
+ ],
+ [
+  61,
+  2422,
+  " tokens from yourself to increase explainability to the LLM. Yeah. Are you creating mermaid code from it or is it just Yeah. Very often, I w"
+ ],
+ [
+  61,
+  2431,
+  "ell, I'm principally creating, very principally creating"
+ ],
+ [
+  61,
+  2435,
+  "markdown files, but the instead of creating code snippets so I specify instead of writing the, like, typed script, create mermaid. Just crea"
+ ],
+ [
+  61,
+  2444,
+  "te mermaid. And let's get the ontology right before we even let's get what we're gonna name things right before we even start writing any sn"
+ ],
+ [
+  61,
+  2452,
+  "ippets of code. Yeah. Ashton? I think that, like, that last sentence you said right there, I feel like there's so much value. Right? And so,"
+ ],
+ [
+  61,
+  2461,
+  " like, Patrick's talk at NCDO has more deeply influenced the entire authentic engineering organization"
+ ],
+ [
+  61,
+  2467,
+  "because I think that we've he's really hit on something really solid here, which is that these mermaid diagrams are just an excellent level "
+ ],
+ [
+  61,
+  2475,
+  "of abstraction sitting in between human language and code. And it's like my interpretation of of what you're presenting here in so many ways"
+ ],
+ [
+  61,
+  2482,
+  " is like, this is just this ideal place to meet the complexity that you can be creating because we're all so much more productive now and ca"
+ ],
+ [
+  61,
+  2490,
+  "n be dealing with code at a level of scale that's way beyond what we were doing five years ago. And this level of abstraction of just for me"
+ ],
+ [
+  61,
+  2498,
+  ", it's just like a diagram perspective."
+ ],
+ [
+  61,
+  2500,
+  "And, like, okay. I wanna do a new feature. I'm gonna build out. I'm gonna say to Claude, hey. Can you propose five different diagrams to thi"
+ ],
+ [
+  61,
+  2508,
+  "nk about new feature x y z and how it integrates into our code base? And then I say, alright. I wanna look at diagram two three four, and th"
+ ],
+ [
+  61,
+  2516,
+  "en we have discussion there. And I say and exactly like Patrick's saying there, I'm like, if you notice something weird on the diagram and t"
+ ],
+ [
+  61,
+  2524,
+  "here's like some chunk over here that's like not connected right, you're gonna notice that"
+ ],
+ [
+  61,
+  2529,
+  "ontology like error so fast. Even if you're working in terms of like technical documentation and it's all written out in a PRD, you might no"
+ ],
+ [
+  61,
+  2537,
+  "t notice that a certain chunk of the code isn't talking to the other chunk correctly. And so I think that's really where like magic of this "
+ ],
+ [
+  61,
+  2545,
+  "comes in. And to me, I think that just, like, so many more people would be really well suited to be exploring this sort of approach. So"
+ ],
+ [
+  61,
+  2553,
+  "passing it back to you. Yeah. Question? I mean, I"
+ ],
+ [
+  61,
+  2577,
+  "have a little bit, but that's a great idea. I think, like, trying to find diffs. So what I'm trying to so another thing, which I think limit"
+ ],
+ [
+  61,
+  2585,
+  "s that is just kind of very Unix related git inconsistencies is that, like, I would actually and something I would love to chat about is tha"
+ ],
+ [
+  61,
+  2594,
+  "t I'm I actually wanna have two different git histories. I wanna have a Git history of my documentation and a Git history of my actual code "
+ ],
+ [
+  61,
+  2602,
+  "base because, like I said, that pruning of that, like, you know, all that all those tokens of, like, you know, messy iteration are,"
+ ],
+ [
+  61,
+  2610,
+  "in my experience, begin to detract from the overall output efficacy of these models. And so I wanna continually prune that. And, you know, m"
+ ],
+ [
+  61,
+  2619,
+  "y most effective coding, I find that for every for every one file that I'm creating, I'm creating two the actual code file, I'm creating two"
+ ],
+ [
+  61,
+  2628,
+  " markdown files. And that's when like, and I that's actually the cadence that I wanna work in, and those markdown files are typically, like,"
+ ],
+ [
+  61,
+  2638,
+  " a thousand lines each. Like, very high specificity."
+ ],
+ [
+  61,
+  2641,
+  "Like, my initial prompts are typically, like, a thousand to 2,000 words. Like, I'm, like, developing the full specification of the feature, "
+ ],
+ [
+  61,
+  2650,
+  "or I'm working in such in a way which is I'm using executive language as to prompt the respective model to, like, fill in that detail. And t"
+ ],
+ [
+  61,
+  2659,
+  "hat's usually how I'm getting these, like, thousand line documents. And"
+ ],
+ [
+  61,
+  2664,
+  "when when it comes to actually, you know, solving the problems and the differentiability of, like, what is the vibe of the the the markdown "
+ ],
+ [
+  61,
+  2673,
+  "file, I I find that, like, forcing the model to be like, oh, yeah. Like, that is the problem. You know? You're absolutely right. That that t"
+ ],
+ [
+  61,
+  2682,
+  "hat whatever that is within the model is, like, best, best exemplified by, like, forcing it to, like, fix the mermaid file, like, entirely, "
+ ],
+ [
+  61,
+  2690,
+  "then explain"
+ ],
+ [
+  61,
+  2691,
+  "in this raw markdown, like, what was the thing that it fixed before it went and implemented that. But I think there's a lot of there's like,"
+ ],
+ [
+  61,
+  2698,
+  " model based design was, like, a big thing in the nineties where people thought, like, all coding was gonna be replaced by block diagrams. A"
+ ],
+ [
+  61,
+  2706,
+  "nd we effectively have that now, and people were thinking about interaction like that. And I think that it's time to basically think about t"
+ ],
+ [
+  61,
+  2713,
+  "hat right now. There's another language,"
+ ],
+ [
+  61,
+  2715,
+  "called d two lang, which I think exceeds the capabilities of markdown, but the the one problem of of Mermaid. Apologies. With the problem be"
+ ],
+ [
+  61,
+  2727,
+  "ing that it's just not as expressive as markdown as Mermaid. The Mermaid syntax is almost irreducibly simple. It it is really simple, and th"
+ ],
+ [
+  61,
+  2740,
+  "at from a token perspective"
+ ],
+ [
+  61,
+  2742,
+  "is very, very advantageous. So the the just, kind of swing back on what I was talking about regarding this iterative process, which I think "
+ ],
+ [
+  61,
+  2751,
+  "is kind of the most value for someone who working in a big code base with a lot of complexity, are the the is this dialect of mermaid, which"
+ ],
+ [
+  61,
+  2760,
+  " is this, sequence diagram. Diagram. And these can get very big very quickly, but this is, like, an example of where I was able to, like, de"
+ ],
+ [
+  61,
+  2768,
+  "bug an issue by having it produce these sequence diagrams."
+ ],
+ [
+  61,
+  2772,
+  "And I was, like, purely having editing a very large, like, multi local store and like, it's a pretty complex system that requires a lot of d"
+ ],
+ [
+  61,
+  2782,
+  "ifferent LLM calls and has to do a lot of Zod validation over, you know, different returns, have object compliance, like, through the entire"
+ ],
+ [
+  61,
+  2792,
+  " stack, which, you know, requires a lot of, like, runtime validation layers."
+ ],
+ [
+  61,
+  2797,
+  "And now it does now, but, primitively, you know, just learning about what I needed to do here, I was working on developing all these stores,"
+ ],
+ [
+  61,
+  2805,
+  " and I just really cared about the shape, like, of this diagram. And there there's, like, a certain magic to this particular diagram, which "
+ ],
+ [
+  61,
+  2813,
+  "is, like, that your state diagrams for API transactions, like, should look like this. And when when it when when you're when it when it look"
+ ],
+ [
+  61,
+  2821,
+  "s like this v, like, did the process and then came all the way back and all the context was passed and all your process watchers were, like,"
+ ],
+ [
+  61,
+  2829,
+  " properly informed in a way,"
+ ],
+ [
+  61,
+  2831,
+  "like, you can engineer really complex stuff by just with just whisper flow and, explaining. Yes? Yeah. Six, yeah, six months ago, would have"
+ ],
+ [
+  61,
+  2841,
+  " said, like, oh, you actually need to know that you're doing, like, a keyword extraction store. Now I would say, like, you can, like, litera"
+ ],
+ [
+  61,
+  2850,
+  "lly explain, like, what is the input data, what's the output data, and, like, create a number of different stores for this information while"
+ ],
+ [
+  61,
+  2860,
+  " you intermediate the respective, like, API calls or LLM calls. And so as long as the it comes out in, like, a v,"
+ ],
+ [
+  61,
+  2868,
+  "like, you ask it for the the keyword extract for the actual, like, sequence diagram, either before you do it or when you're trying to analyz"
+ ],
+ [
+  61,
+  2877,
+  "e it, like, you can learn really fast from very complex workflows if you have access to the code base by asking for this, like, v shaped or "
+ ],
+ [
+  61,
+  2885,
+  "just ask for the ask for the sequence diagram of the respective, like, participants in their respective it's participants and events. Actual"
+ ],
+ [
+  61,
+  2894,
+  "ly, you can read the"
+ ],
+ [
+  61,
+  2895,
+  "you can read it here. So, like, this this all back end is this, participants and events. Like, it it this is this is the GUI way of developi"
+ ],
+ [
+  61,
+  2909,
+  "ng this is the front end way of developing your back end is just continually having LLMs produce these v shaped diagrams, in in your code. Y"
+ ],
+ [
+  61,
+  2922,
+  "es? Sir, maybe if I missed it, but let's say I'm I'm just starting to design the system and I have a diagram flow flow chart of, like, the f"
+ ],
+ [
+  61,
+  2936,
+  "unctions and the data. Yeah."
+ ],
+ [
+  61,
+  2939,
+  "Yeah. So I recommend using like, use an IDE. Use Windsurf or Kiro or or Cursor. Right? Because that's gonna the the the key thing that all t"
+ ],
+ [
+  61,
+  2949,
+  "he other things don't have is the indexing. So who here knows what RAG is? Okay. Okay. Great. I think everybody here knows what RAG is, know"
+ ],
+ [
+  61,
+  2959,
+  "s what indexing is, knows what you know? Okay. So what these things are doing is,"
+ ],
+ [
+  61,
+  2965,
+  "what these code these code tools are doing to make it so you can work on very large projects is that they take your entire code base, and th"
+ ],
+ [
+  61,
+  2973,
+  "ey do the the what's called tokenization. They take every little string and they chop it up into little bits, and then they draw little conn"
+ ],
+ [
+  61,
+  2980,
+  "ections between those, and they store that as a high dimensional vector space. This is called an embedding. And they get it right to the poi"
+ ],
+ [
+  61,
+  2988,
+  "nt where it would start to inference, like when you prompt it. And it's at that very last step where that embedding is much more efficient t"
+ ],
+ [
+  61,
+  2996,
+  "o store the context of your entire code base, but without the actual, like, bit load of your entire code base."
+ ],
+ [
+  61,
+  3002,
+  "And so if you think about that as clay, like, you can think about that embedding space, that vector space of 15,000 different parameters per"
+ ],
+ [
+  61,
+  3010,
+  " vector as click. And you wanna think about, well, how can I, like, you know, pull out a space from the high dimensional space of the that c"
+ ],
+ [
+  61,
+  3018,
+  "ontext to then grab all the different points which actually matter to what I'm talking about now and then have it, like, output something th"
+ ],
+ [
+  61,
+  3026,
+  "at I can understand? And I think mermaid is"
+ ],
+ [
+  61,
+  3029,
+  "really good for transforming very quickly your intent into multiple different explainable shapes of the outputs that you wanna actually achi"
+ ],
+ [
+  61,
+  3037,
+  "eve by perusing that respective understanding of the code base, which exists only in vector space, and then having that output not an explan"
+ ],
+ [
+  61,
+  3045,
+  "ation in text or not a actual working imitation in code, but something right in the middle that is extremely interpretable by humans either "
+ ],
+ [
+  61,
+  3053,
+  "by reading the raw"
+ ],
+ [
+  61,
+  3054,
+  "reading the raw sequence diagram code or any type of dialect of mermaid which can be produced or looking at just, like, vibe checking the ac"
+ ],
+ [
+  61,
+  3080,
+  "tual diagram itself and seeing, like, if it makes sense to you. Oh, yeah. Yeah."
+ ],
+ [
+  61,
+  3094,
+  "So what I recommend for that is I have these, like, 40 these, like, code based analysis, prompts, which I could air drop to everybody where "
+ ],
+ [
+  61,
+  3105,
+  "I'll put it online. I I I was gonna build a product out of it, but now I just don't care. Code based analysis scripts. Actually, I've been h"
+ ],
+ [
+  61,
+  3116,
+  "aving trouble finding them, but,"
+ ],
+ [
+  61,
+  3118,
+  "let's see. I sent it well, this is proof that I sent it to Anthropic, like, a while ago. So if I go to my email, hash. Forking Cloud Agents,"
+ ],
+ [
+  61,
+  3147,
+  " that that's the Sculptor part of this, which we can get to."
+ ],
+ [
+  61,
+  3159,
+  "Oh, yeah. These are them. Okay. So these prompts, are my, like, 40 really good, like, system architecture download prompts. And I can airdro"
+ ],
+ [
+  61,
+  3168,
+  "p this, but, you know so, essentially, you know, you you want a file tree structure extraction. The order matters here too. So you you need "
+ ],
+ [
+  61,
+  3176,
+  "to, like, kind of, like, prime the model to, like, start to develop its understanding. So you wanna do, like, a a total systems architecture"
+ ],
+ [
+  61,
+  3185,
+  " diagram, like, really high level, then, like, bash just bash tree structures of the entire code base. Like, just get it to recapitulate"
+ ],
+ [
+  61,
+  3193,
+  "what you're seeing in the sidebar just in, like, a text file, which is extremely useful. And then you can use that iteratively to then comme"
+ ],
+ [
+  61,
+  3202,
+  "nt in parts. I very often do that. You comment in to the actual bash tree structure embedded inside of markdown, like, where you're going to"
+ ],
+ [
+  61,
+  3211,
+  " make these edits. And for very large morphisms, which we can get into, which is, like,"
+ ],
+ [
+  61,
+  3217,
+  "changes to functions globally, which are structure preserving, you can, like, use these bash descriptions of the actual structure of the cod"
+ ],
+ [
+  61,
+  3232,
+  "e base to make those changes. Yeah. So so these file tree structures with tree extraction, I could just run this right now on one of my code"
+ ],
+ [
+  61,
+  3247,
+  " bases, and then we could see how that comes out. Okay."
+ ],
+ [
+  61,
+  3253,
+  "So Windsurf is often better for these types of code based extractions, but Cursor does work as well. Windsurf will just actually follow the "
+ ],
+ [
+  61,
+  3263,
+  "rules a little bit better. When when like, it will it will produce all 30. Cursor will be like, yeah. I'm gonna make, like, three markdown f"
+ ],
+ [
+  61,
+  3272,
+  "iles and just, like, make them 4,000 lines each. They're like, no. It's not what I want."
+ ],
+ [
+  61,
+  3278,
+  "How do you link those? What's that? Do you have a directory of your files of your mark on files so that the LM can expect? Oh, no. You had j"
+ ],
+ [
+  61,
+  3285,
+  "ust have the LM make all the directories. No. For sure. But is it, like, do you have one specific mark on file that has, like, all the refer"
+ ],
+ [
+  61,
+  3293,
+  "ences? Oh, yeah. Yeah. I do that at the end. Yeah. Have because it like, this is a stochastic process. Right? So they can have it I'll ask t"
+ ],
+ [
+  61,
+  3300,
+  "hat at the end. Yeah. That's a very good question. I will have it make an indexing file at the end that then links between those. But that b"
+ ],
+ [
+  61,
+  3308,
+  "ut you're you're creating, like, a new membrane, right, when you're running this process. So asking it to index in the beginning is, like, c"
+ ],
+ [
+  61,
+  3315,
+  "onfusing to it in my experience. Yeah. Okay. So"
+ ],
+ [
+  61,
+  3318,
+  "for each of these respective prompts, create a new folder which has in it for each a new markdown file having respective mermaid diagrams in"
+ ],
+ [
+  61,
+  3332,
+  "dicative of and faithfully representative of the code base? It's gonna take a while, but we could talk about we could talk about it. And yes"
+ ],
+ [
+  61,
+  3346,
+  "."
+ ],
+ [
+  61,
+  3346,
+  "Yeah. So can't do this with Cloud because it doesn't have this embedding space. Is that correct? Cloud Code is building a rag they are doing"
+ ],
+ [
+  61,
+  3355,
+  " retrieval of your entire code base. If you let it had have access to it, it is doing that. So you can do this yourself. Like, I like, it's "
+ ],
+ [
+  61,
+  3365,
+  "another talk, but, like, building your own rag or, like, embedding space of any code base is, like, fairly easy."
+ ],
+ [
+  61,
+  3372,
+  "You can use, like, a Redis vector store or, like, any vector store provider, and then there's, like, essentially a tokenization algorithm, a"
+ ],
+ [
+  61,
+  3380,
+  "nd then you just get your vector store. But, yeah, the the Redis vector store, like, makes it extremely easy. And you can build your own, li"
+ ],
+ [
+  61,
+  3389,
+  "ke, tool to do that. Yes? Two questions. First, this indicates that you're analyzing"
+ ],
+ [
+  61,
+  3394,
+  "this whole code base and then creating all these diagrams, and then you have that index document in the end. But if you're working on a code"
+ ],
+ [
+  61,
+  3412,
+  " base where you already have that Yeah. Then I guess in one of your personal rules, there will be, like, always a reference to that file. Pe"
+ ],
+ [
+  61,
+  3430,
+  "rhaps. Yes. Okay. Yeah. I mean, I think someone Atin, would you say that would go in a agents.md?"
+ ],
+ [
+  61,
+  3443,
+  "I I mean, for me, what I say in my cloud code and our, like, corporate quad code structure agents dot n d file is strongly encourage anytime"
+ ],
+ [
+  61,
+  3452,
+  " you're trying to map out system dependencies to use Meriden diagrams. Yeah. To really bump the agent to, like, by default, be making these "
+ ],
+ [
+  61,
+  3460,
+  "diagrams. Okay. That's what I think about it on that one. But I think you could use that as context for subsequent queries. Yeah. It'd be li"
+ ],
+ [
+  61,
+  3469,
+  "ke on,"
+ ],
+ [
+  61,
+  3469,
+  "you know, anytime you need to look up the system network interface, look at the following markdown file. Yeah. I think they read these thing"
+ ],
+ [
+  61,
+  3478,
+  "s really well. Yeah. Yeah. Yeah. Okay. And then second question, are you aware of any of these editors like Windsor or Cursor or Cloth that "
+ ],
+ [
+  61,
+  3487,
+  "does any graph embedding, like, GraphRAG? Or are they all just semantic embedding"
+ ],
+ [
+  61,
+  3492,
+  "more default? I I used to be really into, like, Raptor, which was, like, the recursive GraphRAG and all that. I think the models are just or"
+ ],
+ [
+  61,
+  3502,
+  " were moving so fast that the, like, context models were going so fast. So that, like, cascade of referenceability to your code base became "
+ ],
+ [
+  61,
+  3513,
+  "kind of useless. And I basically just kind of just reverted to developing"
+ ],
+ [
+  61,
+  3518,
+  "semantically explainable methods that I could tell to my IDE to do itself, leveraging no. Not not spinning up for each code base its own vec"
+ ],
+ [
+  61,
+  3527,
+  "tor store and just leveraging the vector store of each of their respective tools. But I would say the one kind of, like, hand wavy way that "
+ ],
+ [
+  61,
+  3537,
+  "I would have both a, like, this is what I'm developing and, like, this is what I'm trying to understand is, like, work in the same code base"
+ ],
+ [
+  61,
+  3546,
+  " where I have a non git tracked,"
+ ],
+ [
+  61,
+  3548,
+  "repository. This is what I'm doing right now, actually. I always use a, like, project underscore dev, and then I have my then I have my, you"
+ ],
+ [
+  61,
+  3557,
+  " know, actual GitTrack repository inside of that. And so I'm always initially developing the markdown files just outside of the code base, w"
+ ],
+ [
+  61,
+  3566,
+  "hich I think does something for, like, the attention head of the, like,"
+ ],
+ [
+  61,
+  3571,
+  "how how it's supposed to look at the code base. It's like, oh, yeah. That's just a code base. Like, this is the project when it's, like, in "
+ ],
+ [
+  61,
+  3581,
+  "underscore dev. And then when I actually go to write code, I think I just have saved cursor rules, which are, like write markdown files to t"
+ ],
+ [
+  61,
+  3590,
+  "he the mono repo and write code to the to the GitTrack code base. And that has been pretty good. Yeah."
+ ],
+ [
+  61,
+  3597,
+  "Super super quick thing to quickly scan for Cloud Code and related to your question. Cloud Code at this point is almost entirely all context"
+ ],
+ [
+  61,
+  3605,
+  " based. Oh, really? And I use Cloud Code to be doing this is more or less the flow that you're doing here all the time. Okay. Like, with wit"
+ ],
+ [
+  61,
+  3613,
+  "h great success. Yeah. Ultimately, it's the same model behind the surface, and that model is really, really good at writing"
+ ],
+ [
+  61,
+  3620,
+  "diagrams. And the other thing I was very rude to say is that I do include all my mermaid diagrams in a docs folder inside of my main repo. M"
+ ],
+ [
+  61,
+  3627,
+  "hmm. And what's really nice about that is whenever these context based models are prepping through your code base and they're looking at the"
+ ],
+ [
+  61,
+  3634,
+  " specific function name, they'll get the code and then they'll get the mermaid diagram that has the name of that function at the same time. "
+ ],
+ [
+  61,
+  3641,
+  "And then it's like, oh, it's like, perfect. Here's here's everything in this guy."
+ ],
+ [
+  61,
+  3645,
+  "Yeah. So basically, because I'm keeping the markdown file that has the mermaid diagram of, like, let's say, the system interface inside of t"
+ ],
+ [
+  61,
+  3657,
+  "hat repo. Okay. And if you're using function names or specific components in that mermaid diagram, because context based models use greps so"
+ ],
+ [
+  61,
+  3668,
+  " heavily,"
+ ],
+ [
+  61,
+  3669,
+  "whenever it greps, it's gonna grab both at the same time. And you just, like, get this for free. And so that's, like, for me, very convenien"
+ ],
+ [
+  61,
+  3678,
+  "t. So so this is necessarily embarrassing, and I'll tell you why. Because I I've built this new front end the other day, and it's not follow"
+ ],
+ [
+  61,
+  3687,
+  "ing my rules. See how it's all over the place on vibes? That's because the actual app"
+ ],
+ [
+  61,
+  3692,
+  "kinda barely doesn't work. And I know it doesn't work, and I'm glad that I ran this thing on it because I actually need to build the back en"
+ ],
+ [
+  61,
+  3701,
+  "d now or the the logic system. And, so I'm I'm building this thing. One of my open source projects is this, open transform OpenTelemetry tra"
+ ],
+ [
+  61,
+  3710,
+  "nsform layer, builder, which is a if you're familiar with observability"
+ ],
+ [
+  61,
+  3715,
+  "and logs and spans and metrics, produces a lot of data, and it costs companies many millions of dollars in compute. And a lot of this is jus"
+ ],
+ [
+  61,
+  3725,
+  "t spam, like absolutely worthless information that is just being shipped out from the client to the server and returning just happy logs or "
+ ],
+ [
+  61,
+  3735,
+  "just crap. So OpenTelemetry"
+ ],
+ [
+  61,
+  3737,
+  "transform language allows you to, clean up that data with, like, a very simple YAML that for your OpenTelemetry collector if you're using an"
+ ],
+ [
+  61,
+  3747,
+  " open source observability tool. That being said, there's a that YAML is atrocious to read and write. So there's this new domain specific la"
+ ],
+ [
+  61,
+  3757,
+  "nguage called OpenTelemetry Transform Layer,"
+ ],
+ [
+  61,
+  3760,
+  "that, like if everybody used it, you know, like, Internet traffic that's not content would, like, go down by, like, you know, several severa"
+ ],
+ [
+  61,
+  3768,
+  "l digits because a lot of the Internet is just, like, crap happy logs. Happy logs are just like, things went well. Like, you know, like, her"
+ ],
+ [
+  61,
+  3776,
+  "e's here's here's 10,000 lines of that. And so the the the the goal with OpenTelemetry transform language is to be able to, like, clean up t"
+ ],
+ [
+  61,
+  3785,
+  "hose logs before they're delivered or even on the server side, like, clean them up before they're saved or even embedded in some type of con"
+ ],
+ [
+  61,
+  3793,
+  "text,"
+ ],
+ [
+  61,
+  3793,
+  "and that's the collector end. But before you get to collector, you want to actually configure, like, how to clean up that data. So I've been"
+ ],
+ [
+  61,
+  3803,
+  " building this tool to make it, like, really easy to, like, configure this otherwise, like, very arcane language. And it it worked, but now "
+ ],
+ [
+  61,
+  3813,
+  "it's broken, which is indicative of the respective diagram, which I just generated. So now I will have a, you know, a better time trying to "
+ ],
+ [
+  61,
+  3823,
+  "figure that out. Okay. So yeah. So in that instruction set, it it you know, names them in order,"
+ ],
+ [
+  61,
+  3830,
+  "and then it starts to build out respective, like, structured diagrams. One of the failures, and this is an ask, is that those plug ins for f"
+ ],
+ [
+  61,
+  3841,
+  "or your IDE that I gave you are the ones that are available, and they are they are scale limited. So they're they're they're okay for render"
+ ],
+ [
+  61,
+  3852,
+  "ing mermaid,"
+ ],
+ [
+  61,
+  3853,
+  "but they're not they're not the best because the the the the the model is actually so good at creating really big diagrams now that they bec"
+ ],
+ [
+  61,
+  3862,
+  "ome a little bit unreadable because you can't zoom in on them and all. So what you have to do is you have to, you know, take the well, this "
+ ],
+ [
+  61,
+  3871,
+  "this is a embarrassing problem, which I should have vibe coded a solution to long"
+ ],
+ [
+  61,
+  3876,
+  "ago, which is you took the the code for this, and you go to mermaid.live, and you plug it in there. Oh, not in my not in there. And very oft"
+ ],
+ [
+  61,
+  3890,
+  "en okay. So the mermaid team is underfunded, and that that's valid. Like, you guys all saw that render. The mermaid rep rule is, like, behin"
+ ],
+ [
+  61,
+  3905,
+  "d."
+ ],
+ [
+  61,
+  3905,
+  "So yeah. That's another problem. So you have to get rid of all the styling. Yeah. But they make you pay for that. Yeah. Because they're unde"
+ ],
+ [
+  61,
+  3920,
+  "rfunded. Yeah. Yeah. Oh, it's it's that so at symbols are not well escaped. Yeah. Like, I spent an embarrassing amount of time doing this."
+ ],
+ [
+  61,
+  3935,
+  "Embarrassing amount of time. You could probably I hope you guys went listen to a session. Do we get back up on Yeah. Just better plug ins fo"
+ ],
+ [
+  61,
+  3949,
+  "r Versus code that allow you to zoom in. Okay. Here we have that structure. Interesting"
+ ],
+ [
+  61,
+  3958,
+  "interestingly, the the plugin for Versus Code is more escaped character tolerant than the actual mermaid web product, but that's interesting"
+ ],
+ [
+  61,
+  3969,
+  ". So this is the actual, like, dependency architecture. Yeah. Like, I could see just from the shape of the words that I'm still using the de"
+ ],
+ [
+  61,
+  3981,
+  "fault"
+ ],
+ [
+  61,
+  3981,
+  "for cell fonts. Yes? So"
+ ],
+ [
+  61,
+  4002,
+  "so there's, like, a fuzziness to the, like, how true the diagram is. And I use it more of, like, a like, an interpretability tool for how mu"
+ ],
+ [
+  61,
+  4011,
+  "ch the model understands the code base. Right? So if, like, the more like, and this is actually getting harder because the model is better a"
+ ],
+ [
+  61,
+  4020,
+  "t faking it than it was originally with mermaid diagrams."
+ ],
+ [
+  61,
+  4024,
+  "Now it's like it produces even on a on a shitty code base, it will produce compliant diagrams, which is kind of annoying. I, like I was havi"
+ ],
+ [
+  61,
+  4034,
+  "ng much better luck with, like, Sonnet 3.6 where it was, like, really good, but it was also, like, kind of more truthful because now, like, "
+ ],
+ [
+  61,
+  4044,
+  "4.5 will just, like, just shock out massive diagrams."
+ ],
+ [
+  61,
+  4048,
+  "Yeah. Differentiability of different types of markdown diagrams. Okay. Yes. So the important thing is, like, the flavor of markdown diagram "
+ ],
+ [
+  61,
+  4061,
+  "that given a instruction is chosen by the model to display the actual problem. So if if I'm having a database problem, like, it should give "
+ ],
+ [
+  61,
+  4073,
+  "me, like, a sequence diagram and an entry relationship diagram."
+ ],
+ [
+  61,
+  4079,
+  "Like, that that that almost always happens. But, like, by looking at those different flavors of of, of outcomes, like, you can get you you c"
+ ],
+ [
+  61,
+  4089,
+  "an get a really good grasp on, like, one, understanding it for yourself and how much the actual LLM understands it for that context. And tha"
+ ],
+ [
+  61,
+  4099,
+  "t is an example which will reveal itself once more of these diagrams,"
+ ],
+ [
+  61,
+  4104,
+  "show up. Yeah. It's still running. So we got we got nine diagrams as of now. Yeah. So this was my system architecture diagram. Like, that on"
+ ],
+ [
+  61,
+  4124,
+  "e failed mostly because this escaped DND error. Like,"
+ ],
+ [
+  61,
+  4131,
+  "the so Anthropic has now exceeded the capabilities of of Mermaid in their artifacts because Xiaoyi developed the, like, rendering tool for t"
+ ],
+ [
+  61,
+  4142,
+  "he mark the claw artifacts tool, which can actually contain code in it well escaped inside of little boxes that they developed for their REP"
+ ],
+ [
+  61,
+  4154,
+  "L custom, which is not in the mermaid language. So, like, at symbols, like, you know, are non not tolerated in the in the compiling syntax o"
+ ],
+ [
+  61,
+  4165,
+  "f"
+ ],
+ [
+  61,
+  4165,
+  "mermaid, which is breaking that respective, diagram. But on the mermaid on the Claude REPL, it works fine, which is weird. But there's no wa"
+ ],
+ [
+  61,
+  4178,
+  "y to actually just give code to the Claude REPL. Claude needs to, like, create it itself. Other little idiosyncrasies of this process. Yeah."
+ ],
+ [
+  61,
+  4190,
+  " So here I got a request flow."
+ ],
+ [
+  61,
+  4193,
+  "So the entire file structure, this comes in handy. Like, anytime you're doing a major refactor, like, all I recommend is the best model for "
+ ],
+ [
+  61,
+  4203,
+  "this is Gemini. For I think for some reason, just like planning big refactors with plain text, Gemini, like, kills it. Like, hey. Give me, l"
+ ],
+ [
+  61,
+  4213,
+  "ike, five different bash tree structure outputs of, like, what a refactor of this might look like, where all I have is some comments"
+ ],
+ [
+  61,
+  4222,
+  "and some context on what the code base is. Oh, also, I would use a repo prompt or, like, try to take, you know, full code based snippets and"
+ ],
+ [
+  61,
+  4234,
+  " give it to Gemini too because it could take a million million tokens. Yeah. So the important thing is inside of markdown because it will al"
+ ],
+ [
+  61,
+  4246,
+  "so leverage"
+ ],
+ [
+  61,
+  4247,
+  "markdown, appropriately where where required. So this is actually then explaining the the file structure. Use a data store architecture. Oh,"
+ ],
+ [
+  61,
+  4260,
+  " NT relationship diagrams. This is important. So I think another big takeaway is that, like, if you if you're still developing your own data"
+ ],
+ [
+  61,
+  4272,
+  "base schemas for, like, the, like, CRUD activities of a web app,"
+ ],
+ [
+  61,
+  4278,
+  "you're, like, in kind of in the stone ages. Like, the best CRUD apps already exist. The best architectures are, like, spread out within the "
+ ],
+ [
+  61,
+  4287,
+  "model, and it's one of, like, the major portions of extent of understandable data is, like, how a schema for database works. Like, building "
+ ],
+ [
+  61,
+  4295,
+  "database schemas with LLMs is, like, super OP to the point where, like, you shouldn't ever even think about starting building your database "
+ ],
+ [
+  61,
+  4304,
+  "schema models,"
+ ],
+ [
+  61,
+  4305,
+  "like, on whiteboard. But yes? We could just, like, talk about it, and you can kinda learn from how I would do it. But, yeah, I mean, we coul"
+ ],
+ [
+  61,
+  4320,
+  "d develop an app right now. Go ahead. I yes. I use Drizzle. I was very"
+ ],
+ [
+  61,
+  4328,
+  "I go back back and forth on Drizzle and Prisma all the time. I think that LLMs understand Prisma way better than Drizzle. But yeah. But Pris"
+ ],
+ [
+  61,
+  4338,
+  "ma is, like, an extra language. And there's my, like, new working theory and, like, a highly opinionated decision that I've been making, whi"
+ ],
+ [
+  61,
+  4347,
+  "ch has been working out for me kind of in a broader context, is it, like, TypeScript is a de facto language of the web. So, like, everything"
+ ],
+ [
+  61,
+  4357,
+  " should be TypeScript."
+ ],
+ [
+  61,
+  4358,
+  "So I have relinquished my opinion that Prisma is better. It is definitely better for human readability, but because Drizzle is TypeScript Ye"
+ ],
+ [
+  61,
+  4373,
+  "ah. Yeah. Yeah. And the one thing and if we're the one thing about Drizzle is that writing"
+ ],
+ [
+  61,
+  4382,
+  "generating Zod runtime validation schema from Drizzle is better than from from for that. From Prisma. Yeah. It's honestly so that's another "
+ ],
+ [
+  61,
+  4391,
+  "I mean, we could do another talk on hubbins on ORM based, full stack development, which is, like, you can basically, like, describe there's,"
+ ],
+ [
+  61,
+  4399,
+  " like, a three step way to, like, building a full stack app, is, like, describe your object relation model,"
+ ],
+ [
+  61,
+  4406,
+  "generate your ERDs, and, like, intermediate them all with mermaid doc diagrams, and then use that to then set up the, like, 40 step implemen"
+ ],
+ [
+  61,
+  4414,
+  "tation of your respective code base. And it's pretty good. Like yeah. Like or like because if you think about it, like, you just if you defi"
+ ],
+ [
+  61,
+  4423,
+  "ne your controller, like, in a model view controller model, then you have everything. You have what your interface looks like from a graphic"
+ ],
+ [
+  61,
+  4431,
+  "al user interface standpoint. You have your all of your database and services tran transactions, like, well codified as to what the actual l"
+ ],
+ [
+  61,
+  4440,
+  "anguage will be at those interfaces. You have your database ontology."
+ ],
+ [
+  61,
+  4444,
+  "So, like, the the, like, proverbial drizzle or Prisma file as you were, like, single source of truth for your application and how to generat"
+ ],
+ [
+  61,
+  4455,
+  "e everything else is, I think, going to become, like, the way of doing things. I'm just really upset that it's drizzle because it is drizzle"
+ ],
+ [
+  61,
+  4466,
+  ", and I don't like that. Because here we are now all grown adults, you know, who've flown many of us halfway across the word, and we're talk"
+ ],
+ [
+  61,
+  4477,
+  "ing about drizzle."
+ ],
+ [
+  61,
+  4478,
+  "No. I mean, it depends on what I'm building. It really does. It scales out to schema.ts is like a really it's a great convention if you're b"
+ ],
+ [
+  61,
+  4497,
+  "uilding, like, a like, a ecommerce app, not if you're building, like, a, like, a biochemical process design engineering app. That's my exper"
+ ],
+ [
+  61,
+  4516,
+  "ience. Yeah. Yeah."
+ ],
+ [
+  61,
+  4518,
+  "So it's not code. Like, your mermaid does not run, like, producing code, and it shouldn't be treated as code. It should be treated as, like,"
+ ],
+ [
+  61,
+  4528,
+  " an intermediary between you and the and your partner implementer, the the AI, to explain high order it's think of it like whiteboarding. Ri"
+ ],
+ [
+  61,
+  4537,
+  "ght? Like, you know, we're gonna go to the whiteboard, but instead of spending, like, three days building an entire extremely specific diagr"
+ ],
+ [
+  61,
+  4547,
+  "am, it can, like, just spit out, like, here. He here's my model of how I'm gonna implement this in code."
+ ],
+ [
+  61,
+  4554,
+  "And so you as the director of this can quickly go and and change that diagram. So I could say, you know, like, for instance, like, in diagra"
+ ],
+ [
+  61,
+  4564,
+  "m four, data store diagram, we wanna actually think about a respective versioning control system for the respective transforms itself. Let's"
+ ],
+ [
+  61,
+  4575,
+  " iterate several times on the respective ERD,"
+ ],
+ [
+  61,
+  4578,
+  "which contemplates the respective interface of this application and develops a comprehensive automatic versioning system. Let's contemplate "
+ ],
+ [
+  61,
+  4587,
+  "using egg walker, CRDTs, and a number of different real time update and collaboration strategies, which may be effective but are also lightw"
+ ],
+ [
+  61,
+  4596,
+  "eight and highly interpretable as we develop this process."
+ ],
+ [
+  61,
+  4600,
+  "Concatenate that to the respective data store diagram markdown file. Sometimes it transcribes wrong. But we'll see a new a new iteration of "
+ ],
+ [
+  61,
+  4614,
+  "that ERD come up. And it should look fairly like this. And, you know, I'll I'll stay know, like,"
+ ],
+ [
+  61,
+  4624,
+  "when I'm saying, like, hub and spoke, like, ERD or ORM first development, like, a lot of my time is just, like, talking to the entity relati"
+ ],
+ [
+  61,
+  4634,
+  "onship diagram, like, before I write any code. And that has been, like, you know, people used to spend years doing that. So you write the co"
+ ],
+ [
+  61,
+  4645,
+  "de yourself? No. Okay. No. No. No. I why"
+ ],
+ [
+  61,
+  4648,
+  "why would I write the code? Like, if you if you write the code, like, you know, like, 100,000 times faster than I can, like, quite literally"
+ ],
+ [
+  61,
+  4657,
+  ". Like, if you use like, in a couple months, like, Cerebras there's going to be, like, a way of, like, using Cerebras, which, like, inferenc"
+ ],
+ [
+  61,
+  4666,
+  "es way faster at 2,000 tokens, like, a second. Right? Like like, I can only talk, like, 39 bits a second"
+ ],
+ [
+  61,
+  4672,
+  "or you know? So, like, that that's I I don't know exactly what that is, but I think a token is, like, 10 bits. So it's, like, literally 10,0"
+ ],
+ [
+  61,
+  4683,
+  "00 you know, a token is more than 10 bits. Let's let's assume a token is a 100 bits for each active character. You know, we're talking about"
+ ],
+ [
+  61,
+  4694,
+  ", like, three"
+ ],
+ [
+  61,
+  4695,
+  "orders of magnitude, four orders of magnitude faster implementation of just raw information that the LLMs can output. So, like, it's and it "
+ ],
+ [
+  61,
+  4705,
+  "on, like, a Cerebras. I have you have you guys anyone use Cerebras at all? You've tried it. Okay. Yeah. It's unbelievable. Yeah. It's like, "
+ ],
+ [
+  61,
+  4714,
+  "you know, this whole, like, model generation, which is now on, you know, number 16 would have came out in, like like, five seconds. Like, it"
+ ],
+ [
+  61,
+  4724,
+  " would have generated all of it."
+ ],
+ [
+  61,
+  4726,
+  "Like, it's and then you can parallelize that. You know? It's like and it's cheap, like, really cheap. So that's, we were talking about that "
+ ],
+ [
+  61,
+  4735,
+  "other the other day. Like, the, like, the, like, last generation of models that are becoming cheaper that are then themselves parallelizable"
+ ],
+ [
+  61,
+  4745,
+  ", that like, what that looks like where you're just, like, slamming tokens"
+ ],
+ [
+  61,
+  4750,
+  "on these, like, you know, hyperdimensionalized, massively parallel, like, operations with, like, some type of then even LLM directed mutabil"
+ ],
+ [
+  61,
+  4759,
+  "ity of their respective, like, perturbations that you're trying to explore. Like, that's a whole new tier of of exploration and research, wh"
+ ],
+ [
+  61,
+  4768,
+  "ich is a show for my next talk, which I'll be talking about my approach for developing a applied AI research lab at some point during this."
+ ],
+ [
+  61,
+  4777,
+  "Yeah. Yeah. That's that's that's the exact concern. So you should not treat this as, like, truth in your code base. It should Yeah. Stores f"
+ ],
+ [
+  61,
+  4802,
+  "iles because they might be mistaken."
+ ],
+ [
+  61,
+  4808,
+  "Why why doesn't stores them at all? Yeah. And that that's a major major kind of, like, contemplation of this talk, which I'm not sure of the"
+ ],
+ [
+  61,
+  4820,
+  " actual state of. That goes back to my diagram, which is that if we if we look at if we look at, you know, this this extra envelope of area,"
+ ],
+ [
+  61,
+  4831,
+  " which is just extra tokens, which is inside"
+ ],
+ [
+  61,
+  4835,
+  "of markdown files, that is stuff that's wrong. Right? That one, it does canonicalize, like, the actual, like, proof of work of history that "
+ ],
+ [
+  61,
+  4844,
+  "you, like, you know, generated all those tokens and, like, steered around and solve that problem. But, like, so does your get history. But w"
+ ],
+ [
+  61,
+  4852,
+  "hat it might also do is help with, like, steering of your respective, your your code base. But what it can do is, like, metastasize in one a"
+ ],
+ [
+  61,
+  4861,
+  "rea where you, like, you know, had some, like, cache invalidation error that took, like, you know, several 100,000 tokens that now has, like"
+ ],
+ [
+  61,
+  4870,
+  ", 80 documents on it."
+ ],
+ [
+  61,
+  4871,
+  "And now, you know, a third of your entire documentation base is, like, you know, solving cache invalidation where you just probably should h"
+ ],
+ [
+  61,
+  4879,
+  "ave used Qstash, like, from the start. So yeah. That's What what do you do in that case? You prune? Yeah. You prune. And so that that's why,"
+ ],
+ [
+  61,
+  4887,
+  " like, what my like, right now, I'm just not using a git track repository. I'm using a mono repo. So I'm just, like, having I'm storing all "
+ ],
+ [
+  61,
+  4895,
+  "the documents outside the code base. Whereas, Ashwin was saying, yes, he does keep those inside and accessible to Claude. But, like, the ris"
+ ],
+ [
+  61,
+  4903,
+  "k is that, like, you have this, like, this cruft"
+ ],
+ [
+  61,
+  4906,
+  "that, that essentially detracts from the, like, the focus of your your ultimate goal where, like, you had to, like, iterate on this problem "
+ ],
+ [
+  61,
+  4915,
+  "for a really long time, which now solved is innocuous with respect to, like, where you wanna go next. And I think that's actually one of the"
+ ],
+ [
+  61,
+  4923,
+  ", like, most insidious things that's kind of gaining is, like, the ability to, like, generate all these tokens, to generate all this documen"
+ ],
+ [
+  61,
+  4932,
+  "tation,"
+ ],
+ [
+  61,
+  4932,
+  "and then, like, the LMs are actually not good at, like, calling this information. They're not good at deleting these files. And, actually, I"
+ ],
+ [
+  61,
+  4940,
+  " think it's gotten worse. Like, the LLMs, like, treat code and files that are there, like, as far more precious than they actually are, whic"
+ ],
+ [
+  61,
+  4947,
+  "h is a major concern and which is why I, like, separate them. Yes. Yeah. I mean, I I completely sympathize. We have these tools to generate "
+ ],
+ [
+  61,
+  4955,
+  "so much text that, like, so much I feel like and also I think on engineering management is, like, dealing with employees that are using thes"
+ ],
+ [
+  61,
+  4962,
+  "e tools, dealing with other engineers in your team. How can you have good practices"
+ ],
+ [
+  61,
+  4967,
+  "to make sure that your linear ticket to alternatively is, like, unbelievable novels. Discussion of all of this stuff. And no human potential"
+ ],
+ [
+  61,
+  4975,
+  "ly is understanding what they're actually talking about. You're just having two engineers use AIs to talk to the other engineers' AI. Yeah. "
+ ],
+ [
+  61,
+  4983,
+  "But the one thing I wanna say on the, source of truth and, like, the idea of context brought coming in from documentation"
+ ],
+ [
+  61,
+  4990,
+  "that might be out of sync with code base or the code base being advanced and docs not updating. It's just being explicit about it in your pr"
+ ],
+ [
+  61,
+  4997,
+  "ompts. Mhmm. And I I also have pretty good luck with, like, doing a prune refactor of, like, hey. Go through all of the documentation. I wan"
+ ],
+ [
+  61,
+  5005,
+  "t you to for every document in the docs folder, research all the code that that document talks about, and then give me an output of any time"
+ ],
+ [
+  61,
+  5012,
+  " that the doc says something that the code doesn't do. And if the code does something different than the docs, if you think what the code do"
+ ],
+ [
+  61,
+  5019,
+  "es is better than the docs, update the docs. Yeah. I think there's like a to do that sort of There's like a hun there's like a $100,000,000,"
+ ],
+ [
+  61,
+  5027,
+  "000 business in that exact thing. Like, that that there's like a whole vector of this, like, quasi deterministic procedural,"
+ ],
+ [
+  61,
+  5033,
+  "like, validation between these, what I call, like, documentation scaffolds or the exoskeleton thing and the actual code base and, like, rect"
+ ],
+ [
+  61,
+  5042,
+  "ifying that. And right now, it's, like, not defuzzible. Like, how many tokens does that cost you? Like, I it sounds like, you were saying th"
+ ],
+ [
+  61,
+  5051,
+  "at was, $10, $20, like yeah. Interesting there because to me, I don't even conceptualize token cost. Okay. Well, I do because I yeah. $200"
+ ],
+ [
+  61,
+  5060,
+  "plan and, like, blast Well, if anyone wants to sponsor my, Claude Max plan, I'm open. Yeah. So yeah. Would definitely like, I I do think abo"
+ ],
+ [
+  61,
+  5068,
+  "ut, like, token costs a little bit. So, like, those types of, like, instructions where you're just, like, asking Claude to, like, rip throug"
+ ],
+ [
+  61,
+  5076,
+  "h and do all these procedural things. And then, ultimately, like, what it's gonna do is output far more doc even more markdown files. You kn"
+ ],
+ [
+  61,
+  5084,
+  "ow? If you're good at prompting it, you know if you're clear on prompting, you're like, I don't want you know, you are pruning. We are pruni"
+ ],
+ [
+  61,
+  5092,
+  "ng and"
+ ],
+ [
+  61,
+  5092,
+  "make one document, which is, like, the list of documents you think we should have. Yeah. And you can do this kind of meta thing, and, like, "
+ ],
+ [
+  61,
+  5100,
+  "I think it's pretty effective. I I do have that here. So In your style, like, you've got a very unique architecture going on here, which I t"
+ ],
+ [
+  61,
+  5107,
+  "hink is really fascinating. It makes sense that, like, solutions for me and Next. Js React Native Plan, which is right in the middle of the "
+ ],
+ [
+  61,
+  5115,
+  "training set distribution,"
+ ],
+ [
+  61,
+  5116,
+  "things that I might talk about very well might not apply to other people's projects in the room that are at different points in the training"
+ ],
+ [
+  61,
+  5131,
+  " center distribution. This is like a caveat. Yeah. Yeah. I agree. And, you know, I've been coerced more towards the Next. J s React stack ju"
+ ],
+ [
+  61,
+  5147,
+  "st because of how how pervasive it is within the model and how you could tell how more much more competent it is. Yes?"
+ ],
+ [
+  61,
+  5160,
+  "Yeah. So, the, like, state of the art in that, I'm not sure. Like, I I think that it is valuable to if you're building a product and, like, "
+ ],
+ [
+  61,
+  5170,
+  "in $10 versus ever achieving anything of, like, you know whatever it is. Having that history, think, is going to be valuable. The the questi"
+ ],
+ [
+  61,
+  5180,
+  "on is, like, going back to the this is, like, do you keep it within the model context or just, like, as an archive file? And what I've done,"
+ ],
+ [
+  61,
+  5190,
+  "you know, kind of Aaron, to what to to what Aten said is, like, you know, having having, like, an archive folder and then, like, having all "
+ ],
+ [
+  61,
+  5200,
+  "those, like, extra docs where you, like, had to do all that iteration. Like, you know, I had a JSON syntax problem, so there's, like, you kn"
+ ],
+ [
+  61,
+  5210,
+  "ow, massive a number of massive mermaid files"
+ ],
+ [
+  61,
+  5213,
+  "markdown files, some with mermaid diagrams, some with some not that I, like, had to, you know, iterate on to, like, solve a problem. Now I'v"
+ ],
+ [
+  61,
+  5221,
+  "e archived those because, like, I've solved the problem, and then you'd like the solution exists in the code because it's a solved problem. "
+ ],
+ [
+  61,
+  5229,
+  "And having, like, the reference to that can exist in, like, a higher order document that you wanna keep, which is,"
+ ],
+ [
+  61,
+  5236,
+  "yeah, something that I should strictly keep to more in that. Yeah. And a super quick trick for this is if I have a document that I wanna kee"
+ ],
+ [
+  61,
+  5243,
+  "p, but I don't want the large language model, I just compress it. I just put it in zip folder. Ah. It jams up crap, and so it, like, cloaks "
+ ],
+ [
+  61,
+  5250,
+  "it from the model. But it still keeps you in your code base with subsequent engineers who are working in that section. You'll be like, ah, h"
+ ],
+ [
+  61,
+  5257,
+  "ere's this, like That's a great idea. Yeah. That's a great idea."
+ ],
+ [
+  61,
+  5260,
+  "So it's like let's say you have two documents, an old document and a new document, and you wanna make sure that the old document doesn't con"
+ ],
+ [
+  61,
+  5268,
+  "fuse subsequent agents or humans. You I just compress it, and I make it into a zip file. And so then by making a zip file, prep isn't gonna "
+ ],
+ [
+  61,
+  5276,
+  "find it. And so you just, like, cloak it from the context of subsequent agents. Right. Yeah. And are you adding that to, like, a like, an ig"
+ ],
+ [
+  61,
+  5284,
+  "nore file or something? Or is it just To to me, just literally leave it there. Because it's"
+ ],
+ [
+  61,
+  5289,
+  "invisible. And then I'm thinking how long do have to get ignore for Yeah. Exactly. Yeah. Cool. Alright. Does anyone yeah. I remember you tal"
+ ],
+ [
+  61,
+  5300,
+  "k talk about context throughout. It's like the effect when too much context make LLM dump or forget something. Yeah. Exactly. Yeah. And yeah"
+ ],
+ [
+  61,
+  5310,
+  ". So that Well, mean, not exactly. Well"
+ ],
+ [
+  61,
+  5313,
+  "Yeah. If it's concise representation. But if it's, like, a lot of mermaids, we can have a game like context context rules. Yeah. So this act"
+ ],
+ [
+  61,
+  5322,
+  "ually goes back to another strategy that I have, which is in the in the presentation, which, I guess I could so the these types of, like, se"
+ ],
+ [
+  61,
+  5331,
+  "mantics for thinking about how and what types of documentation you want. So I briefly touched on the, like, didactically the didactic one, w"
+ ],
+ [
+  61,
+  5340,
+  "hich is, like, give me, like, flow diagrams. Help me to understand this and then make that representative."
+ ],
+ [
+  61,
+  5347,
+  "Give me one that's comprehensive. So, like, just embed a bunch of documents that Anthropic has, like, learned to do really well where they c"
+ ],
+ [
+  61,
+  5356,
+  "an actually embed code within blocks of of, of Mermaid and then abstractly. And working between the stratification of, like, actually, I don"
+ ],
+ [
+  61,
+  5364,
+  "'t understand this. Like, make it dumber. Make it simpler. Give me a higher abstract view of this often helps to, like, get the model to zoo"
+ ],
+ [
+  61,
+  5373,
+  "m out itself,"
+ ],
+ [
+  61,
+  5374,
+  "which then leads you to explain, like, what the problem is. And, really, what you're trying to do in a lot of these, like, debugging, like, "
+ ],
+ [
+  61,
+  5384,
+  "cases is, like, the the model is oversaturated with context. What you need to do is, like, find what the shape of that oversaturation is. An"
+ ],
+ [
+  61,
+  5394,
+  "d I think that's probably a better I think context route is probably a bad"
+ ],
+ [
+  61,
+  5399,
+  "convention to use. I'm trying to get away I I I I you know, in trying to, like, seek to make this a more repeatable science, like, get away "
+ ],
+ [
+  61,
+  5409,
+  "from the, like, terms to slop or rot, you know, these are kind of insidious terms that, shouldn't really be used, but ones where I think we "
+ ],
+ [
+  61,
+  5418,
+  "can develop specificity around, like, what is actually happening, and and learn to engineer with it."
+ ],
+ [
+  61,
+  5425,
+  "The for the for the case where you're realizing, like, yeah, I I'm asking something and it seems to do something in another place. The the l"
+ ],
+ [
+  61,
+  5435,
+  "ike, this intermediary step of, like, let's actually do the retrieval and then produce a result of the retrieval in a shape of a mermaid dia"
+ ],
+ [
+  61,
+  5445,
+  "gram that falls along the spectrum of, like, extremely comprehensive or extremely abstract."
+ ],
+ [
+  61,
+  5452,
+  "Somewhere in that somewhere in that stratification, you're also querying for your own understanding of code that you might not necessarily u"
+ ],
+ [
+  61,
+  5461,
+  "nderstand or even have been exposed to where asking it to be faithfully representative, it will use the camel case string of the name of the"
+ ],
+ [
+  61,
+  5470,
+  " function. So if you really need to get in there, it's it it it's starting to build that map of the introduction of,"
+ ],
+ [
+  61,
+  5478,
+  "like, how you can actually start to to prep the code base for what you actually need to find and and deduce the problem. And, yeah, I think "
+ ],
+ [
+  61,
+  5488,
+  "it's refining refining context saturation is kind of the the thing there. I had another diagram where there's, like, kind of a available fra"
+ ],
+ [
+  61,
+  5498,
+  "me of reference. And as your code base grows, you get to, like, chop that frame of reference up."
+ ],
+ [
+  61,
+  5505,
+  "Finding how to retrieve certain elements of context and then make connections between those is itself a higher order problem that can be sol"
+ ],
+ [
+  61,
+  5516,
+  "ved by mermaid diagrams. And using that as a map of aspect aspects of the code base which you wanna actually produce something which is trac"
+ ],
+ [
+  61,
+  5526,
+  "table. Can you somehow visualize the current context?"
+ ],
+ [
+  61,
+  5530,
+  "Visualize the current context. A great question. That's something that I've thought about a lot. Like, how would we make human interpretable"
+ ],
+ [
+  61,
+  5543,
+  " visualizations of a 15,000 parameter vector matrix? I don't know. It looks like a like, I I don't if you guy if you guys have ideas of, lik"
+ ],
+ [
+  61,
+  5557,
+  "e, how to visualize 15,000"
+ ],
+ [
+  61,
+  5559,
+  "dimensions as an object to visualize, I don't know. But the closest thing I have is get these projections, which are, like, semantic project"
+ ],
+ [
+  61,
+  5567,
+  "ions of many different dialects of mermaid. That's my solution. So the like, getting your brain to understand what the shape of that high di"
+ ],
+ [
+  61,
+  5576,
+  "mensional object is in, like well, I mean, I I have this, like, question. It use it usually lives on my desktop, but it's just a TXT files. "
+ ],
+ [
+  61,
+  5584,
+  "What is the shape of a thought in the brain?"
+ ],
+ [
+  61,
+  5587,
+  "And that I think that is similar to that. Yeah. Like, what do wanna build? No. I mean, like, a to do app. A to do app? Like, how it works. T"
+ ],
+ [
+  61,
+  5610,
+  "o do app."
+ ],
+ [
+  61,
+  5611,
+  "Yeah. Like, pretty pretty quickly. I mean, you could spin it up probably in one shot. Yeah. Like, especially with so to do a to do app today"
+ ],
+ [
+  61,
+  5632,
+  ", I would do I would go to the prompt to app instructions. Okay. Yeah."
+ ],
+ [
+  61,
+  5643,
+  "What's an idea? I think it's a have is, like, below the scope of what this is useful for, but I I have some ideas. Let's see. Yeah. That's a"
+ ],
+ [
+  61,
+  5657,
+  " good idea. So specifically a plug in for Versus code, which is actually going to shake out it it diverges from the canonical stack. So this"
+ ],
+ [
+  61,
+  5672,
+  " will be interesting."
+ ],
+ [
+  61,
+  5674,
+  "Yes. But I I I still, like, need to see the code. Yeah. So I use Windsurf a lot. I I, like, run out of Cloud every day, like, at 2PM because"
+ ],
+ [
+  61,
+  5685,
+  " I just, like, give it major tasks to go. So what I've been doing recently is, like, you well, I I was doing skills before school skills was"
+ ],
+ [
+  61,
+  5696,
+  " a thing, which is, like, actually build me a, like, more fit. So the another aspect of this talk, which I which I didn't give it, which is,"
+ ],
+ [
+  61,
+  5708,
+  " like, the whole, like, how to apply category theory."
+ ],
+ [
+  61,
+  5712,
+  "The LLM really got me really confused last night as I was, like, developing that part of the talk. But I might give that talk as a as someth"
+ ],
+ [
+  61,
+  5720,
+  "ing itself is, like, how to think about the, like, the structure of the way in which the degenerative thinking of category theory allows you"
+ ],
+ [
+  61,
+  5729,
+  " to think about structure preserving context that you can then template from one app to another, which, you know, harkens back to that, like"
+ ],
+ [
+  61,
+  5737,
+  ", big brother building where you, like, have in context two different two different code bases, the the junior code base and the, like, ment"
+ ],
+ [
+  61,
+  5745,
+  "or code base that you're then referencing to."
+ ],
+ [
+  61,
+  5748,
+  "And Claude's been, like, really good at that where I'm like, okay. Here's two paths. Like, from this respective file, we're gonna, like, tem"
+ ],
+ [
+  61,
+  5758,
+  "plate the conventions of the design system to then instantiate a new design system that has these respective properties, which are the same "
+ ],
+ [
+  61,
+  5767,
+  "in this way and differentiate in this way. And Clog will run until it runs out of money."
+ ],
+ [
+  61,
+  5773,
+  "Yeah. Yeah. So let's okay. DIR better better m d mermaid preview. Actually, I don't think I could have a k. We'll"
+ ],
+ [
+  61,
+  5803,
+  "CD better. Insert. So had I have a existing project where I made a plug in for Versus code, I would now bring I would now open Windsurf and "
+ ],
+ [
+  61,
+  5823,
+  "I would bring it in here."
+ ],
+ [
+  61,
+  5826,
+  "But let's say let's say, actually, this product is actually not gonna be, in my Versus code. I'm gonna use only Cloud Code, and I actually w"
+ ],
+ [
+  61,
+  5834,
+  "anna see all of my mark my mermaid files in the browser at any given time. So we're gonna make a Chrome extension. So I'm gonna find a code "
+ ],
+ [
+  61,
+  5843,
+  "base, and this is not an example because this is a very primitive code base, but we're gonna find a code base where I built a Chrome extensi"
+ ],
+ [
+  61,
+  5851,
+  "on."
+ ],
+ [
+  61,
+  5851,
+  "And then I know that I built that Chrome extension. So just by me seeing the shape of that, I can better explain what I want. Chrome extensi"
+ ],
+ [
+  61,
+  5877,
+  "on."
+ ],
+ [
+  61,
+  5878,
+  "Think it's this one. Okay. So yeah. Got dist. Add folder to workspace. So now I have both the mono repo. And just for clarity, I'm going to "
+ ],
+ [
+  61,
+  5897,
+  "rename that folder as dev."
+ ],
+ [
+  61,
+  5900,
+  "It's quicker to do it here. Yeah. Alright. Okay. Don't save. A little shortcut I have, which is worthwhile for everybody,"
+ ],
+ [
+  61,
+  5924,
+  "I think, if you use Finder, is that you can map in, Automator, like a shortcut to on any tool, open your iTerm two, directly to that place i"
+ ],
+ [
+  61,
+  5940,
+  "n a in a new tool. Let's actually probably share that at some point as well if anyone's interested. So we're gonna add Paperpilot to the wor"
+ ],
+ [
+  61,
+  5955,
+  "kspace,"
+ ],
+ [
+  61,
+  5956,
+  "and then we are, so part of that method, which requires database okay. How how could we have a database with this? Okay. Alright. We'll we'l"
+ ],
+ [
+  61,
+  5968,
+  "l design an app that has a database that renders mermaid files, and I'm gonna explain it all. Okay. We are preparing to instantiate a"
+ ],
+ [
+  61,
+  5980,
+  "Chrome extension, which allows us in a development environment to render a mermaid file perhaps within a markdown file for assistive code de"
+ ],
+ [
+  61,
+  5992,
+  "velopment whereby we wanna actually have a back end such that the initial contemplation of this respective application"
+ ],
+ [
+  61,
+  6002,
+  "is that of forming the object relational management system by which we will either use Prisma or Drizzle predicated by several mermaid files"
+ ],
+ [
+  61,
+  6013,
+  " within markdown files, which we will prepare here now, which will allow us to create the space of contemplation by which the back end for t"
+ ],
+ [
+  61,
+  6024,
+  "his application,"
+ ],
+ [
+  61,
+  6025,
+  "which should store markdown files as blobs in a database and then deliver that respective content to a endpoint that is accessible via a Chr"
+ ],
+ [
+  61,
+  6043,
+  "ome extension in any development environment. Prepare the respective"
+ ],
+ [
+  61,
+  6052,
+  "contemplative markdown files. Having the mermaid diagrams. I guess I could have asked it to also build the whole app. Just real quick here,"
+ ],
+ [
+  61,
+  6075,
+  "I hope that, like, we're all working in different environments, but this talking to your computer for prompting is, like, such an upgrade. L"
+ ],
+ [
+  61,
+  6082,
+  "ike, there's very few statements I can make that apply to every single developer in this room. But, like, if you are not talking to your com"
+ ],
+ [
+  61,
+  6089,
+  "puter, in my subjective opinion, you are royally fucking up. Like, it is that powerful, and it's, like, that good. And, like, you as you saw"
+ ],
+ [
+  61,
+  6097,
+  " Patrick through there, like, because whenever you're talking to your computer, you can add more words in the prompt so quickly, which then "
+ ],
+ [
+  61,
+  6104,
+  "just makes the results better. And, like, it doesn't matter. You could be doing fucking assembly."
+ ],
+ [
+  61,
+  6109,
+  "You could be doing visual code. Like, it doesn't matter. Super useful. So and it's awkward, and we have been using computers with typing for"
+ ],
+ [
+  61,
+  6117,
+  " so long that I had to be around other bad coders talking to computer for multiple weeks before I finally capitulated. I was like, fine. I'm"
+ ],
+ [
+  61,
+  6125,
+  " gonna, like, do this. And now, you know, I think it's just a huge power up. So I'm very glad that you're obviously using it really quickly."
+ ],
+ [
+  61,
+  6134,
+  " Yeah."
+ ],
+ [
+  61,
+  6134,
+  "If not on WhisperFlow. Yeah. You guys use the you don't use LocalDictate from Mac. Right? I would love to be set up LocalDictate, like, from"
+ ],
+ [
+  61,
+  6142,
+  " MacBook. No. No. It's crap. Yeah. Yeah. The new version has gotten a lot better. Oh, really? Okay. In well, at least on the phone, it's, li"
+ ],
+ [
+  61,
+  6149,
+  "ke, offline and, like, quite good because it's using a large language model. Oh, it is? Okay. Yeah. Yeah. The new iOS twenty six one is actu"
+ ],
+ [
+  61,
+  6157,
+  "ally, like, quite good and is equivalent to I'm also using Super Whisper, which is what both of us are using. I'm using Whisper Flow."
+ ],
+ [
+  61,
+  6164,
+  "Yeah. I I, like, chase down the CEO and have his number if ever breaks. So I Yeah. I mean, I use I so, yes, I would say what you could do is"
+ ],
+ [
+  61,
+  6195,
+  " use it on your phone, write it to notes, and then write that to your computer."
+ ],
+ [
+  61,
+  6212,
+  "Yeah. Okay. Yeah."
+ ],
+ [
+  61,
+  6249,
+  "So what I've found is that there this is a solved problem that, like, front end engineers know but don't tell anybody because it's their who"
+ ],
+ [
+  61,
+  6259,
+  "le job Yes. That they've just, like, come up with about a 120 different, like, words that describe certain types of repeatable elements, lik"
+ ],
+ [
+  61,
+  6268,
+  "e sheet and, like, you know, modal. And these are these are, very"
+ ],
+ [
+  61,
+  6273,
+  "it's likely that you're not reinventing the wheel entirely. And so what I recommend is that you go to one of these, like, major aggregators "
+ ],
+ [
+  61,
+  6282,
+  "of component libraries and just start, like, learning what they describe these things as. One of these is, like, aceternity. This one also j"
+ ],
+ [
+  61,
+  6291,
+  "ust looks cool. But if you go to the actual components, you'll see, like, what"
+ ],
+ [
+  61,
+  6296,
+  "the names of these respective components are is pretty pretty universal. So, like, a, like you know, it's almost, like, a little too obvious"
+ ],
+ [
+  61,
+  6306,
+  ", but maybe this is not the best one to show. But, like, act actually, I think this one is good. It's, like, very basic elements in how you "
+ ],
+ [
+  61,
+  6316,
+  "describe them. So, like, this is a modal. Like, it, like, pops up. It has some animation."
+ ],
+ [
+  61,
+  6323,
+  "And what I recommend for you is, like, literally just sit here and, like, play with all of them. Maybe even, like, write down, like, oh, thi"
+ ],
+ [
+  61,
+  6336,
+  "s is what a modal is. Then you'll have the, like, verbiage to be able to describe what you want. Yeah. That works as well. Yeah."
+ ],
+ [
+  61,
+  6347,
+  "The the the the hot and the hot and ready right now for LLMs is Shad CN. It's the weirdest name, but this is this is the thing right now, li"
+ ],
+ [
+  61,
+  6357,
+  "ke, Shad CN components. V zero, which is, one of the prompt app tools that I use, this is by Vercel. This is bar none the best friend front "
+ ],
+ [
+  61,
+  6368,
+  "engineer that's ever existed."
+ ],
+ [
+  61,
+  6370,
+  "You think so? Yeah. To Lovable and all the other? Nice. Yeah. Yeah. Lovable is better if you're building a crud app. Yeah. Yeah. Yeah. If yo"
+ ],
+ [
+  61,
+  6378,
+  "u're building something that is, like, has to have, like, a UI and it has to have a back end, Lovable is engineer it used to be called GPT e"
+ ],
+ [
+  61,
+  6385,
+  "ngineer in the whole thing that it's like it's just a giant pipeline, Lovable. And the like, they just got lucky because they, like, took th"
+ ],
+ [
+  61,
+  6393,
+  "e, like, experience of what a CRUD engineer does and, like, engineered that, like, to a t. And then the models got so good that, like, the s"
+ ],
+ [
+  61,
+  6401,
+  "cope of what that could do grew. And so it just really opinionated what what Lovable does. Like,"
+ ],
+ [
+  61,
+  6406,
+  "but, like, for specifically for CRUD apps, yeah. CRUD means create, read, update, delete. This these are, like, the simplest operations that"
+ ],
+ [
+  61,
+  6424,
+  " most applications do. Yeah. Like, so"
+ ],
+ [
+  61,
+  6429,
+  "for I guess I did that in here. So from this respective contemplation, develop a thousand word specification that is the discrete prompt for"
+ ],
+ [
+  61,
+  6444,
+  " my front end engineer to implement this interface compliant to the respective entity relationship diagram."
+ ],
+ [
+  61,
+  6456,
+  "This will actually go one way or the other. So now we're just expecting that we have a we're just saying, oh, this is part of the hypothetic"
+ ],
+ [
+  61,
+  6463,
+  "al retrospective. We were just implying that we already have a, you know, complete entity relationship diagram and our database schema is fi"
+ ],
+ [
+  61,
+  6470,
+  "nished. We're actually just gonna, like, have now, be it's gonna, like, create all that, and now v zero is going to create all the front end"
+ ],
+ [
+  61,
+  6477,
+  " interfaces,"
+ ],
+ [
+  61,
+  6478,
+  "which is then going to further instantiate that we have have developed all of that, like, ORM language. And then when we take the code from "
+ ],
+ [
+  61,
+  6489,
+  "v zero back to this repository and then Attach the strings. But yeah. Exactly. We just attach the strings. So Like a so you're building the "
+ ],
+ [
+  61,
+  6499,
+  "process first. Well, yeah. But I've already contemplated the back end. Yeah."
+ ],
+ [
+  61,
+  6505,
+  "You you do not even you don't check what the gif will you like. Yeah. Know. But but we're going to by by, by using the markdown by using the"
+ ],
+ [
+  61,
+  6514,
+  " mermaid diagrams. And so once I get this back, we'll, we will then generate the we'll generate the entry relationship diagram indicative of"
+ ],
+ [
+  61,
+  6522,
+  " our database model. But the database transaction here is really simple. So, like, there's there's a thousand ways of doing this."
+ ],
+ [
+  61,
+  6530,
+  "So I'm not even concerned that I got this wrong. Or we could talk about the model for it, but I don't really even know what I want in this a"
+ ],
+ [
+  61,
+  6542,
+  "pplication yet. V zero is gonna help me know what I want. Okay. So we get the front end specification. So the goal is, like, the logline. Is"
+ ],
+ [
+  61,
+  6554,
+  " anyone"
+ ],
+ [
+  61,
+  6555,
+  "okay. Something that could be very helpful is screenwriters read this book called Save the Cat, and it's how you, like, structure a Hollywoo"
+ ],
+ [
+  61,
+  6566,
+  "d movie. And, like, the rule is, like, a Hollywood movie is a 110 pages. Like, specific things happen on page 25, 55, 78, and and, like, a 1"
+ ],
+ [
+  61,
+  6577,
+  "09."
+ ],
+ [
+  61,
+  6577,
+  "Right? Like, you could think about, like, the story of creating a software application in, like, the same way. And, like, the most important"
+ ],
+ [
+  61,
+  6589,
+  " thing, it's asking me questions. See? Now it's asking me questions. Okay. The architecture is a three layer system with content scripts, ba"
+ ],
+ [
+  61,
+  6601,
+  "ckground service workers, and UI components. Alright. I guess that's what I asked for."
+ ],
+ [
+  61,
+  6609,
+  "Let's contemplate both the respective extension view for the browser as well as a custom front end, which is indicative of the content store"
+ ],
+ [
+  61,
+  6623,
+  "d in the database and allows us to have a minutiae of observability on the flow as we use this tool virtually across respective development "
+ ],
+ [
+  61,
+  6638,
+  "environments."
+ ],
+ [
+  61,
+  6639,
+  "Then visualize. So Okay. So we get the web dashboard,"
+ ],
+ [
+  61,
+  6671,
+  "clone extension, API gateway, middleware. Okay. We got a mermaid parser service, an auth service, a data layer. Here we got the response flo"
+ ],
+ [
+  61,
+  6682,
+  "w. Now the caveat is that when it does add some of these, these, like, cache states that you could see in the cache state, there's that gene"
+ ],
+ [
+  61,
+  6693,
+  "ral flow process there. But I'm not there is no actual"
+ ],
+ [
+  61,
+  6697,
+  "change operation in this application which is contemplated. So I know that from the shape of this, the return data is not actually being con"
+ ],
+ [
+  61,
+  6716,
+  "templated. So that's good that we checked out this request response architecture for our API. K. Move move server through the cache."
+ ],
+ [
+  61,
+  6733,
+  "Sorry. You guys can't see this. Okay. Do you guys wanna stop? Okay. Oh, there's another session?"
+ ],
+ [
+  61,
+  6758,
+  "Okay. Yeah. Sure. Yeah. You can add a bit of it. Just one thing to use. Yeah. So, like, this is what I do. I, like, literally"
+ ],
+ [
+  61,
+  6790,
+  "just I'm trying to grok what it gave me back. It should be compliant to what I requested. Like, I'm now building up a, like, index of what I"
+ ],
+ [
+  61,
+  6799,
+  " need to actually improve in the application before I start building anything. Like, again, like, the shape thing in the request response ar"
+ ],
+ [
+  61,
+  6807,
+  "chitecture, very important vibe architecture. Like, it matters. Like, it you could just I just know it works already. But, you know, it's li"
+ ],
+ [
+  61,
+  6816,
+  "ke, that's how you that's how you vibe back end."
+ ],
+ [
+  61,
+  6819,
+  "I just know this works. But regardless of what it actually embodies at, it's like it understands that we are going to build this round trip."
+ ],
+ [
+  61,
+  6828,
+  " Oh, it's even gonna ship an SVG. Alright. I like it that way. We'll probably build some some type of defuzzing layer, and we could even hav"
+ ],
+ [
+  61,
+  6837,
+  "e some type of loop. So typically, right now, what I would do is I just open a new text file,"
+ ],
+ [
+  61,
+  6843,
+  "and I just start talking. So what I'm trying to do is is be perspicacious about what like, having built, you know, dozens of apps, just be p"
+ ],
+ [
+  61,
+  6854,
+  "erspicacious about what we're gonna run into here. Like, okay. Looking at the request response architecture, I know that we don't have a con"
+ ],
+ [
+  61,
+  6865,
+  "templated defuzzing algorithm for perhaps using an LLM or some type of rejects parsing for common errors which are returned from Mermaid, wh"
+ ],
+ [
+  61,
+  6875,
+  "ich might invalidate"
+ ],
+ [
+  61,
+  6877,
+  "respective rendering. So we might wanna have a defuzzing loop that catches errors and then throws the mermaid back in for a corrective loop,"
+ ],
+ [
+  61,
+  6887,
+  " which we might then also wanna have some type of observability for to trace the actual changes on those and then have a determination layer"
+ ],
+ [
+  61,
+  6897,
+  " for the acceptability of the disc disc with respect to the initially outputted diagrams as capitulated from the original model in a self co"
+ ],
+ [
+  61,
+  6907,
+  "ntained loop."
+ ],
+ [
+  61,
+  6908,
+  "That's like a that's like a, you know, it's a stretch feature. So I'll just dump it in a notes file for now. But some aspect of that will go"
+ ],
+ [
+  61,
+  6921,
+  " to the contemplation. Oh, UML diagram language. It used to be too much, but it's now very useful. Like, knowing what a decision is is like "
+ ],
+ [
+  61,
+  6933,
+  "the little"
+ ],
+ [
+  61,
+  6934,
+  "yeah. Universal markup language. State diagrams. Okay. Alright. Security. I don't even know what XXS is. Does anybody know what that is? Wha"
+ ],
+ [
+  61,
+  6951,
+  "t is it? Cross site. Cross site script. Oh, yeah. Yeah. CORS errors. Right?"
+ ],
+ [
+  61,
+  6960,
+  "But it's part of it. Okay. CORS handling. These are different things. I didn't even know that. Okay. See? Good for learning. Oh, yeah. My co"
+ ],
+ [
+  61,
+  6978,
+  "mputer's out of space. Yeah. About a quarter of my day is just deleting shit on my computer."
+ ],
+ [
+  61,
+  6989,
+  "Working fast and slow. Okay. Yeah. But it's not only RAM. Oh, Brave is actually really good for, like, logs and stuff. I don't know. I I lik"
+ ],
+ [
+  61,
+  7004,
+  "e Brave Browser for for developing more more as more recently, it's become pretty useful,"
+ ],
+ [
+  61,
+  7014,
+  "especially because it's created by the inventor of JavaScript. Okay. Alright. How are we doing over here?"
+ ],
+ [
+  61,
+  7047,
+  "Well, this is just my computer being really slow. Okay. So we got the extension pop up. Dev tool panel. Okay. Not what I want. Alright. Well"
+ ],
+ [
+  61,
+  7079,
+  ", we have some options."
+ ],
+ [
+  61,
+  7084,
+  "Alright. So let's actually re envision the respective Mermaid preview extension as a sidebar having a renderer for markdown including suppor"
+ ],
+ [
+  61,
+  7130,
+  "t for Mermaid. K. So we get"
+ ],
+ [
+  61,
+  7139,
+  "so I think what was wrong with this prompt here is that it didn't comprehensively well, I'll explain it to both of you guys. And what was wr"
+ ],
+ [
+  61,
+  7147,
+  "ong with this prompt here is that we didn't comprehensively consider the context by which we are going to be using Claude code or some type "
+ ],
+ [
+  61,
+  7156,
+  "of CLI based tool as the source of these respective files. And so we might actually need some type of, like, content creation watcher that i"
+ ],
+ [
+  61,
+  7164,
+  "s then looking for these respective files as they're being created and then streaming that to the browser independently of the respective de"
+ ],
+ [
+  61,
+  7173,
+  "v environment which we're sort serving to the browser."
+ ],
+ [
+  61,
+  7176,
+  "Anybody have any other ideas how we might actually go about that? Definitely open to them. I can see particularly in the file upload workflo"
+ ],
+ [
+  61,
+  7196,
+  "w that we are just not even considering the source of the respective files."
+ ],
+ [
+  61,
+  7207,
+  "And, no, we are not creating markdown with mermaid at all. That is a gross misrepresentation of an understanding of what we're trying to do "
+ ],
+ [
+  61,
+  7215,
+  "here. We are trying to replicate the function of a respective set of tools which are enabled by the respective common set of IDEs, particula"
+ ],
+ [
+  61,
+  7222,
+  "rly based on Versus Code and Versus Codeium, enable the respective preview of environment of markdown to include a respective preview of"
+ ],
+ [
+  61,
+  7230,
+  "of embedded mermaid files, where we want to recapitulate that same functionalities within a content delivery system, which is connected to a"
+ ],
+ [
+  61,
+  7243,
+  " event listening device, which then finds new analytical markdown files containing Mermaid as created by"
+ ],
+ [
+  61,
+  7252,
+  "ClaudeCode or some other generative UI tool, which is then going to stream access to those respective files and the rendered context of the "
+ ],
+ [
+  61,
+  7262,
+  "respective markdown, including the mermaid diagrams, which is zoomable and full featured in a sidebar inside the browser so that we can simp"
+ ],
+ [
+  61,
+  7273,
+  "lify the overall development"
+ ],
+ [
+  61,
+  7275,
+  "and include these interpretive diagrams that include markdown files having mermaid diagrams directly inside of the development environment b"
+ ],
+ [
+  61,
+  7296,
+  "eing the browser. So, yeah, that's kinda what I do all day. Yeah. Yeah. Yeah."
+ ],
+ [
+  61,
+  7307,
+  "Because I yeah. I mean, I already know where I wanna go. Right? Like like, you know, I I don't wanna work on this tomorrow. Yeah. So Yeah. T"
+ ],
+ [
+  61,
+  7315,
+  "rying to achieve absolutely right is where you're going to be. I don't know. I'm I'm sorry. I cut you off. No. Mean Oh, that's part of the h"
+ ],
+ [
+  61,
+  7324,
+  "ypothetical retrospective. Yeah. I wish there was a whiteboard here. That would be I can go get a whiteboard if you guys wanna walk because "
+ ],
+ [
+  61,
+  7332,
+  "I can kinda, like, draw this process out of how I'm thinking about it. Like, I think about, like, okay. What I wanna build as a log line vec"
+ ],
+ [
+  61,
+  7340,
+  "tor. Going back to, like, this book, like, save the cat, like and, like, telling storytelling and, like, how screenplay writers, like, think"
+ ],
+ [
+  61,
+  7348,
+  " about, like, pitching their ideas. This idea of, like, the log line. Like like,"
+ ],
+ [
+  61,
+  7353,
+  "what is the, like, unobvious, ironic one liner that explains the movie elf? You know? Like, get the log line of your app. Like, get the simp"
+ ],
+ [
+  61,
+  7363,
+  "lest description and, like, stake that out in the future. Like, stake that as a goal. And then and then, like, contemplate the stories to yo"
+ ],
+ [
+  61,
+  7373,
+  "urself that are, like, how we achieve that final goal."
+ ],
+ [
+  61,
+  7377,
+  "And then pick the best one and then describe that to the to the LM and, like, let it make all the decisions. Did you do something which alre"
+ ],
+ [
+  61,
+  7387,
+  "ady has design? What's that? Did you do something which already had design, like, full design or just the Oh, my designer is v zero. Like Ok"
+ ],
+ [
+  61,
+  7396,
+  "ay. But then and okay. Then if I want it like, when I design, like, what I want, I'll then do the Big Brother Building where I'll add so, li"
+ ],
+ [
+  61,
+  7406,
+  "ke"
+ ],
+ [
+  61,
+  7406,
+  "okay. A mistake that I made here was I used Paperpilot. Paperpilot is like I used Paperpilot is now SIRE, the collaborative integrated resea"
+ ],
+ [
+  61,
+  7415,
+  "rch environment. Paperpilot is David. It's not a great app. I should have used the best app that I built to, like, template this, but it's i"
+ ],
+ [
+  61,
+  7425,
+  "t's it's doing things here which are indicative of Paperpilot, which is naive. So"
+ ],
+ [
+  61,
+  7430,
+  "my updated advice is don't use bad repos to do big brother building. Yeah. But just having it there, it's it's all your drops in. Yeah. Beca"
+ ],
+ [
+  61,
+  7443,
+  "use it it's gonna index it. Like, it it's the shipping like, Windsurf is, like, shipping that entire, like, embedded 15,000 dimensional, lik"
+ ],
+ [
+  61,
+  7456,
+  "e, thing to the context model."
+ ],
+ [
+  61,
+  7459,
+  "And so yeah. Like, I just have it right now where I'm making a lot of new I could have specified, like, as Ashton said, like, to update that"
+ ],
+ [
+  61,
+  7470,
+  " respective file, and that was probably the right thing to do. So I need to update my own model to make sure that I'm asking it to revise th"
+ ],
+ [
+  61,
+  7481,
+  "e respective files at this stage and not just create new ones. Yeah. I'm not even there yet. You know, that matters when you get to, like, 2"
+ ],
+ [
+  61,
+  7493,
+  "00 markdown files."
+ ],
+ [
+  61,
+  7494,
+  "Yeah. But being perspicacious of, like, how you're gonna organize these files, it basically matters once you can't read all your all the mar"
+ ],
+ [
+  61,
+  7504,
+  "kdown files you have in your open editors. That that's my heuristic. It's like, you know, if you you wanna start making folders when it's, l"
+ ],
+ [
+  61,
+  7513,
+  "ike, super flat and you wanna think about, like, reorganizing. What's"
+ ],
+ [
+  61,
+  7518,
+  "that? Yeah. Have the model do it. Yeah. So Yeah. Have the model, like I I I tell it to, like, hey. Make a plan for doing this and, like, tel"
+ ],
+ [
+  61,
+  7527,
+  "l me that plan. And then I also tell it to implement it, and it does it. Yeah. Yeah. But you have it make the bash tree structure of what's "
+ ],
+ [
+  61,
+  7535,
+  "gonna be. That I don't know how much that intermediary step matters. Yeah. Yeah. Like, having it be like, okay. Like, output the number of t"
+ ],
+ [
+  61,
+  7544,
+  "okens required to just describe what the folder structure is going to be as, like, the first thing it does, it, like, is way smarter at a lo"
+ ],
+ [
+  61,
+  7552,
+  "t of things. And I should probably use that more. And I now,"
+ ],
+ [
+  61,
+  7556,
+  "like, recollecting the times when I did do that for major refactors or or for, like, major code setup. And, again, I use Gemini for this a l"
+ ],
+ [
+  61,
+  7566,
+  "ot too. So, I might just copy and paste as much as into Gemini and be like, hey. What should the structure of the code base for this look li"
+ ],
+ [
+  61,
+  7576,
+  "ke? That will that that's typically pretty effective. Oh, you do that still in cursor. Right?"
+ ],
+ [
+  61,
+  7582,
+  "I've never tried in cursor. I usually paste it out to AIs to you. So but your whole code base? Well, yeah. But well, I used to do it using r"
+ ],
+ [
+  61,
+  7593,
+  "epo prompt, now they want me to pay for that. But Yeah. I mean, I could try repo prompt again if it will work. This it's been a while since "
+ ],
+ [
+  61,
+  7605,
+  "I've done this, but this is actually a good strategy."
+ ],
+ [
+  61,
+  7609,
+  "Well, the reason I haven't I've stopped using this because repo prompt like, I could have vibe coded this entire app as well, but probably a"
+ ],
+ [
+  61,
+  7617,
+  " good thing to do. Still decent? Yeah. It's still decent. And, like, repo prompts is a pretty handy tool that I use especially in the docume"
+ ],
+ [
+  61,
+  7624,
+  "ntation level. It used to be, like, the thing. And now it because CLI agents are so much better, now it's, like, not quite as much. But, lik"
+ ],
+ [
+  61,
+  7632,
+  "e, this is still really handy for, like, whenever I'm in the project inception phase and I'm making a bunch of documents, I'm gonna use Repo"
+ ],
+ [
+  61,
+  7640,
+  "Prompt just to be able to go use especially if you're paying for the $200 a month"
+ ],
+ [
+  61,
+  7644,
+  "ChatGPT Pro. Super handy to be able to, like, do this and just dump this into there. Really, it gets a lot more bang for your buck. Yeah. Ev"
+ ],
+ [
+  61,
+  7652,
+  "ery query you're giving is, like, a 50,000 tokens or whatever, like, your whole every single document you've built. Exactly. So so for those"
+ ],
+ [
+  61,
+  7660,
+  " that don't know what RepoPrompt is, it is just an app that is a folder viewer that allows you to select folders and files and copy all of t"
+ ],
+ [
+  61,
+  7668,
+  "he text. And it concatenates them with little descriptors like, this is the beginning of the next file."
+ ],
+ [
+  61,
+  7674,
+  "And it just does that for you automatically. And so you then can then go to something like oh, also, having your Safari in dev mode is a maj"
+ ],
+ [
+  61,
+  7684,
+  "or hack because if you're ever developing app like, this is how like, this is apple.com. Right? So just being able just having, like, a brow"
+ ],
+ [
+  61,
+  7694,
+  "ser that's always useful where you have all the CSS stripped out is actually really useful for development"
+ ],
+ [
+  61,
+  7701,
+  "when when yeah. Yeah. Like, I basically I have a goal, which is like this"
+ ],
+ [
+  61,
+  7726,
+  "like, I wanna develop just in my browser. Like and I feel what that is. Like, that's the vibe. Right? And, like, what the actual features im"
+ ],
+ [
+  61,
+  7734,
+  "plementations, I don't know what that is yet. So, like, I'm, like, trying different vectors with each prompt that, like, get me to the feeli"
+ ],
+ [
+  61,
+  7742,
+  "ng of that outcome. And, like, instead of building the app and, like, going in all kinds of directions with probably 10 x the number of code"
+ ],
+ [
+  61,
+  7750,
+  ", I can, like, be perspicacious of what the actual outcome of the app will be when I do generate all the code by just having it generate eno"
+ ],
+ [
+  61,
+  7758,
+  "ugh mermaid diagrams for me to figure out what the overall architecture will be."
+ ],
+ [
+  61,
+  7763,
+  "Here is the contemplations to develop this respective app. I'm not even gonna tell you what it is. Generate me three different paradigms of "
+ ],
+ [
+  61,
+  7787,
+  "the file structure of the full implementation of this application in Bash. I'm not gonna tell it. I'm not gonna tell what it is."
+ ],
+ [
+  61,
+  7808,
+  "Alright. Monorepo feature based grouping. Yeah. That's probably what I'll do. Services oriented. There's not that many services in here, so "
+ ],
+ [
+  61,
+  7817,
+  "I'm not even gonna think about services at all. But every time I try to build something with services, the the AI gets way too ambitious and"
+ ],
+ [
+  61,
+  7827,
+  " I never build anything. So I don't recommend starting fresh projects from a services base."
+ ],
+ [
+  61,
+  7833,
+  "Oh, I do bill I get I'm building something, but it's it's not even, like, 1% of the thing which the AI spent, like, weeks literally, like, b"
+ ],
+ [
+  61,
+  7844,
+  "uilding out, particularly for biochemical processes and engineering software. What's that? By service architecture, you mean built in someth"
+ ],
+ [
+  61,
+  7854,
+  "ing where REST API calls"
+ ],
+ [
+  61,
+  7856,
+  "server clients? Yeah. But where you have some type of, like, you have a centralized REST utility Mhmm. And then your your services utilize t"
+ ],
+ [
+  61,
+  7865,
+  "hat respective utility. Sure. Like, if you're building, like, united like, if you're building an airline website, like, do that. But, like, "
+ ],
+ [
+  61,
+  7875,
+  "otherwise, like, just use Axios or use Fetch. Like, you know, it's like you don't need that complex of an architecture"
+ ],
+ [
+  61,
+  7883,
+  "to certain build a lot of basic apps. Nice. This is Gemini, everybody, giving me a useless picture. Alright. Great. Alright."
+ ],
+ [
+  61,
+  7905,
+  "I didn't know it did that. Yeah. Alright. Well, there's the shape of the data for you. I feel like that's because they didn't have Patrick t"
+ ],
+ [
+  61,
+  7914,
+  "alk to their model team to get them to properly integrate mermaid diagrams. And I bet when you said diagram, it, like, fixates on the visual"
+ ],
+ [
+  61,
+  7924,
+  " component of that. Dude, this is why Anthropic's beating these people. Which is, like, kind of a funny thing."
+ ],
+ [
+  61,
+  7931,
+  "Well, I I I, like, have a date and time that I, like, said all these things about, like, hey. It's gonna be way more efficient to just reall"
+ ],
+ [
+  61,
+  7941,
+  "y efficiently generate mermaid diagrams than it is to chalk out a new React app every time someone asks for a artifact. Like, they figured t"
+ ],
+ [
+  61,
+  7950,
+  "hat out, like, basically around that time because that's when the, like, quality of the artifacts based mermaid diagrams went asymptotic."
+ ],
+ [
+  61,
+  7960,
+  "Yeah. Like, I don't know where do I have one. Yeah. Just to show, like"
+ ],
+ [
+  61,
+  7988,
+  "well, a lot of code that I wrote. Okay. Also, if you guys aren't writing setup scripts, like, I could do a whole another talk on, like, buil"
+ ],
+ [
+  61,
+  7999,
+  "ding your own cloud code specifically for things you wanna build. That's been very fun. That's a whole another world. But oh, yeah. So there"
+ ],
+ [
+  61,
+  8010,
+  "'s the, like, mermaid diagram of the whole architecture. Show me this as a"
+ ],
+ [
+  61,
+  8016,
+  "sometimes, I'm like, how is this a $100,000,000,000 company? Just give me the button for the mermaid. Alright. Does anyone know how to open "
+ ],
+ [
+  61,
+  8068,
+  "artifacts retrospectively? Okay. Well,"
+ ],
+ [
+  61,
+  8082,
+  "the Anthropix Claude artifacts tool for mermaid support is really good. This is why I don't use it. Yeah. So it doesn't it doesn't really wo"
+ ],
+ [
+  61,
+  8095,
+  "rk where for what I need it for. But it is good when it does work. And it sometimes works. But I this happens to me every day. So"
+ ],
+ [
+  61,
+  8107,
+  "yeah. Okay. That's different. That's talk Okay. How do we do on talk flow? Definitely over thirty eight minutes. Preparation. Did I do enoug"
+ ],
+ [
+  61,
+  8123,
+  "h preparation? Concept development, slide design, image creation,"
+ ],
+ [
+  61,
+  8130,
+  "export pipeline. Yeah. I did that. Okay. Live demo. Oh, it's gone a little bit longer. Category theory flow. A phenomorphism. Oh, we do a we"
+ ],
+ [
+  61,
+  8140,
+  " did a little bit on phenomorphisms. Optical fiber idea. Yeah. I do wanna get back to that. I mean, we did we touched on that a lot as far a"
+ ],
+ [
+  61,
+  8150,
+  "s the, you know, the context saturation,"
+ ],
+ [
+  61,
+  8153,
+  "context route type thing. Does anyone want me to talk more on ideas that I've learned from reading books about these respective leaders who'"
+ ],
+ [
+  61,
+  8163,
+  "ve developed successful app technology? I think these are some of the, like, best heuristics that I haven't explained yet, which helped me t"
+ ],
+ [
+  61,
+  8173,
+  "o, like, think about how to frame. Okay. Demis Hassabis,"
+ ],
+ [
+  61,
+  8177,
+  "guy that founded DeepMind. Basically, he took this, like, one idea of, like, recursion and what I think is actually a great demonstration of"
+ ],
+ [
+  61,
+  8186,
+  " what hypothetical retrospective is. Like, he basically, like, took a log line of, like, we're gonna, like, create self learning machines, a"
+ ],
+ [
+  61,
+  8196,
+  "nd, like, threw it out really far, picked a particular problem, and then, like and then, like, led a whole organization to basically, like, "
+ ],
+ [
+  61,
+  8205,
+  "run experiments that were very broad on the outside, but all actually took the shape of, like, these same kinda core computer science princi"
+ ],
+ [
+  61,
+  8214,
+  "ples. And then eventually, that capitulated,"
+ ],
+ [
+  61,
+  8217,
+  "like, alpha alpha fold. Probably need to make a new talk on that. I need to read his book. But probably a good good avenue to, like, look at"
+ ],
+ [
+  61,
+  8228,
+  ", like, the the history of the the founding and the genesis of DeepMind as an organization and then how particularly the leadership of that "
+ ],
+ [
+  61,
+  8239,
+  "organization, like, was able to produce that technology. Vannevar Bush."
+ ],
+ [
+  61,
+  8244,
+  "Yeah. That goes back to particularly this idea, and I want one of the first, like, really good talks I went to on, like, somebody that was, "
+ ],
+ [
+  61,
+  8251,
+  "like, eloquently explaining what LLMs are and how and if they can come up with new information was, like, you know, we have this embedding s"
+ ],
+ [
+  61,
+  8258,
+  "pace of, like, all human knowledge, and there's, like, peaks and valleys and, like, you know, for, like, the most well studied material and "
+ ],
+ [
+  61,
+  8265,
+  "probably most well written on specific"
+ ],
+ [
+  61,
+  8267,
+  "fundamental thing ever in the history of humanity is the science of the interface between silicon dioxide and silica. Like, there's no doubt"
+ ],
+ [
+  61,
+  8274,
+  " about that. But, like, you know, nothing for, you know, nothing for, like, you know, you know, ruthenium. Oh, actually, there's a lot in ru"
+ ],
+ [
+  61,
+  8281,
+  "thenium, threonine monoxide. But, like, the the the number of, like, research that the the amount of research that exists on, like, empirica"
+ ],
+ [
+  61,
+  8287,
+  "l information and and then theoretical development on, like, the interface of ruthenium oxide and ruthenium versus silicon and silicon oxide"
+ ],
+ [
+  61,
+  8294,
+  " because our entire technology basis is, like, based on that is, like, you know, several orders of magnitude different in, like, training da"
+ ],
+ [
+  61,
+  8301,
+  "ta. So you can think of these, like, peaks and valleys of, like, all these different areas. And LLMs,"
+ ],
+ [
+  61,
+  8306,
+  "like, can only basically, like, bridge between that, like, area. So they they can, like, fill in the the the the lower area like like water."
+ ],
+ [
+  61,
+  8317,
+  " And that's a lot of what I think that Vannevar Bush did is that, like, he understood through Memex, which was like a physical box that he b"
+ ],
+ [
+  61,
+  8327,
+  "uilt that he, like, built this, like he he designed maybe we should actually pull that up."
+ ],
+ [
+  61,
+  8334,
+  "And this actually probably also, does fit well to the idea of, so he invented, like, a computer before computers. Like, this is, like, in th"
+ ],
+ [
+  61,
+  8342,
+  "e nineteen twenties. They, like, came up with this, like, all information is gonna go into this box. So there's this, like, idea of this, li"
+ ],
+ [
+  61,
+  8350,
+  "ke, memory box. In the form of a desk, I would instantly bring files and materials on any subject to the operator's fingertips. Well, I mean"
+ ],
+ [
+  61,
+  8358,
+  ", one of the one of the most the the best applications of Cloud Code is that it's the best retriever ever. So you can think of, like, this i"
+ ],
+ [
+  61,
+  8366,
+  "s, like this is the vision for, like, how Claude code works is this, like, the semantic retriever that can, like, go to the, like"
+ ],
+ [
+  61,
+  8373,
+  "just endless halls of file boxes and retrieve that. Like, now we do have that. We both have that on the web, and we have that on our own com"
+ ],
+ [
+  61,
+  8382,
+  "puters. And this idea of, like, disparate retrieval to build context is something that we are taking for granted because we're just so I'm s"
+ ],
+ [
+  61,
+  8391,
+  "till and everybody is just so flabbergasted by what 200,000 contact model windows can do, but, like,"
+ ],
+ [
+  61,
+  8397,
+  "there's so much more to this idea of, like, structured retrieval, and then bringing that into building context basis ease for getting really"
+ ],
+ [
+  61,
+  8410,
+  " cool outcomes. That was pretty hand wavy, but we'll work on something like that. And I think just John if you haven't read about John Pierc"
+ ],
+ [
+  61,
+  8423,
+  "e,"
+ ],
+ [
+  61,
+  8423,
+  "this guy is just, like, way he was way ahead of his time, like, sixty years ago. But one of the things that from the book that, like, I quip"
+ ],
+ [
+  61,
+  8432,
+  "ped on that, like, reminded me, like, how I most effectively work with Claude is that, like, a lot of the times when you had ideas that were"
+ ],
+ [
+  61,
+  8441,
+  " like, this is like a big open end project that would require, you know, hundreds of millions of dollars of funding. Like, he literally kick"
+ ],
+ [
+  61,
+  8450,
+  "ed off that idea by, like, giving the vision to, like, the most capable person of that he had. That that person was actually subordinate."
+ ],
+ [
+  61,
+  8459,
+  "That person was, like, just subordinate enough that they, like, had to follow what he had to do, but he also, like, had to convince them to "
+ ],
+ [
+  61,
+  8466,
+  "work on it. And they were technical enough to implement it and, like, develop a research program to implement something like that. And he di"
+ ],
+ [
+  61,
+  8472,
+  "dn't let them ask any questions, at least initially. Like, he had them, like, for had you know, he took a big leap and then forced the actua"
+ ],
+ [
+  61,
+  8479,
+  "l implementer to, like, do all the interpolations of what a, like, hypothetical retrospective of, like, that program to develop that might l"
+ ],
+ [
+  61,
+  8486,
+  "ook like. I'm sure then he looked at that and then refined the program even more, and he was, like, kind of always thinking ahead of the big"
+ ],
+ [
+  61,
+  8493,
+  "ger leaps and then, like, having his implementers"
+ ],
+ [
+  61,
+  8495,
+  "think of the, think of the the, like, discrete steps of interpolation to implement from there before. Well, I think I'm gonna stop talking n"
+ ],
+ [
+  61,
+  8521,
+  "ow. Thank you. Thanks."
+ ],
+ [
   62,
   1,
   "Cool. Hey. Hello. Hello. Hello. Hello. Hello. Cool. So glad to see you guys here. I am going to be talking about metamodernism at the edge a"
