@@ -1,0 +1,547 @@
+# EDGE CITY Patagonia week 2 orientation and town hall
+
+Date: 
+Source video: EDGE CITY Patagonia week 2 orientation and town hall
+Drive: https://drive.google.com/file/d/1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i/view
+Duration: 02:38:13
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[32:44] Check. Check. Check. Check. Check. Check. Check. Check. Check. Hello. Hello. Hello. Hello. Hello. Alright, folks. If you're joining, just grab a seat. We'll get started in twenty seconds. Yeah. We're on time. Perfect. Alright. Welcome, everyone.
+
+[33:09] So great to have you all here. If you're sitting near the back or you wanna just, like, move forward a tiny bit, feel free. We're gonna keep this very casual. There's a small group of us that have arrived in the last few days. So the first fifteen minutes of this will be very similar to what we did last Sunday. If you were here, feel free to hang out here, obviously, or do your own thing. And then around around fifteen minutes, we'll kick off with the,
+
+[33:37] with a proper town hall. Alright. Alright. So welcome, everyone. Today, we're gonna do a quick orientation. I'll touch on what is Edge and I find that this is very helpful context. It feels kind of awkward to be standing here at microphone because there's so few of you, but I think we need it for the audio, so just bear with me on that. We'll do a few details to get you oriented,
+
+[34:01] and then we'll roll into the town hall. We'll talk about the week. We'll have a few residency leads talk about what they're up to. Mika, if you wanna just pay attention. Thank you so much. Ollie? Hello. Sorry. And then we'll go into demo day, and, community dinner will be later on around 06:30. So what is Edge City? First of all, I'm Tim Moore. I'm one of the founders. Normally, my cofounder Janine would be here, but she is very pregnant. She's gonna give birth at any moment now. She's in Austin. So we're sending her a lot of love and gratitude,
+
+[34:35] to her and Justin, her husband. But yeah. So for day for today, you have me. So what is Edge City? Edge City is, we call it a society incubator. There we go. And we do three things primarily. First of all, we host month long papa villages for folks in technology, science, and culture. And you are at one right now, so congrats. Good job for making it here.
+
+[34:59] Secondly, we incubate and accelerate startups, institutions, and entirely new fields of thought, and I'll give some examples of those things later. And thirdly and ultimately, we're growing the infrastructure for what we call the network society movement, and I'll touch on that as well. So it all started about two and a half years ago with an event called ZuZulu that my cofounder Janine, started with Vitalik Buterin and a few other folks.
+
+[35:25] And after ZuZulu did a couple of events and decentralized, we started Edge City and kind of picked up the baton and kept running with it. So in just under two years, just for Edge City, we've had over 11,000 people. We've organized seven pop up cities across four continents. We've had folks from 80 countries represented at our events and probably need to actually update that number since, Patagonia got started. We've had dozens of startups and projects come through Edge. We've raised over a million dollars in grants to support early stage builders.
+
+[35:56] We've had over a 150 kids attending and five kids that we know of that have been conceived at or because of EDGE. So we're helping the population as well. And we've been, lucky to work with some of the world's leading organizations and individuals in our efforts. So this is the world map of where we have been, and you can see that we are starting global from day one, and that's something that's really important.
+
+[36:22] We don't just want to create another one off place like San Francisco or New York. We want to create something that's fundamentally different and unique. So that's why we're starting by doing events all over the world. We also want to make it easier for people who are, for example, in Latin America to attend our gatherings. And one thing I should say as well is that some of the, most of these are starting as temporary hubs like the one we're in now. And over time, the intention is that, some of them will become permanent nodes as well. So that's already happening in California with Edge Esmeralda.
+
+[36:57] Esmeralda is a new town that we're helping build. And also in Bhutan, which I'll touch on in a sec. So what is our approach? How do we do this? It all starts at these villages. So we bring together 500 to a thousand curious, kind, and high agency people. We try and create an environment that has the size of a village or a small town, but has a dynamism and the new ideas and the programming and the connections of a major urban center.
+
+[37:25] We hope that this is one of the highest leverage months of your year just through the people that you're going to meet, the work that you're going to do, the demos that you're going to present, and, you know, potentially collaborators, investors, etcetera. We create the villages around what we call residencies or themed tracks, and I'll touch on that in a sec. And we have four main principles to, to organize these villages.
+
+[37:49] So the first is that we aim for them to be default healthy. So with time outside in nature, group workouts, hopefully, everyone leaves edge healthier than they arrived. It's very much an intention of ours. We, create events that are multidisciplinary. So we have folks from all areas of tech, science, culture, art, movie makers,
+
+[38:13] you know, etcetera, etcetera. And this is really important because we want to see what is possible when these fields intersect. We focus on building and cocreation. So, ideally, everyone ships something while they're here, and everyone's involved in actually co creating this experience for and with each other. And lastly, we make environments that are multigenerational.
+
+[38:35] So we've had, four kids running around in this past week. I think more will be arriving throughout the month. In our summer events, we get closer to a 100 kids. So we're trying to create something that's very, you know, geared for the next generation who will inherit all of the amazing things that we're building. And, also, people invite their parents and their grandparents and kinda create this
+
+[38:58] really interesting unique vibe when we do that. So, ultimately, we're trying to create just the best place for people to live, connect, and build. And this is really important because when it comes to some of the more kind of, ambitious goals of the network state and network society movement, something we've seen is that people often just start with a big vision, and they imagine that this online community that they build will magically instantiate
+
+[39:24] in real life. And I think what's missing from that process is just this, gathering people, making the connections happen so that people actually start to care about each other enough in order to want to build something, you know, build a brighter future together. Sorry. This clicker is a little difficult. Alright. So what are some of the ideas that people are actually building at Edge? I'll give you a couple of case studies just as examples. There are many more, and,
+
+[39:51] you know, you guys will be on these slides in the future. So the first example is a startup called Constellation that was with us at Edge twenty twenty five. Avery, that's the founder. He's in the middle there. He's a a PhD, from Stanford in neuroscience and had this idea for years, but it was only at Edge of Esmeralda that he was able to actually come demonstrate the startup concept, which involved
+
+[40:14] measuring a few dozen folks with these headsets there that you see on the right. He, found his, founding team. So that's actually the guy measuring there on the right is one of my friends from growing up, Matteo, who's now moved to SF, just because he met Avery. He found his lead investor. Turns out they were living down the road from each other, raised his round, collected one of the largest multimodal data sets of its kind, and now he's off to the races, one of the hottest, neurotech startups in the bay. So just shows you what's possible in just thirty days.
+
+[40:47] An example of applied research. So many of you know Mike Johnson. He's you know, we refer to him as the resident philosopher of Edge City. He's been working on consciousness and AI and this new concept called vasocomputation for a few years. And really at Edge is where it's able to go from philosophy to theory to practice, and we now have a six month trial that's kicking off this month.
+
+[41:10] So we have folks who are doing, they're using ultrasound readers to measure, you know, the the stuff going on here for vaso. And I recommend finding Mike and chatting to him about this. He's one of the more kind of compelling speakers. And I really love how he describes Edge, oh, yeah, as a minimum viable paradise, which I think is quite sweet. Field building. So we've been supporting this field called DEAC from the beginning. It's an idea that comes from Vitalik.
+
+[41:40] And, essentially, the definition is decentralized democratic differential defensive acceleration. If you don't know what that is, you know, chat with some of the folks who are part of the residency here this month. It's a really beautiful and interesting idea. We've launched a grant program with Vitalik for DIAC builders, and we're running this residency with Protocol Labs. I actually see some folks who just arrived who are part of that, so exciting to have you here.
+
+[42:04] And we've already supported over a dozen startups and projects. This is really cool because DEAC is a very interesting idea, but for many people, it's quite abstract. And these things tend to not go anywhere unless you actually support the builders who are doing the thing. Especially And with something so multidisciplinary that ranges from governance tools to biosecurity to, you know, public epistemics, you need to have some coherent narrative for these fields to actually get going. So we're very excited to be part of that.
+
+[42:34] Edge City Fellowship. So this is a program we've been running for the pretty much since the beginning. Every village, we get around six to eight talented builders who are under 25 years old working on something exceptional. And they come, they get mentorship. We, you know, pay for a full ride for their experience. They come from all over the world. We have five amazing fellows with us here this month. So if you see them around, please say hello.
+
+[42:59] And, yeah, this is just something that we're really excited to build and scale over time as well. And lastly, we're increasingly working with new cities and permanent hubs. So on the left is the town I mentioned, Esmeralda. This will be a family friendly Frontier Tech Town. It's just about an hour north of SF. We've been holding an annual event there every summer, and this is a chance for the community to get involved in building
+
+[43:23] and cocreating this town. And then on the right, just a few weeks ago, I led a edge expedition to Bhutan. It's an incredible place. For folks who don't know, it's a kingdom. It's in the middle of the Himalayas surrounded by China, India, and Nepal. And they have been really at the frontier of a lot of tech movements. They've been mining Bitcoin for a long time using renewable energy.
+
+[43:47] They, their entire national identity system is on Ethereum now, which is really exciting. And, they're building a new city called the Gulafu Mindfulness City where we, just visited. They've broken ground. I think we were some of the first foreigners to be able to visit. So it's a real a real pleasure there, and we'll be doing much more work in Bhutan over the years. So okay. What are what are we actually doing, and and how are we gonna get there? So
+
+[44:11] it all starts at the villages, like I mentioned. And then through the experiences of the villages, we are creating this global community. Those people will be the folks that will incubate the tools that this movement uses as well as the startups that allow us to reach sustainability through incubating, you know, or investing in them. Over time,
+
+[44:33] these tools will be used in these new towns and permanent hubs, like I mentioned. Some of the, temporary hubs are starting to become permanent. And, eventually, we're going to create this global innovation engine that, where you'll be able to move freely between the different nodes. There'll be learnings from each part of the world that are relevant for other parts, and, you know, we're just going to demonstrate a better way of living, kind of showcase what that can be like. That's the goal.
+
+[45:01] Why are we doing this? Like, why now? Why Edge's approach? I think, ultimately, it comes down to the fact that tech is moving fast, but it doesn't feel like society is. So we in this moment of transition, we need new environments where we can create the new institutions, the new cultures, the new norms that will steward us, you know, into this new phase.
+
+[45:24] We live institutions and cultures that were the right answer for a prior set of problems for prior generation or often two hundred or three hundred years ago, and it's clear now that they are not quite suited for our time and the challenges we face and the opportunities we face. So the question is where are those new institutions going to come from? Where are those ideas going to
+
+[45:48] emerge? And I don't think the answer is, you know, a YC or a b to b SaaS accelerator. I don't think the answer is like a government think tank. I think the answer is groups of high agency people who are living together for extended periods of time, sharing ideas, coming up with new philosophies and theories, but then actually having the chance to put them into practice as well. Create the technology. Create the culture. Try an experiment. Try something new. So
+
+[46:16] that's that's essentially what we're up to here. I kind of liken it to almost the seventeenth century, enlightenment salons in Paris where people, you know, gathering in groups can you know, heavily debated the right way to live, and out of that came, you know, our modern conception of human rights, democracy, and and many of the kind of load bearing bits of culture that we lean on today. But these were very recent, they were not inevitable. Right? They took people to actually spend the time to think about them, discuss them, and and kinda instantiate them into the world.
+
+[46:49] Alright. So we're here in Patagonia, and just a couple of things to get oriented. First of all, why are we here in Patagonia? So, we have been scouting Argentina for quite a while. We've wanted to do something in LatAm. We've had relationships here in Argentina for a long time. I think actually, wait. Do I have, like, a pretty picture? No. I don't. Alright. Well, you can look on the right there.
+
+[47:14] About a year ago, we were in touch with our friend Cello, who runs a company called Lemon. They're the biggest one of the biggest crypto companies in LatAm. And we said, we really wanna do something in Argentina. It seems like DevConnect will be in Buenos Aires. Where should we go? And he said, without a moment of pause, you need to come to San Martin De Los Andes. He's a bit biased. His family lives here. Lemon started here. But we scouted this town. We scouted a few other options, and it was just very clear that this is the exact right place where we need to be. It's,
+
+[47:44] beautiful. I hope you've already seen that. It's very walkable. Everything's within a ten to fifteen minute walk. There are many venues around here. But more importantly, it's probably the easiest place we've had to develop local relationships. When we first started speaking with, Cortezmo, one of the key partners here that we're working with, it's a local cooperative. They run a lot of the Internet infrastructure.
+
+[48:08] They were calling us back. They were they were showing the initiative to be like, alright. What's happening? Like, let's do this. We have ideas. You know? We have people who are interested in collaborating. That's quite rare for us because often we have to convince folks, you know, to get, for, like, what what we're doing and why it's interesting. So that's a bit why about why we're here and why we're excited to be here. I'll give you a couple of logistical notes first. So
+
+[48:32] Telegram, who is in the who's not in the main Telegram group? Raise your hand. Alright. So in your email for your ticket confirmation, there is a link to I see you shaking your head. You're like, oh, I do this every time. No. There's a link to join the telegram group. Please do that. At the very top of that, there's a pin message or pin topic called read this first.
+
+[48:55] Please read that first. Any question you have will 95% of the time be answered in that channel. If you don't have that, if you don't find your answer, just search for it in the telegram. Also, mute the entire thing. Just mute it. Don't worry about it. Just mute the entire thing from the very, like, beginning of it, and then unmute the organizer announcements channel.
+
+[49:19] Secondly, we have social layer. This is a shared calendar. Many of you know what this is from other pop ups, from other edges, but, basically, it's a shared community calendar. You can put your events on there. You can see what other people are organizing. Please get, ramped up on Social Air. There is a blog post about it. Again, in the read this first channel, there's all the info you need. And lastly, we have a wiki, again, with all of the information.
+
+[49:42] So please check that out as well. It's also linked in read this first. Okay. So here's the village map. Right now, we are right here. If you walk two blocks this way, there's the bit coworking hub. So you should check that out for sure. If you walk about four blocks this way, there's the well-being hub. There's things there, which Sophie will tell you about in a moment. And then just about a ten minute walk from where we are right now, there is the Del Salco Park and Spa, and that's where the sauna is. So you should definitely check that out. And then there's all these amazing cafes and everything around as well.
+
+[50:17] We have residencies. This is the first time we're doing this, at this scale, at least. So we have some incredible, incredible groups that have come and brought their communities. Many of you are probably part of one. We talked about them a lot last week, but I'll call out a couple. So Ollie from OZ City just arrived. They're kicking off in about a week. This week, we have Cypherpunk Utopia. We'll be kicking off a bit more of their programming.
+
+[50:43] And then who else? Oh, and health and bio are kicking off as well this week. So you'll hear about them more in the telegram chat, and then we'll actually hear from a couple of residency leads who are much more involved in this past week for their thoughts of how everything is going. Alright. Goals for the month. For daily movement, I'm gonna hand it off to Sophie to tell you about health and well-being.
+
+[51:06] Round of applause for Sophie, please. The core, core member of our team. Thank you, Timur. Welcome, everyone. This is quite a full room. I didn't expect that. That's awesome to see. Yeah. We have this goal of leaving here healthier than we arrived, and this is, like, including different aspects of daily life. It's not just movement. It's also choosing healthy food options. There's a bunch of great cafes out here that have really, really good breakfast ideas.
+
+[51:36] So try to live as healthy as possible in terms of food choices. Get out into nature. There's so much to explore out here even just for an hour a day. Get away from your screen. Grab someone from the coworking place that you feel like is a good fit to accompany you, or grab lunch with them and then go for a little walk or hike. Definitely enjoy this nature and give your nervous system some rest and some,
+
+[51:58] recharge. And then we have a lot of really, really cool movement practices every day that you should definitely join. Aim for, like, thirty minutes an hour per day. That will be our dream and a really good goal for a month. You can make a lot of changes by only doing thirty to one hour a day. I'm gonna call some examples. So for Monday and Tuesday, we have 09:30 in the well-being hub. It's like a breath and movement kind of practice.
+
+[52:25] Really, really good practice. Highly recommended. It's by Erica Metluck and Paul Kuhn. It's awesome. Everyone has been loving it the last week, so try that out Monday and Tuesday. We're also running run club every day, 7AM. If it's not too cold, it's not too early, you're just not in bed early enough. So join the run club if you wanna run. I saw wild horses on my run, so highly recommend coming to the runs.
+
+[52:51] And starting on Wednesday, we have yoga every morning at eight in the well-being hub, so definitely join Jess for some yoga. She's awesome. She will play around with different versions of yoga. You should definitely join that. We have some weights in the well-being hub. The well-being hub is almost everyday open from seven to ten 7AM to 10PM. So there's mats. There's some weights. You can also just go there and work out by yourself. You can also put it on the calendar if you want others to join. So if you feel like you're doing an excellent HIIT class and you feel like others should join that, put it on the calendar, choose the well-being hub, and work out together.
+
+[53:29] And we've also been loving the gyms in town. They are really small, but that's even more fun because it means that you meet all your people the morning already when you go workout. We've been loving Terra gym and sports tracks. Both are small. Both are awesome. Both have discounts if you show your wristband. So check that out as well. And so the ideal flow would basically be get up, get some movement in, whatever workout works for you, and then get some good breakfast at home or at one of these awesome cafes,
+
+[53:59] join the Pomodoro sessions for some deep work, and then flow into the day. And you already won your day by only these three set three steps. So, yeah, excited to run, work out, sweat with you, and chat while doing that. Thank you so much. Thank you, Sophie. Alright. And then just really briefly, the other two things that we'd love for you to do is to make some kind of progress while you're here. So really aim to ship something each week, share it in the,
+
+[54:29] output channel in Telegram. Like, let's encourage each other. Especially now that we've settled in in week one. This is a really good chance in week two to start to actually go deep on what you're here to build. And lastly, the co creation piece. So definitely, you know, join sessions that people are running organized hikes and share something unique to you, something you're an expert in. Alright. Really briefly, q and a. Any questions? Any burning questions I can answer? You can also come find me after.
+
+[54:58] Yes. Timor is how I pronounce my name. Thank you for asking. Alright. Town hall. We're gonna roll straight into it because we're a tiny bit behind schedule. The idea with the town hall is to get, you know, a little bit of, community input. We are going to experiment with a couple different formats, so please let us know kind of the meta level feedback as well. If you're just coming in, there are these cushions upfront that no one has braved.
+
+[55:29] Nice, Keith. Welcome. And there are still a couple of chairs up front as well. Cool. Actually, I might come up here for this just because I need to alright. So let's just go straight into the recap. I just wanted to gather a couple of
+
+[55:56] photographs that I feel like really reflect what's been going on. Yeah. It's just been incredible to see people come in in week one and have such a wonderful time from the beginning. I yes. Okay. Perfect. So we have the stargazing. It's actually Janine who put these together, which is a bit bittersweet because she can't be here, but she had some extra time, while waiting to give birth. So,
+
+[56:19] these are these are the selects that she chose, which give her the most FOMO. We had the stargazing, the meteor shower on the right. We've had people, oh, wait. They're organized by our principals. Okay. Let me start again. Week recap. Residencies and experiments. So we've had amazing residency kickoff with the the fair on the left. We've had people doing sound meditations.
+
+[56:42] We had an amazing moment where I came from the soccer tournament to the sound meditation. It was just such a good example of the diversity of experience that you can have here. Healthy, default healthy. So we've had people doing runs, martial arts workouts, getting up at 1AM and going to see the stars. I actually don't think that's default healthy, but it's fun. It gives your life meaning, which is also important.
+
+[57:08] Cocreation, sharing knowledge. There've been some incredible programs and very well attended, which actually isn't always the case across the board at our events, so that's been really cool to see. So thank you for that. Let me actually give me thirty seconds to change my screen so I can mirror it. Cool.
+
+[57:46] Here we go. Alright. Perfect. Now I can see what I'm doing. Alright. So, usually, what we do is we actually just go around and and get some highlights from people, and we'll also get, like, you know, lessons learned. But just to start with some highlights, I asked I crowdsourced a couple before I came. Number one was the Paul and Erica sound meditations. Who's done one of those? It's the 09:30 in the morning. Yeah. How's how's that been?
+
+[58:11] I someone explained it to me. I haven't had a chance to go yet. You sure? I I really should. There's two more on Monday and Tuesday. So for anyone that hasn't had a chance. And they explained what was happening. I was like, wow. It's incredible. I imagine someone must have shed a tear or cried. And they were like, no, dude. You don't understand. Like, every single person is crying by the end. So if you want that shared experience,
+
+[58:34] highly, highly recommend that. Another thing I've heard is that there have been it feels like there's been a good cadence of programming. I think people that have come to prior edges know how almost, overwhelming it can feel when there's so much going on. I know it probably has felt that way already, but we've heard that this kind of daily flow of, like, morning session, Pomodoros,
+
+[58:57] programming in the afternoon, dinner in the evening is starting to feel good. So that's something I've heard. We've had more asadoes than I can count. That's just been incredible. Stargazing was a highlight for people. Just wanted to get some input from others as well, and I'll write it up here. Any other highlights? If you wanna, like, raise your hand. Yeah. Keith. Yeah. I can really relate to that. Interested and struggling.
+
+[59:35] Yeah. Nice. Yeah. The cold plunges have looked amazing. I also don't quite get up early enough for that, but highly recommend to anyone who does. Yeah. Yes. How cold?
+
+[01:00:02] Extremely cold. Someone if someone has a thermometer, we'd love to measure that. Alright. Yeah. Anyone else? Yeah. Hiking. Hiking. Yes. If you just arrived, highly recommend going to a hike. On the north side of the lake seems to be the preference for folks. So if you're facing the lake on the right side, you can
+
+[01:00:25] either take an Uber five minutes to a trailhead. It's all in the telegram chat, or you can just walk up there. Yeah. Axel. Ecstatic dance. Ecstatic dance. That was this morning? How was it? Amazing. Yeah. Yes. Yeah. This has just been incredible.
+
+[01:00:48] Like, make make an Argentinian friend is one of my recommendations for this week. Those incredible people. Yeah. I really enjoy being around people who give a shit. Nice. Yes. Being around people who give a shit. I'm gonna screenshot this and and put in a group chat after so it's yeah. Many wild horses.
+
+[01:01:19] Incredible. Yeah. So not not promising anything. So I'm just trying to get the horse emoji. It's not working. I'll do it later. Alright. Anyone else? Yeah. Yes. It's the Edge Cinematic Universe. Yes. And also shout out Tessa for designing the the t shirts.
+
+[01:01:44] Okay. Last one. Yeah. So if How far do you run-in Run Club?
+
+[01:02:13] I'm not gonna say that now. Alright. Don't scare anyone off. And also shout out Conrad for running some of the sessions. Right? Yeah. That's amazing. When someone in the community comes to one of the events that a core team member organizes and you feel cold and you feel like you can own it and run with it, that would be amazing for us because that takes a load off of us as well. Alright. What are some of the lessons from week one? So I crowdsourced a couple here again.
+
+[01:02:40] One is don't trust Talimani if he says it's an easy hike or if he says that the trip to Chile is just gonna be chill. There's a big group about to come back who had some adventures. You should talk to them about that. More seriously, number two, there's a lot going on. On Friday, I spoke to a bunch of people who are like, oh, man. I'm having the best time, but it's a little bit overwhelming.
+
+[01:03:04] This is a marathon, and it is kind of a sprint, but, like, you know, take it easy. Use the weekends especially to recharge. If you need a couple hours in the daytime, just don't look at the calendar in the afternoons. Do your thing. Make sure you're getting your, you know, your, well-being needs met. One quick thing to mention, the sauna and spa, we've been publishing
+
+[01:03:27] republishing, reminding folks about the guidelines. This is a treasure of the community. We need to treat it well if we are to keep that space. We've had to have some conversations with the hotel that's running it. There's people using massage blankets as towels. Please don't do that. That makes it difficult for us in our conversations with them. If you need more towels, ask the,
+
+[01:03:53] the very kind lady at the reception. Don't go around rooting yourself. We added weights to the well-being space. That was some feedback that we heard. It's nice just to have there. So you can go there at any time that the space is open, which is pretty much all day. Sophie? Cool.
+
+[01:04:33] Everything's in the wiki, and we're guessing more weights. Thank you. How was the hit this morning, by the way? It's great. Nice. Sweaty and stinky. Perfect for the cacao ceremony right after. Sundays, gyms are closed in town. A lot is closed. So we're doing HIIT workouts every Sunday morning, and we'll probably add them through the week. Actually, on that note, has anyone been to Jota Gym, j o t a?
+
+[01:05:02] I have. How how was your experience? Oh, you wanna check it out? Okay. Okay. This is actually very helpful. We had them as a potential kind of core part of the experience, but it seems like people aren't using it too much. I went. I had an amazing time. It was me and 20 Spanish speaking
+
+[01:05:25] ladies who were extremely kind and were shouting the English words they knew at me, which was very nice. But it's it's a bit more it's a bit less accessible if you don't speak Spanish. So we might recommend folks get memberships at SportTracks or what was the other one? Terra or ATP. There's a bunch of little gyms in town. They're awesome. Get a monthly membership. We have discounts with the wristbands,
+
+[01:05:51] something like $50 for the whole month. Yeah. Oh, wow. That's actually remarkable. I didn't realize. Okay. So chat GPT voice mode, general recommendation
+
+[01:06:14] for folks. Oh, yeah. And then last thing, we heard kind of halfway through the week that there'll be, there was a never eat alone Telegram, channel that was made. We also added times on the calendar for every evening so that it is kind of more of a shelling point. I think it's 7PM to 08:30PM, I think probably every day of the week. Is that right?
+
+[01:06:43] Alright. So check out check out the calendar. It's gonna be a different restaurant. Every every day, buy your own food, but at least you'll know that there'll be people from the community there. Any other lessons, learnings, things you wanna mention? Yeah. Keith? Yeah. So if you are on your way out,
+
+[01:07:17] you're about to throw a towel into the basket, which everyone should do as they leave. Right before you do that, if you wanna just use it on the floor, it's actually useful. So you put on the floor, put on your shoes, you know, dry your feet, put on your shoes, and then you're also drying the floor as well. Sophie? Yeah. That's a really good point. So we've shared these guidelines again.
+
+[01:07:59] We totally get it. You're in a new place, but we really encourage folks to treat this like you're at home because you are for the next month. So if you walk into a you know, if you use a space, please tidy it up after yourself. Someone else is coming in after you who's also an attendee. There's not gonna be anyone to come and clean it. So if you, you know, ate something or drank some tea or something, just take it with you or, you know, clean up.
+
+[01:08:24] Yeah. Keith again. Alright. So, you know, hang out with Argentinians at your own risk quite late. Yeah. Yeah.
+
+[01:09:08] Amazing. Thank you so much for that offering. Yeah. Things are closed. We we I think everyone's learning that sometimes the hard way. Yeah. Yes. He's a local who knows pretty much everything about every restaurant in this region. So, yeah, highly recommend.
+
+[01:09:34] Shout out to Max. Alright. Anything else? Yeah. Yes. That is a very good reminder. So
+
+[01:09:57] everyone, in the coworking space, there is one room that is bookable. It is called takeoff. That is the workshop. Right as you enter bit Cortezuma, you're in, like, kind of a parking lot type zone. On your left, that big room, that's a bookable workshop room. So if people have events in there, they're on the calendar and they book them. The space right in front of you that has the stairs that go up,
+
+[01:10:22] that's a ideally a quiet coworking area. And then the space that's around the corner to the right, the quintro, it looks like a beautiful wooden room with the glass walls. That's a social coworking. That means kinda loud coworking. You can go in there to chat with your team. If you're in there, don't be upset if people are talking, maybe on a call or something like that. That's the current system. We can figure out better ways over the month, but that's how it currently works. So please follow those guidelines.
+
+[01:10:57] That's a great idea. Let's yeah. Let's we do have the names of the rooms, but I think that could be good, Anna and maybe Lore, to print out just like loud coworking workshop room. Okay. It is there. Never mind. Yeah. It's another learning. Join the Pomodoros
+
+[01:11:31] if you want to be super productive. Chances leading those with an experiment called murmur. Alright. So just for time, I'm going to keep this moving. But if you have feedback, we sent all of you an email with the feedback link. We would really love to hear from you. Help us make this good and better. Even if you wanna tell us that everything's going great, we would really love to hear.
+
+[01:11:57] And, yeah, we'll we'll share this in the group chat as well. So one thing I wanted to do, just so it's not me always talking at you guys, is to invite the, some of the residency leads who have been most active in each of the past weeks just to come up and share a little bit about how things are going for them, how they're feeling, highlights, and to give you a sense also of some of the bigger picture stuff that they are thinking about.
+
+[01:12:24] So right before we do that, sorry, coming up this week very quickly. Friday, we have Halloween. So, daytime, there's going to be Halloween daytime thing at Agatha House. Nighttime, Kat is organizing a party at the Bunker, which is a club in town. It's gonna go from 10PM till late. We have a bunch of DJs in the community. It's gonna be very, very fun. They have extra subwoofers they're bringing for us. So it's actually gonna be like a proper party.
+
+[01:12:54] Highly recommend attending that, and, obviously, costumes are heavily encouraged. Another note, now that we're settled, I already mentioned this, but this week is a really good time to start to focus on what you want to work on and ship this month. That will continue with momentum into week three, and then week four, you can think of as a chance to really be, demoing. We also have the health and bio residency and the cypherpunk residencies kicking off, much more this coming week, which I already mentioned. And as a reminder, there are experiments that are running. So check the group chats. There's, like, a dozen consciousness experiments,
+
+[01:13:29] a bunch of others. I think the health and bio folks have some stuff going on, so get involved in those as well. I saw a hand up. Is there a place to borrow costumes? I I see, like, skeptical look from the local producers. Last year, you know, was
+
+[01:13:51] like a There was? Okay. That's good to know. We will we will do our best, but if anyone finds anything, please please let the community know. And then you can also get creative. You know, there's yeah. We'll we'll figure it out. We'll figure it out. An easy costume, by the way, that's topical is a
+
+[01:14:16] diamond thief from the Louvre. All you need is some fake diamonds and, like, a balaclava. There you go. You already got it. Alright. Residency leads check ins. Let's start with meditation artifacts. Charlotte and Luca, you guys around? Alright. Round of applause for these two, please. Just gonna have you guys sit in the
+
+[01:14:43] the chairs. Yeah. Yeah. It's like a proper panel. Yeah. You know, it is actually giving talk show. Amazing. Go turn it on. Hello. Okay. Cool. There you go. Awesome. Alright. Amazing. Well, just in, like, ten seconds, can you guys introduce each other,
+
+[01:15:06] actually? I love that. Oh, that's great. You wanna go first? Sure. So this is Charlotte McAdams. Excuse me. Bad start. Do you know her name? Test one. There's just a lot of really impressive people in the audience. I really wanna impress you all as well. So this is Charlotte McAdams, spiritual innovator, graduate of Harvard Divinity School with a master of divinity. Also,
+
+[01:15:30] representative of the American Psychological Association. So we've got a bit of a hotshot over here. Oh my And Charlotte has done some really incredible work to connect spiritual care providers with people in different demographics, particularly thinking about the spiritual but not religious crowd and how to enhance their access to a meaningful life. Think that's that's
+
+[01:15:52] how I describe you. That's beautiful. I love that. It's a lot to live up to. Yeah. Right. Hi, everyone. This is Luca Del Deo. It stands for light of God. He also accepts being called light of God. Luca Del Deo, is a fellow graduate with a master of theological studies from Harvard Divinity School, and he has spent many, many years
+
+[01:16:17] thinking about meditation really deeply, practicing it, and advocating for a more nuanced, perspective on it in society, in academia, everywhere that it should be, which is everywhere. And so Luca is a visionary. He's a builder. He's a creator. He is the founder of Meditation Artifacts and also the founder of the meditation literacy framework that is building the work that we're doing today, and that is, you know, driving our kind of vision for change in the future.
+
+[01:16:48] In his free time, he's also a bit of a nerd, he just created a card game that he wants to play with all of you. So ask him about his card game. It's true. I'm I'm really passionate about it. Amazing. So I'd love to hear from you guys. You know, how's week one? Any reflections? Any highlights? Any things you wanna mention to the group? Charlotte, what do you think?
+
+[01:17:12] So week one was great. It was great. I'm, like, a little worse for wear because of it, which is a sign of how wonderful and full on it's been. So we we have this container that we're building. It's a monastery meets hacker house is how we're thinking about it. So every morning, we get up at 06:30 in the morning, actually, like 06:15. We have, like, a gong that's ringing ringing through the house. Like, it's quite intense. And we meditate for an hour together, and then we do a cold plunge and we go to the sauna.
+
+[01:17:40] And we also have a number of meditation teachers who are living with us, who are leading, a variety of, opportunities for us to learn throughout the days. And then in the evening, we're having community dinner together, which we're having our residents cook for us. And we're also trying to really build intentional connection with each other, like go deeper than the mind to get into the heart space, you know,
+
+[01:18:05] a space of meaningful connection. And then we have our evening contemplative practice. So I'll just say it's been great. Like, it's been hard. I think practice is really hard. And, like, even just sitting for eighteen minutes in the morning or so, I find my mind wondering, I wanna get to my email. And so I've really just been, finding that I can hold myself accountable here in a really special way.
+
+[01:18:30] Yeah. I'll also just add, my favorite my highlight of this week, and I see it's a highlight of a lot of people's weeks here at City Patagonia, was my very first Asado on Friday evening. We were blessed to have a number of Argentinian people staying in our residency who went through this, incredible self led initiative to help us create
+
+[01:18:55] a really beautiful Asado experience. And so I'm just deeply grateful to being able to get in touch with some of the local culture and to understand how meditation as a practice can connect with different forms of lifestyle because I'll tell you right now, an Asado is not what I normally think of when I think of a monastery, but it really worked. Tell me about meditation. Yes. And then and then this is really incredible. After the Asado,
+
+[01:19:21] I think we had, like, 20 or 30 people. We all went inside after a couple beers, a lot of steak, and we had a meditation session impromptu spontaneous led by one of our teachers. And I just thought that was that was amazing to see people who are one minute partying and the next enjoying a contemplative practice. That's that's really what I wanted to see when I brought this community together.
+
+[01:19:48] Oh, beautiful. So just a final note, would love to hear you guys maybe reflect on, either what's coming up this week or just in general, what's in the future for you guys? What's the vision here? What are you how do you see what you're building with this residency? Yeah. Why don't you tell what's going on this week for people to be excited about? Cool. So, check the social layer, but on Tuesday, we have an event we're really excited about, which is a day of silence. Jump scare. I know that's hard to do here, but,
+
+[01:20:22] we're holding a container for people to step back, reflect on all the conversations they've had, you know, what they've learned so far, maybe even get into a space where new creative things are unlocked for them because they're not intaking so much throughout the day. So on Monday night, our wonderful, wonderful teachers are gonna be leading a dharma talk on the the idea of noble silence and what it can be.
+
+[01:20:48] And then all of Tuesday, we'll be holding silence when we can. And if there are moments where we can't, that's okay. And then we'll have a a chanting practice at the end of the day. There's also a couple of meditations on the schedule for that day for people who want a container for that silence, and there's also gonna be a two hour moments of silence event, just an unprogrammed time in the well-being hub for people to be
+
+[01:21:13] silent but together, you know, to have some accountability and support in in practicing in that. I see. I'm really excited for that day of silence. I don't know how well I'll do with this community here. So what we're planning next? This residency for us is an experiment. I'm really passionate about getting together different forms of meditation practice
+
+[01:21:37] and to see what happens when we create this locus of creativity, innovation, technology, and it is scaffolded by incredible teachers. This is what we're testing out here in Ed City Patagonia, and it's what we would like to keep seeing in other network states or other sort of pop up communities. As we start building toward what could
+
+[01:21:59] a center for true meditation innovation look like, we are definitely considering building spaces like this as more long standing settings in some of the tech hubs around the world. But it's not just about technology. We really wanna see what happens when you bring together all of these innovators from different disciplines around the subject of meditation. Can we cultivate
+
+[01:22:24] telepathy, which is a interest I know is in this community? Can we learn how, out of body experiences are related to practice? Can we understand meditation as more than just a mindfulness tool, but as something that is rich and varied across many different cultures, and how will that inform the next wave of technology, of interventions, or of just personal practice.
+
+[01:22:47] So that is what we're building here with Meditation Artifacts, and that's the experiment that we invite all of you to take part in by visiting our residency, taking part in our public events, looking into ways to get involved by commuting into our private events. We love to meet you all. Amazing. Thank you guys so much. Round of applause for these guys, please. Alright. Next up, I'm gonna call up the Agatha founders,
+
+[01:23:13] Nico and Jeremy. Please welcome them to the stage. Welcome to the TV show, guys. Alright. So, Agatha, please introduce each other very briefly. Should I go first? Okay. Jeremy is one of the calmest
+
+[01:23:37] people I know. Whenever you whatever emotional state you're in, you feel if you just talk with him, like, just works out and things just start to make sense, which is I don't know how he does it. But he he's also my lovely cofounder for the Agatha project. We actually met at the last Edge City event during Esmeralda. We had a back to back,
+
+[01:24:00] what's it, lightning talk or ignite talks where we kind of shared a similar interest in this vision of building a solar panel network of communities where people are growing their own food, that they're treating their body really nice, living in alignment, living creatively. We started jamming ever since and decided to put together this residency. Alright. Thank you, Nico. Am I coming through okay? Alright.
+
+[01:24:24] Well, Nico is hard to describe in one sentence because she is a creative genius, an XR engineer, an artist, a DJ, a fire spinner, a digital nomad that has been on this incredible journey exploring the world and trying to create this map and this vision of a solar punk future.
+
+[01:24:47] So I've been very inspired to work with her and just see the incredible capacity that she has for creativity and design and beauty and love and connection. So, yeah, it was very magical to to meet together and to kinda suss each other out and see what was going on. But, yeah, I think it's, quite interesting to see what we're creating here. Amazing. Maybe in one go, you can talk about, programming. So either things you wanna chat about from this past week or something that's coming up next week for you guys.
+
+[01:25:17] Yes. So our our goal here is to create an a container of following some really good traditions of intentional co living and offering a space for our residents to explore their own creative passion and live their best life. And that's very easy to do in the edge city environment as you're surrounded by all these inspiring people. So we don't have too much programming in our house
+
+[01:25:42] where we're mostly focusing on allowing people to explore individual passion and that kind of creating, like, safe space for them to do that. So Yeah. Wanna add anything? Yeah. I'd probably throw in we're we're a little bit of an anti incubator. So it's not about speed or getting stuff done. It's really how can you feel at peace and at rest and feel very welcome and supported
+
+[01:26:06] and balanced. And I think because of that safe container we're trying to create and foster that with lots of loving connection and unconditional love, the hypothesis is that it's going to awaken your highest creativity, your biggest, most imaginative expression of who you are, and out of that come amazing products and projects and art pieces and cool shit like that. Yeah. There has been a lot of very spontaneous
+
+[01:26:31] events that happened at the house. Like, I'm really passionate about making games, and we started chatting. And I realized there happened to be a lot of people like, few people in our house that have experience with with game development. So we just spontaneously got together and chatted about game ideas and, you know, how can you make money with them, you know, what are some of the things that you've tried. And there's many examples of that kind of spontaneously
+
+[01:26:55] coming out. There's people in our house that's super into mental health, and then people just started chatting about topics they're interested and then started collaboration just are naturally emerging. And then Jeremy also has a side gig as a leadership coach, so he's been very generously coaching all of our residents to help them unblock and help them find out, like, their, you know, superpowers and things like that.
+
+[01:27:21] Oh, so and I I'd also add in there so there are the individual goals for each resident and the projects that they're exploring, and there's an overarching goal for the house where we're running this experiment in benevolent AI. So the idea is, can we create an agent that can be your companion, a reflective mirror for you that understands your human values and what's important to you and help guide you in your project?
+
+[01:27:45] We'd like to explore as well the idea of data sovereignty where you own your data, you have control over how it's used, how how it's respecting your privacy, as well exploring is that ownership a pathway to building a new economy around this where you were valued for the data you're inputting into these systems. So that's one of the experiments that we're playing around with, and we're kinda gathering different people. It's an open source project. We're happy to collaborate with anybody that's interested in that, and we'll see how it goes from there. Yeah. We have this Discord server. We're all using Discord, and we have an
+
+[01:28:17] agent that's built in the server, and the agent would give we also before the residency, we collected all a bunch of personal profile from individuals. So people are telling us what's their professional goal, personal goal, and we have the agent kinda have context of all those data, and the agent is kinda prompting us and following up with us, like, how are you doing with your personal goals? Maybe you should go chat with this other person who shared something similar.
+
+[01:28:41] So we're running the small experiment within our house, and then we're excited to share by the end of Edge what's the result of this. Has the can this actually be effective to individuals and in terms of helping them align incentives? And so this Friday, we are doing a Halloween thing. Should we talk about the Halloween or later? Quickly mention it and then we can just sixty seconds on your vision and then we can keep going. Yeah. Alright. So we'll talk more about Halloween, but we'll have an amazing day party coming up. I will mention more at community dinner.
+
+[01:29:15] Alright. So just real brief. I've been on your website as you've been talking. Maybe just quickly mention what is the bigger picture vision here in the future as well? We are still in the process of discovering it. You know, I think some of our expectation coming in, we knew that we had a vision for Agartha as a business that it would be completely different by the time we come out of it. But I think the underlying
+
+[01:29:37] vibe we're going for is creating this culture and living an embodiment of what solarpunk actually is. And solarpunk can mean a broad range of definitions, but if you wanna think about it as a vibe, we all know cyberpunk, which is the matrix and terminator and blade runner and has dystopian destruction of society and technology's taken over, yada yada. Solarpunk is the antithesis to that. It is bright. It is optimistic.
+
+[01:30:03] It is integrated. It's harmonious. It's green. It's regenerative energy. That's the life we want to embody. And as a byproduct of that culture we create, can we then manifest these new technologies, these new ways of living into the world? So what you see here is a map that Nico has built over the past three years of different communities that are living the solar punk lifestyle in different flavors and and forms.
+
+[01:30:27] And so I think we wanna continue to grow that to make those connections to help people find this lifestyle for themselves in their backyards and wherever it is around the world. Yeah. And we'll have a more detailed intro session during week three if you just search the keyword Agatha where we have, like, an hour to actually deep dive about the longer vision, what those communities are, and then how can you get involved. Amazing. Thank you guys so much. Thank you. Alright.
+
+[01:30:54] And last but not least, before we head into the demo day, I want to invite up the consciousness residency. Madison and Caroline, please welcome them to the stage. Alright, gang. You know the drill. Please introduce each other. In the consciousness residency, we don't really do intros because we figured out telepathy.
+
+[01:31:18] So Alright. Well, let's move on then to No. We can do a we can do couple of intros. Yeah. Do do a brief one. Sorry. I was just trying that joke out. It's okay. No. It ripped, dude. That was sick. Awesome. Okay. Yeah. Caroline has been one of my best friends for a really long time, and so it's been an absolute pleasure to be cocreating this with her, and it's just been so fun. I feel like they say,
+
+[01:31:47] you know it's good when your work feels like play, and that's truly how it's felt. Caroline is an amazing world builder and brings an amazing energy to the residency. Yeah. And Madison's one of the most probably passionate people I've ever met about this topic and has poured her whole heart and soul into this. So we've been talking about some sort of version of this for a few years, and it's been just such a gift to co create this with her. And we keep pinching ourselves. Like, is this real? Is this happening?
+
+[01:32:14] So, yeah, just really grateful to be here. Amazing. So I think more than anyone, you two have created just the most unique, interesting, and also just sheer quantity of programming for the last week. So we'd love to hear how that's been, any highlights, and any reflections. Yeah. Well, I'll start out by saying I would love to say that this was all us, but
+
+[01:32:39] it was really all of you guys. So we wanna thank you all so much for showing up, helping us create this, showing up every day to the breath sound sessions, to all of the workshops, being a part of it all. The energy was so magical because of all of you. So thank you so much. And, also, yeah, it's just it was super surprising. We thought that, like, one or two people would show up on the first day on Monday, and all of a sudden, 40 people rolled in, and then we had to turn people away at the door. So really grateful, but overall,
+
+[01:33:14] it's been really awesome. Special shout out to kind of, like, some of the highlights, Paul and Erica Kuhn for sharing their amazing Gnosis journey with us. If you haven't attended yet, we have Monday morning and Tuesday morning. Those are the last two days, so definitely come join us. We've had some amazing talks, telepathy stuff, remote viewing,
+
+[01:33:38] synchronicity offerings, the technology of self, kind of like some divination stuff with the I Ching, and amazing sound baths with Jess. And then our kickoff was a huge hit. It was so beautiful. We did a sound bath outside under the like, with the mountains in the background, and it was just truly a dream. And then we've also just been loving seeing the consciousness telegram come to life. So thank you everyone for being a part of that. It's just cool seeing people start to chat about things on their own and create events together without, like, us leading charge. So that's been very cool, and we would love for you guys to keep doing that.
+
+[01:34:15] But it's just been really epic week. We're excited. Caroline, do wanna briefly touch on what's coming up in week two? Yeah. So let me shamelessly plug our consciousness calendar. We have, like, a Google Cal you can insert directly into your Google Cal that it plugs everything in from SocialLayer. So that's always a great source of truth because we do stack our programming.
+
+[01:34:38] But like Madison said, Gnosis Journey, Monday, Tuesday is the last two days, so I definitely recommend coming out to one of those if you can. And this week, we're really excited to start kind of kicking into gear our experiments. For those of you who don't know, we're running a plethora of experiments across kind of different verticals that all kind of fall within consciousness. And those of you who signed up to be consciousness athletes, we will be onboarding you guys this week, which means you guys will kind of have a programming schedule to attend so we can be tracking kind of all the biomarkers and data that that go into that.
+
+[01:35:12] And we'll have kind of a lot of programming more centered around the experiments this week. Just briefly, we'll I know tomorrow we'll have a more other synchronicities talk with Tucci, and Nicole is also part of our residency, Another telepathy workshop. One of our experiment leads, Viviana, will be starting her experiment with sound as a vehicle for altered states. That one will be on Wednesday. That one will be super cool.
+
+[01:35:37] More of that we'll have the vibe science, love science social event this week as well, I believe. So, really, it's like heavy experiment programming. I'm even still missing a few. Biofield tuning, Mike Sana sessions will continue. I know those have been a big hit as Apparently, he stayed in there for Yeah. He has he didn't leave the sauna during this for three hours. He almost passed out. So that in of itself is worth watching. And he didn't even get stumped. So you you all have to come to the next Mike, according to Mike, no one has stumped him yet. So he's ready to go again. He's ready. He needs you guys. He real I think he really wants someone to stump him, honestly. I agree.
+
+[01:36:17] And, yeah, we'll be opening I know with the kind of just briefly on the consciousness experiments working hours, we have a room that takeoff room booked off in big catasma, and those are just not really scheduled programming. It's more so because we have some equipment and wearables and stuff with the experiments. So that would just be, like, a big meeting place for experiments. And if anyone has any specific questions, you can usually find a lead in there.
+
+[01:36:41] But, yeah, we're really excited to kind of develop the the experiment side of things this week because we also have a pretty stacked experiments list as well. So excited to share some of that stuff with you guys. Cool. And just to finish, a brief word on the bigger vision here. You know, what are you guys thinking for the future? You go? You can go first. Okay. Yeah. I mean,
+
+[01:37:04] we've kind of been talking about doing something like this for the past couple of years, but, obviously, it's evolved so much. And, we are very grateful for Edge City because it's been such an incredible place to kind of launch this first iteration of what we think is possible in consciousness. And, yeah, I think what we've learned, if anything, is just that there's such a need for these kind of containers and offerings and places that people can go to kind of do the inner work and work on their inner space. So we're definitely dreaming up and kind of envisioning what this might look like in a more permanent,
+
+[01:37:40] kind of structure, and we definitely think it will extend on in many ways after Edge Patagonia. So we're really excited to keep on involving that, and we will definitely be sharing more. But we would also love, like, the community input. So I think we're going to be putting out kind of like a feedback form about the residency. And if you have touched any aspect of it, we would love to hear from you what you think this might look like, what you liked about it, what you think is important in the world.
+
+[01:38:11] Yeah. Do you wanna add anything? Yeah. Just be on the lookout for that. I know also just plugging again, Paul and Erica sent out their feedback form as well for those of you attending Gnosis. Also really great to get those insights. You know, consciousness is a collection of all of us in the end, so we'd really just love to co create with you guys as we really start now that we kind of have things up and running, sitting, going deep on on what form this can take post edge and in other parts of the world. So we'd love to co create with you all, and we're always down for a chat if you see any of us anywhere.
+
+[01:38:42] So yeah. And then just going off of that, like, consciousness is such a broad term, but at the end of the day, it's, like, really the small moments and the intimate moments with yourself and others. And, yeah, it's it's definitely going to be a very, very big mission, but we're excited to kind of just
+
+[01:39:05] be doing this even on a small scale because I think in the future, we're going to be seeing that just so many ways to touch so many more people, do many more things, and, there's seeds being planted of some incredible technologies even here. As I was saying, I wish that we could read minds and communicate like that because talking is so annoying.
+
+[01:39:30] Yeah. Amazing. Alright. Round of applause for these two p's. Thank you so much. Alright. So that's all we have for the town hall. We have a very quick announcement from Ryan, then we're going to do a quick stretch, and then we'll get into the demo day. But, Ryan, Ryan's a member of the core team. Hey, everyone. We have an incredible,
+
+[01:39:54] event operations team that I'm sure you've seen around. Some of them are contracted, some are volunteers. It doesn't really matter. What matters is we're marrying power with responsibility in this space, and we have a lot of really incredible folks who've stepped up to make the event operations happen from venues, events, audio visual setup, setting up spaces, cleaning up. If y'all wanna step up and support whenever you see an opportunity where you have capacity and you see something happening, it helps us a ton. We had an ecstatic dance this morning after a cacao ceremony.
+
+[01:40:23] After a workout, one person stepped up at the end and asked if they could help clean up some things, and it gave so much breath and fresh air to the people that were on shift for that moment. So if y'all wanna step up and offer to support, it makes this all go so much smoother, and this is something that we're all coordinating and organizing together. The other thing to kind of relieve some capacity from some of that organizing team is just to each one teach one philosophy. So if you've learned how to create an event on SocialAir, teach someone else how to create an event on SocialAir. If you've learned where the map is, teach someone else where the map is. If you know how to check if a venue is open at a certain time, teach somebody else, and let's all support in a distributed way so that there's less load on the people that are taking responsibility for certain shifts and tasks, and this will all go so much better for everyone. Thank you so much.
+
+[01:41:14] Amazing. Thank you, Ryan. So what we're gonna do is we're gonna take a sixty second break. I'm gonna run downstairs and use the bathroom. You guys are gonna stand up. You're gonna stretch, try to touch the ceiling, Meet someone next to you. Shaka's gonna play some background music for a moment, and we'll get started in just one or two minutes. Thank you. Alright, everybody. Let's grab a seat. If you can hear my voice,
+
+[01:45:40] get your butt in a seat. I'm gonna do the clapping thing. Alright. If you can hear me, clap once.
+
+[01:46:02] If you can hear me, clap twice. If you can hear me, clap three times. If you can hear me, clap four times. If you can hear me, stop. End your conversation. Grab a seat if you're standing. Welcome. Welcome, everyone. We're about to see a dozen or so amazing
+
+[01:46:25] fast lightning presentations of what people are working on. If you're going to be presenting and you know that, sit near the front, please. We have some cushions for you. I'm gonna start calling on people. Samuel Buffer, I see you. I see you talking. Come come to the front. Nice.
+
+[01:46:49] Who else is back there? Amazing. Alright. If you're going to present, please come sit near the front. I will call you up one by one. Great. Alright. Welcome, everyone. Shaka's gonna give me a three, two, one, and then we'll get started. Amazing. Welcome everyone to the Edge City Patagonia first demo day. Give yourselves a round of applause.
+
+[01:47:24] Amazing. So this is a tradition. I'm gonna go past the template slides. This event is a reminder that we are here to build. We are here to ship. We want everyone to be in the mindset of creating something while they're here at Edge City Patagonia. That doesn't just have to be startups. That can be anything from an essay to academic research to an experience or community that you're building. We just heard from our amazing
+
+[01:47:51] residency leads. You could be building a city. You could be building a movement. You could be making some art, but we want people to be in the mindset of creation while they're here. There are two rules of demo day. The first one is that I will be timing, so the presentations will be around three to four minutes. The second rule is that in order to encourage people to build, we are going to give them exaggerated applause. So anyone that comes up here, we're going to cheer them on as if they just won the Nobel Prize. So let's practice that right now. Just a big clap.
+
+[01:48:32] Thank you so much. Alright. First up, we have Artu De Sofia. Welcome, Artu, to the stage. Well, Hello, everyone. My name is Arturandi, and today, I'm presenting the Saphia by calling for founders to build and launch and sell worldwide.
+
+[01:48:57] Well, basically, we see a clear problem and is that 90% of start ups fail before validating an idea because they don't know how to build an MVP. And the Microsoft CTO predicts that by 2030, 95% of of all code will be generated by AI. That's why we built the Zafia.
+
+[01:49:19] This is a 100% practical online education to launch and scale global approach with AI. No coding required. And we are teaching people to learn how to design a brand, validate an idea, launch a no code app, and receive global payments with all the guidance of our Desafia agent. This is the actual edge market
+
+[01:49:43] in global, in LatAm, and this is our monthly revenue, target in DeSafia. But how we are doing right now? Basically, we launched it, like, four months ago. We are already having, almost 100 students in more than seven countries. And something that is really crazy from the Sofia is that it's super efficient.
+
+[01:50:09] Like, we are having, like, really a small cost every month, and that's why we are, like, growing every month. Basically, I'm a solo founder. I started this idea, this moment with the purpose of, being able to teach most of the people of Latin America that they can, start by code, create, and launch products
+
+[01:50:33] from the local cities even if they are not from capitals as me that I'm from Salta. And I have, like, this track record, being CPO, c m o CMO at Elutera, a vintage in Argentina. I'm professor in two universities from Argentina called Usema and Uncugyo, and I have won, many, hackathons in web three, like Alef, Nerconf, Meridian, or Polkout.
+
+[01:51:01] Well, so that's the Sofia. If you really believe in this new revolution, in this new moment of bycoding, if you believe that, people from LatAm can also create start ups and projects from everywhere. You can just, like, join this moment and join the Sofia to start
+
+[01:51:26] by calling the future of Web three. Thank you very much. And this is my telegram on the website of the Sofia. Amazing, Artun. Great job on starting the applause, guys. We're starting off strong. Alright. Next up, we have Denisa and Rich. Please welcome them to the stage. Hello.
+
+[01:51:54] Hello. Who is excited about their own biology? This is what I want. I want people to be excited to be alive and to be excited to be here. So I'm Denisa, this is Rich, and we're the co leaders of the Health and Bioresidency. So my background is longevity biotech. I've been doing everything in this area. And you're Rich? Yeah. I've been doing biohacking basically since, 2008.
+
+[01:52:16] Interested in any kind of human augmentation. I usually go kinda hardcore with cybernetic implants and gene therapies. It's kinda my thing. And we're here to provide you with a few experiments. Rich, do you wanna start with yours? Sure. The first one we're really excited about. Well, we're all we're excited about all these. But Monday, we're gonna be having a class on the biomarkers of aging. We all know what your chronological age is.
+
+[01:52:42] Your cells might be telling you a different story and we can actually do some tests to figure out your cellular age or your your biological age. We partnered with a local lab who's offered to do these tests dirt cheap, like 40,040 thousand pesos, is like about 27, $28. You can't get that probably back home. So take advantage of it. Find out your biological age.
+
+[01:53:08] And a lot of you have optimized for performance. Some of you are optimizing for longevity with different things like your your diets and things like that. I think edge is a great place to do these tests because a lot of you have a really unique things that you're doing and you'll be able to see actually how it's affecting your longevity. The next thing that I wanna be talking about is obviously
+
+[01:53:33] women's health has been a huge topic in recent years in in the longevity space. So we're gonna have a discussion tomorrow as well, with the fireside chat with Suzette. If you guys know her, she's an amazing human being who's gonna be talking to you about the topic. And my personal showing thing is gonna be who here has known Aubrey DeGray or at least heard about him? Okay. It's a pretty good ratio actually from compared to what I was expecting. So
+
+[01:53:57] we have a digital clone of this longevity researcher who has been pioneering the longevity space about twenty years ago. And we're gonna be experimenting with it in terms of designing hypothesis in the longevity space, wet lab experiments. And then this digital clone called Aubrey, the Aubrey AI, is also gonna be able to help you with understanding your biomarkers and anything longevity and health related. So totally encourage you guys to use it, and I'm gonna be demoing it a bunch of times to understand how to use AI agents
+
+[01:54:25] and how to enter the DeSci longevity space at the same time. And then do you wanna talk about new traffic stuff too? So it's gonna be to be announced, check the solar. We're also having like a new tropics day. We're gonna do some cool actual we got some machines we can rig up to you and do some before and afters to kinda gauge, you know, improvements and things like that. That's gonna be a super fun experiment. So keep an eye out. Yes. And this is just next week. So keep an eye out for everything that's gonna happen in in afterwards two weeks. So thank you so much, guys.
+
+[01:55:02] Incredible. Alright. Next up, we have someone who did not put a name on their slide even though I asked them so nicely to do that. But it's x factor coaching and Xavier? Welcome, Xavier, to the stage. Can people hear me? Perfect.
+
+[01:55:32] Okay. And the clicker. Timo has a clicker. Oops. Thank you. Hello, everybody. Welcome here. Thank you for, listening to me. So, my name is Xavier. My company is x factor coaching, and I'm here to offer my services to people in a new and creative way. So what I do is I bring people from chaos to coherence.
+
+[01:55:59] I help people be aligned, think clearer, move faster, and and sorry. And create better. So does everybody is interested in that? Okay. So you're all gonna stand up for a second and I'm gonna make you do a mental fitness exercise really quick. Okay? So put your arms up, lock your elbows, hyperextend
+
+[01:56:22] your wrist, and now just breathe and stay like that with me. And I'm going to drive you through this. So the work I do is based on different science. So Aristotle said, the mind is a wonderful servant but a terrible master. And real transformation happen with deep integration. My work stems from three different pillars. First one is regulation of the body, and it's informed by science of epigenetics and polyvagal theory.
+
+[01:56:53] The second part is rewiring our brain and this is informed by neuroplasticity and metacognition. And the third part is mind which is informed by cognitive behavioral therapy and positive psychology. So these are the three pillars of the work I do with people. And this week, I will be organizing workshops for people to discover
+
+[01:57:17] on day one how to be more present. The second day will be about the survival brain. And the third day will be about the creative brain. And I will help you give you tools that will help you move better in your life and have better outputs, think clearer, move faster and creates better. Thank you very much everybody. How do you feel right now? Hold on. It's not over. No. No. Stay there. Stay there. Stay there for another minute. Do you start feeling some tension? Okay.
+
+[01:57:48] Great. That's good. I will, at the end of it, explain also the science behind why we're doing it, how it's helpful to bring more clarity to people. And so as now, I'm gonna let you slowly release your arms down and feel better, and you're gonna be much more focused for the rest of the presentation. Thank you very much, everybody. Wow. I actually feel significantly better. Thank you, Xavier.
+
+[01:58:22] Alright. Let's settle down. Let's settle down. That was very exciting, but we're gonna keep going. Next up, we have Lina with Canary. Please welcome Lina up to the stage. So I'll be speaking to you about red canaries today. Who has heard of canary in a coal mine?
+
+[01:58:45] Okay. Some of you. It's an Americanism. Basically, canaries were birds that were used in coal mines to warn miners of dangerous gases in the mine. Our canary today, the canary that I'm building, sort of acts like, a trigger that automatically releases messages, stories,
+
+[01:59:08] files when the owner doesn't check-in or cannot check-in anymore. It's sort of like a dead man's switch. So a dead man's switch is machinery that used to be used as, if it was released, an alarm would go off or the system would cease to act. So Art Canary today can be used,
+
+[01:59:33] for activists, journalists, everyday citizens that are somehow in danger or might even not even know that they're in danger. They might have a story, a voice note, a message that they need to keep safe, but they need to know that this message gets released to the right party or publicly
+
+[01:59:56] once they fail to check-in. The tech that we used to build Canary is censorship resistant, entrant encrypted, completely decentralized. The point of that is really because traditional solutions like, cloud platforms, email services,
+
+[02:00:19] you know, trusted intermediaries represent a single point of failure. I'm not gonna play the demo video right now because I'll see if I'm gonna have time at the end. But this is how we got here. So back in June, we won a web three privacy now hack. That was our first five k that we started building with. Then we got into the Cypherpunk Launchpad program,
+
+[02:00:45] our second five k. And currently, we're a public good. This is really activist technology. Right? But we're looking at different ways that we can monetize potentially in the future. I mean, this technology could become inheritance technology for people holding private keys, for instance, who need to release those private keys when something happens to them.
+
+[02:01:12] Yeah. The idea is in the next few months, we're gonna try to get more funding, really build out the prototype. The tech is working currently, but there are bugs, of course. Get test users and form partnerships. So what does that look like concretely? Right now, we're in the Gitcoin privacy round, and you should all vote for us. You have until October 29.
+
+[02:01:37] And we're gonna be in Buenos Aires at the Cypherpunk Congress. So we have a booth there, which brings me to the next topic is that I'm the person who's putting together that booth. I'm still looking for a few props in Buenos Aires that are just, like, weird and hard to get. So if they if you have local contacts, I have a little budget that I'm happy to release to somebody who can organize or help me organize these props.
+
+[02:02:04] Otherwise, you can donate to the cause. This is our ETH address. You can see all of the transactions transparently there where the money is going. We have a website. Check it out. We're becoming more active on Twitter now, and, I'm the one who writes the substack. So check those out as well. I think that's that's the end here. Do I have some time? No. I don't. Okay. See? No video for you.
+
+[02:02:36] Amazing. Please please share that video in the telegram afterwards. I think people will be really excited about that. Alright. Next up, we have Cherry Builders. Please welcome to the stage. Thank you, Timur. I'm really happy to present today because it's been kind of a full year loop. Exactly one year ago, Cherry was nothing more than,
+
+[02:03:02] winning hackathon project, an MVP. And at Edge City Lana is where I started building it. And I got a lot of feedback, I think, from some of the people in the crowd here even and started building it. Fast forward, it's been used in partnership with, the majority of Ethereum hackathons this year as the matchmaking tool, to help, basically, participants find teammates.
+
+[02:03:28] So within its niche, now we've built this, underlying, foundational engine. And, and this is going well. Actually, there's if you go on to cherry.builders right now, you'll find the Octant DeFi hackathon that's about to come up. However, here at Edge, I'm currently, experimenting
+
+[02:03:50] with NFC stickers. I'm, I want to build, live experiences for, builders and founders that are early stage, usually MVP to precede, and I wanna build them, live in person and community based. So, yeah, I would encourage well, you can actually access,
+
+[02:04:14] edge.cherry.builders subdomain here, but you will also see pop up around town some cherry.builders stickers. And I would encourage everyone to tap those because I'm gonna be building experiments, and, I'm just gonna give a couple ex examples of use cases that I've built so far. So one is a sort of in between a treasure hunt and a guided tour of the city
+
+[02:04:39] where once you tap a chip, you get the location of the next one. And, another one is, for deposits for sessions. So say you're an organizer of a workshop or an event. Want it to be free, but at the same time, you wanna have a good understanding of how many people are gonna turn up. You know, typical Luma will have maybe 50 sign ups. You don't know if it's two people coming or 200.
+
+[02:05:05] So a lot so the typical way is you implement deposits. But that means that it's a lot of overhead on behalf of the organizer to, have to collect, you know, the wallet addresses or whatever of people coming into the room and paying them. Well, with, this functionality, you just have an NFC chip on the wall in the classroom, and it knows people that are actually there. So these are the two I've built so far. I'm gonna be building more. Please, when you see them around town, tap them and see what's up. Thank you very much.
+
+[02:05:41] Amazing. And for those who just arrived, there was a group that just came in. As a reminder, at Edge, we have a tradition where we just clap exaggeratedly loud for people that come up here and brave the stage to present what they've been working on. Let's do that for the next presenter who's Ayan. Welcome, Ayan. Hello. I'm Ayan. I'm all about democratizing
+
+[02:06:06] synthetic biology safely. So biology is the most sophisticated technology that we know of. It's you. It's me. It's all the microorganisms that are invisible around us. And synthetic biology is essentially a negotiation with this sophisticated technology, an attempt to build with it and create
+
+[02:06:30] rather than just kind of understand. Now the ability to build with biology is actually getting easier. Biology is getting a bit easier to design. Some of the core aspects of designing biology that have been moving it forward to in order for us to have high precision biological design and function are these genomic language models. Many of you have heard of LLMs. Well, we have those for DNA and for proteins,
+
+[02:06:56] also large scale DNA synthesis. So when you do design new DNA, you want to be able to print it, and we're getting better at doing that and assembling the DNA. And then you want that DNA to be expressed functionally in living organisms and actually be alive, and that's also getting better. But that also means things are getting a bit riskier. We're opening ourselves up to some vulnerability,
+
+[02:07:20] and the potential for catastrophic biological risk is also increasing, you know, in parallel with the incredible innovation potential. I wanna just give you a little example to ground it. So this is a DNA LLM created by the ARC Institute. It has 40,000,000,000 parameters. It's been, you know, trained on all the genetic sequence genetic sequences from all domains of life.
+
+[02:07:44] And what they've actually said, after building this was that it's it's really amazing as a potential discovery tool for novel biomarkers or therapeutic targets, but they also say it can also catalyze the development of harmful synthetic microorganisms. Interestingly, they recently, also from their institute, had a paper come out where they actually implemented this, and they created the first viable genome
+
+[02:08:10] created using generative AI. So they used their LLM, designed a new bacteriophage genome, and then brought it to life. And and then this virus was actually capable of infecting E. Coli bacteria. So while this was, a really monumental achievement for science and synthetic biology, there's also a moment of pause and reflection about what this means in the broader sense.
+
+[02:08:32] A key point of intervention in all of this, is DNA screening. And so there isn't a point before you actually synthesize something that could potentially be harmful where a DNA synthesis company could actually stop it and flag it and catch it. We're not so great at that. This is just a figure from a recent paper by Microsoft bioengineers that found that some
+
+[02:08:55] DNA synthesis companies have, technology that can't that misses a large proportion of potentially harmful sequences that are generated by AI. So what I'm working on is SafeSeqs or SafeSex. And I want us to synthesize safely. Specifically, I'm gonna be trying to build over the next couple weeks a new DNA synthesis screening tool capable of flagging novel biological threats and learning what safe biology looks like, which is really abstract.
+
+[02:09:26] And, yeah, I'm also on the Internet. Also, we have, like, a learning flora fauna walk happening tomorrow. So if you wanna see me IRL, I'll be there to shout out Yako for putting that together. 5PM, I think. I don't know. It's on Sola. But yeah. Thank you. Amazing.
+
+[02:09:54] Alright. Next up, we have Colton. Welcome, Colton. Hey, Edge City. So I'm Colton. I'm a former Spider Man character artist and the creator of a trading card game called Memethology. So Memethology is a card game about technology and humanity. And I've been I released the first version of it two years ago at another Zoosaloo pop up city.
+
+[02:10:24] And it's a project I'm deeply passionate about because I believe that technology gives us these magical abilities, but it's often misunderstood and misused. So I created a new story of human flourishing that's experienced through connection and play. These are a couple of the cards, Doom Scroll, the dead Internet, Blood Boy, Brian, Zuckerberg.
+
+[02:10:47] This is fine. And then the last set, I actually made about Edge City themes. So we've got the plunge protocol. Any other cold plungers here? Yeah. I'm doing this every morning. Eight 08:27, if anybody wants to come out in front of the Agartha house. How many vibe coders do we have? Yeah. I think a couple more. The Diak, defensive accelerationists.
+
+[02:11:11] Anywhere from that? Nice. The cypher punks? Couple? Nice. And who likes Edge City? Alright. So I got a couple different offerings. One of them is I still have some of the limited edition Edge City booster packs. So if people wanna get those, come find me at the table the dinner tonight. You can follow the project at the QR code.
+
+[02:11:36] If anybody wants to play the game, we've been playing it at the Agartha House. And let me know if you want to play, I can just set up some sessions. And then if you want just a fun, really accessible way to get into it, I'll also be offering meme tarot tonight. So if you wanna have your meme tarot read, come find the table. It's quick and fun, and you can walk away with some cards. So thanks, guys. Amazing.
+
+[02:12:04] So that will be at the community dinner tonight. We'll have a table set up there. Next up, we have Mike with x y z dot Citi. Welcome, Mike. Thank you, Timur. Hey, guys. My name is Miguel. Some of you might know me as Mike or or Dubo. Today, I'll be presenting you xyz.cd.
+
+[02:12:26] Our goal with this project is to become the front page of network states. For now, we are aggregating and mapping out all the network states and pop up villages happening around the world. Eventually, we want we want to get to SCCs, charter cities, and public new cities as well. So why why do it? Why create this? Most of the team I I'd say all of the team
+
+[02:12:52] is our community insiders, people who who have participated in recent pop up villages, who have been around the the network sites for a long time. Also, we think we can provide a a better user experience than the current solutions we have for for this space. And yeah. So we are all way we're very
+
+[02:13:15] industry aligned because we have connections with a lot of network states and and main players in the space. And, yeah, we wanna become the the ecosystem backbone and the go to hub for everything related in in the network space and pop up villages. Some some data. Since 2023, there's been about 80 pop up villages that we know of at least
+
+[02:13:39] happening that have happened. And we we there's probably gonna be way more in 2026. Edge just announced Esmeralda 2026 in California. There's a couple more that that will will be announced in the in the next few months. Yeah. This is a map from all the pop up villages that have happened
+
+[02:14:02] until now over 30 countries, six continents. No one has done it in Antarctica. Maybe maybe one day. I don't know. And, yeah, this is the QR code for our website. We also have a telegram community. We'd love you guys to join and give feedback in the space and let us know what else we could build. Yep. Thank you, guys.
+
+[02:14:32] Amazing. When Edge Antarctica, maybe next year, Shmoop? Alright. Next up, we have Beck and Youssef. Welcome them to the stage. Hi, everyone. I'm Rebecca, and this is Youssef. We met on the plane on the way over here actually through
+
+[02:14:55] a load of synchronicities, and I told him about something I already had an idea about. And now we're already building a prototype for this tool. So can I ask how many of you here are neurodivergent or identify as if you are willing to put your hand up? And that is that's exactly the problem that I see. There are probably a lot more of us here that may or may not even know that they're neurodivergent.
+
+[02:15:23] And why why are we not more outspoken about this? Because we've also learned to mask over the years of our life and that can be really problematic for for us. So, yeah, the problem isn't communication. It's actually misunderstanding. So we're not struggling to speak. We're struggling to be heard, accurately.
+
+[02:15:46] So directness is mistaken for rudeness, tangents sometimes seen as unprofessional, silence read as disinterest, and info dumps labeled as too much. So we're building first a niche real time AI that gently supports listeners during video calls, flagging communication patterns that may be misunderstood.
+
+[02:16:10] So in the beginning, it will just sit, as a layer on video calls that can be used across all platforms that Yousef has now found a way to do simultaneously, which is awesome. And, yeah, it's not just a tool. It's a mindset shift. So it's about really being able to integrate neurodivergence more and understand it so that especially,
+
+[02:16:33] you know, people that are neurodivergent can feel, better, more at ease and not have to mask or change themselves to fit in without being called, you know, maybe weird or strange or any of the other names that fly around sometimes. So, yeah, 80% of us hide our traits, but we have a really above average intelligence and creativity, and brilliance that deserves to be understood,
+
+[02:16:59] which we're often not. So although it's built for neurodivergent minds, it's actually made for everyone and we see this as the next evolution of empathy. So how does this show up? Well, in the future and, you know, Meta have just released their amazing glasses. So we see this actually as a way for everyone to learn how to, listen better and actually integrate
+
+[02:17:22] each other's, imperfections. And, you know, we can't always control how others communicate, but we can also we can listen to learn, with empathy. So we think that this is the perfect place to test this idea because there's gonna need to be a lot of testing around, you know, how comfortable neurodivergent people will be integrating this tool.
+
+[02:17:46] And I think there's no better place to to ask for you to do help us with some surveys. So we've got one for neurotypical people and one that also are neurodivergent or even if you're not diagnosed or you just think that you might be, it'll be really helpful if you fill out these surveys. But not only that, we're gonna be holding a meetup
+
+[02:18:08] every Monday. So the first one is tomorrow, and it's also a sharing circle where we can support and listen to each other, and then we can learn how to make our lives better with this tool. So, yeah, listen, understand, and unmask. Thank you for listening. Great job, guys. I would love if,
+
+[02:18:35] you could tell the story of meeting on the plane and then building this massive thing. That's so cool. Alright. Next up is, and I think this is Conrad. Please welcome Conrad. So I'm a developer and working on, like, pieces of, like, this idea
+
+[02:19:08] for, like, two or three years and starting this this this project here. And here's a video of a yep. I know. I don't wanna be too loud. How's the sound? Okay. So
+
+[02:19:34] this is imagine creating like a digital version of yourself so that while you sleep, it's finding connections and having conversations with people that you want to connect. And you have you can steer with rating to get feedback and increase, like, the Dunbar number. So Agmi is like the digital self
+
+[02:19:57] digital self platform, like a digital twin. And the idea is like our LMs are good at simulating a personality, and they can perform, like, knowledge work over over chat chat, like teaching or mentorship therapy, things like that. So there's a lot of things that can be done so that you you can do
+
+[02:20:23] without being present at the keyboard, and then have a dashboard that that you can just monitor at the KPIs. And since last Sunday, I, like, prototyped a demo, and it also creates, like, posts from searching web and generating the prompt and then posting it. And I uploaded the database with computer science and
+
+[02:20:49] crypto cryptography people. So, like, on the dashboard, you you see, like, key metrics and can monitor conversations. This is in the world app, so it is has your own account and you can tip. And here, I'm talking with Nick Sabo, and with one click of the button, I asked him a question that was generated from my per from my AI, and then I could manually type in a question too and get a response.
+
+[02:21:18] And another aspect is, like, it will discover connections for you based on, like, similar similarities. So here, I found Cameron Winklevoss. And so you can have not rely on synchronicities, but, like, explore all these different connections and conversations.
+
+[02:21:46] And this is, like, really inspired by this, like, AI simulated party that happened in SF. And if you're curious to learn more about it, you can, like, Google it, and it was viral, and there's, like, a good article on it. So it was like so I imagine, like, it would be really great to build the ability to have create, like, pop up cities in in a simulated environment in this two d world
+
+[02:22:10] where you can watch your avatar, do your digital self, have conversations, and and then have have, like, summaries and key key metrics that are that are most important to you so that it can escalate, like, the most important things that you want to know about. And here's a QR code with, like if you wanna get involved or
+
+[02:22:34] drop in your email to stay connected and or leave any comments. So that's that's Agmi. Thank you, Conrad. That's three minutes on the dot exactly. It's perfect. Alright. Next up, we have bonfires. Please welcome Josh to the stage.
+
+[02:23:04] Hello. I'm Joshua. I'm the founder of d sci world and bonfires dot a I. Bonfires is a collective sense making and coordination of protocol. Some of you may have seen it, and I'm gonna just tell you a bit more about what it is and how we're using it here at Edge. So at Bonfires, as a company, we have this desire to sort of heal information asymmetry, which is to provide more knowledge to more people with fewer barriers. With this knowledge, we expect communities to be able to empower themselves and do more sovereign action. And with those communities, we are actually hoping to lead into what we call a knowledge backed economy, which is a theorized future economy where your knowledge generates your revenue. Your actions that generate you revenue the actions to generate knowledge also generate you revenue.
+
+[02:23:44] All of this leads into a principle called cosmolocalism, which is essentially a shared global digital commons, which is used in the service of your local environment. And this is also tying into Ethereum localism, which is something we're very excited about. So this is how it works. It aggregates information from across multiple channels. You can see them there, and it creates a collective intelligence and a knowledge graph. You can query that collective intelligence with AI agents and then use those AI agents to basically simplify and automate a whole bunch of processes, including research, internal operations, matchmaking between people,
+
+[02:24:15] your marketing, the storytelling of your group, and via MCP connections, you can access the whole plethora of agentic, tools that are available. So this is how we're using it right now at Edge. We have Edge the gathering, which everyone is welcome to join as a secure at the end. It's a collective sense making experience of all of the information here that we have access to. We're working with Arnold and Charlie from signals and policy and context engine, on basically extracting consensus requirements from that graph, and then automating the posting of them into signals so you can all vote and dispute as you wish. And Tuche also is working on synchronicities.
+
+[02:24:48] Some of you are participating in the consciousness residency. She has a bonfire there, and she's using it as a control to see if we can extract synchronicities from that same knowledge graph, across Edge City. So this is how you can use it now. On the left, you know, qualitative research is something that is very exciting for some people, and you can use this graph for it in a very powerful way. I encourage you to try and play what we call the graph game, and I've been playing it. This is me
+
+[02:25:12] in the middle here. And, basically, this means that I've been contributing to the graph by sort of providing information, and you can see that I'm quite connected. There's actually a few other people in this room on this graph right now. And the graph game is basically get yourself in the graph, provide information to the network, and then you're gonna be serviceable across that network in a much more simple way. What you're doing, you know, what you're working on, and then you can use this to find new collaborations
+
+[02:25:35] alongside the collective sense making experience. So our development goals we're shipping every week, for this week is to provide voice transcription so you can just send a voice note in, a user friendly graph UI. We have this. It's cool. It's getting better. And we have this integration with signals and policy that we expect to, ship this week as well. So some real world use cases. We're actually in the Galapagos Islands. That's us at the bottom.
+
+[02:26:00] We were there to basically provide a bonfire as a system for providing transparent coordination of donations because the local people in the Galapagos Islands have very low trust in the government and the NGOs, and it's a perfect test for this sort of thing. Here's some dope photos. Mine the one on the left. Sorry. And we're also using it internally at DSI World for our fellowship program. So I think there might be some fellows coming to EDGE, which is cool. Check more about it there. It's AI sense making for their fellowship. And we actually dog food internally as well. So we put all of our transcripts, our meeting notes. We invite the group
+
+[02:26:32] the agent into our BD groups, and it helps to coordinate our team and our partners across many time zones. Our long term vision is to be the baseline primitive for knowledge discovery and incentive on chain with AI. We think that memory, AI based memory, is very precious because they can rug you and you lose all of your wonderful things you're doing. So we need to have sovereign ownership of that knowledge as a memory. And context is widely considered to be the thing that will provide the most gains on AI into the near future as LLM progress is plateauing out. With this, we hope that the on chain ecosystem
+
+[02:27:05] will be much more involved in governance across all of these wonderful protocols we're building because you can surface governments requirements from the graph in a very simplified way. So governance minimization is a very powerful and important thing, to basically make sure that the sovereign stuff we're doing actually gets engaged with. Thank you. Participate in the experiment, please. Join this Telegram group. You can join it. You can add as much context as you want. It reads it. If you tag Edgardo,
+
+[02:27:30] then you can talk to it. You can add Edgardo to any of your groups. No worries at all. Just put it in there. You if you have privacy requirements, you can speak to us. We've already set it up so that certain channels are private or it doesn't reply. There's multiple ways that we can augment this and already have shown. If you want your own bonfire like Tuche, tell me. We can talk about it. And, ultimately, if you think this is cool and you have ideas or tech that you wanna integrate, tell us because we would love to work with you. Thanks.
+
+[02:27:56] Amazing. Thank you, Josh. We gotta get Edgardo into the into the Edge chat. Alright. Next up, we have the folks who threw an amazing Asado yesterday. Nope. Never mind. Let me refresh that. Alright. Now next up, we have the folks who threw an amazing Asado yesterday. It's the RegenHub folks. Please welcome them. And.
+
+[02:28:31] Okay. Hi, everyone. How are you? It was great, Asada. Hey. Okay. Welcome to the region hub. This region hub and region hub is part of the region pathway that we are building. Well, we are trying to to create a connection between different event. We have been in Ipe City. Right now, we are in Edge City, Patagonia, and we are connecting with all other events that we will be running.
+
+[02:28:57] And we are trying to follow the same direction for these certain activities. In this case, our purpose is to connect to all of this edge drive, all of you that you have a lot of technology solution, a lot of that all of that things, and connect with the local people in the territory, in this case of San Martin De Los Sandes, because it's part of our own prototyping activities.
+
+[02:29:20] Tomorrow, we will start with, conversation about the content for Argentina. The talks will be, given by France, the political scientists with a lot of experience I know about about Argentinian politics. So we will have the context for the, the new regenerative civilization. On Tuesday, we will be working with the local organization,
+
+[02:29:45] with a lot of local organizations where they will be, like, sharing their own challenge, their own problems, their own what they are doing for to be regenerative or to be who are they trying to bay make the Argentina make their own local activities better. And, we will be help listen to them and trying to to to see how we can help them.
+
+[02:30:11] On free on Friday, we will be in with the with the Coldwell Banker, which is a real estate broker here in, we'll be giving a workshop on this Friday where we will see deal and learn about different lots and different different possible territories where we will be starting design a possible solar panel neighborhood or maybe why not a charter city. So we are in this line.
+
+[02:30:37] Why? Because with next day, we are thinking in regenerative network state thinking with three layers, like the physical layer, which is the land, the people in the neighborhood. The legal layer, which is the special economic zone of regenerative impact working like with this with the legal layer doing the politics to to build it. And the digital layer, which is the blockchain and technology ecosystem
+
+[02:31:01] to connect all of these three layers to build the this, the network state of regenerative nodes. So this is the team. If you have any idea, proposal, be part, please reach out the team or and you are invited to visit the region house to co work there and visit the beautiful, backyard co work with the the river in the backyard. So thank you very much.
+
+[02:31:26] And join to the Telegram group. Join to the Telegram group to to keep keep update. Thank you very much. It's a very good opportunity to remind people that in the big Telegram group, in the main Edge City Patagonia one, we have, a subchannel called subgroups. It's pinned at the top, and you can see all of the different individual groups
+
+[02:31:49] that people have, that we link out to. Okay. Next up, we have Apertraz. Please welcome Vivi up to the stage. Hi. I'm Vivian, cofounder of Abertra. Here at HSTG,
+
+[02:32:11] we gather to prototype better ways to live and work, and we brought one, reliable documentation for real supply chains in emerging markets. Delays in supply chains loses of $400,000,000,000 every year. In Latin America, if you export documentation fails, you lose sales, audits, and contracts.
+
+[02:32:36] Global requirement now demands full traceability from origin to destination, transparency and proof of ethical practice, sustainability and material and packaging, and verifiable data across every supplier. New global regulation raise the bar. Must business still management this manually?
+
+[02:33:01] Simply doesn't scale. Trust dust. We are a document management and traceability infrastructure built on blockchain with a friendly, simple, and intuitive interface that remove technical barriers. It feel like a web two UX, but run on a web two backend so company can work easily well verifying
+
+[02:33:27] from transparency and immutability. Apertrust, organize a batches, validate documents, tax versions, and alerts expiration, leaving immutable evidence for audits and client. Results, few claimants, less downtime, and better clients. This help companies comply with international regulations
+
+[02:33:50] and simpler and more affordable way. It's shortened due diligence process and open doors to higher value markets. Our traction in one year of work. 10 paying clients, one hungry renewals this year, one expanded two additional plants, more 600
+
+[02:34:13] companies registered on our platform, 7,000 blockchain transaction, clear proof of revenue, clear proof of retirement valued, and network effect already in motion. At this residence, we are starting the first integration test with the list network. Our goal is a b to b usability layer
+
+[02:34:37] that give a traditional industry easy access to blockchain benefits, generating transaction and high potential connection across supply chain. After one year of validation, we are ready to grow, and we invite those who want to join, tech partner, blockchains, business association,
+
+[02:35:01] developers, technical cofounders, investors, grants to scale our technical, commercial, and legal go to market. Upadrush turns compliance into a commercial confidence. If we build trash, LATAM said better and grow stronger. I am Vivian. Let's stop today. Thank you very much.
+
+[02:35:30] Amazing. Thank you, Vivian. Alright. Last but not least, we have Max from reps. Please welcome Max. Hey, everyone. For those of you who weren't here last week, I'm building Refs, which is a social directory full of profiles for everyone here, specifically for Edge. So just wanted to come up and let everyone know. No demo today. But refs is ready. You can download it here and make a profile and go and find everyone else who's around. Thanks.
+
+[02:36:09] We love a nice quick presentation. Alright. Well, people are scanning the QR code. Just a final note from me, if you want to present on this stage next Sunday, we do this every week, I will be sharing a form for how you can apply to present. I don't pick every project. We there is, you know, there is some selection there, but please do apply,
+
+[02:36:33] and we'd love to hear from you. And thank you all so much for joining. We'll be at the community dinner in about that's starting about half an hour. It's at a place called Jabali. It's about ten minute walk from here. So excited to see you all there. Thank you so much.
