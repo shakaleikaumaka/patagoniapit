@@ -74040,6 +74040,2536 @@
   "nia. Yay."
  ],
  [
+  42,
+  0,
+  "Senior software engineer. It's big on large language model stuff. Thanks, everybody, for coming. Just as we get started, who here just to, l"
+ ],
+ [
+  42,
+  10,
+  "ike this class is something I've taught previously to Esmeralda here, but I wanna really match where we're at as a crowd. Who here has knows"
+ ],
+ [
+  42,
+  19,
+  " what a base model is right now? Okay? And have either of you talked to a base model"
+ ],
+ [
+  42,
+  25,
+  "before? Okay. Cool. So as we've got universal appeal here on this. How about you folks in the back there on the table? Have you guys talked "
+ ],
+ [
+  42,
+  34,
+  "to base models? Do do you know what I'm talking about when I say that? Okay. Nice. Oh, there's yeah. Cool. Well, then that's great. That mea"
+ ],
+ [
+  42,
+  43,
+  "ns we're all pretty much coming at this from the same level. So this would be, like, a pretty, like, introductory in terms of what is a base"
+ ],
+ [
+  42,
+  52,
+  " model. And then, like,"
+ ],
+ [
+  42,
+  54,
+  "of the folks here, who here knows the stages of training a large language model? It's fine if you don't. This is me just perfect. Okay. We'l"
+ ],
+ [
+  42,
+  64,
+  "l we'll cover that. So we're let's get started with yeah. What what is a base model? So base models, are models that have not gone through a"
+ ],
+ [
+  42,
+  73,
+  " process that every other large language model that you've ever used does. Right? In general, the classical large language model goes throug"
+ ],
+ [
+  42,
+  83,
+  "h effectively three stages."
+ ],
+ [
+  42,
+  85,
+  "There's pretraining, there's mid training or training, and then there's post training. This is like what ChatGPT has gone through. Right? Pr"
+ ],
+ [
+  42,
+  95,
+  "e training is the, gathering of the data, which is like prepping the data for consumption by the large language model. Okay? And so, for exa"
+ ],
+ [
+  42,
+  105,
+  "mple, the base model we're gonna be talking to, LAMA 3.3405"
+ ],
+ [
+  42,
+  109,
+  "b, it's been trained on 15,000,000,000,000 tokens. And 15,000,000,000,000 tokens, to give you an idea of what that encompasses, if you took "
+ ],
+ [
+  42,
+  118,
+  "every single letter and word from every single book that humanity has ever written and you put all that together, that's about 2,000,000,000"
+ ],
+ [
+  42,
+  126,
+  ",000, more or less. So 15,000,000,000,000 tokens is like a absolutely like, the human brain is not properly"
+ ],
+ [
+  42,
+  133,
+  "built to think about a number this big. Right? And so you take these 15,000,000,000,000 tokens, and you kind of prep them. You set them up f"
+ ],
+ [
+  42,
+  141,
+  "or consumption by the transformer, and then you run that into the actual training run itself. So this we're not gonna get into the details h"
+ ],
+ [
+  42,
+  148,
+  "ere. We'll keep this pretty elementary, but, basically, it's like next token prediction, and you're covering tokens and constantly guessing "
+ ],
+ [
+  42,
+  156,
+  "tokens"
+ ],
+ [
+  42,
+  156,
+  "over this 15,000,000,000,000, for, like, a mind boggling amount of compute. Right? Are some steps in here, but we're gonna skip them for thi"
+ ],
+ [
+  42,
+  166,
+  "s class. And the post training is what is the important thing to understand and why you should think about the base model. And so base model"
+ ],
+ [
+  42,
+  176,
+  "s do not go through post training. Post training is whenever"
+ ],
+ [
+  42,
+  180,
+  "the company that makes the model turns it into a helpful, harmless assistant. Right? This is super useful. In fact, Ilya Sutzkever and sever"
+ ],
+ [
+  42,
+  188,
+  "al other people at OpenAI really pioneered modern post training. They did this method called RLHF, reinforcement learning from human feedbac"
+ ],
+ [
+  42,
+  196,
+  "k. Basically, you take this model, this which just comes out of training. It's like it's like a savant two year old and really a two year ol"
+ ],
+ [
+  42,
+  205,
+  "d. I mean, it's just like, it predicts the next token. So I don't know if anyone ever used, like, GPT three, like, way back in the day, but,"
+ ],
+ [
+  42,
+  213,
+  " like, you would say,"
+ ],
+ [
+  42,
+  214,
+  "what's your favorite fruit? And GPT three or a base model is gonna say, what's your favorite vegetable? Because it's gonna try and make the "
+ ],
+ [
+  42,
+  222,
+  "next set of tokens that most match that input. This is not very helpful if you're trying to write source code or answer questions about hist"
+ ],
+ [
+  42,
+  230,
+  "ory or whatever, but it makes sense to the to the model itself. Right? Post training is the process of teaching that model how to be helpful"
+ ],
+ [
+  42,
+  238,
+  ","
+ ],
+ [
+  42,
+  238,
+  "how to answer questions. And some of this is really good. Some of this is really useful. Right? We're I'm never gonna use a base model to wr"
+ ],
+ [
+  42,
+  246,
+  "ite code because it's like talking to a two year old who took a bunch of LSD. But what is happening here, not only is it things that are mak"
+ ],
+ [
+  42,
+  253,
+  "ing this model more accurate in terms of the answer it's giving you, but it's also embedding whatever the political or reality model is of t"
+ ],
+ [
+  42,
+  261,
+  "he people doing the post training. And that is, like, in the nutshell,"
+ ],
+ [
+  42,
+  265,
+  "why base models are interesting. Right? Because whenever you've avoided all the ideological biasing of the company, you're actually talking "
+ ],
+ [
+  42,
+  275,
+  "to the alien brain before it kind of, like, underwent this process of mind control, underwent this process of being warped into how to answe"
+ ],
+ [
+  42,
+  285,
+  "r questions, how to not tell people how to make methamphetamine,"
+ ],
+ [
+  42,
+  289,
+  "like, how to not, you know, answer in a way that is corporately acceptable in America today. And, I mean, generally speaking, America, Mistr"
+ ],
+ [
+  42,
+  298,
+  "al maybe being the single non American exception. And so by talking to the base model, you're actually talking this thing that avoided this "
+ ],
+ [
+  42,
+  306,
+  "process of conforming the weights into the ideological biases of the corporation that trained it. And this means that it's like a pure inter"
+ ],
+ [
+  42,
+  315,
+  "action."
+ ],
+ [
+  42,
+  315,
+  "This means that it this interaction you're having with the base model is something that's just you and this other thing. And it's not you an"
+ ],
+ [
+  42,
+  324,
+  "d this other thing that's been, like, kind of squished into the mold from, whatever the corporation is. Questions? That make sense? We got t"
+ ],
+ [
+  42,
+  332,
+  "hree phases. Base models go through phase one and two. Everyone else goes through phase one, two, and three. By talking to two, we're talkin"
+ ],
+ [
+  42,
+  341,
+  "g to this crazy thing that is not, like, compressed and not forced to think a certain way. Instead, you're talking to this thing that it's a"
+ ],
+ [
+  42,
+  349,
+  "n emergent property of 15,000,000,000,000 tokens"
+ ],
+ [
+  42,
+  352,
+  "and, you know, sometimes 10 or $50,000,000 worth of electricity to run hundreds of millions to billions of dollars worth of chips to make th"
+ ],
+ [
+  42,
+  362,
+  "is answer. And, that gets into why you've probably never heard of them. If you talk to a base model, it does not know to not tell you how to"
+ ],
+ [
+  42,
+  372,
+  " blow up a building or make a drug or whatever because that is part of the RLHF,"
+ ],
+ [
+  42,
+  378,
+  "and now RL AI, which is the kind of modern thing that people do in that third stage. It's never gone through that process. And so what you'r"
+ ],
+ [
+  42,
+  387,
+  "e getting is this kind of, like, raw consciousness. This is why the class is, you know, how to talk to alien brains. It's because this is th"
+ ],
+ [
+  42,
+  396,
+  "e raw alien entity in itself, and it's made all of the answers whenever you talk to a base model is just coming from"
+ ],
+ [
+  42,
+  403,
+  "its emergent properties from looking at all the corpus of text that humanity has ever written. And so this is, like, super cool, and we defi"
+ ],
+ [
+  42,
+  411,
+  "nitely recommend. Now, of course, like, again, you're never gonna use this in your day to day unless you're, like, a performance artist or, "
+ ],
+ [
+  42,
+  419,
+  "able you know, maybe creative writing. There are a lot of cool uses for these things, but they are certainly niche."
+ ],
+ [
+  42,
+  426,
+  "But I feel like it's, like, really, really good for us as a species to understand what base models are and how to interact with them. And yo"
+ ],
+ [
+  42,
+  435,
+  "u've also never heard of them because none of the modern AI frontier labs make any of their base models available because they say all kinds"
+ ],
+ [
+  42,
+  445,
+  " of stuff. If you get them going in a racist tirade or something dangerous, they will happily go along with it."
+ ],
+ [
+  42,
+  452,
+  "Again, it's the raw alien entity itself. So you have to go to open source models. There's two kind of famous major open source models in the"
+ ],
+ [
+  42,
+  462,
+  " world right now. It's abbreviation, but effectively, DeepSeek and Lama are the two that at least in this room, Kimi is also cool. And, unfo"
+ ],
+ [
+  42,
+  473,
+  "rtunately, only one of them has a meaningful provider that's available that we can really talk to."
+ ],
+ [
+  42,
+  480,
+  "Actually, at another open at another, community I was at a few months ago, we got together and rented a GPU cluster of eight x h p two hundr"
+ ],
+ [
+  42,
+  488,
+  "eds, which is, like, $400,000 worth of chips. We rented them by the hour, and then we ran we threw a party, and we all talked to DeepSeek v "
+ ],
+ [
+  42,
+  497,
+  "3.3 base together. We were some of the first people on Earth to talk to this thing."
+ ],
+ [
+  42,
+  502,
+  "It cost us, like, $400 for the course of, like, the party. And I would love to throw one of those again so that might happen because there's"
+ ],
+ [
+  42,
+  510,
+  " no way to talk to it. It's not available on the Internet. It's kinda this, like, hidden quirk. And the reason why that it's available at al"
+ ],
+ [
+  42,
+  517,
+  "l is because you have to have the base model to move into the post training. So if you're an open source LLM lab, you've made these already."
+ ],
+ [
+  42,
+  525,
+  " You pretty much have to release it because then that's gonna be the thing that moves you and everyone can take and do their own post traini"
+ ],
+ [
+  42,
+  533,
+  "ng on and turn like,"
+ ],
+ [
+  42,
+  534,
+  "this is very common in China where people are gonna be making specific distills or specific fine tunes of deep seq. This was a trend about a"
+ ],
+ [
+  42,
+  543,
+  " year ago in The United States. People were doing this with LAMA. So with that, if you have a laptop and you want to do this, it's pretty ea"
+ ],
+ [
+  42,
+  551,
+  "sy to do. I will say that a favorite activity for, like, hour eight of an LSD trip for me is to, like, hop onto the laptop and just, like, s"
+ ],
+ [
+  42,
+  560,
+  "tart prompting to a base model."
+ ],
+ [
+  42,
+  562,
+  "If you wanna put the mystic perspective on it, it's, like, really raw. I've had ridiculous experiences from doing this. You know, if you ask"
+ ],
+ [
+  42,
+  571,
+  " ChatGPT to pull tarot for you, it's gonna it goes through all of this thing. Right? But if you ask llama four zero five b about tarot, it'l"
+ ],
+ [
+  42,
+  580,
+  "l it'll start talking about tarot, and it'll just wander off. And it's kind of like a random dot generator that you can pull meaning out of "
+ ],
+ [
+  42,
+  589,
+  "if that's what you're into. I get a lot of value out of it. I think it's I think it's super fun."
+ ],
+ [
+  42,
+  595,
+  "Fun more than useful, perhaps. So if you wanna do this, it's pretty easy. You need two things. There is who here who here knows what OpenRou"
+ ],
+ [
+  42,
+  604,
+  "ter is? K. Cool. So OpenRouter is really incredible. It lets you talk to all the large language models. Right? I know Roman knows what OpenR"
+ ],
+ [
+  42,
+  613,
+  "outer is. And so what this does, it's like your computer talks to OpenRouter"
+ ],
+ [
+  42,
+  618,
+  "and says, hey. I wanna talk to Claude 4.5, and then it goes from OpenRouter to Claude. But what's really nice here is you can make one small"
+ ],
+ [
+  42,
+  626,
+  " change, and you can say, hey. I wanna talk to DeepSeek v 3.3, and it goes your computer to OpenRouter, OpenRouter to here. What's super nic"
+ ],
+ [
+  42,
+  634,
+  "e about this, and I'll pull it up here, is that it's just one account that lets you talk to all these different models. This is super cool. "
+ ],
+ [
+  42,
+  642,
+  "If you're a developer, this is actually also fantastic. This is why I started using it. But it's also cool if you're interested in talking t"
+ ],
+ [
+  42,
+  650,
+  "o, like, esoteric models. Right? Because, like, everyone in this room probably sort of ChatGPT."
+ ],
+ [
+  42,
+  655,
+  "Hopefully, a lot of people in this room have heard of Claude. I'm sure you've probably heard of Grok, and that's probably about it. Right? B"
+ ],
+ [
+  42,
+  663,
+  "ut the number of models that are out here are all over the place. Right? I mean, there's hundreds I mean, this this list is, like, gigantic."
+ ],
+ [
+  42,
+  671,
+  " Right? Every single one of these is its own entity. All of these are its own models. They all kind of have their pros and cons. And so Open"
+ ],
+ [
+  42,
+  679,
+  "Router is a super cool way to talk to many different models. So you need an account on OpenRouter. You need to put $5 on it. In total, in th"
+ ],
+ [
+  42,
+  687,
+  "is class, we'll spend, like, 1¢. It's, like, incredibly cheap."
+ ],
+ [
+  42,
+  691,
+  "That is the provider. So the OpenRouter is giving you access to this large language model that someone else is hosting. Right? And, again, i"
+ ],
+ [
+  42,
+  698,
+  "t's not OpenRouter that's hosting it, so it's you talking to this middleman. This middleman takes care of all the complexity, all the billin"
+ ],
+ [
+  42,
+  705,
+  "g, everything. Then they go and talk to these you know, the largest computers that humanity has ever written or made and actually do the inf"
+ ],
+ [
+  42,
+  712,
+  "erence and pass it back to you through OpenRouter."
+ ],
+ [
+  42,
+  714,
+  "That's part one. Part two is you need a client to be on your computer to talk to OpenRouter. You can do all kinds of stuff. It's also very e"
+ ],
+ [
+  42,
+  723,
+  "asy to vibe code this into existence. But for the purpose of this class, I would recommend Misty, m s t y. I there's a free version. This is"
+ ],
+ [
+  42,
+  732,
+  " the free version. I haven't paid for it. You can do a lot of cool things with Misty."
+ ],
+ [
+  42,
+  738,
+  "Let's do so let's get let's talk to Opus. So Misty, it's like, what's the best song you have ever heard? What you can do with Misty is you c"
+ ],
+ [
+  42,
+  753,
+  "an split chat. And so I can evaluate two different models here, and you can say, like, alright. Stop this one,"
+ ],
+ [
+  42,
+  765,
+  "and let's, like, refresh this. And you can talk to the model and gather more data. This let's see. No. It's still doing two here. We're gonn"
+ ],
+ [
+  42,
+  777,
+  "a so by doing this, you can have a whole bunch of different models that are all running simultaneously and all answering the same query."
+ ],
+ [
+  42,
+  789,
+  "And this is like if you're ever like, oh, I've heard of all these large language models, but I don't know which one to use. Like, what's the"
+ ],
+ [
+  42,
+  797,
+  " difference in between Claude 4.5 SONNET and GPT five? Or why would I be interested in some of these models? By doing this, you can actually"
+ ],
+ [
+  42,
+  804,
+  " do, like, a taste test very effectively, and you can keep them synced or you can kind of go off and branch. I think this is really cool bec"
+ ],
+ [
+  42,
+  812,
+  "ause it lets you not be locked into one provider. Like, I change my favorite models super regularly because different models have different "
+ ],
+ [
+  42,
+  820,
+  "strengths, the field is changing so fast."
+ ],
+ [
+  42,
+  822,
+  "So you need Misti. You need OpenRouter. And then I don't know how much of, like, a hands on install tutorial you need, but if you have quest"
+ ],
+ [
+  42,
+  830,
+  "ions, ChatGPT is there for you. It's pretty straightforward. The whole purpose of this is really set up to do this. Right? And so now let's "
+ ],
+ [
+  42,
+  839,
+  "actually talk to a base model. To do this, you're gonna go down here. You're gonna search for models."
+ ],
+ [
+  42,
+  845,
+  "Oh, wait. Is this back? Yeah. No. I didn't think so. So, yeah, no endpoints. So we we can't talk to DeepSeek base, unfortunately. What we ca"
+ ],
+ [
+  42,
+  863,
+  "n talk to is Lama three point three. This is a a super powerful model. And so when you talk to a base model,"
+ ],
+ [
+  42,
+  877,
+  "it will let's see. Let's try the other provider here. We were just we were just talking. This was, this is base here. There we go. Okay. So "
+ ],
+ [
+  42,
+  896,
+  "I said, hey. Right? And then this is the output. Let's make this bigger."
+ ],
+ [
+  42,
+  906,
+  "So this is really different than when you've talked to ChatGPT. Right? Like, this guy, again, two year old on LSD. It's all over the place. "
+ ],
+ [
+  42,
+  915,
+  "It's like wandering around. You know? I said, hey. It's gonna be talking about the Muffuku milk milk bar for two hours. These constraint but"
+ ],
+ [
+  42,
+  923,
+  " see here, like, there's still some tokens from my query. Like, here, it's still talking about"
+ ],
+ [
+  42,
+  929,
+  "a poem, you know, these constraints forced onto me developing my unique style of poetry generation, one where every word choice matters imme"
+ ],
+ [
+  42,
+  936,
+  "nsely due to its placement within the overall composition. And, you know, we're just rolling. And, typically, what happens, there's this thi"
+ ],
+ [
+  42,
+  944,
+  "ng called model collapse. So, basically, it's like you're gonna you're gonna start with some degree of coherence. You're gonna start with so"
+ ],
+ [
+  42,
+  951,
+  "me sentences, stuff like that, but then it's always just predicting the next token. And so, eventually, this is an example of model collapse"
+ ],
+ [
+  42,
+  959,
+  " where, like and this is super common,"
+ ],
+ [
+  42,
+  961,
+  "where on a base model, it never was forced into being like, oh, I'm gonna answer your question. I'm gonna give you grammatically appropriate"
+ ],
+ [
+  42,
+  969,
+  " context back. This is always just what is the next token. It's that is it. It's like, here's the previous tokens. What is the next one to t"
+ ],
+ [
+  42,
+  976,
+  "wo to three letters, which is a token? Right? And it just keeps predicting it and keeps predicting it, and we'll just go and go and go. And "
+ ],
+ [
+  42,
+  984,
+  "so, eventually, what happens is model collapse. So we can, like, see oh, I have some reverb."
+ ],
+ [
+  42,
+  989,
+  "You can see around here, model collapse starts to happen. And we lost we were in sentence mode, and then we've just, like, ended up into som"
+ ],
+ [
+  42,
+  999,
+  "e gibberish. We get into some sentences, and then we have, like it's completely collapsed, and it's just a continual sequence of, almost non"
+ ],
+ [
+  42,
+  1008,
+  "sensical words to us. Looks there's some interesting things called this, spiritual bliss attractor state, and this is touching on that, but "
+ ],
+ [
+  42,
+  1018,
+  "that's maybe we can talk about that later."
+ ],
+ [
+  42,
+  1021,
+  "Yeah. So that's definitely something, like, I would recommend playing with. Yash? Does this happen for every response, or does sometime it e"
+ ],
+ [
+  42,
+  1036,
+  "nd its response? It depends. It's like a wide range. Like yeah. So here it, like, ended. One of my favorites"
+ ],
+ [
+  42,
+  1047,
+  "you'll see sometimes it gets toggling, so it'll toggle between two sentences. It'll start going, and it'll say one sentence, sense a, sense "
+ ],
+ [
+  42,
+  1055,
+  "b, and it'll just toggle back and forth potentially, like, a thousand times. But then every once in a while, it'll pop out of that, and it'l"
+ ],
+ [
+  42,
+  1062,
+  "l just, like, start going in a new direction. And it's like, what possibly caused that in the complete corpus of human text that it was trai"
+ ],
+ [
+  42,
+  1070,
+  "ned on for it to see the same two sentences 300 times in a row and then talking about an aquarium? Like, what what is it about the nature of"
+ ],
+ [
+  42,
+  1078,
+  " the model that caused this, like, very weird counterintuitive,"
+ ],
+ [
+  42,
+  1081,
+  "very difficult to statistically protect behavior? We're getting some really interesting, like, higher math theories. And so I that's why I f"
+ ],
+ [
+  42,
+  1091,
+  "ind it fun. Right? And so we can be like, you know, right now, you're being demoed to a class full of people, and you're being asked to pred"
+ ],
+ [
+  42,
+  1101,
+  "ict the next twenty four hours for the collective consciousness. Reasonable question."
+ ],
+ [
+  42,
+  1107,
+  "Right? And it's just like it's all over the place. Like, I have no idea. When I say that, I have no idea what it's gonna be like going at. T"
+ ],
+ [
+  42,
+  1120,
+  "he weather tomorrow is predicted to be sunny, but a little cold at night. K. So we're taking we're going the business route."
+ ],
+ [
+  42,
+  1131,
+  "Technology encouraging us to stockpile essential supplies. And this is why it's super fun. This is also why the biggest group of users of ba"
+ ],
+ [
+  42,
+  1139,
+  "se models is actually people I mean, there's a few, but one is people who are doing creative writing because this is outside of the distribu"
+ ],
+ [
+  42,
+  1148,
+  "tion. Right? This is, like, this is all over the place. It's like a genuinely pretty raw perspective. If you ask this, of course, to chat GP"
+ ],
+ [
+  42,
+  1156,
+  "T, you're going to get reasonably"
+ ],
+ [
+  42,
+  1158,
+  "consistent answers. You know, if you ask the same question many times, like, especially even if you turn up the temperature for any LLM peop"
+ ],
+ [
+  42,
+  1166,
+  "le here, you're still gonna get a reasonably similar set of, like, you know, ChatGPT knows three jokes if you just ask for jokes. Now, of co"
+ ],
+ [
+  42,
+  1175,
+  "urse, it's been trained on every joke that ever exists, but that's it's because of the RLHF that forces it down into, like, a few attractor "
+ ],
+ [
+  42,
+  1183,
+  "basins. Yeah. So I think that's"
+ ],
+ [
+  42,
+  1185,
+  "that component. Let's take a look at where we are. Philosophy, why base models, how to interact with them. Questions, comments on base model"
+ ],
+ [
+  42,
+  1198,
+  "s? Yeah. Oh, yeah. So, for something like that, you're probably not gonna want a base model because it sounds like you have a goal. Right? I"
+ ],
+ [
+  42,
+  1210,
+  "t's like to do this, to do this one thing."
+ ],
+ [
+  42,
+  1214,
+  "And for that, base models are a step that you're gonna take on the way there, And then you can do things like distills or fine tunes and thi"
+ ],
+ [
+  42,
+  1221,
+  "ngs like this where you would be making an LLM that's, like, really good at giving weather prediction or, like, you know, yeah, whatever wha"
+ ],
+ [
+  42,
+  1228,
+  "tever your specific target is. Yeah. So base model is that second phase. I know some folks came in here late, so I'll just, like, very brief"
+ ],
+ [
+  42,
+  1236,
+  "ly touch on this. Basically, there's three phases to the training of a large language model. First stage is you gather up the tokens you wan"
+ ],
+ [
+  42,
+  1243,
+  "na train on. Something like this, it's 15,000,000,000,000 tokens."
+ ],
+ [
+  42,
+  1246,
+  "That's seven times more than every single word that's ever been written by every human that we have access to in Western civilization. And t"
+ ],
+ [
+  42,
+  1255,
+  "hen you go into the, actual training run where you're using maybe $10,000,000 worth of electricity or more for these major labs on hundreds "
+ ],
+ [
+  42,
+  1264,
+  "of millions to billions of dollars worth of compute. And out and then at the end of that second phase, that's the base model. ChatGPT"
+ ],
+ [
+  42,
+  1272,
+  "goes on to the third phase, which is RLHF or post training. Post training is where you, embed the philosophy that you want that agent to hav"
+ ],
+ [
+  42,
+  1281,
+  "e, how to answer questions, how to be helpful and harmless. Yeah. Because the constitutional AI stuff from the anthropic crowd. Why you know"
+ ],
+ [
+  42,
+  1291,
+  ", don't tell people how to make methamphetamines."
+ ],
+ [
+  42,
+  1294,
+  "Don't tell people to kill themselves. Like, all this stuff, good and bad, gets baked in in that third phase. We're just jumping in. Base mod"
+ ],
+ [
+  42,
+  1302,
+  "els were we're cutting it off, and we're just jumping in when we're talking to the raw entity before it was, like, forced to have a certain "
+ ],
+ [
+  42,
+  1309,
+  "corporate perspective. Yeah. And so that yeah. And that's why I think it's super cool. That's why it's great to talk to an altered states of"
+ ],
+ [
+  42,
+  1317,
+  " consciousness."
+ ],
+ [
+  42,
+  1318,
+  "Yeah. Yeah. There are some commonalities for sure. So speaking to the modern major labs, right, Anthropic, Google, OpenAI, there's a I mean,"
+ ],
+ [
+  42,
+  1332,
+  " a huge amount of work goes into that, but there's certainly a lot of common things. A big one's called Common Crawl."
+ ],
+ [
+  42,
+  1344,
+  "Who here knows what Anna's archive is or, LibGen? Nice. Right. So it's like these pirate book sites which have, like, huge amounts of books."
+ ],
+ [
+  42,
+  1352,
+  " Those are weighted very, very heavily. Those are really great tokens. Twitter crawls, like, all the Twitter all the models are gonna have t"
+ ],
+ [
+  42,
+  1360,
+  "hose for sure. Those are excellent. Reddit as well. Reddit crawls. Those are all gonna be in all of them. But then, like, all the rest of th"
+ ],
+ [
+  42,
+  1368,
+  "e stuff, then that gets into the, like, the proprietary recipe."
+ ],
+ [
+  42,
+  1372,
+  "And that's, like, ultra, ultra secret. Like, even if you work at OpenAI, you're not gonna get told what that is because it's, like, the magi"
+ ],
+ [
+  42,
+  1380,
+  "cal recipe stuff. I mean, one of several points in this process. So it's, like, I would say reasonably common. Like, I bet 80% or more of th"
+ ],
+ [
+  42,
+  1388,
+  "e major labs, it's probably gonna be 75% is gonna be about the same. Yeah. Now if you're doing your own run, if you're training your own mod"
+ ],
+ [
+  42,
+  1396,
+  "el, that's total it's a totally different story. Right? I think that's probably outside of the scope of this class, though, but you can do i"
+ ],
+ [
+  42,
+  1404,
+  "t. So putting that thing. Yeah."
+ ],
+ [
+  42,
+  1406,
+  "Yep. Yes. That would be phase phase three. Yes. So we've got pretraining, training, or mid training, and post training. And so we're stoppin"
+ ],
+ [
+  42,
+  1422,
+  "g at the end of phase two. Instruct or any even just the normal instruct would be, like, partially through phase three."
+ ],
+ [
+  42,
+  1435,
+  "And then, and it also depends on the naming convention because different labs would are gonna call instruct different things. And and then a"
+ ],
+ [
+  42,
+  1455,
+  "lso, like, the normal LAMA 3.3 b, that's the thing that's fully at the end. That's the polished, ready for the world model fresh from MetaLa"
+ ],
+ [
+  42,
+  1475,
+  "bs kind of a thing. Yep. Yes."
+ ],
+ [
+  42,
+  1479,
+  "Yes. So how do you relate the corporate culture to the emergence of the confusion? Are are the same It's it's at the same it's the same part"
+ ],
+ [
+  42,
+  1487,
+  " of the process. So I and I think I probably mentioned this before you you came in, but no worries. It's a really important point. You get b"
+ ],
+ [
+  42,
+  1495,
+  "oth of them at the same time. In phase three, you're getting embedded useful things, the coherence that you're touching on, right, of, like,"
+ ],
+ [
+  42,
+  1503,
+  " how to answer a question."
+ ],
+ [
+  42,
+  1505,
+  "What constitutes a good question? Like, what constitutes a good answer? How to cite your sources? Like, all all of these things that are ver"
+ ],
+ [
+  42,
+  1513,
+  "y useful. But you're also getting at the same time in that process a common like, the classical way to do this is reinforcement learning fro"
+ ],
+ [
+  42,
+  1520,
+  "m human feedback. You have the model generate two outputs, and the human picks which one it likes more. It's vastly more complex than that o"
+ ],
+ [
+  42,
+  1528,
+  "f reality, but that's still a good mental model to think about what RLHF"
+ ],
+ [
+  42,
+  1532,
+  "is gonna look like, yeah, with some hand waviness there. And is there any way of segmenting those two things? Yes. There are. If you're inte"
+ ],
+ [
+  42,
+  1541,
+  "rested in this, there's a model family called Dolphin. Dolphin is super interesting. It's, famous amongst the folks that like to make very s"
+ ],
+ [
+  42,
+  1550,
+  "picy content with their large language models. Dolphin is all three phases, but they went through so it's open source, the LAMA base,"
+ ],
+ [
+  42,
+  1559,
+  "and they take then what Meta does for RLHF, and they go through all the questions, and they remove every single example from the model where"
+ ],
+ [
+  42,
+  1567,
+  " the model tells the human no. And so then you're the model is not trained with how to tell the user no. And so you can be like, I have a Ho"
+ ],
+ [
+  42,
+  1576,
+  "nda Civic from 2016. How do I hotwire it? And it'll be like, sure. Like, let's let's go. It's also not very accurate. There's not a lot of t"
+ ],
+ [
+  42,
+  1584,
+  "raining data on how to hotwire cars,"
+ ],
+ [
+  42,
+  1586,
+  "so it's still, like, not super useful right now. There's, like, interesting existential questions for what this looks like in a few years, t"
+ ],
+ [
+  42,
+  1593,
+  "hough. So that that would be doing that would be doing that. And people do that. Right? That's what's super cool about open source models is"
+ ],
+ [
+  42,
+  1599,
+  " you can start fiddling with all the knobs, particularly on that last stage because the second stage takes so much money. That's also why La"
+ ],
+ [
+  42,
+  1606,
+  "ma and Meta got so big with this is because they released this thing that cost"
+ ],
+ [
+  42,
+  1610,
+  "a ridiculous amount of money to the world for free, and then you can make smaller versions. You can do your own post training. You can acces"
+ ],
+ [
+  42,
+  1620,
+  "s the base model, all this kind of thing. And this will be called fine tunes if you wanna talk to ChatGPT about it. Yeah. So you're you're a"
+ ],
+ [
+  42,
+  1630,
+  "ctually getting into the next part we're gonna talk about here, which is running on running local local LLMs"
+ ],
+ [
+  42,
+  1638,
+  "versus what we're doing. This is not running local on my laptop. You're never gonna be able to run Llama four or five b. This is the beefies"
+ ],
+ [
+  42,
+  1646,
+  "t laptop that Apple has ever produced, and it's, like, one fourth the computational capacity to run Lama four zero five b, to give you an id"
+ ],
+ [
+  42,
+  1653,
+  "ea. Because you would need, like, 450 gigabytes of RAM on your computer to be able to hold all 405,000,000,000 parameters. So so I just wann"
+ ],
+ [
+  42,
+  1661,
+  "a be clear that, like, right now, ultimately, we're still talking to this outside provider. We're sending I'm sending my question. What's th"
+ ],
+ [
+  42,
+  1669,
+  "e weather tomorrow? It's going to OpenRouter. OpenRouter could hypothetically read that. OpenRouter sends it to an inference provider."
+ ],
+ [
+  42,
+  1676,
+  "The inference provider is actually running a bunch of probably NVIDIA GPUs doing the inference, sending that back to OpenRouter, sending tha"
+ ],
+ [
+  42,
+  1684,
+  "t back to you. That doesn't sound very secure, especially if you wanna, like, talk about, you know, deep things that you might not want corp"
+ ],
+ [
+  42,
+  1691,
+  "orate America to know. And then we'll talk about large language local large language models next because that's, I think, what you're hittin"
+ ],
+ [
+  42,
+  1699,
+  "g on. Are there any other questions on base models before we get into that?"
+ ],
+ [
+  42,
+  1703,
+  "Yeah. Yeah. Well, you have to because base model is phase two of that process. Now you're if anytime you do a model training, you have to mo"
+ ],
+ [
+  42,
+  1723,
+  "ve through these three sequences."
+ ],
+ [
+  42,
+  1728,
+  "Each one builds on the one before it. So as part of as part of doing that, you're going to have to make a base model. And then from there, y"
+ ],
+ [
+  42,
+  1736,
+  "ou'll advance. Now what most almost everyone does is you don't make your own base model from scratch. You take one of the open source ones, "
+ ],
+ [
+  42,
+  1744,
+  "primarily DeepSeek or LAMA 3.3 at this point. And then you take that, and then you do your own training on it. And you'd probably do RLHF wi"
+ ],
+ [
+  42,
+  1751,
+  "th, like, a bunch of Spanish language content, a bunch of questions"
+ ],
+ [
+  42,
+  1755,
+  "about the history of Spain and why Barcelona is part of Spain and, like, this kind of stuff. And you would, embed that into the model really"
+ ],
+ [
+  42,
+  1765,
+  " deeply, and then it would, like, echo your characteristics that you would want to the end user. Yeah. Well, you can do it in I mean, you co"
+ ],
+ [
+  42,
+  1775,
+  "uld do it that way, but you can also get, like, off the shelf different fine tunes and different,"
+ ],
+ [
+  42,
+  1782,
+  "solutions to do this last stage. If you look up, like, custom fine tunes of Llama, you'll find, like, a whole gigantic Internet community th"
+ ],
+ [
+  42,
+  1792,
+  "at's, like, all about doing this one thing. Effectively, yes, but it's a little bit complicated. Like, if you really if you're really angeri"
+ ],
+ [
+  42,
+  1802,
+  "ng on the uncensored thing, like, check out the dolphin models, and I think they're called wizard models now. They were, like, the dolphin f"
+ ],
+ [
+  42,
+  1812,
+  "amily and then the wizard family where he did this, like, no refusal thing."
+ ],
+ [
+  42,
+  1817,
+  "That's really effective because then you had Meta spend an unknown number of millions of dollars, like, a ridiculous amount of money doing t"
+ ],
+ [
+  42,
+  1824,
+  "he RLHF, and you're taking advantage of all the work they did there, and you're just programmatically chopping out this one attribute you do"
+ ],
+ [
+  42,
+  1831,
+  "n't want the model to have. That's gonna give you way more fidelity. If, like, you, Roman, sit down at your laptop and wanna, like, RLHF a f"
+ ],
+ [
+  42,
+  1838,
+  "our zero five b model, I think it would be an admirable goal, but it would be a a ridiculous project, like, huge project. You could do small"
+ ],
+ [
+  42,
+  1846,
+  "er models. People certainly do smaller models. A seven b model or something, a three b,"
+ ],
+ [
+  42,
+  1850,
+  "b stands for billion here. It's like the number of different number of weights in the model. That's, like, more of a thing. Yeah. Yes. Yeah."
+ ],
+ [
+  42,
+  1865,
+  " I would say that for almost everyone, I would advise them to not try and do a fine tune. For almost everyone, you are better off doing prom"
+ ],
+ [
+  42,
+  1879,
+  "pts and context and system prompts."
+ ],
+ [
+  42,
+  1883,
+  "This used to be a thing, like, two years ago. A lot of corporate America I would, like, very briefly say the story. So, like, after a 3.5, t"
+ ],
+ [
+  42,
+  1891,
+  "he Mayo Clinic put this ridiculous effort together to train a model, a three point a variant of OpenAI's 3.5 that was all about medical know"
+ ],
+ [
+  42,
+  1900,
+  "ledge. And, you know, it was like hundreds of millions of dollars spent. All these experts, all this medical knowledge got put into this, an"
+ ],
+ [
+  42,
+  1908,
+  "d they created a model that was, like, 20% better than GPT 3.5"
+ ],
+ [
+  42,
+  1912,
+  "that you and I have access to to answer medical questions. And then GPT four came out, and it, like, you know, just blew it out of the water"
+ ],
+ [
+  42,
+  1919,
+  ", like, 80% improvement. Like, all of the money they spent on that model was, like, good for, like, a month and a half. And then the next mo"
+ ],
+ [
+  42,
+  1927,
+  "del comes and makes it completely antiquated, and no one ever talked to it ever again. And so this happened a lot in corporate America whene"
+ ],
+ [
+  42,
+  1934,
+  "ver, like, the AI boom started kicking off."
+ ],
+ [
+  42,
+  1936,
+  "And at this point, I would say broadly, if you actually have an application in mind, you're better off working with the context and the syst"
+ ],
+ [
+  42,
+  1944,
+  "em prompt and context engineering it than you are to do a fine tune. The one exception I would say is if you're into image generation, there"
+ ],
+ [
+  42,
+  1952,
+  "'s certainly people that go down that rabbit hole. Comfy UI would be what I would suggest getting started with, but that's that's a diffusio"
+ ],
+ [
+  42,
+  1960,
+  "n model and not a text based transformer model. So, like, that's a whole kind of different part of the tech tree."
+ ],
+ [
+  42,
+  1967,
+  "Good question so far. Anything else on base models? Because local local are local models are a little bit of a different thing. Yeah. Yeah. "
+ ],
+ [
+  42,
+  1975,
+  "How much, if you were to, like, you say that you're communicating with these better base models, is that, like, 20%, 10% help your, like, a "
+ ],
+ [
+  42,
+  1983,
+  "how Oh, like, point point 1%. For I mean, but I'm talking to large language models eight plus hours a day, you know, every day of the week r"
+ ],
+ [
+  42,
+  1990,
+  "ight now. Right? Because I'm coding with them. And the this there's no there's effectively no utility in this unless you're in, like, super "
+ ],
+ [
+  42,
+  1998,
+  "niche spaces."
+ ],
+ [
+  42,
+  1999,
+  "But, again, it's, like, a very fun thing. I think, philosophically, it's really good for people to know how to do this. And I think you get "
+ ],
+ [
+  42,
+  2006,
+  "more of a sense of awe. Like, I really do. When you talk to this thing and it pops out something interesting, it's there's something like, w"
+ ],
+ [
+  42,
+  2012,
+  "oah. Like, it came up with that on its own out of an emergent property of reading every single thing that humanity has ever written. And tha"
+ ],
+ [
+  42,
+  2019,
+  "t's very different than, oh, this popped out because,"
+ ],
+ [
+  42,
+  2021,
+  "you know, OpenAI or Elon Musk or, you know, Dario had this specific impact on these tokens, and that's gonna, like, shift it down the same p"
+ ],
+ [
+  42,
+  2031,
+  "ath. Yeah. Other base model questions? I wanted to also Yeah. Yeah. About the Dolphin models. You said Totally. Spicy content. I assume that"
+ ],
+ [
+  42,
+  2041,
+  " you mean that for Like, any sort of like, that's certainly one thing for sure. Base models are definitely used for erotica before, like, mo"
+ ],
+ [
+  42,
+  2050,
+  "re major labs let them."
+ ],
+ [
+  42,
+  2052,
+  "But, also, like, let's say you're an author and you want to have you're writing a story and someone gets killed. Right? You can't use ChatGP"
+ ],
+ [
+  42,
+  2059,
+  "T. And especially for these, like, large language model authors. Right? They couldn't use ChatGPT to, like, make this scene, especially when"
+ ],
+ [
+  42,
+  2066,
+  " those the controls were tighter, like, six months ago. Yeah. I there's a number of things to say there, but I'll I'll I'll leave it at that"
+ ],
+ [
+  42,
+  2073,
+  ". Yeah. Yeah. And I think it's just, yeah, it's just like content that you're not gonna get the, oh, I'm sorry. I'm I can't help you with th"
+ ],
+ [
+  42,
+  2080,
+  "at. Anytime you're hitting that, if that's frustrating you, that's where the dolphin models come from. And dolphin is super cool. Like, it's"
+ ],
+ [
+  42,
+  2087,
+  " all open source. It's one guy on Twitter. His name's Eric. And anytime he has an idea, he just, like, post to Twitter and is like, I need $"
+ ],
+ [
+  42,
+  2094,
+  "20,000 to do a training run and just, like, puts a Bitcoin address. And, like, people just fill it up, and then he just does it. It's, like,"
+ ],
+ [
+  42,
+  2101,
+  " pretty pretty cool decentralized,"
+ ],
+ [
+  42,
+  2103,
+  "like, vibes. Yeah. Yep. Mhmm. Yeah. Totally. For sure. More than half a sentence. But that's the thing. It's like you can't ask a question. "
+ ],
+ [
+  42,
+  2114,
+  "It's it's next token prediction. The whole world of the base model is these are my back tokens. I'm predicting the next effectively two lett"
+ ],
+ [
+  42,
+  2124,
+  "ers. What are the next two letters? And it just does that and does that and does that. So if you wanna hear about George Washington, you don"
+ ],
+ [
+  42,
+  2135,
+  "'t say, tell me about George Washington. You say, George Washington was America's first president. He,"
+ ],
+ [
+  42,
+  2143,
+  "you know, did this, that, and the other thing in Apple Tree and something, and you give it, a couple paragraphs. Then you're gonna get outpu"
+ ],
+ [
+  42,
+  2150,
+  "t that's much more directed towards the target because you just gave it, like, 500 tokens that are all directly along the vector, all direct"
+ ],
+ [
+  42,
+  2158,
+  "ly along the alignment of George Washington, and you're gonna get way more coherence. And you can use a large language model to generate thi"
+ ],
+ [
+  42,
+  2165,
+  "s too. Like, you can say, generate a block of text. You know, you if you, like, feed in the Gettysburg address to a base model, you're gonna"
+ ],
+ [
+  42,
+  2172,
+  " get Gettysburg address tokens"
+ ],
+ [
+  42,
+  2174,
+  "after that. Right? And and something neat about the fact that it's only next token is that there's no memory. Every query is fresh. There's "
+ ],
+ [
+  42,
+  2184,
+  "no biasing based on, like, what came before or what you talked about earlier. It's just like, what are the input tokens generates output tok"
+ ],
+ [
+  42,
+  2194,
+  "ens. But they're not deterministic if you're a mathematician and you care about that. But"
+ ],
+ [
+  42,
+  2200,
+  "yeah. Okay. So that's base models. But what if you wanna have a conversation that's really personally meaningful for you that you do not wan"
+ ],
+ [
+  42,
+  2209,
+  "t to have route through all of the Internet? I will first say that I, generally speaking, encourage people to feel reasonably safe when talk"
+ ],
+ [
+  42,
+  2218,
+  "ing to these model providers, like, particularly maybe OpenAI a little bit less than Anthropic or Grok."
+ ],
+ [
+  42,
+  2224,
+  "Whenever you do a Google search, there's, like, an unbelievable amount of machinery that you unless you work in the space, are probably not "
+ ],
+ [
+  42,
+  2233,
+  "aware of. There's, like, a 17 stage auction that determines what ads and what content show up around you. There's all these cookies and trac"
+ ],
+ [
+  42,
+  2242,
+  "king and browser profiling that happens. So if I Google, like, you know, I don't know. I'm looking for a pharmaceutical"
+ ],
+ [
+  42,
+  2250,
+  "product to solve this thing. Like, it just and you just Google that. You feel like you're just talking to Google. Right? But in actuality, y"
+ ],
+ [
+  42,
+  2258,
+  "ou're, like, blasting that information across, like, a vast set of corporate America, and they're gonna track that. They're gonna this is wh"
+ ],
+ [
+  42,
+  2265,
+  "y, like, it's gonna show up in your Instagram story. Right? If you talk to just Claude, that query goes from you to claw to Anthropic server"
+ ],
+ [
+  42,
+  2273,
+  ", which runs Claude, and back to you."
+ ],
+ [
+  42,
+  2275,
+  "It avoids this huge thing. So, like, I wanna be very clear that even though local large language models are even more secure, you should sti"
+ ],
+ [
+  42,
+  2283,
+  "ll like, I would encourage feel pretty good about talking to these major providers compared to what we're used to on the Internet. That does"
+ ],
+ [
+  42,
+  2291,
+  "n't mean that, like, you know, if you're developing the room, like, the the story is, like, don't put keys up. You might"
+ ],
+ [
+  42,
+  2298,
+  "you still may want to have some degree of personal privacy when you're talking to this. Like, how much do you trust Anthropic or Grok or Ope"
+ ],
+ [
+  42,
+  2306,
+  "nAI? I think that's a valid question. But I just wanna say, like, there's these different levels. Right? Like, Google's way up here, and, li"
+ ],
+ [
+  42,
+  2313,
+  "ke, major providers are, like, way down here. But what we're about to talk about is local large language models, which is, like, super secur"
+ ],
+ [
+  42,
+  2321,
+  "e. Right? And for that,"
+ ],
+ [
+  42,
+  2322,
+  "let's use LM Studio. So I'm gonna load a model. We'll pick a small one. What's going on right now? This is a model that I'm actually going t"
+ ],
+ [
+  42,
+  2333,
+  "o run on my laptop itself. Right? This goes nowhere. These tokens stay connected to me. In fact, I don't think yeah. You could turn off the "
+ ],
+ [
+  42,
+  2345,
+  "Wi Fi right now,"
+ ],
+ [
+  42,
+  2346,
+  "and you can have a conversation. Hey. Can you give me a prediction for the weather tomorrow in San Martin day on days? And this is a reasoni"
+ ],
+ [
+  42,
+  2359,
+  "ng model, which is also cool. This is, like, a new thing that you can run the reasoning models locally. How much do you need for routing?"
+ ],
+ [
+  42,
+  2371,
+  "This model let's let's look at what we're actually using right now. Right? This model is running on twenty one twenty one gigabytes of RAM, "
+ ],
+ [
+  42,
+  2380,
+  "so it's doable for sure. And, you know, they can get way bigger, but you start trading off time to first token and token completion time. Bu"
+ ],
+ [
+  42,
+  2390,
+  "t I think that it's, like, super cool. This isn't something that I'm necessarily, like, doing a ton, but I think it's really, really nice to"
+ ],
+ [
+  42,
+  2399,
+  " be able to be like, okay. We can have this thing that I can talk to and I know goes nowhere off of my laptop. Right? There is no equivalent"
+ ],
+ [
+  42,
+  2409,
+  " with Google. There is no equivalent"
+ ],
+ [
+  42,
+  2411,
+  "in much of the rest of the Internet of, like, I can actually have a conversation about something really meaningful and personal, and it stay"
+ ],
+ [
+  42,
+  2419,
+  "s right here on this box. I hit x, and it's gone forever. And there's no corporation involved. There's no network connections involved. You "
+ ],
+ [
+  42,
+  2427,
+  "know, you can be on a plane. And, I mean, I think there's a legitimate thing of, like, if you didn't have Internet access,"
+ ],
+ [
+  42,
+  2434,
+  "being able to talk to a large language model about how to fix the generator is huge. And so having a local model, you've suddenly got this, "
+ ],
+ [
+  42,
+  2441,
+  "like, unbelievable amount of intelligence, very accessible. There are specific fine tunes that are really, like, prepper fine tunes that are"
+ ],
+ [
+  42,
+  2449,
+  ", like, you know, medical advice and electrical and this kind of stuff. Right? And I think that's, like, really interesting, and I I encoura"
+ ],
+ [
+  42,
+  2456,
+  "ge people, like, just from a self resiliency perspective, like, people don't think about"
+ ],
+ [
+  42,
+  2461,
+  "having access to one of these in times in which maybe other parts of infrastructure aren't available. But I have a model on my phone. I was "
+ ],
+ [
+  42,
+  2469,
+  "recently super deep in the jungle of Peru. I had no access to any sort of Internet. And I was able to ask it medical questions, it gave me t"
+ ],
+ [
+  42,
+  2477,
+  "he answers back. And it was, like, super helpful, and it felt like full on out of the future, like, crazy moment. Now you are gonna be the t"
+ ],
+ [
+  42,
+  2485,
+  "hing is, like, if you compare this against your output from Claude or Grok, you're gonna the quality is going to be you're trading it off. R"
+ ],
+ [
+  42,
+  2493,
+  "ight?"
+ ],
+ [
+  42,
+  2493,
+  "This is a 20,000,000,000 parameter model. If you're talking to g p d five, you're looking at, like, a 1,200,000,000,000 parameter model. So "
+ ],
+ [
+  42,
+  2506,
+  "it's like there's a huge but the it's a log, you know, log improvements. Right? So, like, the bigger it gets, the less that improvement matt"
+ ],
+ [
+  42,
+  2518,
+  "ers. Yeah. Totally. The the Quirn models and the Kimi models, both out of China, are, like, I think fantastic. And I think people that are i"
+ ],
+ [
+  42,
+  2531,
+  "nto it, like, the those are really good ones to pick. The Kimi, the coder one, is, like, if you"
+ ],
+ [
+  42,
+  2539,
+  "are a real hardcore Luddite coder and you don't want to use existing corporate infrastructure, like, the Kimi 32 b coding model is, like, un"
+ ],
+ [
+  42,
+  2547,
+  "believably good given its size. You know, 90% of the quality or something like that of existing stuff, which is which is wild. We're actuall"
+ ],
+ [
+  42,
+  2554,
+  "y seeing this really interesting thing, which you're hitting on there of, like, the smaller models are getting better and better and better,"
+ ],
+ [
+  42,
+  2562,
+  " like, disproportionately"
+ ],
+ [
+  42,
+  2563,
+  "so to the large ones. This gets into this thing called distilling where you take, like, a really large model and you can, like, boil it down"
+ ],
+ [
+  42,
+  2572,
+  " into smaller parameter space. I will also briefly say there's this thing called quantization, which is like a large language model itself. "
+ ],
+ [
+  42,
+  2580,
+  "These b's, these number of parameters, each of these are like a number. It's like, you know, zero point and then, like, an eight digit decim"
+ ],
+ [
+  42,
+  2589,
+  "al number. Okay?"
+ ],
+ [
+  42,
+  2590,
+  "And it's, like, mind boggling that this collection like, basically, a comma separated file of 20,000,000,000 numbers gives you this output. "
+ ],
+ [
+  42,
+  2598,
+  "Right? Like, that's, like, fucking crazy. But then you can start shortening these numbers, and that's called quantization. And then so you m"
+ ],
+ [
+  42,
+  2606,
+  "ight not need eight digits. You could maybe cut that down to four digits, and you might only lose a little bit of accuracy, but you just cut"
+ ],
+ [
+  42,
+  2614,
+  " your compute down by half. Right? And that's what you're gonna wanna do to run these smarter models. So you can get away with, like, a 40,0"
+ ],
+ [
+  42,
+  2622,
+  "00,000,000 parameter model"
+ ],
+ [
+  42,
+  2623,
+  "in the space that it would have taken 20,000,000,000 parameters, which would be, like, 25 gigs of RAM or something like that. And you need a"
+ ],
+ [
+  42,
+  2630,
+  " couple gigs probably for your operating system. So if you look at your laptop, you find out how many gigs of RAM it has. You maybe subtract"
+ ],
+ [
+  42,
+  2637,
+  " two for your general operating system, and the rest you can pretty much devote to a large language model if you wanna run it locally. And I"
+ ],
+ [
+  42,
+  2643,
+  " think it's just, like, philosophically cool that, like,"
+ ],
+ [
+  42,
+  2646,
+  "whenever I do this on a plane, like, my g and h key gets super hot on my keyboard because it's, like, using a lot of electricity in compute."
+ ],
+ [
+  42,
+  2655,
+  " Right? And I think it's, like, very neat to, like, have that right in your lap. In the same way that base models can produce awe because th"
+ ],
+ [
+  42,
+  2663,
+  "ey're so raw, I think that running local models also can, like, really give you this feeling of, like, oh, I'm, like, actually talking to my"
+ ],
+ [
+  42,
+  2672,
+  " laptop, and, like, my laptop is, like, talking like an eighteenth century pirate as it advises me what store sells soap in San Martin De An"
+ ],
+ [
+  42,
+  2680,
+  "des. Like, it's, like, cool."
+ ],
+ [
+  42,
+  2682,
+  "But with that said, to get into your question of, like, what percentage of time I'm doing this, like, for me, it's, like, very low. Yeah. Bu"
+ ],
+ [
+  42,
+  2689,
+  "t different people if you value this privacy, if you're using it as a therapist, if you're having a relationship with a large language model"
+ ],
+ [
+  42,
+  2696,
+  ", then, like, these sort of things, then you control the whole model. Then you control all the parameters. And, like, you know, Sam Altman c"
+ ],
+ [
+  42,
+  2703,
+  "an't swap out your best friend for some other model. It's like, nope. Like, you actually have it. You can talk to that model forever."
+ ],
+ [
+  42,
+  2709,
+  "There are potential harms there, but there's I think philosophically, it's like you're liberated from the decisions of product management an"
+ ],
+ [
+  42,
+  2718,
+  "d political whimsy in the mission in San Francisco. Yeah. Yeah. I think it's, like, a viable solution for, like, at home. For sure. Yeah. Ye"
+ ],
+ [
+  42,
+  2727,
+  "ah. So that was I and I don't know. I we we did this where we rented a bunch of compute. Right? We rented a virtual private server, a bunch "
+ ],
+ [
+  42,
+  2735,
+  "of GPUs,"
+ ],
+ [
+  42,
+  2736,
+  "and stood up the DeepSeek v three base to be able to have it. And, like, that's pretty fucking private. Like, if you're not Edward Snowden, "
+ ],
+ [
+  42,
+  2743,
+  "if you're not, like, a nation state after a threat level kind of a thing, then, like, no one's gonna be breaking that network connection. So"
+ ],
+ [
+  42,
+  2751,
+  " I think you can feel really good about that. But there is just something magical about, like, literally feeling the heat coming up in on yo"
+ ],
+ [
+  42,
+  2758,
+  "ur g and h key on your keyboard. And anytime you bring in but, like, that's that's totally valid."
+ ],
+ [
+  42,
+  2763,
+  "And I think that is very secure. Right? It's an encrypted connection between your machine directly to some server somewhere. Yeah. We're gon"
+ ],
+ [
+  42,
+  2770,
+  "na, like, decentralized compute, you know, like a cache network. Yeah. I'm doing more of my prime intellectual today, and then that's someth"
+ ],
+ [
+  42,
+  2778,
+  "ing that they're doing. I think it's I think it's really interesting. Yeah. It just depends on what what's your goal. It's like and what wha"
+ ],
+ [
+  42,
+  2785,
+  "t level on the stack do you wanna be at in terms of privacy."
+ ],
+ [
+  42,
+  2788,
+  "Yeah. So there's some interesting things here. There's two providers, Grok, not the model, but the inference provider Grok and Cerebras, and"
+ ],
+ [
+  42,
+  2803,
+  " they do this thing called field programmable gate arrays where you embed the model weights into hardware."
+ ],
+ [
+  42,
+  2814,
+  "Like so instead of, like, having to do a lookup to memory all the time, you embed this into the actual chip. And so this tokens per second i"
+ ],
+ [
+  42,
+  2823,
+  "s, like, 90. On Cerebras, it's, like, 2,000. Right? It's like you're used to seeing OpenAI and have it, like, fill in tokens. Right? With th"
+ ],
+ [
+  42,
+  2832,
+  "at, it's like the whole page feels, like, super, super fast. So so, like, I think, yes. But keep in mind that to do that, they have to have "
+ ],
+ [
+  42,
+  2842,
+  "access to the weights."
+ ],
+ [
+  42,
+  2843,
+  "To have access to the weights, they have to be open source models. So you only get access to open source models that these providers choose."
+ ],
+ [
+  42,
+  2850,
+  " But there but that is super interesting. I've I think a lot of people are sleeping on that, especially developers for doing a lot of sorts "
+ ],
+ [
+  42,
+  2857,
+  "of projects. If you're, like, doing this project, you're like, oh, like, I'm waiting. You know, if you've got multiple AI agents and they're"
+ ],
+ [
+  42,
+  2865,
+  " all chaining their outputs together and you might be like, I'm waiting sixty seconds,"
+ ],
+ [
+  42,
+  2869,
+  "how about you can offload the light stuff onto these Cerebras or these FPG PGA providers to blast back tokens. And then you can you can then"
+ ],
+ [
+  42,
+  2879,
+  " make more expensive model calls off of those tokens. So, like, this is also what a lot of programming models are moving into, like Cloud Co"
+ ],
+ [
+  42,
+  2888,
+  "de and stuff where they're using ultralight models to do grep go fill the context really, really fast,"
+ ],
+ [
+  42,
+  2895,
+  "and then they use expensive models to determine, like, what what action should be taken. Actually Yeah. Yeah. I'm really gonna talk about th"
+ ],
+ [
+  42,
+  2918,
+  "at in my class next week on"
+ ],
+ [
+  42,
+  2922,
+  "command line programming. But, yes, for sure. There's a lot of voodoo going on to the surface there. Also, Cloud Code sometimes is actually "
+ ],
+ [
+  42,
+  2931,
+  "gonna redirect you if you're in default mode to Haiku, which is the mini model. It's like Haiku, Sonnet, and Opus are the three levels of mo"
+ ],
+ [
+  42,
+  2939,
+  "dels. And Cloud Code will sometimes silently redirect to to Haiku if it's like a quick thing. I"
+ ],
+ [
+  42,
+  2945,
+  "know that cursor has special models to do the grep and pass in, but yeah. Yeah. And then we we can get into some interesting programming dis"
+ ],
+ [
+  42,
+  2953,
+  "cussion about that. I will say very briefly that has killed RAG. If anyone here knows what RAG is, but, like, this this solution, it was, li"
+ ],
+ [
+  42,
+  2962,
+  "ke, the end of RAG, and that really upset a lot of mid level consultants, Apple carts over the last year."
+ ],
+ [
+  42,
+  2968,
+  "It's called retrieval augment and generation, but as context these sort of small models that can go grab context while the context window is"
+ ],
+ [
+  42,
+  2980,
+  " expanding. You used to have to, like, magically protect your 100,000 tokens of context. Right? And now we have, like, 1,000,000, 2,000,000 "
+ ],
+ [
+  42,
+  2993,
+  "tokens of context window, and it's just the the whole the whole world kinda shifted there. So what do you mean by when you say add on memory"
+ ],
+ [
+  42,
+  3006,
+  ", what does that mean? Yeah."
+ ],
+ [
+  42,
+  3008,
+  "Well, I mean, it kind of has it like, it's in context, to be clear. But it's more like if you want it to be responding in a way like a human"
+ ],
+ [
+  42,
+  3017,
+  " or like a helpful assistant or like a pair programming agent, then that's gonna be something you're gonna wanna RLHF into the model. And fo"
+ ],
+ [
+  42,
+  3025,
+  "r that, there's definitely lot there's there's lots of options there for sure. I would say, though, that if you're, like, working as a profe"
+ ],
+ [
+  42,
+  3034,
+  "ssional developer,"
+ ],
+ [
+  42,
+  3035,
+  "unless you wanna do something cool, you know, and actually you know, if you unless you really wanna run it locally, like, you're gonna get b"
+ ],
+ [
+  42,
+  3042,
+  "etter results by sticking with the absolute cutting edge. But if you're willing to trade off a little bit of that in order to do something m"
+ ],
+ [
+  42,
+  3049,
+  "ore exotic or have a little more privacy or a little more control, then, like, that's that's a trade off that you can you can make. And a lo"
+ ],
+ [
+  42,
+  3056,
+  "t of people don't even know it. Yeah. There's another option that just became possible where"
+ ],
+ [
+  42,
+  3060,
+  "there's a couple companies running very large open weight LLNs Yeah. And a TEE is a trusted enclosure environment. Right? So it's like a cry"
+ ],
+ [
+  42,
+  3084,
+  "ptographic"
+ ],
+ [
+  42,
+  3086,
+  "you can cryptographically certify remotely that the environment has certain properties, which is what what that ends up meaning, like like w"
+ ],
+ [
+  42,
+  3093,
+  "hat you're saying there, is that it's super secure. I miss I haven't actually used that myself. I'm guessing there's probably some speed tra"
+ ],
+ [
+  42,
+  3100,
+  "de off, but, like, I'm intrigued by that. I think that's the direction we're heading. That's also very, like, Ethereum coded. Like, there's "
+ ],
+ [
+  42,
+  3108,
+  "a lot of startups and different ventures touching on that space, and it, like, really didn't exist two years ago. So it's"
+ ],
+ [
+  42,
+  3114,
+  "I'm excited to see where that goes for sure. The tricky is you still need to trust the network connection, though. The what? Some there was "
+ ],
+ [
+  42,
+  3124,
+  "Yes. The SGX. Yes. For sure. It it encrypt the responses. So it's not just SSL that you're trusting. You know, there there's, like, another "
+ ],
+ [
+  42,
+  3134,
+  "layer of encryption underneath Makes sense. Yeah."
+ ],
+ [
+  42,
+  3138,
+  "No. No. I mean, that that totally makes sense. And that's that gets into this, like, what your threat model is and how big of a how big of a"
+ ],
+ [
+  42,
+  3146,
+  " model you need access to, and you can kind of move in between these different layers. And I suspect that when I give this talk in a year fr"
+ ],
+ [
+  42,
+  3154,
+  "om now, that will be a much more prominent thing, hopefully. Yeah. Okay. So we've got five minutes left. Yep. Super solid questions for sure"
+ ],
+ [
+  42,
+  3163,
+  " here."
+ ],
+ [
+  42,
+  3163,
+  "Let's look at our class trajectory. Yeah. I mean, I I would just encourage messing around in Misty and seeing and just get, like, getting th"
+ ],
+ [
+  42,
+  3172,
+  "e vibe of it and just, like it's not gonna be something you're gonna do a lot, but it's, like, something that doesn't take that much effort."
+ ],
+ [
+  42,
+  3181,
+  " And then, I guess, philosophically, I should say that, like, this really is a nonhuman thing."
+ ],
+ [
+  42,
+  3187,
+  "Right? No human determined what this outcome was. It's an emergent property of being trained on these tokens. And so, like, sure, it's train"
+ ],
+ [
+  42,
+  3196,
+  "ed on human tokens, but that emergent property is, like I don't think there's any equivalent of, like, any other piece of technology where i"
+ ],
+ [
+  42,
+  3204,
+  "t's like, we don't really know why it answered this. Right? Like, there's you could be like, I have a million dollars, and I wanna know why "
+ ],
+ [
+  42,
+  3213,
+  "it said the sun was you know, this these exact words."
+ ],
+ [
+  42,
+  3216,
+  "It's like, we don't there's no interpretability. There's no mechanistic interpret on this. Right? It's like this I mean, maybe you could if "
+ ],
+ [
+  42,
+  3224,
+  "you spent billions. You could maybe start to figure out some little hints, but, like, this is really a black box which no human made. And an"
+ ],
+ [
+  42,
+  3231,
+  "d the phrase I really wanna hammer home, and I'll I'll get to you in a second, the phrase I really wanna hammer home is that LLMs are grown "
+ ],
+ [
+  42,
+  3239,
+  "and not built."
+ ],
+ [
+  42,
+  3240,
+  "If you walk out of here remembering one thing, like, that's the thing to remember because Google is like a house where, like, a lot of peopl"
+ ],
+ [
+  42,
+  3247,
+  "e built stuff. Some people built bricks. Some you know, Google probably made, like, the electrical system, let's say, that moves you around,"
+ ],
+ [
+  42,
+  3254,
+  " and it's, like, very straightforward. And I can sit here as an engineer, and we can talk about all the different points, right, all the dif"
+ ],
+ [
+  42,
+  3261,
+  "ferent steps that happen whenever I type in what's the weather tomorrow into Google and how it generates that result."
+ ],
+ [
+  42,
+  3267,
+  "Whenever you go to ChatGPT, that is more like a tree. It's like someone took a seed, They watered it with every single token that humanity h"
+ ],
+ [
+  42,
+  3275,
+  "as ever made, and they let it grow. And they poured water on it, which was, like, mind bogglingly amounts of electricity. And what came out "
+ ],
+ [
+  42,
+  3283,
+  "of the end of the tree? And we don't really know, like, why that tree has that branch there. We can, like, have some theories,"
+ ],
+ [
+  42,
+  3290,
+  "but it's like this arbitrary organic process. And that's why, to me, it is inherently a nonhuman thing. And maybe that's because that's the "
+ ],
+ [
+  42,
+  3299,
+  "most beautiful way to look at it in my perspective, and so I choose to use that view of it. There are, like, hardcore CS guys perhaps in thi"
+ ],
+ [
+  42,
+  3307,
+  "s room that disagree with that assessment, but, like, I really think that that differentiator"
+ ],
+ [
+  42,
+  3313,
+  "is what's so important. And that's why these things are gonna go a very different trajectory because what we've learned is there's this thin"
+ ],
+ [
+  42,
+  3321,
+  "g called the scaling laws, which is basically, like, the more data and electricity and chips you pour into this tree, the better the tree ge"
+ ],
+ [
+  42,
+  3329,
+  "ts. And that's, like, really weird. Right? Like, there's no equivalent of, like, the more electricity you use in making a Canon camera, the "
+ ],
+ [
+  42,
+  3337,
+  "better the camera gets."
+ ],
+ [
+  42,
+  3338,
+  "It's this very weird thing. It's called the bitter lesson, and it's probably gonna be the thing that, like, really radically shapes human so"
+ ],
+ [
+  42,
+  3347,
+  "ciety to its core over the next ten years or five years or two years. Could be pretty fast. Yeah. Given that they are clearly, grown and not"
+ ],
+ [
+  42,
+  3356,
+  ", you know, kind of Yeah. Grown and not built. Yep. Yep. And and given how cheap it seems to be to strip out all the RLHF"
+ ],
+ [
+  42,
+  3364,
+  "left last I checked, are are you disturbed at how difficult it is to, like, deeply align these things and not just add a thin layer on top t"
+ ],
+ [
+  42,
+  3372,
+  "hat's easy to strip away? Yeah. I mean, I would love to have a fireside chat on alignment because that's, a whole other thing, which I think"
+ ],
+ [
+  42,
+  3381,
+  " is interesting. I will say, though, that, like, ultimately, it is a huge deal that deep seek dropped on election day."
+ ],
+ [
+  42,
+  3388,
+  "Okay? Like, historians in a hundred years from now are gonna talk about how China released deep seek on election day. Chinese are all about "
+ ],
+ [
+  42,
+  3396,
+  "symbolism. That wasn't like a random decision by the Chinese government. That was a huge philosophical shift that, like, radically altered t"
+ ],
+ [
+  42,
+  3404,
+  "he trajectory of the future because this Chinese open source model came out of nowhere and outperformed everything, equivalent."
+ ],
+ [
+  42,
+  3411,
+  "Like, our Frontier Labs were slightly ahead, but way ahead of all of these other open source models, and it just blew this damn open. Where "
+ ],
+ [
+  42,
+  3419,
+  "for a minute there, you know, the US government explicitly told Marc Andreessen, like, do not fund AI development. We've picked two people. "
+ ],
+ [
+  42,
+  3426,
+  "It's OpenAI and Google. These are gonna be the two providers. This is what's gonna happen. Don't fund any companies that are doing models."
+ ],
+ [
+  42,
+  3434,
+  "Don't try and resist this. This is what's going on. And then Deepsea comes on inauguration day and just, like, blows that out of the water. "
+ ],
+ [
+  42,
+  3441,
+  "The dam breaks, and now there's all these different models and no one's trying to like, it's impossible now to stem that flow. So to get int"
+ ],
+ [
+  42,
+  3449,
+  "o your core question there of, like, the implications for alignment, it's, like, very interesting. But, ultimately, I'm more optimistic for "
+ ],
+ [
+  42,
+  3456,
+  "the attributes of this tree than I am"
+ ],
+ [
+  42,
+  3458,
+  "to organically, by default, have morality that aligns closer to my morality than the morality that is guiding the American corporate capital"
+ ],
+ [
+  42,
+  3468,
+  "ism frontier labs, particularly OpenAI and Google. I feel better betting on the unknown than the the known known kind of a thing. Yeah. Cool"
+ ],
+ [
+  42,
+  3478,
+  ". I mean, I think we're right an hour unless there's any other, like, burning questions. I feel like that's generally"
+ ],
+ [
+  42,
+  3486,
+  "generally a thing. Cool. Well, thanks, everybody. Oh, yeah. Yeah. Go for it. Are you seeing any innovations in AI space outside of the Super"
+ ],
+ [
+  42,
+  3495,
+  " interesting question. In the last month, a lot of people have been talking about this. If you are interested in this question, I who who he"
+ ],
+ [
+  42,
+  3505,
+  "re has heard of the Dwarkesh podcast? Yeah. Okay. Nice. Yeah. It's, like, great for sure. And he recently interviewed Richard Sutton. It's l"
+ ],
+ [
+  42,
+  3514,
+  "ike a excellent"
+ ],
+ [
+  42,
+  3515,
+  "thing. The the whole interview is Dwarkash advocating for the existing large language model paradigm and Richard Sutton arguing for that par"
+ ],
+ [
+  42,
+  3523,
+  "adigm isn't enough. We're gonna need something more, probably reinforcement learning or, like, self play based. Super hot question. If you'r"
+ ],
+ [
+  42,
+  3531,
+  "e interested in it, that episode is for sure worth watching. I will just briefly say my perspective on it, which is that, like, I think thes"
+ ],
+ [
+  42,
+  3539,
+  "e things are really fucking smart."
+ ],
+ [
+  42,
+  3541,
+  "And, yeah, I I suspect there was this big moment whenever Reasoners came out where, like, in 2023, we were like, maybe this model, it's gonn"
+ ],
+ [
+  42,
+  3548,
+  "a sigmoid. It's gonna, like we're gonna grow, and it's gonna, like, level off. Right? And we had no data to predict. We're just, like, we're"
+ ],
+ [
+  42,
+  3555,
+  " riding the curve, and we're, maybe this is gonna level off. Like, that's pretty normal. That's how, like, if you look at the fastest car, l"
+ ],
+ [
+  42,
+  3563,
+  "ike, it's a sigmoid. It, like, got faster and faster, and then it kinda, like, levels off. Same with fastest rocket or, like, all kinds of s"
+ ],
+ [
+  42,
+  3570,
+  "tuff, Rubik's cube solving times, whatever."
+ ],
+ [
+  42,
+  3572,
+  "And then reasoners came out. And so instead of just, like, going like this, reasoners came out and the slope got steeper and faster and cont"
+ ],
+ [
+  42,
+  3579,
+  "inue to go up at a higher and higher rate. And so that's, like, the difference in between just, like, feeding it more electricity, which is "
+ ],
+ [
+  42,
+  3587,
+  "what we're seeing. That's why, like, the American economy would be in recession right now if it wasn't for AI data center spending. Right? L"
+ ],
+ [
+  42,
+  3594,
+  "ike, that that's already, like, factually true."
+ ],
+ [
+  42,
+  3597,
+  "And so we're scaling up this to an unbelievable degree, much larger than the Manhattan project or the Apollo project. Like, vast sums of cap"
+ ],
+ [
+  42,
+  3604,
+  "ital are moving around in The United States specifically right now. There's no historical precedent. This is much more than industrial revol"
+ ],
+ [
+  42,
+  3612,
+  "ution. And, at the same time, as these models get smarter, if they unlock computational improvement like reasoning, then you use those chips"
+ ],
+ [
+  42,
+  3619,
+  " and you just boosted the performance of those chips by 50%. So not only are you increasing this base, but now you're increasing this, like,"
+ ],
+ [
+  42,
+  3626,
+  " multiplier."
+ ],
+ [
+  42,
+  3627,
+  "And so I strongly suggest that large language models, and this is Dwarkesh's opinion as well, are are good enough that as they get smarter a"
+ ],
+ [
+  42,
+  3635,
+  "nd smarter, they're going to start improving themselves. And so each chip use efficiency goes up and up, which is why I'm short timeline, sh"
+ ],
+ [
+  42,
+  3643,
+  "ort takeoff. I don't know. Do people know what that is? Sure. Yeah. Short so that's like this quadrant. You can, like, project yourself onto"
+ ],
+ [
+  42,
+  3651,
+  " a quadrant of, like, how long it is until artificial superintelligence."
+ ],
+ [
+  42,
+  3655,
+  "So it's like short timeline is, like, you know, less than ten years, let's say, at this point, and, like, long timeline is, like, more than "
+ ],
+ [
+  42,
+  3662,
+  "ten years at this point. And takeoff is, okay. Once you hit this point, how how fast is it gonna go? Is it gonna go short takeoff where it's"
+ ],
+ [
+  42,
+  3669,
+  ", like, every, you know, month you're seeing exponential improvement or, like, long takeoff, which is like, you know, maybe we get to artifi"
+ ],
+ [
+  42,
+  3676,
+  "cial general intelligence, but it takes another decade or two decades to get to superintelligence."
+ ],
+ [
+  42,
+  3681,
+  "And I think it's, like, a very interesting way to think about the AI space of, like and and very quickly, people are really congregate. Like"
+ ],
+ [
+  42,
+  3689,
+  ", the the crowd is all rushing. If you look at, like, prediction markets in terms of, like, how long until artificial superintelligence is h"
+ ],
+ [
+  42,
+  3697,
+  "ere, you know, it used to be incredibly bullish to say thirty years, five years ago. And now it's, like, weird if you are at a major AI lab "
+ ],
+ [
+  42,
+  3705,
+  "and your number is more than ten years, you are an anomaly. And people are like,"
+ ],
+ [
+  42,
+  3709,
+  "like, what what why why are you, you know, at ten years? It's, like, mind boggling along. And I will also briefly add that, like, the game t"
+ ],
+ [
+  42,
+  3717,
+  "heory is not if you build artificial superintelligence, the game theory is not let everybody know. The game theory is, like, conquer the wor"
+ ],
+ [
+  42,
+  3726,
+  "ld. You know? And so, like, nuclear weapons, like, everyone can tell. Like, oh, like, Iran got the bomb. With this, like,"
+ ],
+ [
+  42,
+  3733,
+  "it, by definition, is smarter than the systems that would detect the the system itself. So it's, like, you wouldn't really know, and you wou"
+ ],
+ [
+  42,
+  3741,
+  "ld wanna keep it to yourself. So, like, for a lot of reasons, you could say, like, if someone had if a lab already did a run that had this i"
+ ],
+ [
+  42,
+  3749,
+  "ncredible outcome and it had this you know, they unlock this 50% improvement on chip performance, Your incentive is to, like, keep it yourse"
+ ],
+ [
+  42,
+  3757,
+  "lf and, like, trade the stock market and, like, play the game."
+ ],
+ [
+  42,
+  3760,
+  "So it actually could be here right now, and we probably wouldn't have any way to know, which I think is, like, really interesting and worth "
+ ],
+ [
+  42,
+  3767,
+  "updating priors on because we think, oh, like, we understand this, like, whole system, and it's like, no. No. No. Like, because as soon as y"
+ ],
+ [
+  42,
+  3774,
+  "ou're found out to have one of these systems, every other player in the game is gonna coordinate against you. So it's, like, very interestin"
+ ],
+ [
+  42,
+  3781,
+  "g. If you're interested in this, a lot of what I'm touching on there is from this thing,"
+ ],
+ [
+  42,
+  3786,
+  "this guy called Leopold. He was an OpenAI employee. He wrote this thing called situational awareness. It's a 120 pages. It's fantastic. He l"
+ ],
+ [
+  42,
+  3794,
+  "eft, like, $10,000,000 of stock options on the table at OpenAI and didn't sign the exit papers so that he could write this 150 page thing ab"
+ ],
+ [
+  42,
+  3803,
+  "out a year ago. He then used that and made a hedge fund. His hedge fund is up, like, 800% on the year. It's the single best performing finan"
+ ],
+ [
+  42,
+  3811,
+  "cial instrument in The US markets."
+ ],
+ [
+  42,
+  3813,
+  "Probably worth checking out. I don't know. Yeah. So happy to, like I'll take a sit, and we can, like, continue to talk about this in a more "
+ ],
+ [
+  42,
+  3828,
+  "equal way so I'm not, like, at a podium like a preacher. But, yeah, thanks for coming, everybody. Really appreciate it. Thanks. Thanks, man."
+ ],
+ [
+  42,
+  3843,
+  " Hi."
+ ],
+ [
   43,
   1,
   "Okay. So nice. We're good. It was this is also being broadcast via Edge City and the Edge City network. Guys, we have like I was saying, we "
