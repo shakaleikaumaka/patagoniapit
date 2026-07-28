@@ -1,0 +1,1324 @@
+{
+ "spec": "pit-manifest/0.1",
+ "pit": {
+  "name": "The PatagoniaPIT",
+  "slug": "patagoniapit",
+  "registry_number": 4,
+  "url": "https://shakaleikaumaka.github.io/patagoniapit/",
+  "repository": "https://github.com/shakaleikaumaka/patagoniapit",
+  "forked_from": "https://github.com/shakaleikaumaka/zuitzpit",
+  "generation": 2,
+  "event": "Edge City Patagonia",
+  "location": "Andes, Argentina",
+  "dates": "Oct 18 – Nov 15, 2025",
+  "tagline": "The second fork — four weeks on the lake",
+  "status": "live"
+ },
+ "license": "CC0-1.0 · no rights reserved · fork it",
+ "consent": {
+  "policy": "consent-first",
+  "status": "demo · links to source Drive",
+  "policy_url": "https://publicinform.com/whitepaper/#consent"
+ },
+ "source": [
+  {
+   "type": "google-drive-folder",
+   "note": "source folder id recorded in the pit's pipeline — see repository"
+  }
+ ],
+ "counts": {
+  "sessions": 89,
+  "transcripts": 89,
+  "seconds": 324476,
+  "hours": 90.1
+ },
+ "sessions": [
+  {
+   "id": "1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb",
+   "title": "Envisioning a Network Society Coalition — CPR Lab Week",
+   "date": "2025-11-10",
+   "duration": "00:11:48",
+   "duration_seconds": 708,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1fP0bKkvoDYDm4A_wIU8aQVM5-sKyrnnb.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa",
+   "title": "Workshop: Getting to Know Local Organizations & Building Bridges",
+   "date": "2025-10-28",
+   "duration": "01:48:38",
+   "duration_seconds": 6518,
+   "media": {
+    "drive": "https://drive.google.com/file/d/11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/11WsR8Oc4PAoH9y-VrPnK4-ygqc6eIvpa.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n",
+   "title": "DRIVING RANGE TRIP: Hyperdimensional Vector Space Golf — Introduction to a Metaphorically…",
+   "date": "2025-11-04",
+   "duration": "00:35:25",
+   "duration_seconds": 2125,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1bw1CctgTYNhu5Y5xAEfOG6siukSDUj3n.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "Title truncated in the source folder listing."
+  },
+  {
+   "id": "1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN",
+   "title": "Q&A with the Author: Neomedievalism and Transnational Nobility",
+   "date": "2025-10-27",
+   "duration": "00:56:04",
+   "duration_seconds": 3364,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1ua0s1jvyFn75j_VoMWixMscPS55Y8uSN.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "15KbpwFQc2suQDveCdIuvArOOhSnFzUfN",
+   "title": "VibeResidency Buildathon Kickoff!",
+   "date": "2025-11-05",
+   "duration": "00:42:57",
+   "duration_seconds": 2577,
+   "media": {
+    "drive": "https://drive.google.com/file/d/15KbpwFQc2suQDveCdIuvArOOhSnFzUfN/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/15KbpwFQc2suQDveCdIuvArOOhSnFzUfN.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/15KbpwFQc2suQDveCdIuvArOOhSnFzUfN.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1DJviTH8BYmFZUayha9CtDEmRM9Yorrcn",
+   "title": "Advanced LLM use for Coding",
+   "date": "2025-11-04",
+   "duration": "01:29:00",
+   "duration_seconds": 5340,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1DJviTH8BYmFZUayha9CtDEmRM9Yorrcn/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1DJviTH8BYmFZUayha9CtDEmRM9Yorrcn.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1DJviTH8BYmFZUayha9CtDEmRM9Yorrcn.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1431wcuGianhIV-YgBdYZPLh3SHbFKsOp",
+   "title": "All of the Lights: Open Mic & Talent Showcase",
+   "date": "2025-11-03",
+   "duration": "01:52:36",
+   "duration_seconds": 6756,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1431wcuGianhIV-YgBdYZPLh3SHbFKsOp/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1431wcuGianhIV-YgBdYZPLh3SHbFKsOp.mp3",
+    "kind": "audio"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1431wcuGianhIV-YgBdYZPLh3SHbFKsOp.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "Audio capture; the video version is also in the pit."
+  },
+  {
+   "id": "1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB",
+   "title": "All of the Lights: Open Mic & Talent Showcase",
+   "date": "2025-11-03",
+   "duration": "01:52:36",
+   "duration_seconds": 6756,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1bhv8LLMZ6-mHhjTxXft_TyS48cWcjqgB.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K",
+   "title": "Architectural & Construction Stack for Network Societies — Online vs on land",
+   "date": "2025-11-10",
+   "duration": "00:51:20",
+   "duration_seconds": 3080,
+   "media": {
+    "drive": "https://drive.google.com/file/d/12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/12FJqNY8HihVPbH42hXV0eB4NmLM9_J7K.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts",
+   "title": "Argentina Onchain Workshop",
+   "date": "2025-11-09",
+   "duration": "01:54:13",
+   "duration_seconds": 6853,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1P6nzg8hJR31lMz5l7_rgxaJNoM_2KOts.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1qXaqcyGCdODnumAg4jenXmyIq84MmOEG",
+   "title": "Biomarkers of Aging: Leveraging AI for Longevity",
+   "date": "2025-10-27",
+   "duration": "00:40:11",
+   "duration_seconds": 2411,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1qXaqcyGCdODnumAg4jenXmyIq84MmOEG/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1qXaqcyGCdODnumAg4jenXmyIq84MmOEG.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1qXaqcyGCdODnumAg4jenXmyIq84MmOEG.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy",
+   "title": "Biomarkers of Aging: Leveraging AI for Longevity, Part 2",
+   "date": "2025-11-03",
+   "duration": "00:27:36",
+   "duration_seconds": 1656,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1vXoacDnrNQTKR3nGFljTC-NBYiije5Iy.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "130jay63sNB14RSdxHR8yB-uSwBgBFUOD",
+   "title": "Biomechanics x Art — Talk — Brainstorm! — B ROLL",
+   "date": "2025-11-07",
+   "duration": "00:27:49",
+   "duration_seconds": 1669,
+   "media": {
+    "drive": "https://drive.google.com/file/d/130jay63sNB14RSdxHR8yB-uSwBgBFUOD/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/130jay63sNB14RSdxHR8yB-uSwBgBFUOD.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/130jay63sNB14RSdxHR8yB-uSwBgBFUOD.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1wxrL51hVFYrB0HMV1Yw-04og_9zf3ajV",
+   "title": "Biomechanics x Art — Talk — Brainstorm!",
+   "date": "2025-11-07",
+   "duration": "00:50:43",
+   "duration_seconds": 3043,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1wxrL51hVFYrB0HMV1Yw-04og_9zf3ajV/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1wxrL51hVFYrB0HMV1Yw-04og_9zf3ajV.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1wxrL51hVFYrB0HMV1Yw-04og_9zf3ajV.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1qTvqqyptan2txBMCdJJq-JZ4BguYODBg",
+   "title": "Citizenship Protocol kickoff",
+   "date": "2025-10-21",
+   "duration": "00:57:02",
+   "duration_seconds": 3422,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1qTvqqyptan2txBMCdJJq-JZ4BguYODBg/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1qTvqqyptan2txBMCdJJq-JZ4BguYODBg.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1qTvqqyptan2txBMCdJJq-JZ4BguYODBg.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2",
+   "title": "Consciousness Residency Demo Day",
+   "date": "2025-11-06",
+   "duration": "00:36:11",
+   "duration_seconds": 2171,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1shFg9UufDxQU_NGwH_TuH6DEBO5q_OU2.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir",
+   "title": "Cosmolocalism",
+   "date": "2025-11-03",
+   "speakers": [
+    "Michel Bauwens (P2P Foundation)"
+   ],
+   "duration": "00:53:01",
+   "duration_seconds": 3181,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1qmzZrj3NieEjwTcKjOhFbJbqNZ6i-yir.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi",
+   "title": "Creativity Incubator — Intro to Agartha — ️",
+   "date": "2025-11-10",
+   "duration": "00:32:09",
+   "duration_seconds": 1929,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1nFEeMNmegBwON_U4Yl4ms3GonEoDmaqi.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI",
+   "title": "Cryptography for Safe Biometrics with Human Keys",
+   "date": "2025-11-10",
+   "duration": "00:27:05",
+   "duration_seconds": 1625,
+   "media": {
+    "drive": "https://drive.google.com/file/d/11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/11LN5lWmw_y1EuGpOjL1nfoSSUPzGSDmI.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn",
+   "title": "Cyberia kickoff — cyber valley story",
+   "date": "2025-10-23",
+   "duration": "01:07:02",
+   "duration_seconds": 4022,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1TTQCfTuIyqeaPwJhO7OJkQqitq7Uf2Jn.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc",
+   "title": "Cyberia — Biome Engineering - one system that feeds itself — and you",
+   "date": "2025-11-03",
+   "duration": "00:51:04",
+   "duration_seconds": 3064,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1T8lDgvFdfTxyOrMJhRaffip8IEedvYPc.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2",
+   "title": "Cyberia — Soil — Heat and Carbon",
+   "date": "2025-10-29",
+   "duration": "00:43:00",
+   "duration_seconds": 2580,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1krTULRGlQ1LJ7IwV-nP5E2wrdC_Q2or2.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f",
+   "title": "Cyberia — Sustainable Energy and Water System",
+   "date": "2025-10-28",
+   "duration": "01:03:51",
+   "duration_seconds": 3831,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1-GJ8_9U2epoQs3YBNZ41tKrsOWLHdq8f.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p",
+   "title": "Cyberia — Token Engineering and Governance",
+   "date": "2025-11-10",
+   "duration": "00:38:47",
+   "duration_seconds": 2327,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1bCtxyIQXt176evFCQvzwNaDOiYLHjX-p.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT",
+   "title": "Cypherpunk Utopia — Demo Day & Epic Project Unveils!",
+   "date": "2025-11-14",
+   "duration": "02:33:23",
+   "duration_seconds": 9203,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1JAcdyux_B-2WuiV0YY4vCjF7mxve9mzT.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq",
+   "title": "d/acc Residency Week 4 Demo Day",
+   "date": "2025-11-13",
+   "duration": "00:47:41",
+   "duration_seconds": 2861,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1HlaZ6OuVc7xvNPwG7ngfKYXxFjF8CFoq.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu",
+   "title": "d/acc Weekly Lightning Talks Week 3",
+   "date": "2025-11-07",
+   "duration": "02:05:28",
+   "duration_seconds": 7528,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1DDm68ZZt0o5ct9za9dd_HIbbV4CkUDAu.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc",
+   "title": "d/acc Weekly Lightning Talks week 1",
+   "date": "2025-10-23",
+   "duration": "01:06:42",
+   "duration_seconds": 4002,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1KS-IOyiYJFiIJ2uqeJL9WUnJ0d01Dozc.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3",
+   "title": "d/acc Weekly Lightning Talks week 2",
+   "date": "2025-11-05",
+   "duration": "01:06:42",
+   "duration_seconds": 4002,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1YroGPgbTYimUD-DQt2ic7UQNFB7IKrh3.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi",
+   "title": "Daniel Ingram on Meditation and Everything Else",
+   "date": "2025-10-27",
+   "duration": "01:03:10",
+   "duration_seconds": 3790,
+   "media": {
+    "drive": "https://drive.google.com/file/d/18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/18sJcB7MEOWutrtIQmwOstGpGaPJvpWMi.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg",
+   "title": "Demo Day Week 3 in Patagonia",
+   "date": "2025-11-02",
+   "duration": "00:57:41",
+   "duration_seconds": 3461,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1QVqiiJUFjy3sIM6yc74QBN1_P9TZ_-Qg.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM",
+   "title": "Digital School — K-12 Education with AI as a tutor",
+   "date": "2025-11-04",
+   "duration": "00:23:37",
+   "duration_seconds": 1417,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1acjKhlCD8I4k6tZHplRgGptS9RjGIjvM.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i",
+   "title": "EDGE CITY Patagonia week 2 orientation and town hall",
+   "date": "2025-10-27",
+   "duration": "02:38:13",
+   "duration_seconds": 9493,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1bwOK5uA3wViqfmGVhna2J7rU1jEqCv8i.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a",
+   "title": "Edge Song",
+   "date": "2025-11-12",
+   "duration": "00:11:22",
+   "duration_seconds": 682,
+   "media": {
+    "drive": "https://drive.google.com/file/d/12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/12Ik2MZ1LXpuOwbRqqFGUoxryT1UKQ19a.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "15FJmBPgOStRbkPupL08c907Ou6_fiHM3",
+   "title": "eDMT — Funding a Scientific Research Commons in web3",
+   "date": "2025-11-03",
+   "duration": "01:12:04",
+   "duration_seconds": 4324,
+   "media": {
+    "drive": "https://drive.google.com/file/d/15FJmBPgOStRbkPupL08c907Ou6_fiHM3/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/15FJmBPgOStRbkPupL08c907Ou6_fiHM3.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/15FJmBPgOStRbkPupL08c907Ou6_fiHM3.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT",
+   "title": "Final Demo Day in Patagonia 2025",
+   "date": "2025-11-14",
+   "duration": "01:09:40",
+   "duration_seconds": 4180,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1PCEE6gE-GxCdgNhXFHVrIKaFNm2fLbHT.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6",
+   "title": "Frontier Tower - building the inter-city network society",
+   "date": "2025-10-31",
+   "duration": "00:27:52",
+   "duration_seconds": 1672,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1z-qFzeMMdvPF9vUkGzi7x2lXJfD9xne6.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H",
+   "title": "Funding Woo Woo Ventrures",
+   "date": "2025-10-22",
+   "duration": "00:35:47",
+   "duration_seconds": 2147,
+   "media": {
+    "drive": "https://drive.google.com/file/d/13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/13mkpEnqVU9RSrTe_5h0BQv1PQiODId0H.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1Ba0WS3696OnW-itsspfe7G3hMZCJfRII",
+   "title": "Get on base app — create, earn and trade all in one place",
+   "date": "2025-11-11",
+   "duration": "00:14:40",
+   "duration_seconds": 880,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1Ba0WS3696OnW-itsspfe7G3hMZCJfRII/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Ba0WS3696OnW-itsspfe7G3hMZCJfRII.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1Ba0WS3696OnW-itsspfe7G3hMZCJfRII.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_",
+   "title": "How I Became a Blockchain Monk",
+   "date": "2025-11-14",
+   "duration": "00:38:05",
+   "duration_seconds": 2285,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1OCEEjJmg0qWj97GSmVBjYSJqKzWDOTw_.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2",
+   "title": "How to build an AI CRM — sales agent",
+   "date": "2025-11-05",
+   "duration": "00:24:42",
+   "duration_seconds": 1482,
+   "media": {
+    "drive": "https://drive.google.com/file/d/10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/10AEX96ZCUdK2eK-58GqZwoxj6thcIjA2.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4",
+   "title": "How to join as a Guest on Stream Yard",
+   "date": "2025-10-23",
+   "duration": "00:02:23",
+   "duration_seconds": 143,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1zFsqdTJs2YBACThB9xWxFrxQnrk1Nr-4.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f",
+   "title": "How to Talk to Alien Brains — Uncensored LLM Base Models",
+   "date": "2025-10-28",
+   "duration": "01:04:00",
+   "duration_seconds": 3840,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1yf2XQMq-Mh2EN1qN-XO3XF-2BcmT_V-f.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K",
+   "title": "Human Potential Meets Cypherpunk",
+   "date": "2025-10-30",
+   "speakers": [
+    "Logos Network"
+   ],
+   "duration": "00:53:07",
+   "duration_seconds": 3187,
+   "media": {
+    "drive": "https://drive.google.com/file/d/16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/16muooTdSBTsMvWOlzHTtnSnIF9WQ7W5K.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB",
+   "title": "Hyperdimensional Vector Space Golf",
+   "date": "2025-11-13",
+   "duration": "00:57:58",
+   "duration_seconds": 3478,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1mHvbP2NyoJFKV4BUVIM9WCISkn9shepB.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt",
+   "title": "Intro to Edge City Patagonia & Opening Day Lightning Talks",
+   "date": "2025-10-21",
+   "duration": "01:29:30",
+   "duration_seconds": 5370,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1SYdQFV2vPiK0-sjLRGS6L7GjbrJB5iWt.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn",
+   "title": "Intro to Mental Fitness - 01 - Presence",
+   "date": "2025-10-28",
+   "duration": "00:49:08",
+   "duration_seconds": 2948,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1mzc0teaiOYu3kE_vBAHQ3n-id-4qHnZn.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "168i8oXox_0BZ9Am2LLP6KK_0UDjvENen",
+   "title": "Intro to Mental Fitness - 02 - the Survival brain",
+   "date": "2025-10-29",
+   "duration": "01:00:06",
+   "duration_seconds": 3606,
+   "media": {
+    "drive": "https://drive.google.com/file/d/168i8oXox_0BZ9Am2LLP6KK_0UDjvENen/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/168i8oXox_0BZ9Am2LLP6KK_0UDjvENen.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/168i8oXox_0BZ9Am2LLP6KK_0UDjvENen.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1Ng954q77klIBXWlMW14M93rhPEDxl8e9",
+   "title": "Intro to Mental Fitness - 03 - the Creative mind",
+   "date": "2025-11-03",
+   "duration": "01:00:33",
+   "duration_seconds": 3633,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1Ng954q77klIBXWlMW14M93rhPEDxl8e9/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Ng954q77klIBXWlMW14M93rhPEDxl8e9.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1Ng954q77klIBXWlMW14M93rhPEDxl8e9.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf",
+   "title": "Intro to Vibe Coding",
+   "date": "2025-10-21",
+   "duration": "01:07:09",
+   "duration_seconds": 4029,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1VkaCQUE-zVNJTdKqZWuI09eoLTXpEQrf.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io",
+   "title": "Juan Reflections",
+   "date": "2025-11-07",
+   "duration": "00:05:54",
+   "duration_seconds": 354,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1I-kNed1ppkUZR-zNKX0CVK6EUQw0O8Io.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N",
+   "title": "Kene auction",
+   "date": "2025-11-01",
+   "duration": "00:40:20",
+   "duration_seconds": 2420,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1wYNZZvFpOKJnZx_sz1GLK7WADkeSDD9N.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE",
+   "title": "Keynote Fireside Chat",
+   "date": "2025-11-12",
+   "speakers": [
+    "Norman Ohler (@normanohler)",
+    "@timourxyz"
+   ],
+   "duration": "01:42:03",
+   "duration_seconds": 6123,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1AQitSKHkfR3GG1gCK2_60j3IlDfDVcwE.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1kn4I3lTk17ojzGArTbX-_mz9HwnY7Bk3",
+   "title": "Keynote: Politics of Argentina's Onchain Transition",
+   "date": "2025-11-09",
+   "duration": "01:32:14",
+   "duration_seconds": 5534,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1kn4I3lTk17ojzGArTbX-_mz9HwnY7Bk3/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1kn4I3lTk17ojzGArTbX-_mz9HwnY7Bk3.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1kn4I3lTk17ojzGArTbX-_mz9HwnY7Bk3.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1mOl6hCO5whyUaYeW9vsBteeFxSBPwmLG",
+   "title": "Last Town Hall & Demo Day",
+   "date": "2025-11-14",
+   "duration": "01:05:29",
+   "duration_seconds": 3929,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1mOl6hCO5whyUaYeW9vsBteeFxSBPwmLG/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1mOl6hCO5whyUaYeW9vsBteeFxSBPwmLG.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1mOl6hCO5whyUaYeW9vsBteeFxSBPwmLG.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1NWpegTye1-XqlBv3IVqVBwlbioTgelUt",
+   "title": "Learn Spiral Dynamics in 90 Minutes",
+   "date": "2025-11-04",
+   "duration": "01:26:01",
+   "duration_seconds": 5161,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1NWpegTye1-XqlBv3IVqVBwlbioTgelUt/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1NWpegTye1-XqlBv3IVqVBwlbioTgelUt.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1NWpegTye1-XqlBv3IVqVBwlbioTgelUt.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy",
+   "title": "Lisk SEMIFINAL Pitch Day - Emerging markets — building on Ethereum",
+   "date": "2025-11-12",
+   "duration": "01:11:52",
+   "duration_seconds": 4312,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1ubq7c6Y1y8gsdV2O71ngJ-AIz1htDIPy.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm",
+   "title": "Lisk SEMIFINAL Pitch Day Winners - Emerging markets — building on Ethereum",
+   "date": "2025-11-12",
+   "duration": "00:05:08",
+   "duration_seconds": 308,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1KeKI9QO7RdB9d5qGGDpKJODbpjPPsuNm.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81",
+   "title": "Make Art, Touch Grass, & Earn Bitcoin — Part 1",
+   "date": "2025-11-05",
+   "duration": "00:31:19",
+   "duration_seconds": 1879,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1r8rFURuABjrzz6WxwCzIA9A5mI9PWJ81.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ",
+   "title": "Making Edge City Art",
+   "date": "2025-10-28",
+   "speakers": [
+    "@syntonikka"
+   ],
+   "duration": "00:58:13",
+   "duration_seconds": 3493,
+   "media": {
+    "drive": "https://drive.google.com/file/d/159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/159WLeKDqxuJ29rBr_GRNDmA6_Osx8OlJ.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS",
+   "title": "Meditation Artifacts Demo Day",
+   "date": "2025-11-13",
+   "duration": "00:55:07",
+   "duration_seconds": 3307,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1AksOr-eGJXZBwDkkP1M0Rq5-lE9IS4CS.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg",
+   "title": "Mermaids & Sculptors — an Advanced Vibe Engineering Session",
+   "date": "2025-10-24",
+   "duration": "02:21:57",
+   "duration_seconds": 8517,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1ow-iW2x-ulLO5QgPoExv0ugM-aem-_Zg.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "134apJNbAl2u7liggMtppF3DtNSLh0tH8",
+   "title": "Metamodernism at the Edge",
+   "date": "2025-11-04",
+   "duration": "00:28:03",
+   "duration_seconds": 1683,
+   "media": {
+    "drive": "https://drive.google.com/file/d/134apJNbAl2u7liggMtppF3DtNSLh0tH8/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/134apJNbAl2u7liggMtppF3DtNSLh0tH8.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/134apJNbAl2u7liggMtppF3DtNSLh0tH8.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6",
+   "title": "Open-Source Orchestra Jam week 3",
+   "date": "2025-11-07",
+   "duration": "01:25:44",
+   "duration_seconds": 5144,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1g-8xEWmu0snseJLEnFBfmko_nCWIKrg6.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-",
+   "title": "OSO Jam 1 at Edge City Patagonia",
+   "date": "2025-10-29",
+   "speakers": [
+    "Open Source Orchestra"
+   ],
+   "duration": "01:36:58",
+   "duration_seconds": 5818,
+   "media": {
+    "drive": "https://drive.google.com/file/d/16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/16aJdEEabnvFVw9vHirtQD68IIr-Ndgz-.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "The ancestor tradition, live in the Andes — the OSO vibe that named the first P.I.T. 🎻"
+  },
+  {
+   "id": "1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo",
+   "title": "Planetary Intelligence — The Missing Layer Between AI — Blockchain — and Nature",
+   "date": "2025-11-12",
+   "duration": "00:56:15",
+   "duration_seconds": 3375,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1eE1isjNEgdX7MZJm7fKrUEUZVsVCWeNo.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "195IkTXcZ25Md2pQs4BprGtYT5itYDGsO",
+   "title": "Psychedelic Kundalini",
+   "date": "2025-11-05",
+   "duration": "01:30:35",
+   "duration_seconds": 5435,
+   "media": {
+    "drive": "https://drive.google.com/file/d/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/195IkTXcZ25Md2pQs4BprGtYT5itYDGsO.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1537NNXMNnXkIo-lyRCyFx8_H0x62cGl6",
+   "title": "Psychedelic Week Kickoff — The Kené Experience",
+   "date": "2025-11-01",
+   "duration": "00:47:23",
+   "duration_seconds": 2843,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1537NNXMNnXkIo-lyRCyFx8_H0x62cGl6/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1537NNXMNnXkIo-lyRCyFx8_H0x62cGl6.mp3",
+    "kind": "audio"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1537NNXMNnXkIo-lyRCyFx8_H0x62cGl6.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "Audio-only capture; the video version is also in the pit."
+  },
+  {
+   "id": "1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5",
+   "title": "Psychedelic Week Kickoff - The Kené Experience",
+   "date": "2025-11-01",
+   "duration": "00:47:23",
+   "duration_seconds": 2843,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1OQO_i2QFJFNGoPpFThohVNUgYdDLYqL5.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk",
+   "title": "Psychedelics in Architectural Design",
+   "date": "2025-11-05",
+   "duration": "01:22:58",
+   "duration_seconds": 4978,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1tuaUjkKX8jX-uBN4wkUf_9-11AY8BoDk.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4",
+   "title": "Quantum Tech Beyond the Hype",
+   "date": "2025-11-03",
+   "speakers": [
+    "@MatiasBilkis"
+   ],
+   "duration": "01:02:38",
+   "duration_seconds": 3758,
+   "media": {
+    "drive": "https://drive.google.com/file/d/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/14Jbzt09o8I1wV-6OtPX8_PoYpSUH3Sq4.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg",
+   "title": "Reach FLOW state through Hypnosis",
+   "date": "2025-11-07",
+   "duration": "00:26:00",
+   "duration_seconds": 1560,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1PdbvW04ubMuoLBFhtRreLuRYpEmpGqLg.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "16FiTuuSt6xF_JD64l-vvxpKDfZ8Cbt_v",
+   "title": "Reach FLOW state through Hypnosis",
+   "date": "2025-11-07",
+   "duration": "00:24:38",
+   "duration_seconds": 1478,
+   "media": {
+    "drive": "https://drive.google.com/file/d/16FiTuuSt6xF_JD64l-vvxpKDfZ8Cbt_v/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/16FiTuuSt6xF_JD64l-vvxpKDfZ8Cbt_v.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/16FiTuuSt6xF_JD64l-vvxpKDfZ8Cbt_v.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1mm3efPz61yp39yuugVCNtgJe_jQGyg0x",
+   "title": "Reversible Transactions — Smart Transactions",
+   "date": "2025-11-12",
+   "duration": "00:34:42",
+   "duration_seconds": 2082,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1mm3efPz61yp39yuugVCNtgJe_jQGyg0x/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1mm3efPz61yp39yuugVCNtgJe_jQGyg0x.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1mm3efPz61yp39yuugVCNtgJe_jQGyg0x.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P",
+   "title": "Saturday Decompression Improvisations and Written Songs",
+   "date": "2025-11-09",
+   "speakers": [
+    "Ethereum Inspiration"
+   ],
+   "duration": "01:18:58",
+   "duration_seconds": 4738,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1EYK6T37HUkmX47x3ZjumRaM2qYmsUd2P.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef",
+   "title": "Sound as a Vehicle for Altered States",
+   "date": "2025-11-03",
+   "duration": "01:02:24",
+   "duration_seconds": 3744,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1wrUNpmdNDIRjF8DmP-R5udrC8V0VnXef.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah",
+   "title": "Sunday Community Demo Day week 2",
+   "date": "2025-10-27",
+   "duration": "00:50:44",
+   "duration_seconds": 3044,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1X9gYX4D9cWKb6iY0IhYOJhkPxNVfH4ah.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc",
+   "title": "Sunday Improvisations",
+   "date": "2025-11-03",
+   "duration": "00:49:08",
+   "duration_seconds": 2948,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1FFw9E2ehFg7pBt6HNY0VOzhkp3F3ZZUc.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG",
+   "title": "Telepathy",
+   "date": "2025-10-22",
+   "duration": "01:01:20",
+   "duration_seconds": 3680,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1WOERAQWn2YV5y4k2v0ZAm1tWrlMzW7pG.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK",
+   "title": "The Future of Marketing Is Offline — Finding Meaning in the Age of AI",
+   "date": "2025-11-05",
+   "duration": "00:19:36",
+   "duration_seconds": 1176,
+   "media": {
+    "drive": "https://drive.google.com/file/d/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/10NScwIOhcNQ3PmCoJYOYGXKuJaxsTgAK.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1tDfDVPLp8Qz98Tu2LXw38pLghtjHWjZO",
+   "title": "The latent revolution: hype, risk and the quest for organicity",
+   "date": "2025-10-24",
+   "duration": "01:36:14",
+   "duration_seconds": 5774,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1tDfDVPLp8Qz98Tu2LXw38pLghtjHWjZO/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1tDfDVPLp8Qz98Tu2LXw38pLghtjHWjZO.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1tDfDVPLp8Qz98Tu2LXw38pLghtjHWjZO.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1SM20FUJv_61A0mGLyoECllGvlq_eCc9A",
+   "title": "The Road to Devconnect: Fireside Chat",
+   "date": "2025-10-30",
+   "speakers": [
+    "@nethan_eth (Devconnect Lead)"
+   ],
+   "duration": "00:42:01",
+   "duration_seconds": 2521,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1SM20FUJv_61A0mGLyoECllGvlq_eCc9A.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1mmg0aLHBBEzRdblOzLEuipihV3XASzku",
+   "title": "The Security of The Brain & The Brain as Security",
+   "date": "2025-11-10",
+   "duration": "00:38:42",
+   "duration_seconds": 2322,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1mmg0aLHBBEzRdblOzLEuipihV3XASzku/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1mmg0aLHBBEzRdblOzLEuipihV3XASzku.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1mmg0aLHBBEzRdblOzLEuipihV3XASzku.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe",
+   "title": "The Story of Bostrom",
+   "date": "2025-11-05",
+   "duration": "00:51:37",
+   "duration_seconds": 3097,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1PEzQ6L0IDuNaaYEMmBQBmgEd9M1l9kIe.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF",
+   "title": "The Technology of Self",
+   "date": "2025-10-24",
+   "duration": "01:19:39",
+   "duration_seconds": 4779,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1xjIEccK6FvtVvwOr9UDcyaVtN6pYhSyF.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o",
+   "title": "Week 3 Edge City Patagonia (orientation, town hall, and demos)",
+   "date": "2025-11-02",
+   "duration": "02:21:44",
+   "duration_seconds": 8504,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1RrBoNvVRDztf_v6f_NOwriUSmUvA-b7o.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "11mk7GUvuUfZEBYcVOTpba1vKmenYPnio",
+   "title": "Week 4 Demo Day",
+   "date": "2025-11-09",
+   "duration": "01:02:55",
+   "duration_seconds": 3775,
+   "media": {
+    "drive": "https://drive.google.com/file/d/11mk7GUvuUfZEBYcVOTpba1vKmenYPnio/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/11mk7GUvuUfZEBYcVOTpba1vKmenYPnio.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/11mk7GUvuUfZEBYcVOTpba1vKmenYPnio.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1YD3iiPtLmNCfKjTxefijWp62xzGbkpay",
+   "title": "Week 4 Orientation, Town Hall, and demo day",
+   "date": "2025-11-09",
+   "duration": "02:40:27",
+   "duration_seconds": 9627,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1YD3iiPtLmNCfKjTxefijWp62xzGbkpay/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1YD3iiPtLmNCfKjTxefijWp62xzGbkpay.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1YD3iiPtLmNCfKjTxefijWp62xzGbkpay.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4",
+   "title": "Workshop: How to Use AI to Write Production Code",
+   "date": "2025-10-29",
+   "speakers": [
+    "@BKelleher123"
+   ],
+   "duration": "01:02:42",
+   "duration_seconds": 3762,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4.mp3",
+    "kind": "video"
+   },
+   "transcript": "https://shakaleikaumaka.github.io/patagoniapit/transcripts/1qROHwM4YPvNdBbDssWouZYeDRxeFtiA4.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  }
+ ],
+ "llm": {
+  "hint": "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken.",
+  "transcript_search_index": "https://shakaleikaumaka.github.io/patagoniapit/data/search-index.json",
+  "catalog": "https://shakaleikaumaka.github.io/patagoniapit/data/catalog.json"
+ },
+ "hub": "https://publicinform.com",
+ "registry": "https://publicinform.com/pits.json",
+ "generated": "2026-07-28T07:45:06Z",
+ "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤"
+}
