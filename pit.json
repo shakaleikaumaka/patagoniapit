@@ -3,7 +3,7 @@
  "pit": {
   "name": "The PatagoniaPIT",
   "slug": "patagoniapit",
-  "registry_number": 4,
+  "registry_number": null,
   "url": "https://shakaleikaumaka.github.io/patagoniapit/",
   "repository": "https://github.com/shakaleikaumaka/patagoniapit",
   "forked_from": "https://github.com/shakaleikaumaka/zuitzpit",
@@ -1320,6 +1320,6 @@
  },
  "hub": "https://publicinform.com",
  "registry": "https://publicinform.com/pits.json",
- "generated": "2026-07-29T16:39:08Z",
+ "generated": "2026-07-30T01:20:19Z",
  "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤"
 }
