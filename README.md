@@ -40,7 +40,7 @@ the tents come down — so the pit forked again.
 
 ## Fork it a third time
 
-Everything is **CC0**. The lineage is the proof: any community can take the pit and make it
+Everything is **copyleft**. The lineage is the proof: any community can take the pit and make it
 their own in about a day. 👉 Protocol white paper & registry: **[publicinform.com](https://publicinform.com)**
 
 ---
@@ -50,4 +50,4 @@ Patagonia streams · part of the P.I.T. universe → [publicinform.com](https://
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
